@@ -98,5 +98,33 @@
     {
         "display" : "UEFA Europa League",
         "value" : "uefa.europa"
-    }
+    },
+	{
+		"display" : "World Cup",
+		"value" : "fifa.world"
+	},
+	{
+		"display" : "World Cup Qualifying: AFC",
+		"value" : "fifa.worldq.afc"
+	},
+	{
+		"display" : "World Cup Qualifying: CAF",
+		"value" : "fifa.worldq.caf"
+	},
+	{
+		"display" : "World Cup Qualifying: CONCACAF",
+		"value" : "fifa.worldq.concacaf"
+	},
+	{
+		"display" : "World Cup Qualifying: CONMEBOL",
+		"value" : "fifa.worldq.conmebol"
+	},
+	{
+		"display" : "World Cup Qualifying: OFC",
+		"value" : "fifa.worldq.ofc"
+	},
+	{
+		"display" : "World Cup Qualifying: UEFA",
+		"value" : "fifa.worldq.uefa"
+	}
 ]
