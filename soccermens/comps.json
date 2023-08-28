@@ -84,6 +84,10 @@
         "value" : "mex.1"
     },
     {
+        "display" : "Saudi Pro League",
+        "value" : "ksa.1"
+    },
+    {
         "display" : "Scottish Premiership",
         "value" : "sco.1"
     },
@@ -94,6 +98,10 @@
     {
         "display" : "UEFA Champions League",
         "value" : "uefa.champions"
+    },
+    {
+        "display" : "UEFA Champions League Qualifying",
+        "value" : "uefa.champions_qual"
     },
     {
         "display" : "UEFA Europa League",
