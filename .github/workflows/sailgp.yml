@@ -35,7 +35,11 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add sailgp/
-          git commit -m "Update SailGP data"
-          git push
-        continue-on-error: true
+          # Check if there are changes to commit before attempting to push
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git add sailgp/
+            git commit -m "Update SailGP data"
+            git push
+          fi
