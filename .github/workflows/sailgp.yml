@@ -1,0 +1,40 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Get SailGP Schedule and update
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  updaet-sailgp:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Download JSON File
+        run: |
+          curl -s -o sailgp/nri.json https://tidbyt.apis.ajcomputers.com/sailgp/api/nri.json
+          curl -s -o sailgp/standings.json https://tidbyt.apis.ajcomputers.com/sailgp/api/standings.json
+        continue-on-error: false
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add sailgp/
+          git commit -m "Update SailGP data"
+          git push
