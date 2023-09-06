@@ -38,3 +38,4 @@ jobs:
           git add sailgp/
           git commit -m "Update SailGP data"
           git push
+        continue-on-error: true
