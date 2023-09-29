@@ -3,9 +3,9 @@
 name: Get SailGP Schedule and update
 
 # Controls when the workflow will run
-on:
-  schedule:
-    - cron: '*/30 * * * 0,6'
+#on:
+#  manual:
+#    - cron: '*/30 * * * 0,6'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
