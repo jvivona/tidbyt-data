@@ -13,7 +13,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
 	<description>News Resources</description>
-	<lastBuildDate>Thu, 12 Oct 2023 13:09:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Oct 2023 13:01:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,6 +21,129 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
+		<title>Advancing ultrasound microvessel imaging and AI to improve cancer detection</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/advancing-ultrasound-microvessel-imaging-and-ai-to-improve-cancer-detection/</link>
+		
+		<dc:creator><![CDATA[asatake]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2023 13:01:54 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Dr. Azra Alizad]]></category>
+		<category><![CDATA[Dr. Mostafa Fatemi]]></category>
+		<category><![CDATA[ultrasound]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=375666</guid>
+
+					<description><![CDATA[<p>Ultrasound&#160;— a technology that uses sound waves to produce an image — is commonly used to monitor the development of a baby as it grows inside its mother. But ultrasound imaging also can be used to investigate suspicious masses of tissue and nodules that may be cancerous. Tumors consist not only of cancer cells but [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/advancing-ultrasound-microvessel-imaging-and-ai-to-improve-cancer-detection/">Advancing ultrasound microvessel imaging and AI to improve cancer detection</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-1024x576.jpg" alt="" class="wp-image-375668" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><a href="https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177" target="_blank" rel="noreferrer noopener">Ultrasound</a>&nbsp;— a technology that uses sound waves to produce an image — is commonly used to monitor the development of a baby as it grows inside its mother. But ultrasound imaging also can be used to investigate suspicious masses of tissue and nodules that may be cancerous.</p>
+
+
+
+<p>Tumors consist not only of cancer cells but also a matrix of small blood vessels, or microvessels, that cannot be seen in the images produced by conventional ultrasound machines. To solve this problem, physician-scientist&nbsp;<a href="https://www.mayo.edu/research/faculty/alizad-azra-m-d/bio-00085586" target="_blank" rel="noreferrer noopener">Azra Alizad, M.D.</a>, and biomedical engineering scientist&nbsp;<a href="https://www.mayo.edu/research/faculty/fatemi-mostafa-ph-d/bio-00086282" target="_blank" rel="noreferrer noopener">Mostafa Fatemi, Ph.D.</a>, teamed up at Mayo Clinic to design and study a tool that may improve the resolution of ultrasound imaging. As demonstrated in&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35486168/" target="_blank" rel="noreferrer noopener">research findings</a>, they developed high-resolution ultrasound imaging software, compatible with many ultrasound machines, that could exponentially improve both the detail and quality of images.</p>
+
+
+
+<p>The investigational software, which they've named quantitative high-definition microvessel imaging (q-HDMI), has been evaluated to capture high-resolution 2D and 3D images of microvessels as small as 150 microns, roughly twice the width of a human hair.</p>
+
+
+
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 35%"><div class="wp-block-media-text__content">
+<p>"If we can visualize and capture the microvessel in the earliest stages of cancer, we can better diagnose and treat it earlier, which improves the outcome for the patient," says Dr. Alizad, who specializes in ultrasound technology for cancer imaging.</p>
+</div><figure class="wp-block-media-text__media"><img decoding="async" width="925" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1.jpg" alt="" class="wp-image-375671 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1.jpg 925w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1-271x300.jpg 271w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1-768x850.jpg 768w" sizes="(max-width: 925px) 100vw, 925px" /></figure></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Artificial intelligence helps detect what we cannot see</strong></h2>
+
+
+
+<p>In addition, the researchers identified a series of biomarkers representing specific characteristics of tiny </p>
+
+
+
+<p>vessels, such as shape, pattern, irregularity and complexity, and packaged them into an algorithm that can sort the image data into benign or malignant masses.</p>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:37% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="481" height="532" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Fatemi-WF3352118_0019_vertical.jpg" alt="" class="wp-image-375670 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Fatemi-WF3352118_0019_vertical.jpg 481w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Fatemi-WF3352118_0019_vertical-271x300.jpg 271w" sizes="(max-width: 481px) 100vw, 481px" /></figure><div class="wp-block-media-text__content">
+<p></p>
+
+
+
+<p>"This technology provides a quantitative value that shows the probability of malignancy," Dr. Fatemi says. "It's a tool to extract information in a way that can be useful to clinicians."</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Applying it in practice</strong></h2>
+
+
+
+<p>In a&nbsp;<a href="https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-022-01583-3" target="_blank" rel="noreferrer noopener">clinical study</a>, the researchers showed that their new q-HDMI tool combined with artificial intelligence (AI) was able to detect a very small, 3-millimeter-wide, malignant breast cancer mass comprised of miniscule vessels in a 40-year-old woman. Finding and treating cancer lesions when they are this size before they spread, or metastasize, can be lifesaving.</p>
+
+
+
+<p>"The questions in radiology really are: benign or malignant? And if it's suspicious, how concerned should we be?" Dr. Fatemi says.</p>
+
+
+
+<p>To help radiologists answer these questions, the researchers applied their software and algorithm to further analyze suspicious breast masses from 521 patients who already had received conventional ultrasound imaging. The results were astounding. The new technology yielded a&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35486168/" target="_blank" rel="noreferrer noopener">nearly 100% rate of accuracy</a>&nbsp;in determining malignant versus benign masses, regardless of the tumor size.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidqCtLfFbWcEoampt"  title="3D images of benign and malignant breast tissue masses" width="500" height="281" src="https://www.youtube.com/embed/qCtLfFbWcEo?feature=oembed&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>More recently, the researchers analyzed thyroid nodules from 92 patients. Thyroid nodules are common and it is often hard to differentiate between cancerous and non-cancerous ones through imaging. Yet the prevalence of thyroid cancer has increased over the last few decades.</p>
+
+
+
+<p>"With conventional ultrasound images, physicians can diagnose whether a thyroid nodule is benign or malignant with only about 35-75% accuracy," Dr. Alizad says. That's why physicians often opt to perform thyroid biopsies, which enable them to more definitively determine if a thyroid nodule is a cause for concern.</p>
+
+
+
+<p>The researchers identified 12 biomarkers that can differentiate benign from malignant thyroid tissues. They programmed the AI-powered algorithm with these biomarkers, which sorted the images and had an 84% rate of accuracy. These results were published in the journal&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/36980774/" target="_blank" rel="noreferrer noopener">Cancers</a>&nbsp;and highlighted by the&nbsp;<a href="https://www.nibib.nih.gov/news-events/newsroom/how-combination-advanced-ultrasound-and-ai-could-upgrade-cancer-diagnostics" target="_blank" rel="noreferrer noopener">National Institutes of Health</a>.</p>
+
+
+
+<p>"If it is cancer, we definitely want to know that. But if we can determine if a thyroid nodule is benign without even having to do a biopsy, that is even better as it spares the patient from the financial and physical burdens associated with an unnecessary benign biopsy," Dr. Alizad says.</p>
+
+
+
+<p>The researchers see that their quantitative tool could be particularly useful in parts of the world where there is limited expertise and resources, such as rural areas and developing countries.</p>
+
+
+
+<p>They also are collaborating with oncologists to enable them to use the q-HDMI tool to better monitor the effectiveness of cancer treatments and help them adjust therapies for individual patients in real time.</p>
+<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/advancing-ultrasound-microvessel-imaging-and-ai-to-improve-cancer-detection/">Advancing ultrasound microvessel imaging and AI to improve cancer detection</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-1x1-1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[artificial intelligence]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Azra Alizad]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Mostafa Fatemi]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[ultrasound]]></mayoclinic:mctag>	</item>
+		<item>
 		<title>Consumer Health: Liver cancer &#8212; risk factors and prevention</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/consumer-health-liver-cancer-risk-factors-and-prevention/</link>
 		
@@ -46,7 +169,7 @@
 <p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/consumer-health-liver-cancer-risk-factors-and-prevention/">Consumer Health: Liver cancer &#8212; risk factors and prevention</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-1024x682.jpg" alt="a young Latino man with a serious look on his face, standing with his arms crossed in a loft apartment or office" class="wp-image-371416" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-1024x682.jpg" alt="a young Latino man with a serious look on his face, standing with his arms crossed in a loft apartment or office" class="wp-image-371416" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1342253944.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -161,7 +284,7 @@
 <p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-sheds-light-on-rare-genetic-disorder-and-blood-cancers/">Mayo Clinic study sheds light on rare genetic disorder and blood cancers</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg" alt="" class="wp-image-375620" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9.jpg 1763w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg" alt="" class="wp-image-375620" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9.jpg 1763w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -187,7 +310,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Ferrer-Alejandro_15724913_20220301-240x300-1.jpg" alt="" class="wp-image-375623 size-full" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img decoding="async" loading="lazy" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Ferrer-Alejandro_15724913_20220301-240x300-1.jpg" alt="" class="wp-image-375623 size-full" /></figure><div class="wp-block-media-text__content">
 <p>"<em>U2AF1</em>&nbsp;mutations can affect the expression of specific genes and contribute to the emergence of clonal hematopoiesis in a way that is unique to these patients," says&nbsp;<a href="https://www.mayo.edu/research/faculty/ferrer-alejandro-ph-d/bio-20503546" target="_blank" rel="noreferrer noopener">Alejandro Ferrer, Ph.D.</a>, a Mayo Clinic hematology researcher. "We need to understand why this gene is so commonly mutated in people with this disorder and its role in cancer development."</p>
 </div></div>
 
@@ -1110,297 +1233,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/mammography_shutterstock_292061510_16x9.jpg</mayoclinic:mcimg16x9>
 	</item>
-		<item>
-		<title>Consumer Health: What do you know about these 3 childhood cancers?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/consumer-health-what-do-you-know-about-these-3-childhood-cancers/</link>
-		
-		<dc:creator><![CDATA[Laurel Kelly]]></dc:creator>
-		<pubDate>Fri, 22 Sep 2023 13:30:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Children's Center]]></category>
-		<category><![CDATA[Consumer Health]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Neurosciences]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[acute lymphocytic leukemia]]></category>
-		<category><![CDATA[Childhood Cancer]]></category>
-		<category><![CDATA[Childhood Cancer Awareness Month]]></category>
-		<category><![CDATA[chimeric antigen receptor (CAR)-T cell therapy]]></category>
-		<category><![CDATA[Consumer Health Tips]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[neuroblastoma]]></category>
-		<category><![CDATA[pediatric brain tumors]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=370825</guid>
-
-					<description><![CDATA[<p>The types of cancer that occur in children often are different from those in adults. Childhood cancers usually are not linked to lifestyle or environmental risk factors, as is often the case in adults. Nonetheless, cancer is the second-leading cause of death in children 1 to 14 years old, according to the American Cancer Society. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/consumer-health-what-do-you-know-about-these-3-childhood-cancers/">Consumer Health: What do you know about these 3 childhood cancers?</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/1169673_3327938_0039-1024x682.jpg" alt="a young white child with no hair due to treatment for cancer, wearing a hospital smock and painting on an art project" class="wp-image-370897" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/1169673_3327938_0039-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/1169673_3327938_0039-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/1169673_3327938_0039-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/1169673_3327938_0039-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/1169673_3327938_0039.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>The types of cancer that occur in children often are different from those in adults. Childhood cancers usually are not linked to lifestyle or environmental risk factors, as is often the case in adults. Nonetheless, cancer is the second-leading cause of death in children 1 to 14 years old, according to the <a href="https://www.cancer.org/cancer/types/cancer-in-children/key-statistics.html" target="_blank" rel="noreferrer noopener">American Cancer Society</a>. Nearly 10,000&nbsp;children in the U.S. under the age of 15 will be diagnosed with cancer in 2023, and about 1,000 children are expected to die of the disease.</p>
-
-
-
-<p>September is&nbsp;<a href="https://www.aacr.org/patients-caregivers/awareness-months/childhood-cancer-awareness-month/#:~:text=September%20is%20Childhood%20Cancer%20Awareness%20Month%20%7C%20The%20AACR" target="_blank" rel="noreferrer noopener">Childhood Cancer Awareness Month</a>, which makes this a good time to learn about three of the most common types of cancer in children: acute lymphocytic leukemia, neuroblastoma and pediatric brain tumors.</p>
-
-
-
-<h2 class="wp-block-heading" style="font-size:18px"><strong>Acute lymphocytic leukemia</strong></h2>
-
-
-
-<p><a rel="noreferrer noopener" href="https://www.mayoclinic.org/diseases-conditions/acute-lymphocytic-leukemia/symptoms-causes/syc-20369077?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank">Acute lymphocytic leukemia</a>&nbsp;is a cancer of the blood and bone marrow. It's the most common type of cancer in children, and treatments result in a good chance for a cure. Acute lymphocytic leukemia also can occur in adults, though the chance of a cure is greatly reduced.</p>
-
-
-
-<p>Signs and symptoms of acute lymphocytic leukemia can include:</p>
-
-
-
-<ul>
-<li>Bleeding from the gums.</li>
-
-
-
-<li>Bone pain.</li>
-
-
-
-<li>Fever.</li>
-
-
-
-<li>Frequent infections.</li>
-
-
-
-<li>Frequent or severe nosebleeds.</li>
-
-
-
-<li>Swollen lymph nodes in and around the neck, armpits, abdomen or groin.</li>
-
-
-
-<li>Pale skin.</li>
-
-
-
-<li>Shortness of breath.</li>
-
-
-
-<li>Weakness, fatigue or a general decrease in energy.</li>
-</ul>
-
-
-
-<p><a href="https://www.mayoclinic.org/diseases-conditions/acute-lymphocytic-leukemia/diagnosis-treatment/drc-20369083?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Treatment</a>&nbsp;for acute lymphocytic leukemia includes chemotherapy, targeted therapy, radiation and bone marrow transplant. There's also a specialized treatment called&nbsp;<a href="https://www.mayoclinic.org/departments-centers/car-t-cell-therapy-program/sections/gnc-20405215?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;cauid=100721" target="_blank" rel="noreferrer noopener">chimeric antigen receptor-T cell therapy</a>&nbsp;that takes your body's germ-fighting T cells, engineers them to fight cancer, and infuses them back into your body.</p>
-
-
-
-<h2 class="wp-block-heading" style="font-size:18px"><strong>Neuroblastoma</strong></h2>
-
-
-
-<p><a href="https://www.mayoclinic.org/diseases-conditions/neuroblastoma/symptoms-causes/syc-20351017?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Neuroblastoma</a>&nbsp;is a cancer that develops from immature nerve cells found in several areas of the body. It most commonly affects children 5 or younger, though it may rarely occur in older children.</p>
-
-
-
-<p>Signs and symptoms of neuroblastoma vary, depending on what part of the body is affected. </p>
-
-
-
-<p>Neuroblastoma in the abdomen — the most common form — can cause:</p>
-
-
-
-<ul>
-<li>Abdominal pain.</li>
-
-
-
-<li>A mass under the skin that isn't tender when touched.</li>
-
-
-
-<li>Changes in bowel habits, such as diarrhea or constipation. </li>
-</ul>
-
-
-
-<p>Neuroblastoma in the chest can cause:</p>
-
-
-
-<ul>
-<li>Wheezing.</li>
-
-
-
-<li>Chest pain.</li>
-
-
-
-<li>Changes to the eyes, including drooping eyelids and unequal pupil size. </li>
-</ul>
-
-
-
-<p>Other signs and symptoms that can indicate neuroblastoma include:</p>
-
-
-
-<ul>
-<li>Lumps of tissue under the skin.</li>
-
-
-
-<li>Eyeballs that seem to protrude from the sockets.</li>
-
-
-
-<li>Dark circles, similar to bruises, around the eyes.</li>
-
-
-
-<li>Back pain.</li>
-
-
-
-<li>Fever.</li>
-
-
-
-<li>Unexplained weight loss.</li>
-
-
-
-<li>Bone pain.</li>
-</ul>
-
-
-
-<p>The&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/neuroblastoma/diagnosis-treatment/drc-20351022?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">treatment</a>&nbsp;plan for neuroblastoma is based on several factors that affect the child's prognosis, including the child's age, the stage of the cancer, the types of cells involved in the cancer, and whether there are any abnormalities in the chromosomes and genes. Treatment can include surgery, chemotherapy, radiation therapy, bone marrow transplant and immunotherapy. There also is a newer form of radiation therapy that may help control high-risk neuroblastoma. The treatment uses a radioactive form of the chemical metaiodobenzylguanidine (MIBG) and sometimes is combined with chemotherapy or bone marrow transplant.</p>
-
-
-
-<h2 class="wp-block-heading" style="font-size:18px"><strong>Pediatric brain tumors</strong></h2>
-
-
-
-<p>There are many types of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/pediatric-brain-tumor/symptoms-causes/syc-20361694?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">pediatric brain tumors</a>. Some are noncancerous, or benign, and some are cancerous, or malignant.</p>
-
-
-
-<p>Signs and symptoms of a brain tumor in children vary greatly, depending on the brain tumor type, size, location and rate of growth. Some signs and symptoms may not be easy to detect because they're similar to symptoms of other conditions.</p>
-
-
-
-<p>Some of the more common symptoms of a brain tumor in children include:</p>
-
-
-
-<ul>
-<li>Headaches, which may become more frequent and more severe.</li>
-
-
-
-<li>Feeling of increased pressure in the head.</li>
-
-
-
-<li>Unexplained nausea or vomiting.</li>
-
-
-
-<li>Abrupt onset of vision problems, such double vision.</li>
-</ul>
-
-
-
-<p>Other possible signs and symptoms, depending on the tumor location, include:</p>
-
-
-
-<ul>
-<li>A fuller soft spot on the skull in babies.</li>
-
-
-
-<li>Seizures, especially when there's no history of seizures.</li>
-
-
-
-<li>Abnormal eye movement.</li>
-
-
-
-<li>Slurred speech.</li>
-
-
-
-<li>Trouble swallowing.</li>
-
-
-
-<li>Loss of appetite; or in babies, difficulty feeding.</li>
-
-
-
-<li>Difficulty with balance.</li>
-
-
-
-<li>Trouble walking.</li>
-
-
-
-<li>Weakness or loss of sensation in an arm or a leg.</li>
-
-
-
-<li>Weakness or drooping on one side on the face.</li>
-
-
-
-<li>Confusion.</li>
-
-
-
-<li>Irritability.</li>
-
-
-
-<li>Memory problems.</li>
-
-
-
-<li>Personality or behavior changes.</li>
-
-
-
-<li>Hearing problems.</li>
-</ul>
-
-
-
-<p><a href="https://www.mayoclinic.org/diseases-conditions/pediatric-brain-tumor/diagnosis-treatment/drc-20361706?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Treatment</a>&nbsp;of a pediatric brain tumor depends on the type of tumor, its location within the brain, whether it has spread, and the child's age and general health.<strong><em>&nbsp;</em></strong>Because new treatments and technologies are being developed continually, several options may be available at different points in treatment. And treatment for brain tumors in children typically is quite different from treatment for adult brain tumors, so it's important to enlist the expertise and experience of pediatric specialists in neurology and cancer. Treatment can include surgery, traditional radiation therapy, proton beam therapy, radiosurgery, chemotherapy and targeted drug therapy.</p>
-
-
-
-<p>Connect with others talked about childhood cancer in the&nbsp;<a href="https://connect.mayoclinic.org/group/cancer/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Cancer Support Group</a> and the&nbsp;<a href="https://connect.mayoclinic.org/group/adolescent-young-adult-aya-cancer/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Adolescent &amp; Young Adult (AYA) Cancer Support Group</a> on&nbsp;<a href="https://connect.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Connect</a>, an online patient community moderated by Mayo Clinic.</p>
-<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/consumer-health-what-do-you-know-about-these-3-childhood-cancers/">Consumer Health: What do you know about these 3 childhood cancers?</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/a-young-white-child-with-no-hair-due-to-treatment-for-cancer-wearing-a-hospital-smock-and-painting-on-an-art-project-1X1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/a-young-white-child-with-no-hair-due-to-treatment-for-cancer-wearing-a-hospital-smock-and-painting-on-an-art-project-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[acute lymphocytic leukemia]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Childhood Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Childhood Cancer Awareness Month]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[chimeric antigen receptor (CAR)-T cell therapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Consumer Health Tips]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[neuroblastoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[pediatric brain tumors]]></mayoclinic:mctag>	</item>
 	</channel>
 </rss>

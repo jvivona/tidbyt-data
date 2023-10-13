@@ -13,7 +13,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/research-2/feed/" rel="self" type="application/rss+xml" />
 	<link>https://newsnetwork.mayoclinic.org/category/research-2/</link>
 	<description>News Resources</description>
-	<lastBuildDate>Wed, 11 Oct 2023 15:23:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Oct 2023 13:01:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,6 +21,129 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
+		<title>Advancing ultrasound microvessel imaging and AI to improve cancer detection</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/advancing-ultrasound-microvessel-imaging-and-ai-to-improve-cancer-detection/</link>
+		
+		<dc:creator><![CDATA[asatake]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2023 13:01:54 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Dr. Azra Alizad]]></category>
+		<category><![CDATA[Dr. Mostafa Fatemi]]></category>
+		<category><![CDATA[ultrasound]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=375666</guid>
+
+					<description><![CDATA[<p>Ultrasound&#160;— a technology that uses sound waves to produce an image — is commonly used to monitor the development of a baby as it grows inside its mother. But ultrasound imaging also can be used to investigate suspicious masses of tissue and nodules that may be cancerous. Tumors consist not only of cancer cells but [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/advancing-ultrasound-microvessel-imaging-and-ai-to-improve-cancer-detection/">Advancing ultrasound microvessel imaging and AI to improve cancer detection</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-1024x576.jpg" alt="" class="wp-image-375668" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><a href="https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177" target="_blank" rel="noreferrer noopener">Ultrasound</a>&nbsp;— a technology that uses sound waves to produce an image — is commonly used to monitor the development of a baby as it grows inside its mother. But ultrasound imaging also can be used to investigate suspicious masses of tissue and nodules that may be cancerous.</p>
+
+
+
+<p>Tumors consist not only of cancer cells but also a matrix of small blood vessels, or microvessels, that cannot be seen in the images produced by conventional ultrasound machines. To solve this problem, physician-scientist&nbsp;<a href="https://www.mayo.edu/research/faculty/alizad-azra-m-d/bio-00085586" target="_blank" rel="noreferrer noopener">Azra Alizad, M.D.</a>, and biomedical engineering scientist&nbsp;<a href="https://www.mayo.edu/research/faculty/fatemi-mostafa-ph-d/bio-00086282" target="_blank" rel="noreferrer noopener">Mostafa Fatemi, Ph.D.</a>, teamed up at Mayo Clinic to design and study a tool that may improve the resolution of ultrasound imaging. As demonstrated in&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35486168/" target="_blank" rel="noreferrer noopener">research findings</a>, they developed high-resolution ultrasound imaging software, compatible with many ultrasound machines, that could exponentially improve both the detail and quality of images.</p>
+
+
+
+<p>The investigational software, which they've named quantitative high-definition microvessel imaging (q-HDMI), has been evaluated to capture high-resolution 2D and 3D images of microvessels as small as 150 microns, roughly twice the width of a human hair.</p>
+
+
+
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 35%"><div class="wp-block-media-text__content">
+<p>"If we can visualize and capture the microvessel in the earliest stages of cancer, we can better diagnose and treat it earlier, which improves the outcome for the patient," says Dr. Alizad, who specializes in ultrasound technology for cancer imaging.</p>
+</div><figure class="wp-block-media-text__media"><img decoding="async" width="925" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1.jpg" alt="" class="wp-image-375671 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1.jpg 925w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1-271x300.jpg 271w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Alizad-WF3352118_0032-cut-925x1024-1-768x850.jpg 768w" sizes="(max-width: 925px) 100vw, 925px" /></figure></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Artificial intelligence helps detect what we cannot see</strong></h2>
+
+
+
+<p>In addition, the researchers identified a series of biomarkers representing specific characteristics of tiny </p>
+
+
+
+<p>vessels, such as shape, pattern, irregularity and complexity, and packaged them into an algorithm that can sort the image data into benign or malignant masses.</p>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:37% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="481" height="532" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Fatemi-WF3352118_0019_vertical.jpg" alt="" class="wp-image-375670 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Fatemi-WF3352118_0019_vertical.jpg 481w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Dr.-Fatemi-WF3352118_0019_vertical-271x300.jpg 271w" sizes="(max-width: 481px) 100vw, 481px" /></figure><div class="wp-block-media-text__content">
+<p></p>
+
+
+
+<p>"This technology provides a quantitative value that shows the probability of malignancy," Dr. Fatemi says. "It's a tool to extract information in a way that can be useful to clinicians."</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Applying it in practice</strong></h2>
+
+
+
+<p>In a&nbsp;<a href="https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-022-01583-3" target="_blank" rel="noreferrer noopener">clinical study</a>, the researchers showed that their new q-HDMI tool combined with artificial intelligence (AI) was able to detect a very small, 3-millimeter-wide, malignant breast cancer mass comprised of miniscule vessels in a 40-year-old woman. Finding and treating cancer lesions when they are this size before they spread, or metastasize, can be lifesaving.</p>
+
+
+
+<p>"The questions in radiology really are: benign or malignant? And if it's suspicious, how concerned should we be?" Dr. Fatemi says.</p>
+
+
+
+<p>To help radiologists answer these questions, the researchers applied their software and algorithm to further analyze suspicious breast masses from 521 patients who already had received conventional ultrasound imaging. The results were astounding. The new technology yielded a&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35486168/" target="_blank" rel="noreferrer noopener">nearly 100% rate of accuracy</a>&nbsp;in determining malignant versus benign masses, regardless of the tumor size.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidqCtLfFbWcEoampt"  title="3D images of benign and malignant breast tissue masses" width="500" height="281" src="https://www.youtube.com/embed/qCtLfFbWcEo?feature=oembed&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>More recently, the researchers analyzed thyroid nodules from 92 patients. Thyroid nodules are common and it is often hard to differentiate between cancerous and non-cancerous ones through imaging. Yet the prevalence of thyroid cancer has increased over the last few decades.</p>
+
+
+
+<p>"With conventional ultrasound images, physicians can diagnose whether a thyroid nodule is benign or malignant with only about 35-75% accuracy," Dr. Alizad says. That's why physicians often opt to perform thyroid biopsies, which enable them to more definitively determine if a thyroid nodule is a cause for concern.</p>
+
+
+
+<p>The researchers identified 12 biomarkers that can differentiate benign from malignant thyroid tissues. They programmed the AI-powered algorithm with these biomarkers, which sorted the images and had an 84% rate of accuracy. These results were published in the journal&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/36980774/" target="_blank" rel="noreferrer noopener">Cancers</a>&nbsp;and highlighted by the&nbsp;<a href="https://www.nibib.nih.gov/news-events/newsroom/how-combination-advanced-ultrasound-and-ai-could-upgrade-cancer-diagnostics" target="_blank" rel="noreferrer noopener">National Institutes of Health</a>.</p>
+
+
+
+<p>"If it is cancer, we definitely want to know that. But if we can determine if a thyroid nodule is benign without even having to do a biopsy, that is even better as it spares the patient from the financial and physical burdens associated with an unnecessary benign biopsy," Dr. Alizad says.</p>
+
+
+
+<p>The researchers see that their quantitative tool could be particularly useful in parts of the world where there is limited expertise and resources, such as rural areas and developing countries.</p>
+
+
+
+<p>They also are collaborating with oncologists to enable them to use the q-HDMI tool to better monitor the effectiveness of cancer treatments and help them adjust therapies for individual patients in real time.</p>
+<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/advancing-ultrasound-microvessel-imaging-and-ai-to-improve-cancer-detection/">Advancing ultrasound microvessel imaging and AI to improve cancer detection</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-1x1-1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Breast-Cancer-ultrasound-AI-16-x-9.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[artificial intelligence]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Azra Alizad]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Mostafa Fatemi]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[ultrasound]]></mayoclinic:mctag>	</item>
+		<item>
 		<title>Mayo Clinic study sheds light on rare genetic disorder and blood cancers</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-sheds-light-on-rare-genetic-disorder-and-blood-cancers/</link>
 		
@@ -38,7 +161,7 @@
 <p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-sheds-light-on-rare-genetic-disorder-and-blood-cancers/">Mayo Clinic study sheds light on rare genetic disorder and blood cancers</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg" alt="" class="wp-image-375620" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9.jpg 1763w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg" alt="" class="wp-image-375620" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Telomere-GettyImages-1486563542_16x9.jpg 1763w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -64,7 +187,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Ferrer-Alejandro_15724913_20220301-240x300-1.jpg" alt="" class="wp-image-375623 size-full" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img decoding="async" loading="lazy" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/Ferrer-Alejandro_15724913_20220301-240x300-1.jpg" alt="" class="wp-image-375623 size-full" /></figure><div class="wp-block-media-text__content">
 <p>"<em>U2AF1</em>&nbsp;mutations can affect the expression of specific genes and contribute to the emergence of clonal hematopoiesis in a way that is unique to these patients," says&nbsp;<a href="https://www.mayo.edu/research/faculty/ferrer-alejandro-ph-d/bio-20503546" target="_blank" rel="noreferrer noopener">Alejandro Ferrer, Ph.D.</a>, a Mayo Clinic hematology researcher. "We need to understand why this gene is so commonly mutated in people with this disorder and its role in cancer development."</p>
 </div></div>
 
@@ -127,7 +250,7 @@
 <p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/10-10mayo-clinic-prepares-to-biomanufacture-a-new-car-t-cell-therapy-for-recurring-b-cell-blood-cancers/">Mayo Clinic prepares to biomanufacture a new CAR-T cell therapy for recurring B-cell blood cancers</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1.jpg" alt="" class="wp-image-375577" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1.jpg" alt="" class="wp-image-375577" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/10/CAR_T_cell_therapy_645602-010-0-16x9-1-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -923,161 +1046,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/a-close-up-view-of-a-deoxyribonucleic-acid-DNA-sequencing-test-illuminated-in-green-blue-and-purple-1X1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/a-close-up-view-of-a-deoxyribonucleic-acid-DNA-sequencing-test-illuminated-in-green-blue-and-purple-16X9.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[colorectal cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jewel Samadder]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[genetic markers]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Genetic Testing]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Lynch Syndrome]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Research]]></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mayo Clinic advances research on mysterious blood vessel disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-advances-research-on-mysterious-blood-vessel-disease/</link>
-		
-		<dc:creator><![CDATA[asatake]]></dc:creator>
-		<pubDate>Sat, 16 Sep 2023 10:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Dr. Cornelia Weyand]]></category>
-		<category><![CDATA[Giant Cell Arteritis]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=374416</guid>
-
-					<description><![CDATA[<p>Giant cell arteritis&#160;(GCA), formerly known as temporal arteritis, was first described by Mayo doctors and classified as an inflammatory condition of the blood vessels in the early to mid-20th century. The condition causes bulging blood vessels at the temples, which, left untreated, may lead to blindness, stroke or even an aortic aneurysm. The cause of [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-advances-research-on-mysterious-blood-vessel-disease/">Mayo Clinic advances research on mysterious blood vessel disease</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Weyand-gca-feature-image-16x9-1.jpg" alt="" class="wp-image-374418" style="aspect-ratio:16/9;object-fit:cover;width:839px" width="839" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Weyand-gca-feature-image-16x9-1.jpg 500w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Weyand-gca-feature-image-16x9-1-300x169.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption class="wp-element-caption">Immunofluorescent image of highly activated immune cells in giant cell arteritis (GCA). This inflammatory blood vessel condition is an autoimmune disease that affects about 200,000 people in the U.S.  <br></figcaption></figure>
-
-
-
-<p><a href="https://www.mayoclinic.org/diseases-conditions/giant-cell-arteritis/symptoms-causes/syc-20372758" target="_blank" rel="noreferrer noopener">Giant cell arteritis</a>&nbsp;(GCA), formerly known as temporal arteritis, was first described by Mayo doctors and classified as an inflammatory condition of the blood vessels in the early to mid-20th century. The condition causes bulging blood vessels at the temples, which, left untreated, may lead to blindness, stroke or even an aortic aneurysm. The cause of GCA is unknown.</p>
-
-
-
-<p>Nearly 200,000 people in the U.S. are affected. Most are over the age of 50. The disease is more common in Rochester, Minnesota, than other locations due to the area's large resident populations of Northern European or Scandinavian descent, which may be genetically predisposed to GCA.</p>
-
-
-<div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img decoding="async" loading="lazy" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Weyand-Cornelia-WF535495_0009-300x200-1.jpg" alt="" class="wp-image-374420" style="width:253px;height:168px" width="253" height="168" /><figcaption class="wp-element-caption">Cornelia M. Weyand, M.D., Ph.D., Senior Associate Consultant in Rheumatology and Immunology, and Professor of Immunology and Medicine, in her research lab.</figcaption></figure></div>
-
-
-<p>Over the last three decades, <a href="https://www.mayo.edu/research/faculty/weyand-cornelia-m-m-d-ph-d/bio-20527870" target="_blank" rel="noreferrer noopener">Cornelia Weyand, M.D., Ph.D.</a>, a Mayo rheumatologist and clinician-scientist, has been building on the work of her predecessors to investigate the source of the disease. Her work has illuminated the immune system's role in the inflammatory process and paved the way for potential new therapies. These insights may also lead to immune therapies that treat more common diseases, including cancer.</p>
-
-
-
-<p></p>
-
-
-
-<h2 class="wp-block-heading"><strong>Surprising from the start</strong></h2>
-
-
-
-<p>Bayard Horton, M.D., Thomas Magath, M.D., Ph.D., and George Brown, M.D., first observed the symptoms of GCA — including bulging arteries at the temples — in two different patients and were among the first in the world to perform temporal artery biopsies,&nbsp;<a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/539500" target="_blank" rel="noreferrer noopener">publishing their findings in 1934</a>. They also were among the first to classify the condition as a&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-vasculitis-affects-the-body/" target="_blank" rel="noreferrer noopener">vasculitis</a>, but they didn’t have an explanation for how the disease worked.</p>
-
-
-
-<p>A physician in England, J. R. Gilmour, M.B., C.M., renamed the disease giant cell arteritis due to the enlarged cells he observed in 1941. But a significant breakthrough did not come until a decade later when in 1950, Mayo Clinic physicians&nbsp;<a href="https://libraryguides.mayo.edu/historicalunit/cortisone#:~:text=In%201950%2C%20Mayo%20Clinic%20doctors,of%20cortisone%20to%20rheumatoid%20arthritis." target="_blank" rel="noreferrer noopener">Edward Kendall, Ph.D., and Philip Hench, M.D.</a>, received the Nobel Prize for the discovery of cortisone. Because cortisone suppresses inflammation, it became one of the primary treatments for GCA. However, the treatment doesn't get to the source of the condition.</p>
-
-
-
-<p>From early on, scientists were surprised to find that GCA involves the immune system. Blood vessels, critical to the body's function, tend to evade the inflammatory and damaging processes of immune cells, a characteristic that researchers refer to as "immune privilege." However, GCA targets the blood vessels, including the aorta, the largest artery in the body.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Taking a closer look</strong></h2>
-
-
-
-<p>Nearly a decade passed before another Mayo physician looked at the disease more closely. "When I started, no one was interested in giant cell arteritis," says Gene Hunder, M.D., a rheumatologist and emeritus physician at Mayo.</p>
-
-
-
-<p>He says GCA was not on physicians' radar simply because the disease had not been well defined. "If you know about something, you see it in a patient and make a note of it. If you aren't aware of it, you let it go by. I think that was what was happening with giant cell arteritis for many years," Dr. Hunder says.</p>
-
-
-
-<p>He recalls seeing a patient at Mayo in the mid-1960s who presented with a barely palpable pulse and was diagnosed with inflammation of the aorta. He and a resident examined the case in detail. Then, they delved into the medical files to find records of several patients with low pulses in their arms or neck but no further diagnoses. They conducted an epidemiologic study, which provided evidence that patients with GCA frequently also had inflamed aortas.</p>
-
-
-
-<p>The finding attracted the attention of the medical world. "I think the fact that the aorta was involved struck the doctors harder because that's a big blood vessel and could have disastrous side effects," Dr. Hunder says.</p>
-
-
-
-<p>It's known that GCA is more prevalent in women than men, but no one can predict who will get it. The frontline treatment — the corticosteroid prednisone — is the same approach as half a century ago but relieves symptoms only temporarily. "In vasculitis, it's not unusual for some symptoms to go away, but the inflammation in the arteries will go on. The activity of the disease declines with the corticosteroid therapy, but there is still inflammation in the blood vessel," Dr. Hunder says.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Picking up the thread</strong></h2>
-
-
-
-<p>In 1990, Dr. Weyand joined Mayo Clinic and soon saw the scientific opportunity to diagnose and treat many patients with GCA in Minnesota and to study the disease.</p>
-
-
-
-<p>A few years ago, she and her colleagues identified a problem with a protein that seemed to cause the immune system to go haywire in patients with GCA. &nbsp;&nbsp;</p>
-
-
-
-<p>A typical immune system responds to antigens, or toxins, that cause infection or are derived from cancerous cells. While immune protection against infection and cancer is a high priority, the immune system also needs built-in brakes, or immune checkpoints, that tell the immune system to stop and prevent it from over-responding. Dr. Weyand and colleagues, including&nbsp;<a href="https://www.mayo.edu/research/faculty/goronzy-jorg-m-d-ph-d/bio-20527076" target="_blank" rel="noreferrer noopener">Jörg J Goronzy, M.D., Ph.D.</a>, found that the protein PD-L1 is weakly expressed in patients with GCA, preventing the delivery of a stop signal to T cells. This finding led the team to conclude that patients with GCA have a broken immune checkpoint, which explains an overabundance of inflammation.</p>
-
-
-
-<p>"That became a landmark <a href="https://pubmed.ncbi.nlm.nih.gov/28115719/" target="_blank" rel="noreferrer noopener">paper</a> because it was the first report of human autoimmune disease linked to a nonfunctional [immune] checkpoint," she says.</p>
-
-
-
-<p>Recently, her research team made another discovery, furthering the understanding of an immune system gone awry. They found a second immune checkpoint that is not working in GCA. They saw that a specific ligand, a molecule that binds to and activates a receptor on immune cells, gets trapped and can't make it to the surface of the immune cell to signal the immune system to stop. When the ligand, called CD155, gets trapped, it triggers the unrestricted proliferation of T cells. The T cells invade and accumulate in blood vessel walls. There, they secrete the cytokine interleukin-9, which further attacks and damages the blood vessel.</p>
-
-
-
-<p>"We now have seen a second checkpoint that is not working. So, this seems to be the reason why these patients are driving inflammatory responses in the aorta where they are not supposed to be," Dr. Weyand says.</p>
-
-
-
-<p>That&nbsp;<a href="https://www.cell.com/cell-reports-medicine/pdfExtended/S2666-3791(23)00122-2">study showed</a>&nbsp;the immune cells lacking the CD155 ligands also can be detected in blood and GCA lesions and therefore are new biomarkers of the disease that may help improve diagnosis.</p>
-
-
-
-<p>What's more, the researchers have shown in another <a href="https://pubmed.ncbi.nlm.nih.gov/37672564/">recent paper</a> that the structure of the blood vessel tissues itself shelters and fosters the disease-inducing immune cells in GCA. This provides even more information for potential GCA therapies.</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Research-Weyand-Timeline-septv1-01-1024x683-1.jpg" alt="" class="wp-image-374421" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Research-Weyand-Timeline-septv1-01-1024x683-1.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Research-Weyand-Timeline-septv1-01-1024x683-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Research-Weyand-Timeline-septv1-01-1024x683-1-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p></p>
-
-
-
-<h2 class="wp-block-heading"><strong>Advancing immunology has relevance to cancer too</strong></h2>
-
-
-
-<p>These advances in the immunology of GCA have relevance to cancer, too, Dr. Weyand points out. Increasingly, immune therapies that enhance a person's own immune response are being used to treat various forms of cancer.</p>
-
-
-
-<p>Patients with cancer are on the opposite end of the spectrum from patients with vasculitis in that their immune checkpoints, or brakes, work too well to stop immune response, and tumors take advantage of that. As a result, oncologists prescribe immune checkpoint inhibitors to unleash patients' immune systems to fight cancer cells and tumors.</p>
-
-
-
-<p>Ultimately, knowing how to target faulty immune checkpoints opens the opportunity to identify new GCA treatments. Dr. Weyand's team has developed a preclinical model outfitted with human arteries and a human immune system called an immune avatar. The model system enables researchers to study GCA more closely, monitor inflammation and test immunotherapies to suppress inflammation.</p>
-
-
-
-<p>"That immune avatar has been a dimensional step forward for us," she says. "This research changes our fundamental understanding of the pathogenesis of giant cell arteritis and paves the way for an entirely new approach for treatment."</p>
-
-
-
-<p>Dr. Weyand's research has received support from the National Institutes of Health, Stanford University and Mayo Clinic.</p>
-
-
-
-<p>This post originally appeared on <a href="https://discoverysedge.mayo.edu/2023/09/13/mayo-clinic-advances-research-on-mysterious-blood-vessel-disease/" target="_blank" rel="noreferrer noopener">Discovery's Edge</a>.</p>
-<p>The post <a rel="nofollow" href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-advances-research-on-mysterious-blood-vessel-disease/">Mayo Clinic advances research on mysterious blood vessel disease</a> appeared first on <a rel="nofollow" href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Weyand-gca-feature-image-1x1-1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/09/Weyand-gca-feature-image-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Dr. Cornelia Weyand]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Giant Cell Arteritis]]></mayoclinic:mctag>	</item>
 	</channel>
 </rss>
