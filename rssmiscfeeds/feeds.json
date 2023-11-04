@@ -14,7 +14,7 @@
 		"display": "Slickdeals Hot Deals",
 		"shortName": "Slickdeals",
 		"showdesc": false,
-		"descElement" : "",
+		"descElement" : "description",
 		"itemElement" : "item"
 	},
 	{
@@ -23,7 +23,7 @@
 		"display": "Polygon",
 		"shortName": "Polygon",
 		"showdesc": false,
-		"descElement" : "",
+		"descElement" : "content",
 		"itemElement" : "entry"
 	},
 	{
@@ -32,7 +32,7 @@
 		"display": "The Verge - All Posts",
 		"shortName": "The Verge",
 		"showdesc": false,
-		"descElement" : "",
+		"descElement" : "content",
 		"itemElement" : "entry"
 	}
 ]
