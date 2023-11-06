@@ -34,5 +34,32 @@
 		"showdesc": false,
 		"descElement" : "content",
 		"itemElement" : "entry"
+	},
+	{
+		"value" : "4",
+		"url": "https://la.eater.com/rss/front-page/index.xml",
+		"display": "LA Eater",
+		"shortName": "LA Eater",
+		"showdesc": false,
+		"descElement" : "content",
+		"itemElement" : "entry"
+	},
+	{
+		"value" : "5",
+		"url": "https://9to5google.com/feed/",
+		"display": "Google",
+		"shortName": "9 to 5 Google",
+		"showdesc": false,
+		"descElement" : "content",
+		"itemElement" : "item"
+	},
+	{
+		"value" : "5",
+		"url": "https://9to5mac.com/feed/",
+		"display": "Mac",
+		"shortName": "9 to 5 Mac",
+		"showdesc": false,
+		"descElement" : "content",
+		"itemElement" : "item"
 	}
 ]
