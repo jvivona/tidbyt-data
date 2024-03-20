@@ -13,7 +13,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/" rel="self" type="application/rss+xml" />
 	<link>https://newsnetwork.mayoclinic.org/category/health-and-wellness/</link>
 	<description>News Resources</description>
-	<lastBuildDate>Wed, 20 Mar 2024 13:54:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Mar 2024 21:24:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -162,7 +162,8 @@
 		
 		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
 		<pubDate>Wed, 20 Mar 2024 10:00:00 +0000</pubDate>
-				<category><![CDATA[Health & Wellness]]></category>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health & Wellness]]></category>
 		<category><![CDATA[Individualized Medicine]]></category>
 		<category><![CDATA[exposome]]></category>
 		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=384321</guid>
@@ -342,7 +343,7 @@
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9></mayoclinic:mcimg16x9>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/16x9-microplastics2-1.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><![CDATA[exposome]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: When surgery for endometriosis is the answer</title>
@@ -1232,4 +1233,4 @@
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Weather-Change-with-Blur-2.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Diverse Representation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tejal Shelat]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[fever]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[respiratory illness]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[weather]]></mayoclinic:mctag>	</item>
 	</channel>
-</rss>
+</rss><!-- Static page delivered by HubScale -->
