@@ -13,7 +13,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
 	<description>News Resources</description>
-	<lastBuildDate>Tue, 11 Jun 2024 15:49:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 16:20:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -198,8 +198,10 @@
 		<dc:creator><![CDATA[DeeDee Stiepan]]></dc:creator>
 		<pubDate>Thu, 06 Jun 2024 13:29:05 +0000</pubDate>
 				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Cancer Patient Stories]]></category>
 		<category><![CDATA[Featured News]]></category>
 		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Sharing Mayo Clinic]]></category>
 		<category><![CDATA[#Newsapp]]></category>
 		<category><![CDATA[daily]]></category>
 		<category><![CDATA[diverserepresentation]]></category>
@@ -1233,4 +1235,4 @@
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Sun-protection-for-babies-16X9.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Megha Tollefson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Melanoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Skin Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[sunburn]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[sunscreen for babies]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/sun-protection-150x150.jpg</mayoclinic:mcthumb >	</item>
 	</channel>
-</rss>
+</rss><!-- Static page delivered by HubScale -->
