@@ -61,5 +61,14 @@
 		"showdesc": false,
 		"descElement" : "content",
 		"itemElement" : "item"
+	},
+	{
+		"value" : "10",
+		"url": "https://www.cnnbrasil.com.br/feed/",
+		"display" : "CNN Brasil",
+		"shortName" : "CNN Brasil",
+		"showdesc" : false,
+		"descElement" : "description",
+		"itemElement" : "item"
 	}
 ]
