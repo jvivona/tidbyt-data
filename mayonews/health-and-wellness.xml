@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>What you need to know about listeria</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/what-you-need-to-know-about-listeria/</link>
@@ -152,7 +152,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Annulus fibrosus</strong><br>This is the sturdy yet flexible outer layer of the disk. It forms a ring or circle around the inner core of the disk.</li>
 
 
@@ -230,7 +230,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/understanding-types-of-back-surgery" target="_blank" rel="noreferrer noopener">Decompression surgery</a>, such as a laminectomy or diskectomy, relieves compression of the nerve root for the spinal cord.</li>
 
 
@@ -252,7 +252,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.mayoclinichealthsystem.org/providers?service=Neurosurgery&amp;populateTracking=True" target="_blank" rel="noreferrer noopener">Find a neurosurgeon</a> near you.</li>
 
 
@@ -378,7 +378,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-wash-your-pets-food-and-water-bowls-to-prevent-salmonella/">Mayo Clinic Minute: Wash your pet’s food and water bowls to prevent salmonella</a></li>
 
 
@@ -524,7 +524,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Bolster your immune system to lower your risk of being sick on race day</li>
 
 
@@ -578,7 +578,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>41% of 6 miles: 6x0.41=2.46, so 6-2.46=3.54 miles</li>
 
 
@@ -604,7 +604,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Marathon — 19 to 22 days</li>
 
 
@@ -734,7 +734,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Make sure everyone riding bicycle wears a properly fitted helmet.</li>
 
 
@@ -756,7 +756,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://newsnetwork.mayoclinic.org/discussion/draft-5-3-mayo-clinic-minute-tips-for-protecting-babies-from-harmful-uv-rays/">Mayo Clinic Minute: Tips for protecting babies from harmful UV rays</a></li>
 
 
@@ -944,7 +944,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://newsnetwork.mayoclinic.org/discussion/how-extreme-heat-and-humidity-affect-your-health/">How extreme heat and humidity affect your health</a></li>
 
 
@@ -1024,7 +1024,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Urinary <a href="https://newsnetwork.mayoclinic.org/discussion/senolytic-drugs-boost-key-protective-protein/" target="_blank" rel="noreferrer noopener">a-Klotho</a>: This protein is associated with longevity and protects against <a href="https://mcpress.mayoclinic.org/healthy-aging/longevity-starts-with-better-understanding-the-complexities-of-aging/" target="_blank" rel="noreferrer noopener">oxidative stress</a>, a source of DNA damage, and aging-related diseases. Lower levels of this protein appeared in the preeclampsia group.</li>
 
 
@@ -1128,7 +1128,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-advances-in-minimally-invasive-kidney-stone-surgery/">Mayo Clinic Minute: Advances in minimally invasive kidney stone surgery</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-misconceptions-about-how-diet-affects-kidney-stones/">Mayo Clinic Minute: Misconceptions about how diet affects kidney stones</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
@@ -1140,4 +1140,4 @@
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/Kidney-Stones-16x9.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Aaron Potretzke]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[kidney stones]]></mayoclinic:mctag>	</item>
 	</channel>
-</rss><!-- Static page delivered by HubScale -->
+</rss>
