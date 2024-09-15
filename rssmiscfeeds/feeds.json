@@ -73,15 +73,6 @@
 	},
 	{
 		"value" : "8",
-		"url": "http://rss.cnn.com/rss/cnn_topstories.rss",
-		"display" : "CNN US",
-		"shortName" : "CNN",
-		"showdesc" : false,
-		"descElement" : "description",
-		"itemElement" : "item"
-	},
-	{
-		"value" : "9",
 		"url": "https://feeds.arstechnica.com/arstechnica/index.rss",
 		"display" : "Ars Technica - All News",
 		"shortName" : "Ars Technica",
@@ -90,7 +81,7 @@
 		"itemElement" : "item"
 	},
 	{
-		"value" : "10",
+		"value" : "9",
 		"url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
 		"display" : "New York Times - Top Stories",
 		"shortName" : "NYTimes",
@@ -99,7 +90,7 @@
 		"itemElement" : "item"
 	},
 	{
-		"value" : "11",
+		"value" : "10",
 		"url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
 		"display" : "New York Times - New York Region",
 		"shortName" : "NYTimes NYC",
