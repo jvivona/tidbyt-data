@@ -70,5 +70,14 @@
 		"showdesc" : false,
 		"descElement" : "description",
 		"itemElement" : "item"
-	}
+	},
+	{
+		"value" : "8",
+		"url": "https://feeds.arstechnica.com/arstechnica/index.rss",
+		"display" : "Ars Technica - All News",
+		"shortName" : "Ars Technica",
+		"showdesc" : true,
+		"descElement" : "description",
+		"itemElement" : "item"
+	},
 ]
