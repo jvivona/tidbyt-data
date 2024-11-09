@@ -1,37 +1,45 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/research/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Fri, 08 Nov 2024 21:02:12 +0000</lastbuilddate>
+	<lastBuildDate>Fri, 08 Nov 2024 21:02:12 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Discovery reveals how to prevent organ damage in pancreatitis</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/discovery-reveals-how-to-prevent-organ-damage-in-pancreatitis/
+		<link>https://newsnetwork.mayoclinic.org/discussion/discovery-reveals-how-to-prevent-organ-damage-in-pancreatitis/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Fri, 08 Nov 2024 21:02:11 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Vijay Singh]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396300</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2024 21:02:11 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Vijay Singh]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396300</guid>
 
-					<description><!--[CDATA[<p-->Researchers at Mayo Clinic have discovered how high levels of triglycerides, a type of fat found in the bloodstream, can rapidly damage organs during acute pancreatitis. They discovered in pancreatitis that circulating triglycerides swiftly break down into smaller building blocks known as fatty acids that can damage organs such as the lung and kidneys. Blocking […]<p></p>
+					<description><![CDATA[<p>Researchers at Mayo Clinic have discovered how high levels of triglycerides, a type of fat found in the bloodstream, can rapidly damage organs during acute pancreatitis. They discovered in pancreatitis that circulating triglycerides swiftly break down into smaller building blocks known as fatty acids that can damage organs such as the lung and kidneys. Blocking [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/discovery-reveals-how-to-prevent-organ-damage-in-pancreatitis/">Discovery reveals how to prevent organ damage in pancreatitis</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Researchers at Mayo Clinic have discovered how high levels of triglycerides, a type of fat found in the bloodstream, can rapidly damage organs during acute pancreatitis. They discovered in pancreatitis that circulating triglycerides swiftly break down into smaller building blocks known as fatty acids that can damage organs such as the lung and kidneys. Blocking this breakdown prevented such damage from occurring.<p></p>
+										<content:encoded><![CDATA[
+<p>Researchers at Mayo Clinic have discovered how high levels of triglycerides, a type of fat found in the bloodstream, can rapidly damage organs during acute pancreatitis. They discovered in pancreatitis that circulating triglycerides swiftly break down into smaller building blocks known as fatty acids that can damage organs such as the lung and kidneys. Blocking this breakdown prevented such damage from occurring.</p>
 
 
 
@@ -39,7 +47,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img fetchpriority="high" decoding="async" width="600" height="720" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Vijay-Singh.jpg" alt="" class="wp-image-396303" style="width:251px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Vijay-Singh.jpg 600w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Vijay-Singh-250x300.jpg 250w" sizes="(max-width: 600px) 100vw, 600px"><figcaption class="wp-element-caption">Vijay Singh, M.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img fetchpriority="high" decoding="async" width="600" height="720" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Vijay-Singh.jpg" alt="" class="wp-image-396303" style="width:251px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Vijay-Singh.jpg 600w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Vijay-Singh-250x300.jpg 250w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-element-caption">Vijay Singh, M.D.</figcaption></figure></div>
 
 
 <p>"This discovery not only provides a deeper understanding of the mechanisms behind triglyceride-induced organ damage in pancreatitis but also offers a promising strategy to improve patient outcomes," says senior author <a href="https://www.mayo.edu/research/faculty/singh-vijay-p-m-b-b-s-m-d/bio-20111292" target="_blank" rel="noreferrer noopener">Vijay Singh, M.D.</a>, a gastroenterologist at&nbsp;Mayo Clinic's campus in Scottsdale, Arizona.</p>
@@ -50,7 +58,7 @@
 
 
 
-<p>Patients with hypertriglyceridemia-associated acute pancreatitis have a higher risk of <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=37461868&amp;query_hl=11&amp;itool=pubmed_docsum" target="_blank" rel="noreferrer noopener">persistent organ failure and severe pancreatitis</a>, which often requires life support, prolongs hospitalization and increases mortality rates. Despite these severe outcomes, the <a href="https://pubmed.ncbi.nlm.nih.gov/36599412/" target="_blank" rel="noreferrer noopener">mechanisms</a> driving this form of acute pancreatitis have remained unclear until now.</p>
+<p>Patients with hypertriglyceridemia-associated acute pancreatitis have a higher risk of <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;amp;db=pubmed&amp;amp;dopt=Abstract&amp;amp;list_uids=37461868&amp;amp;query_hl=11&amp;amp;itool=pubmed_docsum" target="_blank" rel="noreferrer noopener">persistent organ failure and severe pancreatitis</a>, which often requires life support, prolongs hospitalization and increases mortality rates. Despite these severe outcomes, the <a href="https://pubmed.ncbi.nlm.nih.gov/36599412/" target="_blank" rel="noreferrer noopener">mechanisms</a> driving this form of acute pancreatitis have remained unclear until now.</p>
 
 
 
@@ -62,7 +70,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img decoding="async" width="837" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-837x1024.jpg" alt="" class="wp-image-396305" style="width:365px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-837x1024.jpg 837w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-245x300.jpg 245w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-768x939.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-1256x1536.jpg 1256w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-1675x2048.jpg 1675w" sizes="(max-width: 837px) 100vw, 837px"><figcaption class="wp-element-caption">In pancreatitis, circulating triglycerides swiftly break down into smaller building blocks known as fatty acids that can damage organs such as the lung and kidneys. Illustration: Renee Cannon</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img decoding="async" width="837" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-837x1024.jpg" alt="" class="wp-image-396305" style="width:365px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-837x1024.jpg 837w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-245x300.jpg 245w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-768x939.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-1256x1536.jpg 1256w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-1675x2048.jpg 1675w" sizes="(max-width: 837px) 100vw, 837px" /><figcaption class="wp-element-caption">In pancreatitis, circulating triglycerides swiftly break down into smaller building blocks known as fatty acids that can damage organs such as the lung and kidneys. Illustration: Renee Cannon</figcaption></figure></div>
 
 
 <p>The finding could inform new ways to manage triglyceride elevation during pancreatitis. Current treatments, such as the use of the blood thinner heparin to reduce triglycerides, have shown minimal benefit in reducing organ damage or the severity of pancreatitis. Heparin works by breaking down triglycerides, but this process does not significantly improve patient outcomes.</p>
@@ -73,7 +81,7 @@
 
 
 
-<p>The recent study also sheds light on the implications of using heparin and other treatments that release the enzyme lipase. It found that the worst outcomes were observed in pancreatitis patients receiving nutrition via IV, as intravenous formulations containing triglycerides can be broken down to potentially harmful fatty acids by circulating lipases. &nbsp;</p>
+<p>The recent study also sheds light on the implications of using heparin and other treatments that release the enzyme lipase. It found that the worst outcomes were observed in pancreatitis patients receiving nutrition via IV, as intravenous formulations containing triglycerides can be broken down to potentially harmful fatty acids by circulating lipases. &amp;nbsp;</p>
 
 
 
@@ -93,34 +101,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/graphical-abstract-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Vijay Singh]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Vijay Singh]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Hourglass-shaped stent could ease severe chest pain from microvascular disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/hourglass-shaped-stent-could-ease-severe-chest-pain-from-microvascular-disease/
+		<link>https://newsnetwork.mayoclinic.org/discussion/hourglass-shaped-stent-could-ease-severe-chest-pain-from-microvascular-disease/</link>
 		
-		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
-		<pubdate>Thu, 07 Nov 2024 16:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Clinical Trials]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[angina]]--></category>
-		<category><!--[CDATA[angina treatment]]--></category>
-		<category><!--[CDATA[Cardiology]]--></category>
-		<category><!--[CDATA[coronary angiogram]]--></category>
-		<category><!--[CDATA[Dr. Amir Lerman]]--></category>
-		<category><!--[CDATA[Heart Disease]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[small vessel disease]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396180</guid>
+		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2024 16:30:00 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Clinical Trials]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[angina]]></category>
+		<category><![CDATA[angina treatment]]></category>
+		<category><![CDATA[Cardiology]]></category>
+		<category><![CDATA[coronary angiogram]]></category>
+		<category><![CDATA[Dr. Amir Lerman]]></category>
+		<category><![CDATA[Heart Disease]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[small vessel disease]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396180</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A study at Mayo Clinic suggests that an hourglass-shaped stent could improve blood flow and ease severe and reoccurring chest pain in people with microvascular disease. Of 30 participants in a phase 2 clinical trial, 76% saw improvement in their day-to-day life. For example, some participants who reported not being able to […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A study at Mayo Clinic suggests that an hourglass-shaped stent could improve blood flow and ease severe and reoccurring chest pain in people with microvascular disease. Of 30 participants in a phase 2 clinical trial, 76% saw improvement in their day-to-day life. For example, some participants who reported not being able to [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/hourglass-shaped-stent-could-ease-severe-chest-pain-from-microvascular-disease/">Hourglass-shaped stent could ease severe chest pain from microvascular disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="684" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-1024x684.jpg" alt="View of a heart with coronary artery disease or coronary microvascular disease. An inset highlights the clogging and narrowing of the arteries." class="wp-image-396227" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-1024x684.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-768x513.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1.jpg 1464w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-1024x684.jpg" alt="View of a heart with coronary artery disease or coronary microvascular disease. An inset highlights the clogging and narrowing of the arteries." class="wp-image-396227" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-1024x684.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1-768x513.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001-1.jpg 1464w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -140,14 +148,14 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-300x200.jpg" alt="" class="wp-image-396220" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001.jpg 1688w" sizes="(max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption"><sup>Amir Lerman, M.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-300x200.jpg" alt="" class="wp-image-396220" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Amir_Lerman_1539878_3777595_0001.jpg 1688w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption"><sup>Amir Lerman, M.D.</sup></figcaption></figure></div>
 
 
 <p>"The patients with heart-related microvascular dysfunction in this study had little ability to control their chronic angina, which severely limited their day-to-day activities," says <a href="https://www.mayo.edu/research/faculty/lerman-amir-m-d/bio-00078051" target="_blank" rel="noreferrer noopener">Amir Lerman, M.D.</a>, a cardiologist at Mayo Clinic and senior author of the study. "Beyond reductions in chest pain and being able to comfortably handle more physical activity, the majority of patients in the study also showed a connection between the changes in their coronary flow reserve, which is a measure of maximum blood flow, and changes in their quality-of-life responses on the survey. This points to the link between the physiological measurement and angina symptoms."</p>
 
 
 
-<p>Dr. Lerman notes that more studies are needed to better understand how the reducer stent works and its long-term effects on blood flow. The stent did not improve chest pain symptoms in 20%-30% of the participants, so future research studies will need to better identify which patients respond best to this therapy. &nbsp;&nbsp;</p>
+<p>Dr. Lerman notes that more studies are needed to better understand how the reducer stent works and its long-term effects on blood flow. The stent did not improve chest pain symptoms in 20%-30% of the participants, so future research studies will need to better identify which patients respond best to this therapy. &amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -173,31 +181,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_510085_EC1294075-001-0_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/microvascular-disease_1293229_EC1294075-001_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[angina]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[angina treatment]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[coronary angiogram]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Amir Lerman]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[small vessel disease]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[angina]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[angina treatment]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[coronary angiogram]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Amir Lerman]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[small vessel disease]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers recommend alternatives to hysterectomy for uterine fibroids, according to study</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-recommend-alternatives-to-hysterectomy-for-uterine-fibroids-according-to-study/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-recommend-alternatives-to-hysterectomy-for-uterine-fibroids-according-to-study/</link>
 		
-		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
-		<pubdate>Thu, 07 Nov 2024 14:30:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Translational Science]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverserepresentation]]--></category>
-		<category><!--[CDATA[Dr. Ebbie Stewart]]--></category>
-		<category><!--[CDATA[Dr. Shannon Laughlin-Tommaso]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396144</guid>
+		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2024 14:30:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Translational Science]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverserepresentation]]></category>
+		<category><![CDATA[Dr. Ebbie Stewart]]></category>
+		<category><![CDATA[Dr. Shannon Laughlin-Tommaso]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396144</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. —&nbsp;Uterine fibroids are a common condition that affects up to 80% of women in their lifetime. Nearly half of those women will experience symptoms that affect their quality of life and fertility, including severe pain and anemia. Uterine fibroids are the major reason for the removal of the uterus by hysterectomy. However, Mayo […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. —&nbsp;Uterine fibroids are a common condition that affects up to 80% of women in their lifetime. Nearly half of those women will experience symptoms that affect their quality of life and fertility, including severe pain and anemia. Uterine fibroids are the major reason for the removal of the uterus by hysterectomy. However, Mayo [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-recommend-alternatives-to-hysterectomy-for-uterine-fibroids-according-to-study/">Mayo Clinic researchers recommend alternatives to hysterectomy for uterine fibroids, according to study</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg" alt="Close-up of unrecognizable Black woman sitting on sofa holding her abdomen in pain. Getty Images" class="wp-image-396149" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg" alt="Close-up of unrecognizable Black woman sitting on sofa holding her abdomen in pain. Getty Images" class="wp-image-396149" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 
 
 
@@ -205,7 +213,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1621520_3875301_0025.jpg" alt="Image of Shannon Laughlin-Tommaso, M.D." class="wp-image-396146" style="width:217px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1621520_3875301_0025.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1621520_3875301_0025-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px"><figcaption class="wp-element-caption">Shannon Laughlin-Tommaso, M.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1621520_3875301_0025.jpg" alt="Image of Shannon Laughlin-Tommaso, M.D." class="wp-image-396146" style="width:217px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1621520_3875301_0025.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1621520_3875301_0025-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Shannon Laughlin-Tommaso, M.D.</figcaption></figure></div>
 
 
 <p>"Less invasive treatments can help women recover faster and resume their normal activities more quickly. Additionally, many studies have now shown that there are health benefits to keeping the uterus and the ovaries," says <a href="https://www.mayo.edu/research/faculty/laughlin-tommaso-shannon-k-m-d/bio-00112295" target="_blank" rel="noreferrer noopener">Shannon Laughlin-Tommaso, M.D.</a>, Mayo Clinic OB-GYN and co-lead author of the paper.</p>
@@ -232,18 +240,18 @@
 
 
 
-<p>The incidence of fibroids increases with age until menopause and is higher among Black women.&nbsp;In addition, this population often presents with more severe fibroids.</p>
+<p>The incidence of fibroids increases with age until menopause and is higher among Black women.&amp;nbsp;In addition, this population often presents with more severe fibroids.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1664821_3928276_0024.jpg" alt="" class="wp-image-396147" style="width:217px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1664821_3928276_0024.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1664821_3928276_0024-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px"><figcaption class="wp-element-caption">Ebbie Stewart, M.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1664821_3928276_0024.jpg" alt="" class="wp-image-396147" style="width:217px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1664821_3928276_0024.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1664821_3928276_0024-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Ebbie Stewart, M.D.</figcaption></figure></div>
 
 
 <p>"Earlier diagnosis and treatment of uterine fibroids can help reduce this health disparity among Black women," says <a href="https://www.mayo.edu/research/faculty/stewart-ebbie-a-m-d/bio-00095802" target="_blank" rel="noreferrer noopener">Ebbie Stewart, M.D.</a>, co-lead author and Mayo Clinic gynecologist and reproductive endocrinologist. In <a href="https://pubmed.ncbi.nlm.nih.gov/38610011/" target="_blank" rel="noreferrer noopener">survey-based studies</a>, many Black patients preferred minimally invasive therapies over hysterectomies.</p>
 
 
 
-<p>Diagnosing fibroids is straightforward with a pelvic ultrasound but determining who to screen is not, and screening usually occurs after the fibroids are large or the patients are symptomatic. Many women with symptomatic fibroids have reported psychological suffering, including depression, concern, anger and body image distress.&nbsp;</p>
+<p>Diagnosing fibroids is straightforward with a pelvic ultrasound but determining who to screen is not, and screening usually occurs after the fibroids are large or the patients are symptomatic. Many women with symptomatic fibroids have reported psychological suffering, including depression, concern, anger and body image distress.&amp;nbsp;</p>
 
 
 
@@ -271,7 +279,7 @@
 
 
 
-<p>Review the <a href="https://www.nejm.org/doi/full/10.1056/NEJMcp2309623" target="_blank" rel="noreferrer noopener">paper</a>&nbsp;for a complete list of authors, disclosures and funding.</p>
+<p>Review the <a href="https://www.nejm.org/doi/full/10.1056/NEJMcp2309623" target="_blank" rel="noreferrer noopener">paper</a>&amp;nbsp;for a complete list of authors, disclosures and funding.</p>
 
 
 
@@ -283,7 +291,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -292,7 +300,7 @@
 
 
 <ul class="wp-block-list">
-<li>Kelley Luckstein, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Kelley Luckstein, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-recommend-alternatives-to-hysterectomy-for-uterine-fibroids-according-to-study/">Mayo Clinic researchers recommend alternatives to hysterectomy for uterine fibroids, according to study</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -301,65 +309,65 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ebbie Stewart]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Shannon Laughlin-Tommaso]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ebbie Stewart]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Shannon Laughlin-Tommaso]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Innovative Mayo Clinic test may improve mesothelioma detection rate in blood&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/innovative-mayo-clinic-test-improves-mesothelioma-detection-rate-in-blood/
+		<link>https://newsnetwork.mayoclinic.org/discussion/innovative-mayo-clinic-test-improves-mesothelioma-detection-rate-in-blood/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Wed, 06 Nov 2024 12:53:12 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396025</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 12:53:12 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396025</guid>
 
-					<description><!--[CDATA[<p-->Mayo Clinic researchers have developed an innovative testing strategy for mesothelioma that could potentially increase the detection rate of cancer DNA in the blood. This approach focuses on shuffled or swapped sections of DNA in mesothelioma cancer cells, called chromosomal rearrangements. By detecting these complex DNA patterns, rather than just single-point mutations, the method could […]<p></p>
+					<description><![CDATA[<p>Mayo Clinic researchers have developed an innovative testing strategy for mesothelioma that could potentially increase the detection rate of cancer DNA in the blood. This approach focuses on shuffled or swapped sections of DNA in mesothelioma cancer cells, called chromosomal rearrangements. By detecting these complex DNA patterns, rather than just single-point mutations, the method could [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/innovative-mayo-clinic-test-improves-mesothelioma-detection-rate-in-blood/">Innovative Mayo Clinic test may improve mesothelioma detection rate in blood&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-1024x576.png" alt="" class="wp-image-396038" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A 3D illustration depicts mesothelioma cancer.</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-1024x576.png" alt="" class="wp-image-396038" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9mesothelioma.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A 3D illustration depicts mesothelioma cancer.</figcaption></figure></div>
 
 
 <p>Mayo Clinic researchers have developed an innovative testing strategy for <a href="https://www.mayoclinic.org/diseases-conditions/mesothelioma/symptoms-causes/syc-20375022" target="_blank" rel="noreferrer noopener">mesothelioma</a> that could potentially increase the detection rate of cancer DNA in the blood. This approach focuses on shuffled or swapped sections of DNA in mesothelioma cancer cells, called chromosomal rearrangements.</p>
 
 
 
-<p>By detecting these complex DNA patterns, rather than just single-point mutations, the method could lead to earlier diagnoses and new avenues for targeted therapies.&nbsp;</p>
+<p>By detecting these complex DNA patterns, rather than just single-point mutations, the method could lead to earlier diagnoses and new avenues for targeted therapies.&amp;nbsp;</p>
 
 
 
-<p>“We're pushing the frontiers of what's possible in blood-based monitoring," says <a href="https://www.mayo.edu/research/faculty/mansfield-aaron-s-m-d/bio-20116851" target="_blank" rel="noreferrer noopener">Aaron Mansfield, M.D.</a>, a medical oncologist and lead author of the study at the Center for Individualized Medicine and the Mayo Clinic Comprehensive Cancer Center. "Improving detection rates could offer insights into monitoring patients' responses to therapy and detecting recurrence after surgery."&nbsp;</p>
+<p>“We're pushing the frontiers of what's possible in blood-based monitoring," says <a href="https://www.mayo.edu/research/faculty/mansfield-aaron-s-m-d/bio-20116851" target="_blank" rel="noreferrer noopener">Aaron Mansfield, M.D.</a>, a medical oncologist and lead author of the study at the Center for Individualized Medicine and the Mayo Clinic Comprehensive Cancer Center. "Improving detection rates could offer insights into monitoring patients' responses to therapy and detecting recurrence after surgery."&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MANSFIELD.jpg" alt="" class="wp-image-396040" style="width:224px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MANSFIELD.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MANSFIELD-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px"><figcaption class="wp-element-caption">Aaron Mansfield, M.D.</figcaption></figure></div>
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MANSFIELD.jpg" alt="" class="wp-image-396040" style="width:224px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MANSFIELD.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MANSFIELD-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Aaron Mansfield, M.D.</figcaption></figure></div>
 
 
-<p>Mesothelioma is a rare cancer that develops in the thin membranes that line the chest and abdomen, most commonly caused by inhaling asbestos fibers. These fibers are often found in insulation, vinyl tiles, roofing materials and paint. Despite decades of regulations to limit asbestos exposure, approximately 3,000 people in the U.S. are diagnosed with mesothelioma each year, according to the American Cancer Society.&nbsp;</p>
-
-
-
-<p>Mesothelioma typically exhibits a low number of single-point genetic mutations, making it difficult to detect with traditional blood tests. However, the presence of chromosomal rearrangements — like shuffling words in a sentence — provides a new diagnostic target. This differs from many other cancers that often rely on detecting single-point mutations — tiny changes in the DNA sequence, similar to altering a single letter in a word.&nbsp;</p>
+<p>Mesothelioma is a rare cancer that develops in the thin membranes that line the chest and abdomen, most commonly caused by inhaling asbestos fibers. These fibers are often found in insulation, vinyl tiles, roofing materials and paint. Despite decades of regulations to limit asbestos exposure, approximately 3,000 people in the U.S. are diagnosed with mesothelioma each year, according to the American Cancer Society.&amp;nbsp;</p>
 
 
 
-<p>In the proof-of-concept <a href="https://www.sciencedirect.com/science/article/pii/S2666364324000626?via%3Dihub">study</a>, published in the Journal of Thoracic Oncology Clinical and Research Reports, Dr. Mansfield and his team used whole genome sequencing to locate key chromosomal changes in the DNA of cancer cells. Next, they created tiny pieces of DNA, called primers, that they designed in the lab to precisely match and attach to these chromosomal changes. They then searched for these changes in blood.&nbsp;</p>
+<p>Mesothelioma typically exhibits a low number of single-point genetic mutations, making it difficult to detect with traditional blood tests. However, the presence of chromosomal rearrangements — like shuffling words in a sentence — provides a new diagnostic target. This differs from many other cancers that often rely on detecting single-point mutations — tiny changes in the DNA sequence, similar to altering a single letter in a word.&amp;nbsp;</p>
 
 
 
-<p>This combination of cutting-edge tools allowed the researchers to create personalized tests that detect and track cancer DNA in each patient's blood.&nbsp;</p>
+<p>In the proof-of-concept <a href="https://www.sciencedirect.com/science/article/pii/S2666364324000626?via%3Dihub">study</a>, published in the Journal of Thoracic Oncology Clinical and Research Reports, Dr. Mansfield and his team used whole genome sequencing to locate key chromosomal changes in the DNA of cancer cells. Next, they created tiny pieces of DNA, called primers, that they designed in the lab to precisely match and attach to these chromosomal changes. They then searched for these changes in blood.&amp;nbsp;</p>
 
 
 
-<p>The findings build on the team's previous mesothelioma research, including a study that identified a genomic signature to predict which patients with mesothelioma could benefit from immunotherapy.&nbsp; Additionally, Dr. Mansfield’s previous research shows how chromosomal rearrangements have neoantigenic potential, meaning they can help the body make an immune response against cancer cells.&nbsp;</p>
+<p>This combination of cutting-edge tools allowed the researchers to create personalized tests that detect and track cancer DNA in each patient's blood.&amp;nbsp;</p>
 
 
 
-<p>The team plans to expand this study to include more patients and further refine the testing method.&nbsp;</p>
+<p>The findings build on the team's previous mesothelioma research, including a study that identified a genomic signature to predict which patients with mesothelioma could benefit from immunotherapy.&amp;nbsp; Additionally, Dr. Mansfield’s previous research shows how chromosomal rearrangements have neoantigenic potential, meaning they can help the body make an immune response against cancer cells.&amp;nbsp;</p>
 
 
 
-<p>Review the <a href="https://www.sciencedirect.com/science/article/pii/S2666364324000626?via%3Dihub">study</a> for a complete list of authors, disclosures and funding.&nbsp;</p>
+<p>The team plans to expand this study to include more patients and further refine the testing method.&amp;nbsp;</p>
+
+
+
+<p>Review the <a href="https://www.sciencedirect.com/science/article/pii/S2666364324000626?via%3Dihub">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/innovative-mayo-clinic-test-improves-mesothelioma-detection-rate-in-blood/">Innovative Mayo Clinic test may improve mesothelioma detection rate in blood&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -370,41 +378,41 @@
 	</item>
 		<item>
 		<title>Baby Oliver leaves legacy of genomic advances at Mayo Clinic</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/baby-oliver-leaves-legacy-of-genomic-advances-at-mayo-clinic/
+		<link>https://newsnetwork.mayoclinic.org/discussion/baby-oliver-leaves-legacy-of-genomic-advances-at-mayo-clinic/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Tue, 05 Nov 2024 13:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Brendan Lanpher]]--></category>
-		<category><!--[CDATA[Dr. Christopher Collura]]--></category>
-		<category><!--[CDATA[Dr. Whitney Thompson]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=394578</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Brendan Lanpher]]></category>
+		<category><![CDATA[Dr. Christopher Collura]]></category>
+		<category><![CDATA[Dr. Whitney Thompson]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=394578</guid>
 
-					<description><!--[CDATA[<p-->In his 18 months of life, Oliver Bates, with his soft red hair and big blue eyes, left an enduring legacy at Mayo Clinic. Oliver is remembered for his infectious smile and the love and resilience he radiated to all who knew him, even from the intensive care unit. Born with a rare and incurable […]<p></p>
+					<description><![CDATA[<p>In his 18 months of life, Oliver Bates, with his soft red hair and big blue eyes, left an enduring legacy at Mayo Clinic. Oliver is remembered for his infectious smile and the love and resilience he radiated to all who knew him, even from the intensive care unit. Born with a rare and incurable [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/baby-oliver-leaves-legacy-of-genomic-advances-at-mayo-clinic/">Baby Oliver leaves legacy of genomic advances at Mayo Clinic</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="569" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-1024x569.jpg" alt="" class="wp-image-395928" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-1024x569.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-300x167.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-768x427.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3.jpg 1247w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Oliver Bates. Courtesy of the Bates family.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="569" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-1024x569.jpg" alt="" class="wp-image-395928" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-1024x569.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-300x167.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3-768x427.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver3.jpg 1247w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Oliver Bates. Courtesy of the Bates family.</figcaption></figure>
 
 
 
-<p>In his 18 months of life, Oliver Bates, with his soft red hair and big blue eyes, left an enduring legacy at Mayo Clinic. Oliver is remembered for his infectious smile and the love and resilience he radiated to all who knew him, even from the intensive care unit. Born with a rare and incurable genetic epilepsy disorder, he inspired a pioneering program designed to expedite genomic-related diagnoses and enhance definitive patient care.&nbsp;&nbsp;</p>
+<p>In his 18 months of life, Oliver Bates, with his soft red hair and big blue eyes, left an enduring legacy at Mayo Clinic. Oliver is remembered for his infectious smile and the love and resilience he radiated to all who knew him, even from the intensive care unit. Born with a rare and incurable genetic epilepsy disorder, he inspired a pioneering program designed to expedite genomic-related diagnoses and enhance definitive patient care.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"Oliver's life was a brief gift, but he left a mark deeper than his time with us," says his mother, Justine Bates, sitting in the comforting glow of purple lights in honor of her baby boy. Those lights, adorning the windows and a memory tree in her Minnesota home, symbolize epilepsy awareness. Close to her heart, Justine has a tattoo of Oliver's small handprint.&nbsp;</p>
+<p>"Oliver's life was a brief gift, but he left a mark deeper than his time with us," says his mother, Justine Bates, sitting in the comforting glow of purple lights in honor of her baby boy. Those lights, adorning the windows and a memory tree in her Minnesota home, symbolize epilepsy awareness. Close to her heart, Justine has a tattoo of Oliver's small handprint.&amp;nbsp;</p>
 
 
 
-<p>Oliver's father, Casey Bates, will always remember the quiet evenings spent holding his son after work. He proudly displays his own tattoo that reads "Seize the day," a subtle nod to his son's seizure condition and a reminder to cherish every day.&nbsp;&nbsp;</p>
+<p>Oliver's father, Casey Bates, will always remember the quiet evenings spent holding his son after work. He proudly displays his own tattoo that reads "Seize the day," a subtle nod to his son's seizure condition and a reminder to cherish every day.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"He loved to laugh, and he had the best facial expressions. He was my snuggle bug," Casey says.&nbsp;</p>
+<p>"He loved to laugh, and he had the best facial expressions. He was my snuggle bug," Casey says.&amp;nbsp;</p>
 
 
 
@@ -412,11 +420,11 @@
 
 
 
-<p>Oliver's health journey began when he was just five weeks old, when his first seizure led his parents to rush him to a local emergency room. The complexity of his case and the initial hospital's difficulty in diagnosing him led them to transfer Oliver to Mayo Clinic for specialized care. At Mayo, Oliver underwent a comprehensive series of tests, including exome sequencing, which specifically examines 20,000 protein-coding genes where many diseases originate. Although this sequencing technique can provide crucial insights into rare conditions, it can require time for detailed analysis and interpretation of the results.&nbsp;</p>
+<p>Oliver's health journey began when he was just five weeks old, when his first seizure led his parents to rush him to a local emergency room. The complexity of his case and the initial hospital's difficulty in diagnosing him led them to transfer Oliver to Mayo Clinic for specialized care. At Mayo, Oliver underwent a comprehensive series of tests, including exome sequencing, which specifically examines 20,000 protein-coding genes where many diseases originate. Although this sequencing technique can provide crucial insights into rare conditions, it can require time for detailed analysis and interpretation of the results.&amp;nbsp;</p>
 
 
 
-<p>While Oliver's initial tests did not reveal the cause of his ongoing seizures, the exome sequencing, which took nearly a month to process, finally helped his care team diagnose Oliver's condition: a rare form of epilepsy known as WWOX-related epileptic encephalopathy (WOREE syndrome). Although the diagnosis helped his care team guide Oliver's care, the condition currently has no cure. He passed away on March 10, 2022, surrounded by his loved ones.&nbsp;&nbsp;</p>
+<p>While Oliver's initial tests did not reveal the cause of his ongoing seizures, the exome sequencing, which took nearly a month to process, finally helped his care team diagnose Oliver's condition: a rare form of epilepsy known as WWOX-related epileptic encephalopathy (WOREE syndrome). Although the diagnosis helped his care team guide Oliver's care, the condition currently has no cure. He passed away on March 10, 2022, surrounded by his loved ones.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -424,7 +432,7 @@
 
 
 
-<p>Rare diseases affect 300 million people worldwide, yet only about 25 percent of patients ever receive a diagnosis, and often that diagnosis has no available treatments. Recent advancements in genomic technologies are beginning to offer a glimmer of hope. Clinicians are using these cutting-edge tools, which leverage artificial intelligence (AI) to scour volumes of data, to transform diagnostics and make it possible to identify and understand rare diseases more quickly and accurately than ever before. This is opening avenues for the development of more treatments.&nbsp;</p>
+<p>Rare diseases affect 300 million people worldwide, yet only about 25 percent of patients ever receive a diagnosis, and often that diagnosis has no available treatments. Recent advancements in genomic technologies are beginning to offer a glimmer of hope. Clinicians are using these cutting-edge tools, which leverage artificial intelligence (AI) to scour volumes of data, to transform diagnostics and make it possible to identify and understand rare diseases more quickly and accurately than ever before. This is opening avenues for the development of more treatments.&amp;nbsp;</p>
 
 
 
@@ -432,34 +440,34 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="639" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-639x1024.png" alt="" class="wp-image-396066" style="width:428px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-639x1024.png 639w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-187x300.png 187w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-768x1230.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-959x1536.png 959w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6.png 1040w" sizes="(max-width: 639px) 100vw, 639px"><figcaption class="wp-element-caption">Dr. Thompson with Oliver Bates. Courtesy of the Bates family.</figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="639" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-639x1024.png" alt="" class="wp-image-396066" style="width:428px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-639x1024.png 639w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-187x300.png 187w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-768x1230.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6-959x1536.png 959w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-6.png 1040w" sizes="(max-width: 639px) 100vw, 639px" /><figcaption class="wp-element-caption">Dr. Thompson with Oliver Bates. Courtesy of the Bates family.</figcaption></figure></div>
 
 
-<p>Witnessing firsthand the critical need for such advancements, Whitney Thompson, M.D., a key member of Oliver's care team, felt compelled to act, moved by Oliver's family's wait for a diagnosis. With support from the Department of Pediatric and Adolescent Medicine and the <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine">Center for Individualized Medicine</a>, she launched an ultra-rapid whole genome sequencing program in Mayo Clinic's neonatal intensive care unit (NICU).&nbsp;&nbsp;</p>
-
-
-
-<p>In this pioneering program, which is a collaboration with Rady Children's Institute for Genomic Medicine, clinicians use new sophisticated technology and AI to sequence a patient's 3 billion DNA base pairs in approximately 48 hours. This comprehensive analysis can identify even the most subtle genetic variants, though it may not always lead to a diagnosis.&nbsp;</p>
+<p>Witnessing firsthand the critical need for such advancements, Whitney Thompson, M.D., a key member of Oliver's care team, felt compelled to act, moved by Oliver's family's wait for a diagnosis. With support from the Department of Pediatric and Adolescent Medicine and the <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine">Center for Individualized Medicine</a>, she launched an ultra-rapid whole genome sequencing program in Mayo Clinic's neonatal intensive care unit (NICU).&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"Rapid diagnoses can lead to lifesaving treatments in some cases, and while not every rare disease has a treatment, every diagnosis brings crucial information that can guide medical decisions and help families anticipate what’s next," says Dr. Thompson, who is completing her fellowship training in Neonatal Medicine, Clinical Genomics and Bioethics as part of the <a href="https://college.mayo.edu/academics/residencies-and-fellowships/clinician-investigator-training-program/" target="_blank" rel="noreferrer noopener">Clinician Investigator Training Program at Mayo Clinic.</a>&nbsp;&nbsp;</p>
+<p>In this pioneering program, which is a collaboration with Rady Children's Institute for Genomic Medicine, clinicians use new sophisticated technology and AI to sequence a patient's 3 billion DNA base pairs in approximately 48 hours. This comprehensive analysis can identify even the most subtle genetic variants, though it may not always lead to a diagnosis.&amp;nbsp;</p>
 
 
 
-<p>Under this program, through the <a href="https://www.mayoclinic.org/departments-centers/clinical-genomics/sections/overview/ovc-20567367">Mayo Clinic Department of Clinical Genomics </a>with <a href="https://www.mayo.edu/research/faculty/lanpher-brendan-c-m-d/bio-20357409" target="_blank" rel="noreferrer noopener">Brendan Lanpher, M.D.</a>, as practice chair, infants and children admitted to the Mayo Clinic's Eugenio Litta Children's Hospital in Minnesota undergo ultra-rapid whole genome sequencing if they meet specific criteria.&nbsp;</p>
+<p>"Rapid diagnoses can lead to lifesaving treatments in some cases, and while not every rare disease has a treatment, every diagnosis brings crucial information that can guide medical decisions and help families anticipate what’s next," says Dr. Thompson, who is completing her fellowship training in Neonatal Medicine, Clinical Genomics and Bioethics as part of the <a href="https://college.mayo.edu/academics/residencies-and-fellowships/clinician-investigator-training-program/" target="_blank" rel="noreferrer noopener">Clinician Investigator Training Program at Mayo Clinic.</a>&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The program, launched at Mayo in June 2022, has since been expanded to some adults who exhibit symptoms suggestive of genetic disease, enabling them to receive the same rapid, comprehensive DNA analysis. To date, more than 300 infants, children and adults have been offered whole genome sequencing.&nbsp;&nbsp;</p>
+<p>Under this program, through the <a href="https://www.mayoclinic.org/departments-centers/clinical-genomics/sections/overview/ovc-20567367">Mayo Clinic Department of Clinical Genomics </a>with <a href="https://www.mayo.edu/research/faculty/lanpher-brendan-c-m-d/bio-20357409" target="_blank" rel="noreferrer noopener">Brendan Lanpher, M.D.</a>, as practice chair, infants and children admitted to the Mayo Clinic's Eugenio Litta Children's Hospital in Minnesota undergo ultra-rapid whole genome sequencing if they meet specific criteria.&amp;nbsp;</p>
 
 
 
-<p>Dr. Lanpher hopes the program will open the door to more patients having access to comprehensive genetic testing.&nbsp;</p>
+<p>The program, launched at Mayo in June 2022, has since been expanded to some adults who exhibit symptoms suggestive of genetic disease, enabling them to receive the same rapid, comprehensive DNA analysis. To date, more than 300 infants, children and adults have been offered whole genome sequencing.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"This is the future of medicine," Dr. Lanpher says. "I believe there are many patients with unrecognized or undiagnosed genetic diseases, and by finding and testing these patients early in the course of symptoms, we'll have the best chance at making a difference, finding a treatment and avoiding a diagnostic odyssey."&nbsp;</p>
+<p>Dr. Lanpher hopes the program will open the door to more patients having access to comprehensive genetic testing.&amp;nbsp;</p>
+
+
+
+<p>"This is the future of medicine," Dr. Lanpher says. "I believe there are many patients with unrecognized or undiagnosed genetic diseases, and by finding and testing these patients early in the course of symptoms, we'll have the best chance at making a difference, finding a treatment and avoiding a diagnostic odyssey."&amp;nbsp;</p>
 
 
 
@@ -467,22 +475,22 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-768x1024.jpeg" alt="" class="wp-image-396022" style="width:383px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-768x1024.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-225x300.jpeg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-1152x1536.jpeg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-1536x2048.jpeg 1536w" sizes="(max-width: 768px) 100vw, 768px"><figcaption class="wp-element-caption">Oliver's family holds a balloon in memory of him on what would have been his third birthday. (Courtesy of the Bates family)</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-768x1024.jpeg" alt="" class="wp-image-396022" style="width:383px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-768x1024.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-225x300.jpeg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-1152x1536.jpeg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Oliver-5-1536x2048.jpeg 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Oliver's family holds a balloon in memory of him on what would have been his third birthday. (Courtesy of the Bates family)</figcaption></figure></div>
 
 
-<p>Achieving a precision diagnosis is just the first step of a broader goal. Dr. Thompson and her team also have their sights set on rapid individualized therapeutics. She is collaborating with <a href="https://www.mayo.edu/research/faculty/lambert-laura-j-ph-d/bio-20545313">Laura Lambert, Ph.D.</a>, director of the Mayo Clinic Functional Omics Resource (FORce), along with <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.</a>, the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation at the Center for Individualized Medicine and <a href="https://www.mayo.edu/research/faculty/pinto-e-vairo-filippo-m-d-ph-d/bio-20503559" target="_blank" rel="noreferrer noopener">Filippo Pinto e Vairo, M.D., Ph.D.,</a> director of the center's Program for Rare and Undiagnosed Diseases.&nbsp;&nbsp;</p>
-
-
-
-<p>Together, they have initiated a first-of-its-kind program called BabyFORce, <a href="https://newsnetwork.mayoclinic.org/discussion/cracking-the-code-how-the-human-phenotype-ontology-advances-genetic-discovery/">which uses AI </a>to help clinicians identify individualized therapeutics for some of the smallest and sickest patients with genetic diseases in the neonatal intensive care unit.&nbsp;</p>
+<p>Achieving a precision diagnosis is just the first step of a broader goal. Dr. Thompson and her team also have their sights set on rapid individualized therapeutics. She is collaborating with <a href="https://www.mayo.edu/research/faculty/lambert-laura-j-ph-d/bio-20545313">Laura Lambert, Ph.D.</a>, director of the Mayo Clinic Functional Omics Resource (FORce), along with <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.</a>, the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation at the Center for Individualized Medicine and <a href="https://www.mayo.edu/research/faculty/pinto-e-vairo-filippo-m-d-ph-d/bio-20503559" target="_blank" rel="noreferrer noopener">Filippo Pinto e Vairo, M.D., Ph.D.,</a> director of the center's Program for Rare and Undiagnosed Diseases.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"We’re tapping into an advanced AI platform that leverages a 'logic programming' approach, applying set rules to combine and analyze various biomedical data sources," says Dr. Lambert. "This could enable researchers to identify potential drug repurposing opportunities, generate hypotheses and uncover novel insights into disease mechanisms."&nbsp;</p>
+<p>Together, they have initiated a first-of-its-kind program called BabyFORce, <a href="https://newsnetwork.mayoclinic.org/discussion/cracking-the-code-how-the-human-phenotype-ontology-advances-genetic-discovery/">which uses AI </a>to help clinicians identify individualized therapeutics for some of the smallest and sickest patients with genetic diseases in the neonatal intensive care unit.&amp;nbsp;</p>
 
 
 
-<p>She says the approach could also reduce the time and cost associated with developing new therapies and provide hope for patients with limited treatment options.&nbsp;</p>
+<p>"We’re tapping into an advanced AI platform that leverages a 'logic programming' approach, applying set rules to combine and analyze various biomedical data sources," says Dr. Lambert. "This could enable researchers to identify potential drug repurposing opportunities, generate hypotheses and uncover novel insights into disease mechanisms."&amp;nbsp;</p>
+
+
+
+<p>She says the approach could also reduce the time and cost associated with developing new therapies and provide hope for patients with limited treatment options.&amp;nbsp;</p>
 
 
 
@@ -490,11 +498,11 @@
 
 
 
-<p>Oliver's impact extends beyond medical advancements. As his care unfolded during the challenging times of COVID-19, he also inspired Mayo's pediatric palliative care team to start a tele-hospice program. This ensured that children in hospice care could continue to receive compassionate support remotely.&nbsp;</p>
+<p>Oliver's impact extends beyond medical advancements. As his care unfolded during the challenging times of COVID-19, he also inspired Mayo's pediatric palliative care team to start a tele-hospice program. This ensured that children in hospice care could continue to receive compassionate support remotely.&amp;nbsp;</p>
 
 
 
-<p>"All of the providers who cared for Oliver learned so much from him and his family, including how helpful it was to have real-time video assessment of patients with challenging pain and symptoms during in-home hospice visits by nurses," says <a href="https://www.mayoclinic.org/biographies/collura-christopher-a-m-d/bio-20387631">Christopher Collura, M.D</a>., the Medical Director of Pediatric Palliative Care (ComPASS) at Mayo. "This inspired our team to formalize a tele-hospice program in order to streamline assessments by pediatric palliative medicine physicians for children enrolled with Mayo Clinic Hospice."&nbsp;</p>
+<p>"All of the providers who cared for Oliver learned so much from him and his family, including how helpful it was to have real-time video assessment of patients with challenging pain and symptoms during in-home hospice visits by nurses," says <a href="https://www.mayoclinic.org/biographies/collura-christopher-a-m-d/bio-20387631">Christopher Collura, M.D</a>., the Medical Director of Pediatric Palliative Care (ComPASS) at Mayo. "This inspired our team to formalize a tele-hospice program in order to streamline assessments by pediatric palliative medicine physicians for children enrolled with Mayo Clinic Hospice."&amp;nbsp;</p>
 
 
 
@@ -502,30 +510,30 @@
 
 
 
-<p>Throughout Oliver's life and even in his final hours, Dr. Thompson and her team formed a tight, supportive relationship with Oliver and his family, providing comfort and care when it was most needed.&nbsp;&nbsp;</p>
+<p>Throughout Oliver's life and even in his final hours, Dr. Thompson and her team formed a tight, supportive relationship with Oliver and his family, providing comfort and care when it was most needed.&amp;nbsp;&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-768x1024.jpeg" alt="" class="wp-image-395934" style="width:441px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-768x1024.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-225x300.jpeg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-1152x1536.jpeg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-1536x2048.jpeg 1536w" sizes="(max-width: 768px) 100vw, 768px"><figcaption class="wp-element-caption">Dr. Whitney Thompson holding Whitney Bates. Courtesy of the Bates family.</figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-768x1024.jpeg" alt="" class="wp-image-395934" style="width:441px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-768x1024.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-225x300.jpeg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-1152x1536.jpeg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/DR.THOMPSON-3-1536x2048.jpeg 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Dr. Whitney Thompson holding Whitney Bates. Courtesy of the Bates family.</figcaption></figure></div>
 
 
-<p>"Dr. Thompson was really there for us during the hardest time of our lives. And she has continued to support us after Oliver's death," Justine says. "Every year she joins us to honor his memory at our balloon release on Oliver's birthday."&nbsp;</p>
-
-
-
-<p>The Bates family also reached out to Dr. Thompson for guidance on the potential for having another child.&nbsp;&nbsp;&nbsp;</p>
+<p>"Dr. Thompson was really there for us during the hardest time of our lives. And she has continued to support us after Oliver's death," Justine says. "Every year she joins us to honor his memory at our balloon release on Oliver's birthday."&amp;nbsp;</p>
 
 
 
-<p>WOREE syndrome, the genetic condition that affected Oliver, is a recessive disorder. That means both parents carry a copy of the mutated gene but usually show no symptoms. Each pregnancy has a 25% chance of the child inheriting two defective genes — one from each parent — which leads to the disease. Using these genetic insights, Dr. Thompson helped guide the Bates family to the subspecialists who helped them choose a plan that would increase the likelihood of a healthy pregnancy unaffected by the same genetic condition that Oliver had.&nbsp;&nbsp;</p>
+<p>The Bates family also reached out to Dr. Thompson for guidance on the potential for having another child.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>In May, Oliver's legacy was further celebrated with the birth of his baby sister. Justine and Casey named her Whitney, in tribute to Dr. Thompson, reflecting their deep gratitude for the care and dedication Dr. Thompson gave to Oliver and their family.&nbsp;&nbsp;</p>
+<p>WOREE syndrome, the genetic condition that affected Oliver, is a recessive disorder. That means both parents carry a copy of the mutated gene but usually show no symptoms. Each pregnancy has a 25% chance of the child inheriting two defective genes — one from each parent — which leads to the disease. Using these genetic insights, Dr. Thompson helped guide the Bates family to the subspecialists who helped them choose a plan that would increase the likelihood of a healthy pregnancy unaffected by the same genetic condition that Oliver had.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"I am deeply touched by this gesture," Dr. Thompson says. "Oliver's story shows us that new beginnings can coexist with cherished memories to help provide healing and comfort."&nbsp;</p>
+<p>In May, Oliver's legacy was further celebrated with the birth of his baby sister. Justine and Casey named her Whitney, in tribute to Dr. Thompson, reflecting their deep gratitude for the care and dedication Dr. Thompson gave to Oliver and their family.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>"I am deeply touched by this gesture," Dr. Thompson says. "Oliver's story shows us that new beginnings can coexist with cherished memories to help provide healing and comfort."&amp;nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/baby-oliver-leaves-legacy-of-genomic-advances-at-mayo-clinic/">Baby Oliver leaves legacy of genomic advances at Mayo Clinic</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -533,33 +541,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1x1-OLIVER.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9OLIVER.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Brendan Lanpher]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Christopher Collura]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Whitney Thompson]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Brendan Lanpher]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Christopher Collura]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Whitney Thompson]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>(VIDEO) Harnessing the power of innovation and a patient’s will to survive</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/videoharnessing-the-power-of-innovation-and-a-patients-will-to-survive/
+		<title>(VIDEO) Harnessing the power of innovation and a patient&amp;#8217;s will to survive</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/videoharnessing-the-power-of-innovation-and-a-patients-will-to-survive/</link>
 		
-		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
-		<pubdate>Thu, 31 Oct 2024 19:30:00 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Diversity]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Healthcare Delivery]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Transplant Patient Stories]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Marty Velasco Hames]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395496</guid>
+		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2024 19:30:00 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Healthcare Delivery]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Transplant Patient Stories]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Marty Velasco Hames]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395496</guid>
 
-					<description><!--[CDATA[<p-->At 27 years old, Shraddha Kalgutkar was told she had less than a year to live. Determined to prove everyone wrong, she turned to Mayo Clinic in Arizona. Now Shraddha is living proof of the power of innovation combined with a patient's will to survive. Watch: Harnessing the power of innovation and a patient's will […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/videoharnessing-the-power-of-innovation-and-a-patients-will-to-survive/">(VIDEO) Harnessing the power of innovation and a patient’s will to survive</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>At 27 years old, Shraddha Kalgutkar was told she had less than a year to live. Determined to prove everyone wrong, she turned to Mayo Clinic in Arizona. Now Shraddha is living proof of the power of innovation combined with a patient's will to survive. Watch: Harnessing the power of innovation and a patient's will [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/videoharnessing-the-power-of-innovation-and-a-patients-will-to-survive/">(VIDEO) Harnessing the power of innovation and a patient&amp;#8217;s will to survive</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-1024x576.jpg" alt="" class="wp-image-395836" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong><mark style="background-color:#ffffff" class="has-inline-color has-black-color">Shraddha Kaltgutar at Mayo Clinic in Phoenix, AZ</mark></strong></figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-1024x576.jpg" alt="" class="wp-image-395836" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Close-up-of-shraddha-on-ECMO_16x9-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><mark style="background-color:#ffffff" class="has-inline-color has-black-color">Shraddha Kaltgutar at Mayo Clinic in Phoenix, AZ</mark></strong></figcaption></figure>
 
 
 
@@ -576,7 +584,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidLlFER2E3OEo" title="Harnessing the power of innovation and a patient's will to survive" width="500" height="281" src="https://www.youtube.com/embed/LlFER2E3OEo?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidLlFER2E3OEo"  title="Harnessing the power of innovation and a patient&amp;#039;s will to survive" width="500" height="281" src="https://www.youtube.com/embed/LlFER2E3OEo?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -609,7 +617,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="822" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-822x1024.jpg" alt="" class="wp-image-395502" style="width:650px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-822x1024.jpg 822w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-241x300.jpg 241w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-768x957.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-1233x1536.jpg 1233w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-1643x2048.jpg 1643w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach.jpg 1812w" sizes="(max-width: 822px) 100vw, 822px"><figcaption class="wp-element-caption"><mark style="background-color:#ffffff" class="has-inline-color has-black-color"><strong>Shraddha enjoying the California coastline two years after surviving a condition that nearly took her life</strong></mark></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="822" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-822x1024.jpg" alt="" class="wp-image-395502" style="width:650px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-822x1024.jpg 822w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-241x300.jpg 241w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-768x957.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-1233x1536.jpg 1233w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach-1643x2048.jpg 1643w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach.jpg 1812w" sizes="(max-width: 822px) 100vw, 822px" /><figcaption class="wp-element-caption"><mark style="background-color:#ffffff" class="has-inline-color has-black-color"><strong>Shraddha enjoying the California coastline two years after surviving a condition that nearly took her life</strong></mark></figcaption></figure></div>
 
 
 <p>At the hospital doctors began looking for the cause of Shraddha's low blood oxygen level.  A series of tests traced Shraddha's condition all the way back to the day she was born.</p>
@@ -624,7 +632,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="226" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-226x300.jpg" alt="" class="wp-image-395820" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-226x300.jpg 226w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-771x1024.jpg 771w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-768x1019.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1.jpg 1054w" sizes="(max-width: 226px) 100vw, 226px"><figcaption class="wp-element-caption"><strong>Shraddah at 5 years old in her childhood home in Mumbai, India</strong></figcaption></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="226" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-226x300.jpg" alt="" class="wp-image-395820" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-226x300.jpg 226w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-771x1024.jpg 771w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1-768x1019.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-little-girl-pic-1.jpg 1054w" sizes="(max-width: 226px) 100vw, 226px" /><figcaption class="wp-element-caption"><strong>Shraddah at 5 years old in her childhood home in Mumbai, India</strong></figcaption></figure></div>
 
 
 <p>Shraddha was born in Mumbai, India which is often called the "City of Dreams." At a young age, Shraddha had big dreams of her own.  She wanted to pursue a career in the medical field that would allow her to help others. </p>
@@ -647,7 +655,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="799" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-1024x799.jpg" alt="" class="wp-image-395512" style="width:719px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-1024x799.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-300x234.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-768x599.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-1536x1199.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad.jpg 1848w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="799" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-1024x799.jpg" alt="" class="wp-image-395512" style="width:719px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-1024x799.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-300x234.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-768x599.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad-1536x1199.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-sad.jpg 1848w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 <p>All was going well until Shraddha began to noticed she was unusually tired. "When my sister came to visit she noticed I got tired after walking short distances. I went to the doctor and they thought maybe it was my thyroid," recalls Shraddha.</p>
@@ -682,11 +690,11 @@
 
 
 
-<p>"More than 40% of her blood was being shunted away from her lungs. Because of that she had extremely low oxygen levels in her blood," explains <a href="https://www.mayoclinic.org/biographies/aqel-bashar-a-m-d/bio-20055093" target="_blank" rel="noreferrer noopener">Bashar Aqel, M.D.</a>, director of the <a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/expertise-ranking/orc-20203899?customer_id=173-378-9621&amp;mc_id=google&amp;campaign=20718088499&amp;geo=9030070&amp;kw=transplant%20center%20arizona&amp;ad=678670770145&amp;network=g&amp;sitetarget=&amp;adgroup=158054873227&amp;extension=&amp;target=kwd-1284412548384&amp;matchtype=p&amp;device=c&amp;account=1733789621&amp;invsrc=transplant&amp;placementsite=enterprise&amp;gclid=EAIaIQobChMI1bPG-JO5iQMVrjYIBR0f-AKlEAAYASAAEgKkU_D_BwE" target="_blank" rel="noreferrer noopener">Transplant Center at Mayo Clinic in Arizona.</a> "Shraddha's case was one of the most severe cases of liver disease and hepatopulmonary syndrome."</p>
+<p>"More than 40% of her blood was being shunted away from her lungs. Because of that she had extremely low oxygen levels in her blood," explains <a href="https://www.mayoclinic.org/biographies/aqel-bashar-a-m-d/bio-20055093" target="_blank" rel="noreferrer noopener">Bashar Aqel, M.D.</a>, director of the <a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/expertise-ranking/orc-20203899?customer_id=173-378-9621&amp;amp;mc_id=google&amp;amp;campaign=20718088499&amp;amp;geo=9030070&amp;amp;kw=transplant%20center%20arizona&amp;amp;ad=678670770145&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=158054873227&amp;amp;extension=&amp;amp;target=kwd-1284412548384&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=1733789621&amp;amp;invsrc=transplant&amp;amp;placementsite=enterprise&amp;amp;gclid=EAIaIQobChMI1bPG-JO5iQMVrjYIBR0f-AKlEAAYASAAEgKkU_D_BwE" target="_blank" rel="noreferrer noopener">Transplant Center at Mayo Clinic in Arizona.</a> "Shraddha's case was one of the most severe cases of liver disease and hepatopulmonary syndrome."</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="205" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-300x205.png" alt="" class="wp-image-395516" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-300x205.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-1024x701.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-768x526.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-1536x1052.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-2048x1403.png 2048w" sizes="(max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption"><strong>Bashar Aqel, M.D., Director, Mayo Clinic Transplant Center in Arizona</strong></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="205" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-300x205.png" alt="" class="wp-image-395516" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-300x205.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-1024x701.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-768x526.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-1536x1052.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Aqel-talking-about-Shraddha-2048x1403.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption"><strong>Bashar Aqel, M.D., Director, Mayo Clinic Transplant Center in Arizona</strong></figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><strong>Saving Shraddha</strong></h2>
@@ -721,7 +729,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-1024x576.jpg" alt="" class="wp-image-395567" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">"<strong>Liver in a box" safely preserves donor organ at body temperature until transplant</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-1024x576.jpg" alt="" class="wp-image-395567" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Liver-In-a-box-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">"<strong>Liver in a box" safely preserves donor organ at body temperature until transplant</strong></figcaption></figure>
 
 
 
@@ -741,7 +749,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="723" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-723x1024.jpg" alt="" class="wp-image-395506" style="width:558px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-723x1024.jpg 723w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-212x300.jpg 212w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-768x1088.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3.jpg 826w" sizes="(max-width: 723px) 100vw, 723px"><figcaption class="wp-element-caption"><strong>Shraddha walking on mobile ECMO on December 24, 2022</strong> <strong>- her 28th birthday</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="723" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-723x1024.jpg" alt="" class="wp-image-395506" style="width:558px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-723x1024.jpg 723w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-212x300.jpg 212w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3-768x1088.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-mobile-ECMO-3.jpg 826w" sizes="(max-width: 723px) 100vw, 723px" /><figcaption class="wp-element-caption"><strong>Shraddha walking on mobile ECMO on December 24, 2022</strong> <strong>- her 28th birthday</strong></figcaption></figure></div>
 
 
 <p>"The best part of the mobile ECMO was that we do it in a way where she could actually walk around with the machine so that we could continue with her physical therapy, which is so important for the healing process after such a complex surgery," says Dr. Sen.</p>
@@ -764,7 +772,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="300" height="178" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-300x178.jpg" alt="" class="wp-image-395520" style="width:312px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-300x178.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-1024x607.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-768x455.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-1536x910.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-2048x1214.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption"><strong>Ayan Sen, M.D., Medical Director, Intensive Care Unit at Mayo Clinic in Arizona</strong></figcaption></figure></div>
+<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="300" height="178" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-300x178.jpg" alt="" class="wp-image-395520" style="width:312px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-300x178.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-1024x607.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-768x455.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-1536x910.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Sen-close-up-headshot-2048x1214.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption"><strong>Ayan Sen, M.D., Medical Director, Intensive Care Unit at Mayo Clinic in Arizona</strong></figcaption></figure></div>
 
 
 <p>"It has enabled us to raise the bar when it comes to saving people, who, until now, could not have been saved in the absence of this heart-lung machine," says Dr. Sen.</p>
@@ -791,7 +799,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="792" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-792x1024.png" alt="" class="wp-image-395850" style="width:567px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-792x1024.png 792w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-232x300.png 232w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-768x993.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-1188x1536.png 1188w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo.png 1406w" sizes="(max-width: 792px) 100vw, 792px"><figcaption class="wp-element-caption"><strong>Shraddha visiting Mayo Clinic after her lifesaving transplant</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="792" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-792x1024.png" alt="" class="wp-image-395850" style="width:567px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-792x1024.png 792w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-232x300.png 232w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-768x993.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo-1188x1536.png 1188w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-at-Mayo.png 1406w" sizes="(max-width: 792px) 100vw, 792px" /><figcaption class="wp-element-caption"><strong>Shraddha visiting Mayo Clinic after her lifesaving transplant</strong></figcaption></figure></div>
 
 
 <p>"Mayo Clinic doesn't like to say no. They set out to achieve the unachievable," says Shraddha. "My goal is to treat patients as they do, making them a priority."</p>
@@ -806,7 +814,7 @@
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity">
+<hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
 
@@ -825,42 +833,42 @@
 
 <li><a href="https://newsnetwork.mayoclinic.org/discussion/organ-transplant-innovation-helping-more-people-get-the-gift-of-life/">Organ Transplant Innovation: Helping more people get the gift of life</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/videoharnessing-the-power-of-innovation-and-a-patients-will-to-survive/">(VIDEO) Harnessing the power of innovation and a patient’s will to survive</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/videoharnessing-the-power-of-innovation-and-a-patients-will-to-survive/">(VIDEO) Harnessing the power of innovation and a patient&amp;#8217;s will to survive</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Marty Velasco Hames]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Marty Velasco Hames]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Research shows new method helps doctors safely remove dangerous heart infections without surgery</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/research-shows-new-method-helps-doctors-safely-remove-dangerous-heart-infections-without-surgery/
+		<link>https://newsnetwork.mayoclinic.org/discussion/research-shows-new-method-helps-doctors-safely-remove-dangerous-heart-infections-without-surgery/</link>
 		
-		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
-		<pubdate>Wed, 30 Oct 2024 18:37:46 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Cardiology]]--></category>
-		<category><!--[CDATA[Catheter]]--></category>
-		<category><!--[CDATA[Dr. Abdallah El Sabbagh]]--></category>
-		<category><!--[CDATA[Endocarditis]]--></category>
-		<category><!--[CDATA[Florida News Releases]]--></category>
-		<category><!--[CDATA[Heart]]--></category>
-		<category><!--[CDATA[heart infection]]--></category>
-		<category><!--[CDATA[heart procedure]]--></category>
-		<category><!--[CDATA[Infective Endocarditis]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395662</guid>
+		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2024 18:37:46 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Cardiology]]></category>
+		<category><![CDATA[Catheter]]></category>
+		<category><![CDATA[Dr. Abdallah El Sabbagh]]></category>
+		<category><![CDATA[Endocarditis]]></category>
+		<category><![CDATA[Florida News Releases]]></category>
+		<category><![CDATA[Heart]]></category>
+		<category><![CDATA[heart infection]]></category>
+		<category><![CDATA[heart procedure]]></category>
+		<category><![CDATA[Infective Endocarditis]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395662</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Doctors at Mayo Clinic used a new catheter-based approach to draw out resistant pockets of infection that settle in the heart, known as right-sided infective endocarditis, without surgery. Unless treated quickly, the walled-off infections can grow, severely damaging heart valves and potentially affecting other organs as well. In a recent study, over […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Doctors at Mayo Clinic used a new catheter-based approach to draw out resistant pockets of infection that settle in the heart, known as right-sided infective endocarditis, without surgery. Unless treated quickly, the walled-off infections can grow, severely damaging heart valves and potentially affecting other organs as well. In a recent study, over [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/research-shows-new-method-helps-doctors-safely-remove-dangerous-heart-infections-without-surgery/">Research shows new method helps doctors safely remove dangerous heart infections without surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="680" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-1024x680.jpg" alt="Red heart in the hand of a physician" class="wp-image-178436" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-1024x680.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-300x199.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="680" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-1024x680.jpg" alt="Red heart in the hand of a physician" class="wp-image-178436" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-1024x680.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-300x199.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -868,14 +876,14 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-200x300.jpg" alt="" class="wp-image-395747" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001.jpg 750w" sizes="(max-width: 200px) 100vw, 200px"><figcaption class="wp-element-caption"><sup>Abdallah El Sabbagh, M.D. </sup></figcaption></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-200x300.jpg" alt="" class="wp-image-395747" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001.jpg 750w" sizes="(max-width: 200px) 100vw, 200px" /><figcaption class="wp-element-caption"><sup>Abdallah El Sabbagh, M.D. </sup></figcaption></figure></div>
 
 
 <p>The research is part of a Mayo Clinic-led study across 19 U.S. sites involving patients who were not good candidates for surgery and whose right-sided heart infections had not responded to antibiotics. <a href="https://www.mayoclinic.org/biographies/el-sabbagh-abdallah-m-d/bio-20466764" target="_blank" rel="noreferrer noopener">Abdallah El Sabbagh, M.D.</a>, an interventional cardiologist at Mayo Clinic in Jacksonville, Florida, was the study's principal investigator. Dr. El Sabbagh presented late-breaking research findings at the Transcatheter Cardiovascular Therapeutics Symposium on Oct. 30.</p>
 
 
 
-<p>High-risk patients have few treatment options when a&nbsp;serious infection becomes entrenched in a heart valve. People with weakened immune systems, such as those who have had a transplant or cancer treatment, are more susceptible to such infections. IV drug users and patients with implanted medical devices such as pacemakers and artificial heart valves are also more likely to develop infective endocarditis. Approximately half of the 285 study participants were people who inject IV drugs.</p>
+<p>High-risk patients have few treatment options when a&amp;nbsp;serious infection becomes entrenched in a heart valve. People with weakened immune systems, such as those who have had a transplant or cancer treatment, are more susceptible to such infections. IV drug users and patients with implanted medical devices such as pacemakers and artificial heart valves are also more likely to develop infective endocarditis. Approximately half of the 285 study participants were people who inject IV drugs.</p>
 
 
 
@@ -883,7 +891,7 @@
 
 
 
-<p>The catheter-based system was originally developed to remove blood clots from the lungs without surgery. While its off-label use for infective endocarditis shows potential as a safe and effective option, Dr. El Sabbagh notes that further prospective study is needed. &nbsp;</p>
+<p>The catheter-based system was originally developed to remove blood clots from the lungs without surgery. While its off-label use for infective endocarditis shows potential as a safe and effective option, Dr. El Sabbagh notes that further prospective study is needed. &amp;nbsp;</p>
 
 
 
@@ -891,7 +899,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -909,37 +917,37 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Cardiology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Catheter]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Abdallah El Sabbagh]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Endocarditis]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart infection]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart procedure]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Infective Endocarditis]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Cardiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Catheter]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Abdallah El Sabbagh]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Endocarditis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart infection]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart procedure]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Infective Endocarditis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic experts highlight advances in breast cancer research: Decreasing the need for chemotherapy and reducing the intensity of radiation therapy</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-highlight-advances-in-breast-cancer-research-decreasing-the-need-for-chemotherapy-and-reducing-the-intensity-of-radiation-therapy/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-highlight-advances-in-breast-cancer-research-decreasing-the-need-for-chemotherapy-and-reducing-the-intensity-of-radiation-therapy/</link>
 		
-		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
-		<pubdate>Wed, 30 Oct 2024 18:23:37 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Dr. Aaron Krych]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[Breast Cancer]]--></category>
-		<category><!--[CDATA[Dr. Matthew Goetz]]--></category>
-		<category><!--[CDATA[Dr. Robert Mutter]]--></category>
-		<category><!--[CDATA[Dr. Roberto Leon-Ferre]]--></category>
-		<category><!--[CDATA[Dr. Tufia Haddad]]--></category>
-		<category><!--[CDATA[Florida News Releases]]--></category>
-		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395724</guid>
+		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2024 18:23:37 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Dr. Aaron Krych]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[Breast Cancer]]></category>
+		<category><![CDATA[Dr. Matthew Goetz]]></category>
+		<category><![CDATA[Dr. Robert Mutter]]></category>
+		<category><![CDATA[Dr. Roberto Leon-Ferre]]></category>
+		<category><![CDATA[Dr. Tufia Haddad]]></category>
+		<category><![CDATA[Florida News Releases]]></category>
+		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395724</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Lifesaving cancer therapies can cause serious side effects, both immediately and later in life. "It is essential to continue to study innovative approaches that will eradicate the disease but won't diminish the quality of life for patients diagnosed with cancer," says Roberto Leon-Ferre, M.D., a breast medical oncologist at Mayo Clinic. With […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Lifesaving cancer therapies can cause serious side effects, both immediately and later in life. "It is essential to continue to study innovative approaches that will eradicate the disease but won't diminish the quality of life for patients diagnosed with cancer," says Roberto Leon-Ferre, M.D., a breast medical oncologist at Mayo Clinic. With [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-highlight-advances-in-breast-cancer-research-decreasing-the-need-for-chemotherapy-and-reducing-the-intensity-of-radiation-therapy/">Mayo Clinic experts highlight advances in breast cancer research: Decreasing the need for chemotherapy and reducing the intensity of radiation therapy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-1024x683.jpg" alt="" class="wp-image-395750" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-1024x683.jpg" alt="" class="wp-image-395750" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1003,7 +1011,7 @@
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -1025,26 +1033,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/breast-cancer-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Dr. Aaron Krych]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Breast Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Goetz]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Robert Mutter]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Roberto Leon-Ferre]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Tufia Haddad]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Dr. Aaron Krych]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Breast Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Goetz]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Robert Mutter]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Roberto Leon-Ferre]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tufia Haddad]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic’s data-driven quest to advance individualized medicine</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-data-driven-quest-to-advance-individualized-medicine/
+		<title>Mayo Clinic&amp;#8217;s data-driven quest to advance individualized medicine</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-data-driven-quest-to-advance-individualized-medicine/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Wed, 30 Oct 2024 10:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Eric Klee]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395573</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2024 10:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Eric Klee]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395573</guid>
 
-					<description><!--[CDATA[<p-->Inside every person are nearly 3 billion DNA base pairs, trillions of cells and microbes, thousands of genes and hundreds of thousands of proteins and other key molecules — a vast collection of data holding clues to health and disease. At Mayo Clinic's Center for Individualized Medicine, a digital transformation is equipping clinicians with tools […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-data-driven-quest-to-advance-individualized-medicine/">Mayo Clinic’s data-driven quest to advance individualized medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>Inside every person are nearly 3 billion DNA base pairs, trillions of cells and microbes, thousands of genes and hundreds of thousands of proteins and other key molecules — a vast collection of data holding clues to health and disease. At Mayo Clinic's Center for Individualized Medicine, a digital transformation is equipping clinicians with tools [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-data-driven-quest-to-advance-individualized-medicine/">Mayo Clinic&amp;#8217;s data-driven quest to advance individualized medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/digital-data.mp4"></video>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/digital-data.mp4"></video></figure>
 
 
 
@@ -1056,15 +1064,15 @@
 
 
 
-<p>This shift is expanding the focus beyond traditional measures like blood pressure and cholesterol.&nbsp;Clinicians and scientists are now exploring genetics (genomics) to understand DNA; proteins (proteomics) that drive cellular functions; chemical changes (metabolomics) that reveal how the body responds to diet and environment, along with other biological characteristics. Together, these details provide a fuller picture of a person’s health.&nbsp;&nbsp;</p>
+<p>This shift is expanding the focus beyond traditional measures like blood pressure and cholesterol.&amp;nbsp;Clinicians and scientists are now exploring genetics (genomics) to understand DNA; proteins (proteomics) that drive cellular functions; chemical changes (metabolomics) that reveal how the body responds to diet and environment, along with other biological characteristics. Together, these details provide a fuller picture of a person’s health.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Each patient’s dataset is massive, containing layers of information that reveal how the body functions at a deeper level. When analyzed collectively, these elements help experts identify patterns and gain new insights into health and disease.&nbsp;&nbsp;</p>
+<p>Each patient’s dataset is massive, containing layers of information that reveal how the body functions at a deeper level. When analyzed collectively, these elements help experts identify patterns and gain new insights into health and disease.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>But gathering this data is only the beginning. As these datasets grow larger and more complex, Mayo's experts are developing and leveraging digital tools to transform raw data into actionable insights.&nbsp;&nbsp;</p>
+<p>But gathering this data is only the beginning. As these datasets grow larger and more complex, Mayo's experts are developing and leveraging digital tools to transform raw data into actionable insights.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -1072,93 +1080,93 @@
 
 
 
-<p>Leading these efforts is Mayo Clinic's Digital Omics pillar team, co-directed by <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.,</a> the center's Everett J. and Jane M. Hauck Midwest Associate Director, Research and Innovation.  "Omics" refers to the characterization and counting of different biological components — such as genomics, proteomics and metabolomics — and how they are interconnected to influence health.&nbsp;&nbsp;</p>
+<p>Leading these efforts is Mayo Clinic's Digital Omics pillar team, co-directed by <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.,</a> the center's Everett J. and Jane M. Hauck Midwest Associate Director, Research and Innovation.  "Omics" refers to the characterization and counting of different biological components — such as genomics, proteomics and metabolomics — and how they are interconnected to influence health.&amp;nbsp;&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/WF2421762_0152.jpg" alt="" class="wp-image-395590" style="width:199px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/WF2421762_0152.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/WF2421762_0152-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px"><figcaption class="wp-element-caption">Eric Klee, Ph.D.</figcaption></figure></div>
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/WF2421762_0152.jpg" alt="" class="wp-image-395590" style="width:199px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/WF2421762_0152.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/WF2421762_0152-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Eric Klee, Ph.D.</figcaption></figure></div>
 
 
-<p>"We're giving clinicians the tools they need to connect the dots and make the right decisions for patients," Dr. Klee says.&nbsp;&nbsp;</p>
-
-
-
-<p>One of their key innovations is the Omics Data Platform, a digital library housed in the Mayo Clinic Cloud, which safely stores and organizes the omics data so clinicians and researchers can quickly access this valuable resource. It has reduced many of the barriers to access and created a fast and reliable method for omics data exploration. With tools like the Omics Data Explorer, clinicians can investigate genetic data and quickly identify new insights into the nature of disease. This can potentially lead to faster diagnoses and more targeted treatment options.&nbsp;</p>
+<p>"We're giving clinicians the tools they need to connect the dots and make the right decisions for patients," Dr. Klee says.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The team also developed a tool called SAVI PI to help doctors and researchers interpret inherited genetic variation and better understand how specific genes may influence a patient's condition. Another Mayo-built platform, MINERVA, links genetic data with clinical information. This allows researchers and clinicians to explore the relationship between genetic variation and patient traits.&nbsp;</p>
+<p>One of their key innovations is the Omics Data Platform, a digital library housed in the Mayo Clinic Cloud, which safely stores and organizes the omics data so clinicians and researchers can quickly access this valuable resource. It has reduced many of the barriers to access and created a fast and reliable method for omics data exploration. With tools like the Omics Data Explorer, clinicians can investigate genetic data and quickly identify new insights into the nature of disease. This can potentially lead to faster diagnoses and more targeted treatment options.&amp;nbsp;</p>
 
 
 
-<p>As part of Mayo Clinic's commitment to responsible data stewardship, leaders are working to form an omics data subcommittee to oversee how genomic data is managed and used. The subcommittee will establish clear guidelines so all stakeholders understand their responsibilities for data access and usage. This framework will enhance collaboration, protect patient privacy and ensure ethical data use in research and clinical settings.&nbsp;</p>
+<p>The team also developed a tool called SAVI PI to help doctors and researchers interpret inherited genetic variation and better understand how specific genes may influence a patient's condition. Another Mayo-built platform, MINERVA, links genetic data with clinical information. This allows researchers and clinicians to explore the relationship between genetic variation and patient traits.&amp;nbsp;</p>
 
 
 
-<p>To support clinical data integration, Dr. Klee and his team have launched a "roadshow" to introduce these SAVI PI and&nbsp;MINERVA&nbsp;digital tools to medical and research teams across Mayo Clinic. Through demonstrations and hands-on sessions, they show how the platforms can help them streamline data access and support better patient care.&nbsp;</p>
+<p>As part of Mayo Clinic's commitment to responsible data stewardship, leaders are working to form an omics data subcommittee to oversee how genomic data is managed and used. The subcommittee will establish clear guidelines so all stakeholders understand their responsibilities for data access and usage. This framework will enhance collaboration, protect patient privacy and ensure ethical data use in research and clinical settings.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Advancing patient care with AI-driven tools</strong>&nbsp;</h2>
+<p>To support clinical data integration, Dr. Klee and his team have launched a "roadshow" to introduce these SAVI PI and&amp;nbsp;MINERVA&amp;nbsp;digital tools to medical and research teams across Mayo Clinic. Through demonstrations and hands-on sessions, they show how the platforms can help them streamline data access and support better patient care.&amp;nbsp;</p>
 
 
 
-<p>Meanwhile, Cherisse Marcou, Ph.D., co-director of the center's Digital Omics Program and co-director and vice chair of Information Technology and Bioinformatics in the Clinical Genomics Laboratory, is focused on bringing these advancements directly into patient care. Her team has created an artificial intelligence-driven tool that helps specialists simplify genomic test selection and accelerate genomic data analysis and interpretation. &nbsp;</p>
+<h2 class="wp-block-heading"><strong>Advancing patient care with AI-driven tools</strong>&amp;nbsp;</h2>
+
+
+
+<p>Meanwhile, Cherisse Marcou, Ph.D., co-director of the center's Digital Omics Program and co-director and vice chair of Information Technology and Bioinformatics in the Clinical Genomics Laboratory, is focused on bringing these advancements directly into patient care. Her team has created an artificial intelligence-driven tool that helps specialists simplify genomic test selection and accelerate genomic data analysis and interpretation. &amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="442" height="278" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/MARCOU.jpg" alt="" class="wp-image-395583" style="width:495px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/MARCOU.jpg 442w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/MARCOU-300x189.jpg 300w" sizes="(max-width: 442px) 100vw, 442px"><figcaption class="wp-element-caption">Cherisse Marcou, Ph.D., presents her research at the Individualizing Medicine Conference, Sept. 2024.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="442" height="278" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/MARCOU.jpg" alt="" class="wp-image-395583" style="width:495px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/MARCOU.jpg 442w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/MARCOU-300x189.jpg 300w" sizes="(max-width: 442px) 100vw, 442px" /><figcaption class="wp-element-caption">Cherisse Marcou, Ph.D., presents her research at the Individualizing Medicine Conference, Sept. 2024.</figcaption></figure></div>
 
 
-<p>Known as the&nbsp;Genetic Optimization and Appropriateness of Testing Tool, or GOATT, this innovation is used by laboratory experts to automate the summarization of important and relevant patient information across the electronic medical record into a concise format. Access to this comprehensive patient clinical summary helps ensure that the right test is ordered for the right patient at the right time. Ultimately, it enables more complete and personalized analysis and interpretation of complex genomic results.&nbsp;</p>
-
-
-
-<p>Dr. Marcou also collaborates closely with clinicians and laboratorians to integrate complex genomic data into Mayo Clinic's electronic health records.&nbsp;</p>
+<p>Known as the&amp;nbsp;Genetic Optimization and Appropriateness of Testing Tool, or GOATT, this innovation is used by laboratory experts to automate the summarization of important and relevant patient information across the electronic medical record into a concise format. Access to this comprehensive patient clinical summary helps ensure that the right test is ordered for the right patient at the right time. Ultimately, it enables more complete and personalized analysis and interpretation of complex genomic results.&amp;nbsp;</p>
 
 
 
-<p>"Embedding genomic data into the patient's chart in a way that is easy to locate and access — right there, when and where it is needed —&nbsp;will assist doctors in making important decisions and advance the future of genomically informed medicine" she says. "For patients waiting for answers, this access could potentially mean less time spent in uncertainty and quicker guidance on treatment and management options."&nbsp;</p>
+<p>Dr. Marcou also collaborates closely with clinicians and laboratorians to integrate complex genomic data into Mayo Clinic's electronic health records.&amp;nbsp;</p>
 
 
 
-<p>Dr. Klee notes that making these innovations part of routine care is a long-term goal.&nbsp;</p>
+<p>"Embedding genomic data into the patient's chart in a way that is easy to locate and access — right there, when and where it is needed —&amp;nbsp;will assist doctors in making important decisions and advance the future of genomically informed medicine" she says. "For patients waiting for answers, this access could potentially mean less time spent in uncertainty and quicker guidance on treatment and management options."&amp;nbsp;</p>
 
 
 
-<p>"We hope to make this the standard of care," Dr. Klee says. "We're building a future where precision medicine is no longer the exception but the expectation. We're giving providers and researchers the tools to make the right decisions, and quickly explore new ideas.”&nbsp;</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-data-driven-quest-to-advance-individualized-medicine/">Mayo Clinic’s data-driven quest to advance individualized medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>Dr. Klee notes that making these innovations part of routine care is a long-term goal.&amp;nbsp;</p>
+
+
+
+<p>"We hope to make this the standard of care," Dr. Klee says. "We're building a future where precision medicine is no longer the exception but the expectation. We're giving providers and researchers the tools to make the right decisions, and quickly explore new ideas.”&amp;nbsp;</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-data-driven-quest-to-advance-individualized-medicine/">Mayo Clinic&amp;#8217;s data-driven quest to advance individualized medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/1x1data.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-data.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eric Klee]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eric Klee]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Manufacturing engineers on the cusp of delivering new biotherapies</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/manufacturing-engineers-on-the-cusp-of-delivering-new-biotherapies/
+		<link>https://newsnetwork.mayoclinic.org/discussion/manufacturing-engineers-on-the-cusp-of-delivering-new-biotherapies/</link>
 		
-		<dc:creator><!--[CDATA[Susan Buckles]]--></dc:creator>
-		<pubdate>Tue, 29 Oct 2024 12:00:00 +0000</pubdate>
-				<category><!--[CDATA[Biotherapeutics]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[biomedical research]]--></category>
-		<category><!--[CDATA[CAR-T cell therapy]]--></category>
-		<category><!--[CDATA[cGMP clean room]]--></category>
-		<category><!--[CDATA[Current Good Manufacturing Practice]]--></category>
-		<category><!--[CDATA[gene therapy]]--></category>
-		<category><!--[CDATA[Mayo Clinic Center for Regenerative Biotherapeutics]]--></category>
-		<category><!--[CDATA[Snigdha Rai]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395445</guid>
+		<dc:creator><![CDATA[Susan Buckles]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Biotherapeutics]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[biomedical research]]></category>
+		<category><![CDATA[CAR-T cell therapy]]></category>
+		<category><![CDATA[cGMP clean room]]></category>
+		<category><![CDATA[Current Good Manufacturing Practice]]></category>
+		<category><![CDATA[gene therapy]]></category>
+		<category><![CDATA[Mayo Clinic Center for Regenerative Biotherapeutics]]></category>
+		<category><![CDATA[Snigdha Rai]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395445</guid>
 
-					<description><!--[CDATA[<p-->Manufacturing engineers are at the forefront of bringing new medicines derived from human sources such as cells, blood and genes to patients. They produce what are often first-of-their kind biotherapies for diseases that previously had few or no treatment options. "The most interesting thing about our job is being able to be part of a […]<p></p>
+					<description><![CDATA[<p>Manufacturing engineers are at the forefront of bringing new medicines derived from human sources such as cells, blood and genes to patients. They produce what are often first-of-their kind biotherapies for diseases that previously had few or no treatment options. "The most interesting thing about our job is being able to be part of a [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/manufacturing-engineers-on-the-cusp-of-delivering-new-biotherapies/">Manufacturing engineers on the cusp of delivering new biotherapies</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full is-resized"--><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16-x-9-Biomanufacturing-WF1385852_0085-fotor-20241024124830.jpg" alt="Engineers at Mayo Clinic manufacture an experimental biotherapy" class="wp-image-395457" style="width:849px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16-x-9-Biomanufacturing-WF1385852_0085-fotor-20241024124830.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16-x-9-Biomanufacturing-WF1385852_0085-fotor-20241024124830-300x169.jpg 300w" sizes="(max-width: 760px) 100vw, 760px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16-x-9-Biomanufacturing-WF1385852_0085-fotor-20241024124830.jpg" alt="Engineers at Mayo Clinic manufacture an experimental biotherapy" class="wp-image-395457" style="width:849px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16-x-9-Biomanufacturing-WF1385852_0085-fotor-20241024124830.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16-x-9-Biomanufacturing-WF1385852_0085-fotor-20241024124830-300x169.jpg 300w" sizes="(max-width: 760px) 100vw, 760px" /></figure>
 
 
 
@@ -1174,7 +1182,7 @@
 
 
 
-<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/cleanroom1.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/cleanroom1.mp4"></video></figure>
 
 
 
@@ -1190,11 +1198,11 @@
 
 
 
-<p>Adherence to strict cleanliness guidelines dictates how engineers do their job. Before stepping into a clean room, they train extensively how to operate in a cGMP facility&nbsp; without triggering contamination. They perform techniques to keep everything extremely clean or sterile, using high dexterity skills such as taking the cap off a vial and putting it back on with one hand, while the other hand fills it with a chemical compound.</p>
+<p>Adherence to strict cleanliness guidelines dictates how engineers do their job. Before stepping into a clean room, they train extensively how to operate in a cGMP facility&amp;nbsp; without triggering contamination. They perform techniques to keep everything extremely clean or sterile, using high dexterity skills such as taking the cap off a vial and putting it back on with one hand, while the other hand fills it with a chemical compound.</p>
 
 
 
-<p>They dress in coveralls or a &nbsp;"bunny suit" with a hood, goggles, face shield, double gloves and boot covers to block any escape of hair or skin cells. Once they've entered the clean room, their movements are slow and intentional.</p>
+<p>They dress in coveralls or a &amp;nbsp;"bunny suit" with a hood, goggles, face shield, double gloves and boot covers to block any escape of hair or skin cells. Once they've entered the clean room, their movements are slow and intentional.</p>
 
 
 
@@ -1246,6 +1254,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/1-x-1-Biomanufacturing-WF1385852_0085-fotor-2024102412470.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16-x-9-Biomanufacturing-WF1385852_0085-fotor-20241024124830.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[biomedical research]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[CAR-T cell therapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[cGMP clean room]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Current Good Manufacturing Practice]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[gene therapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Center for Regenerative Biotherapeutics]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Snigdha Rai]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[biomedical research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[CAR-T cell therapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[cGMP clean room]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Current Good Manufacturing Practice]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[gene therapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Center for Regenerative Biotherapeutics]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Snigdha Rai]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
