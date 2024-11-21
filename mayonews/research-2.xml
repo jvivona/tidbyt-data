@@ -13,7 +13,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastBuildDate>Wed, 20 Nov 2024 14:24:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Nov 2024 21:14:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,6 +21,131 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7</generator>
 	<item>
+		<title>Mayo researchers develop AI-enhanced strategy to personalize medication alerts</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-researchers-develop-ai-enhanced-strategy-to-personalize-medication-alerts/</link>
+		
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Arjun Athreya]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396797</guid>
+
+					<description><![CDATA[<p>Electronic health records are increasingly including technology-aided predictions of how patients may respond to specific medications, known as pharmacogenomic alerts. Two Mayo Clinic Ph.D. candidates are exploring how artificial intelligence (AI) can be used to make these alerts more actionable and less intrusive for clinicians, who can suffer from alert overload. In a new study, [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-researchers-develop-ai-enhanced-strategy-to-personalize-medication-alerts/">Mayo researchers develop AI-enhanced strategy to personalize medication alerts</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-PGX-RESEARCH3-1024x576.png" alt="" class="wp-image-396799" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-PGX-RESEARCH3-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-PGX-RESEARCH3-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-PGX-RESEARCH3-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-PGX-RESEARCH3-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-PGX-RESEARCH3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Jean Marrero-Polanco (left ) and Caroline Grant (right) collaborate on concepts for their study. Courtesy of Marrero-Polanco and Grant.</figcaption></figure>
+
+
+
+<p>Electronic health records are increasingly including technology-aided predictions of how patients may respond to specific medications, known as pharmacogenomic alerts. Two Mayo Clinic Ph.D. candidates are exploring how artificial intelligence (AI) can be used to make these alerts more actionable and less intrusive for clinicians, who can suffer from alert overload.</p>
+
+
+
+<p>In a new <a href="https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.70044">study,</a> Ph.D. candidates Caroline Grant and Jean Marrero-Polanco, under the mentorship of lead author <a href="https://www.mayo.edu/research/faculty/athreya-arjun-p-ph-d-m-s/bio-20473903">Arjun Athreya, Ph.D.</a>, found that clinicians generally prefer concise, individualized alerts that use patient-specific genomic data to help personalize their care, rather than more generic or detailed alerts.</p>
+
+
+
+<p>Their <a href="https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.70044">study</a> is published in Clinical and Translational Science. Both students are doctoral candidates in the Molecular Pharmacology and Experimental Therapeutics program at the Mayo Clinic Graduate School of Biomedical Sciences.</p>
+
+
+
+<p>"AI has the potential to greatly enhance how we deliver care by providing vital support with enhanced information to clinicians and researchers, but we need to know barriers of technology use and factors that may improve human-technology interaction," says Dr. Athreya, a computer scientist at the Mayo Clinic Department of Molecular Pharmacology and Experimental Therapeutics. "Our goal is to develop digital tools that are technically robust, highly usable and augment clinicians' expertise to ensure patients receive the most effective, personalized care."</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Tailoring alerts to clinician experience and specialty</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DR-ATHREYA-1024x576.png" alt="" class="wp-image-396800" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DR-ATHREYA-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DR-ATHREYA-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DR-ATHREYA-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DR-ATHREYA-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DR-ATHREYA.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Caroline Grant (left), Jean Marrero-Polanco (center), and Dr. Arjun Athreya (right) discuss their pharmacogenomics research. Photo courtesy of Marrero-Polanco and Grant.</figcaption></figure>
+
+
+
+<p>For the study — led by Department of Molecular Pharmacology and Experimental Therapeutics in collaboration with the Department of Psychiatry and Psychology, Internal Medicine and Family Medicine — the team surveyed 305 clinicians from a variety of backgrounds across Mayo Clinic sites in Minnesota, Arizona and Florida, and the Mayo Clinic Health System. Participants hailed from specialty practices including psychiatry, internal medicine and family medicine and included those working in both large urban hospitals and in small rural clinics. This diversity helped the researchers understand how different settings, specialties and experience levels influenced what doctors found most useful.</p>
+
+
+
+<p>To analyze clinician preferences, the research team used advanced AI techniques, including natural language processing, which helps computers interpret human language, and machine learning, which allows computers to learn from data. These tools allowed the researchers to efficiently process large volumes of survey data and uncover insights that otherwise would have been difficult to detect.</p>
+
+
+
+<p>The study focused on pharmacogenomic alerts in the context of treating major depressive disorder with the antidepressant citalopram. Clinicians were presented with three types of alerts:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Generic alert: Provides standard dosage recommendations without patient-specific data.</li>
+
+
+
+<li>Concise, individualized alert: Displays AI-derived predictions of drug efficacy based on a patient’s clinical and genomic markers.</li>
+
+
+
+<li>Detailed, individualized alert: Includes in-depth information on the specific genes and markers involved in the AI-derived predictions of drug efficacy.</li>
+</ul>
+
+
+
+<p>Overall, the clinicians favored the concise, individualized alerts. In contrast, they gave the generic alerts, which resemble current electronic health record alerts for citalopram, failing grades.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Implications for reducing burnout and enhancing care</strong></h2>
+
+
+
+<p>The study emphasizes the importance of integrating patient-specific data and offering easy access to detailed information via hyperlinks. The findings also suggest that preferences for alert design varied by clinician specialty and experience. For example, experienced psychiatrists preferred detailed genetic profiles, while early-career internal medicine providers favored more concise alerts.</p>
+
+
+
+<p>"Finding the right balance of detail is crucial," says Caroline Grant, first author. "Our study indicates that a one-size-fits-all approach to alerts is not effective. We need to consider who is reading the alert and what they need in that moment."</p>
+
+
+
+<p>Grant's research is centered on leveraging AI and large biological data sets to identify biomarkers that predict treatment outcomes. Her long-term goal is to continue developing precision medicine tools that can be applied in both research and clinical settings.</p>
+
+
+
+<p>Grant's co-first author, Jean Marrero-Polanco, notes patients will not be the only ones to benefit from the types of improvements suggested in the study.</p>
+
+
+
+<p>"By designing drug alerts based on clinician preferences, we're not just supporting personalized medicine for patients — we're potentially enhancing the well-being of clinicians, too," he says, as electronic health record usability has associated with physician burnout.</p>
+
+
+
+<p>Born and raised in Puerto Rico, Marrero-Polanco's passion for improving mental health outcomes is deeply personal. He is driven by the need for quality studies on mental health disparities, particularly within underserved communities. His research focuses on developing AI-driven tools that support clinicians in making better decisions, with the long-term goal of leading independent research in academia to advance AI in healthcare.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Next step: Real-world testing</strong></h2>
+
+
+
+<p>The next phase of this research will involve testing these refined alerts in actual clinical settings to determine their effect on clinician burnout and patient outcomes. The team plans to develop educational resources to help clinicians understand these AI-derived predictions and use these tools in patient care.</p>
+
+
+
+<p>The study was funded by the National Science Foundation. Co-principal investigators include Richard Sharp, Ph.D., director of Mayo Clinic's Biomedical Ethics Research Program; Paul Croarkin, D.O., director of Mayo Clinic’s Children’s Research; Liewei Wang, M.D., Ph.D., director of Mayo Clinic’s Pharmacogenomics Program; Liselotte Dyrbye, M.D., of the Colorado School of Public Health; and William Bobo, M.D., of the Florida State University College of Medicine.</p>
+
+
+
+<p>Review the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11473792/">study</a> for a complete list of authors, disclosures and funding.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-researchers-develop-ai-enhanced-strategy-to-personalize-medication-alerts/">Mayo researchers develop AI-enhanced strategy to personalize medication alerts</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1x1-pgx3.png</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-PGX-RESEARCH3-1.png</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Arjun Athreya]]></mayoclinic:mctag>	</item>
+		<item>
 		<title>Innovative blood analysis technique reveals insights into giant cell arteritis&nbsp;</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/innovative-blood-analysis-technique-reveals-insights-into-giant-cell-arteritis/</link>
 		
@@ -39,7 +164,7 @@
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/innovative-blood-analysis-technique-reveals-insights-into-giant-cell-arteritis/">Innovative blood analysis technique reveals insights into giant cell arteritis&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-1024x576.png" alt="" class="wp-image-395692" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-1024x576.png" alt="" class="wp-image-395692" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/16x9-blood3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -55,7 +180,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/WF4998388_0352-1.jpg" alt="" class="wp-image-396792" style="width:265px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/WF4998388_0352-1.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/WF4998388_0352-1-200x300.jpg 200w" sizes="(max-width: 534px) 100vw, 534px" /><figcaption class="wp-element-caption">Jaeyun Sung, Ph.D.</figcaption></figure></div>
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/WF4998388_0352-1.jpg" alt="" class="wp-image-396792" style="width:265px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/WF4998388_0352-1.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/WF4998388_0352-1-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px" /><figcaption class="wp-element-caption">Jaeyun Sung, Ph.D.</figcaption></figure></div>
 
 
 <p>"In our study, we used high-throughput proteomics to help us analyze thousands of proteins simultaneously," says Dr. Sung, a computational biologist at <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank" rel="noreferrer noopener">Mayo Clinic Center for Individualized Medicine's</a> Microbiomics Program. "We also applied machine learning to help us uncover patterns within these large datasets. This approach has provided us with deeper insights into the biology of giant cell arteritis and brings us closer to developing biomarker panels that could improve diagnosis and treatment."&amp;nbsp;</p>
@@ -74,7 +199,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Warrington-Kenneth-J._12405400_202105030323-1.jpg" alt="" class="wp-image-396793" style="width:240px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Warrington-Kenneth-J._12405400_202105030323-1.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Warrington-Kenneth-J._12405400_202105030323-1-250x300.jpg 250w" sizes="(max-width: 667px) 100vw, 667px" /><figcaption class="wp-element-caption">Kenneth Warrington, M.D.,</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Warrington-Kenneth-J._12405400_202105030323-1.jpg" alt="" class="wp-image-396793" style="width:240px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Warrington-Kenneth-J._12405400_202105030323-1.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Warrington-Kenneth-J._12405400_202105030323-1-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px" /><figcaption class="wp-element-caption">Kenneth Warrington, M.D.,</figcaption></figure></div>
 
 
 <p>Using proteomics, the researchers gained crucial insights into when the disease is active and when it’s in remission. This knowledge helps doctors not only determine when to begin treatment but also when it may be safe to pause medication.&amp;nbsp;</p>
@@ -1260,82 +1385,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Shraddha-Still-shot-on-beach_16x9.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Marty Velasco Hames]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
-		<item>
-		<title>Research shows new method helps doctors safely remove dangerous heart infections without surgery</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/research-shows-new-method-helps-doctors-safely-remove-dangerous-heart-infections-without-surgery/</link>
-		
-		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
-		<pubDate>Wed, 30 Oct 2024 18:37:46 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Cardiology]]></category>
-		<category><![CDATA[Catheter]]></category>
-		<category><![CDATA[Dr. Abdallah El Sabbagh]]></category>
-		<category><![CDATA[Endocarditis]]></category>
-		<category><![CDATA[Florida News Releases]]></category>
-		<category><![CDATA[Heart]]></category>
-		<category><![CDATA[heart infection]]></category>
-		<category><![CDATA[heart procedure]]></category>
-		<category><![CDATA[Infective Endocarditis]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395662</guid>
-
-					<description><![CDATA[<p>ROCHESTER, Minn. — Doctors at Mayo Clinic used a new catheter-based approach to draw out resistant pockets of infection that settle in the heart, known as right-sided infective endocarditis, without surgery. Unless treated quickly, the walled-off infections can grow, severely damaging heart valves and potentially affecting other organs as well. In a recent study, over [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/research-shows-new-method-helps-doctors-safely-remove-dangerous-heart-infections-without-surgery/">Research shows new method helps doctors safely remove dangerous heart infections without surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="680" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-1024x680.jpg" alt="Red heart in the hand of a physician" class="wp-image-178436" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-1024x680.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-300x199.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396-768x510.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>ROCHESTER, Minn. — Doctors at <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> used a new catheter-based approach to draw out resistant pockets of infection that settle in the heart, known as right-sided <a href="https://www.mayoclinic.org/diseases-conditions/endocarditis/symptoms-causes/syc-20352576" target="_blank" rel="noreferrer noopener">infective endocarditis</a>, without surgery. Unless treated quickly, the walled-off infections can grow, severely damaging heart valves and potentially affecting other organs as well. In a recent study, over 90% of the participants had their infection cleared, and they had lower in-hospital mortality compared to those whose infections remained.</p>
-
-
-<div class="wp-block-image">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-200x300.jpg" alt="" class="wp-image-395747" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Abdallah-El-Sabbagh_WF119668_0001.jpg 750w" sizes="auto, (max-width: 200px) 100vw, 200px" /><figcaption class="wp-element-caption"><sup>Abdallah El Sabbagh, M.D. </sup></figcaption></figure></div>
-
-
-<p>The research is part of a Mayo Clinic-led study across 19 U.S. sites involving patients who were not good candidates for surgery and whose right-sided heart infections had not responded to antibiotics. <a href="https://www.mayoclinic.org/biographies/el-sabbagh-abdallah-m-d/bio-20466764" target="_blank" rel="noreferrer noopener">Abdallah El Sabbagh, M.D.</a>, an interventional cardiologist at Mayo Clinic in Jacksonville, Florida, was the study's principal investigator. Dr. El Sabbagh presented late-breaking research findings at the Transcatheter Cardiovascular Therapeutics Symposium on Oct. 30.</p>
-
-
-
-<p>High-risk patients have few treatment options when a&amp;nbsp;serious infection becomes entrenched in a heart valve. People with weakened immune systems, such as those who have had a transplant or cancer treatment, are more susceptible to such infections. IV drug users and patients with implanted medical devices such as pacemakers and artificial heart valves are also more likely to develop infective endocarditis. Approximately half of the 285 study participants were people who inject IV drugs.</p>
-
-
-
-<p>"Our research findings show that using a catheter to draw out most of the heart infection potentially made a significant difference in a patient's response to antibiotic therapy afterward to clear up the infection. The participants in this study were all high-risk patients, and most were not responding to antibiotic therapy alone and were considered to have significant risks with open heart surgery. We were able to show that minimally invasive catheter-based aspiration of the infection is feasible, successful and may help a significant population of patients who otherwise have no alternative therapeutic options," says Dr. El Sabbagh.</p>
-
-
-
-<p>The catheter-based system was originally developed to remove blood clots from the lungs without surgery. While its off-label use for infective endocarditis shows potential as a safe and effective option, Dr. El Sabbagh notes that further prospective study is needed. &amp;nbsp;</p>
-
-
-
-<p>###</p>
-
-
-
-<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
-
-
-
-<p><strong>Media contact:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Terri Malloy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/research-shows-new-method-helps-doctors-safely-remove-dangerous-heart-infections-without-surgery/">Research shows new method helps doctors safely remove dangerous heart infections without surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396_1x1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/12/Red-heart-in-the-hand-of-a-physician_shutterstock_135683396_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Cardiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Catheter]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Abdallah El Sabbagh]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Endocarditis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart infection]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart procedure]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Infective Endocarditis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 	</channel>
 </rss> 
