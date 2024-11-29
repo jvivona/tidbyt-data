@@ -1,39 +1,47 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
-	<title>Health &amp; Wellness - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/health-and-wellness/
+	<title>Health &amp;amp; Wellness - Mayo Clinic News Network</title>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/health-and-wellness/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Wed, 27 Nov 2024 16:27:56 +0000</lastbuilddate>
+	<lastBuildDate>Wed, 27 Nov 2024 16:27:56 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Mayo Clinic Minute: Does thyroid cancer affect women more than men?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/</link>
 		
-		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
-		<pubdate>Wed, 27 Nov 2024 16:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Victor Bernet]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396810</guid>
+		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Victor Bernet]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396810</guid>
 
-					<description><!--[CDATA[<p-->Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer. Dr. Victor Bernet, a Mayo Clinic endocrinologist, says men also need to be aware of thyroid cancer risks. Watch: The Mayo Clinic Minute […]<p></p>
+					<description><![CDATA[<p>Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer. Dr. Victor Bernet, a Mayo Clinic endocrinologist, says men also need to be aware of thyroid cancer risks. Watch: The Mayo Clinic Minute [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/">Mayo Clinic Minute: Does thyroid cancer affect women more than men?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer.<p></p>
+										<content:encoded><![CDATA[
+<p>Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer.</p>
 
 
 
@@ -46,7 +54,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidhttpsyoutubePGH3TROOSn4" title="Mayo Clinic Minute - Does thyroid cancer affect women more than men?" width="500" height="281" src="https://www.youtube.com/embed/PGH3TROOSn4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe id="videoidhttpsyoutubePGH3TROOSn4"  title="Mayo Clinic Minute - Does thyroid cancer affect women more than men?" width="500" height="281" src="https://www.youtube.com/embed/PGH3TROOSn4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -67,10 +75,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img decoding="async" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2015/09/Thyroid-cancer.jpg" alt="" class="wp-image-130392"></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2015/09/Thyroid-cancer.jpg" alt="" class="wp-image-130392" /></figure></div>
 
 
-<p>In the past, it was believed that women developed thyroid cancer more than men.&nbsp; However, recent data shows that women are often diagnosed with a less aggressive, relatively non-life-threatening form of thyroid cancer. But when it comes to advanced thyroid cancer, the risks are the same for both men and women.</p>
+<p>In the past, it was believed that women developed thyroid cancer more than men.&amp;nbsp; However, recent data shows that women are often diagnosed with a less aggressive, relatively non-life-threatening form of thyroid cancer. But when it comes to advanced thyroid cancer, the risks are the same for both men and women.</p>
 
 
 
@@ -82,7 +90,7 @@
 
 
 
-<p>&nbsp;"So, in actuality, they probably don't have as much of a higher risk than we thought," explains Dr. Bernet.</p>
+<p>&amp;nbsp;"So, in actuality, they probably don't have as much of a higher risk than we thought," explains Dr. Bernet.</p>
 
 
 
@@ -112,7 +120,7 @@
 
 
 
-<p>&nbsp;</p>
+<p>&amp;nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/">Mayo Clinic Minute: Does thyroid cancer affect women more than men?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -120,28 +128,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/Woman-with-sore-throat-GettyImages-1316977900_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Victor Bernet]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Victor Bernet]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Kitchen hand injuries to watch out for</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-kitchen-hand-injuries-to-watch-out-for/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-kitchen-hand-injuries-to-watch-out-for/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Mon, 25 Nov 2024 13:59:36 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverse representation]]--></category>
-		<category><!--[CDATA[Dr. Sanj Kakar]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395957</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 13:59:36 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverse representation]]></category>
+		<category><![CDATA[Dr. Sanj Kakar]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395957</guid>
 
-					<description><!--[CDATA[<p-->It's the time of year when families and friends are gathering and celebrating the holidays. And usually, it happens in the room that tends to be the center of many gatherings — the kitchen. It's also where accidents, often hand injuries, can happen, especially when alcohol is involved. Dr. Sanj Kakar,&nbsp;a Mayo Clinic&nbsp;orthopedic surgeon, says […]<p></p>
+					<description><![CDATA[<p>It's the time of year when families and friends are gathering and celebrating the holidays. And usually, it happens in the room that tends to be the center of many gatherings — the kitchen. It's also where accidents, often hand injuries, can happen, especially when alcohol is involved. Dr. Sanj Kakar,&nbsp;a Mayo Clinic&nbsp;orthopedic surgeon, says [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-kitchen-hand-injuries-to-watch-out-for/">Mayo Clinic Minute: Kitchen hand injuries to watch out for</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-1024x576.jpg" alt="a happy group of family and friends gathering in a kitchen around a turkey dinner for holiday meal" class="wp-image-322702" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-1024x576.jpg" alt="a happy group of family and friends gathering in a kitchen around a turkey dinner for holiday meal" class="wp-image-322702" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -162,16 +170,16 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidhttpsyoutubeqkk6STqwHc" title="Mayo Clinic Minute: Kitchen hand injuries to watch out for" width="500" height="281" src="https://www.youtube.com/embed/qkk6ST_qwHc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe id="videoidhttpsyoutubeqkk6STqwHc"  title="Mayo Clinic Minute: Kitchen hand injuries to watch out for" width="500" height="281" src="https://www.youtube.com/embed/qkk6ST_qwHc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (1:05) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/SCRIPT-MCM-Hand-injuries-during-the-holidays-sk_.pdf" target="_blank" rel="noreferrer noopener">script.</a></strong></p>
+<p><strong>Journalists: Broadcast-quality video (1:05) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/SCRIPT-MCM-Hand-injuries-during-the-holidays-sk_.pdf" target="_blank" rel="noreferrer noopener">script.</a></strong></p>
 
 
 
-<p>Dr. Kakar can most often be found in surgery, helping patients with issues like&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/symptoms-causes/syc-20355603">carpal tunnel syndrome</a>,&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-reducing-thumb-arthritis-pain/">thumb arthritis</a>, wrist pain, and&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-is-your-thumb-pain-de-quervains-tenosynovitis/">disorders</a>&nbsp;of the hand and&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-ulnar-wrist-pain/">wrist.</a></p>
+<p>Dr. Kakar can most often be found in surgery, helping patients with issues like&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/symptoms-causes/syc-20355603">carpal tunnel syndrome</a>,&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-reducing-thumb-arthritis-pain/">thumb arthritis</a>, wrist pain, and&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-is-your-thumb-pain-de-quervains-tenosynovitis/">disorders</a>&amp;nbsp;of the hand and&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-ulnar-wrist-pain/">wrist.</a></p>
 
 
 
@@ -191,7 +199,7 @@
 
 
 
-<p>"But with patients when they're trying to clean the blender because they think it's out&nbsp;of the electricity and so it's not going to spin, but they're trying to get their hand into there because the dishwasher doesn't clean it very well. And I've seen patients actually cut the tip of the finger off, even with the blender," says Dr. Kakar.&nbsp;</p>
+<p>"But with patients when they're trying to clean the blender because they think it's out&amp;nbsp;of the electricity and so it's not going to spin, but they're trying to get their hand into there because the dishwasher doesn't clean it very well. And I've seen patients actually cut the tip of the finger off, even with the blender," says Dr. Kakar.&amp;nbsp;</p>
 
 
 
@@ -225,34 +233,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/a-family-in-the-kitchen-getting-ready-to-cook-and-eat-dinner-together-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/a-family-in-the-kitchen-getting-ready-to-cook-and-eat-dinner-together-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverse representation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Sanj Kakar]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverse representation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Sanj Kakar]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: How to make healthy holiday food choices</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-make-healthy-holiday-food-choices/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-make-healthy-holiday-food-choices/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Fri, 22 Nov 2024 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Andrea Delgado]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[dietitian]]--></category>
-		<category><!--[CDATA[holiday food]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=376964</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Andrea Delgado]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[dietitian]]></category>
+		<category><![CDATA[holiday food]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=376964</guid>
 
-					<description><!--[CDATA[<p-->During Thanksgiving, food often takes center stage at gatherings of friends and family. The focus is on turkey, pie and all the sides. But it also can challenge healthy eating habits. Andrea Delgado, a Mayo Clinic dietitian, says that by paying attention to how much you eat and how often, you can make healthy food […]<p></p>
+					<description><![CDATA[<p>During Thanksgiving, food often takes center stage at gatherings of friends and family. The focus is on turkey, pie and all the sides. But it also can challenge healthy eating habits. Andrea Delgado, a Mayo Clinic dietitian, says that by paying attention to how much you eat and how often, you can make healthy food [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-make-healthy-holiday-food-choices/">Mayo Clinic Minute: How to make healthy holiday food choices</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->During Thanksgiving, food often takes center stage at gatherings of friends and family. The focus is on turkey, pie and all the sides. But it also can challenge healthy eating habits.<p></p>
+										<content:encoded><![CDATA[
+<p>During Thanksgiving, food often takes center stage at gatherings of friends and family. The focus is on turkey, pie and all the sides. But it also can challenge healthy eating habits.</p>
 
 
 
-<p>Andrea Delgado, a Mayo Clinic dietitian, says that by paying attention to how much you eat and how often, you can make <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-healthy-diet/art-20047702?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">healthy food</a> choices during the holidays.</p>
+<p>Andrea Delgado, a Mayo Clinic dietitian, says that by paying attention to how much you eat and how often, you can make <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-healthy-diet/art-20047702?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">healthy food</a> choices during the holidays.</p>
 
 
 
@@ -260,7 +268,7 @@
 
 
 
-<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/11/Mayo-Clinic-Minute-How-to-make-healthy-food-choices-during-the-holidays-CLEAN.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/11/Mayo-Clinic-Minute-How-to-make-healthy-food-choices-during-the-holidays-CLEAN.mp4"></video></figure>
 
 
 
@@ -280,7 +288,7 @@
 
 
 
-<p>"Maybe now we have a new diagnosis of <a href="https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/symptoms-causes/syc-20350800?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">high cholesterol</a> or a new diagnosis of <a href="https://www.mayoclinic.org/diseases-conditions/prediabetes/symptoms-causes/syc-20355278?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">prediabetes</a> or <a href="https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">diabetes</a> because, even though we only did it for a short period of time, it was enough that we were close enough to be diagnosed with these new conditions," she says.</p>
+<p>"Maybe now we have a new diagnosis of <a href="https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/symptoms-causes/syc-20350800?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">high cholesterol</a> or a new diagnosis of <a href="https://www.mayoclinic.org/diseases-conditions/prediabetes/symptoms-causes/syc-20355278?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">prediabetes</a> or <a href="https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">diabetes</a> because, even though we only did it for a short period of time, it was enough that we were close enough to be diagnosed with these new conditions," she says.</p>
 
 
 
@@ -292,7 +300,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-1024x576.jpg" alt="roasted green beans for Making Mayo's Recipes. Healthy food choices" class="wp-image-212549" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Make healthy food choices during the holidays - include fresh vegetables when possible.</figcaption></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-1024x576.jpg" alt="roasted green beans for Making Mayo's Recipes. Healthy food choices" class="wp-image-212549" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/08/151207-067-PHOTO-144revised_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Make healthy food choices during the holidays - include fresh vegetables when possible.</figcaption></figure></div>
 
 
 <p>But what about that pumpkin pie?</p>
@@ -325,42 +333,42 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/a-happy-group-of-family-and-friends-gathering-in-a-kitchen-around-a-turkey-dinner-for-holiday-meal-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Andrea Delgado]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[dietitian]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[holiday food]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Andrea Delgado]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[dietitian]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[holiday food]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>In case you missed it: This week’s Top 5 stories on social media</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-37/
+		<title>In case you missed it: This week&amp;#8217;s Top 5 stories on social media</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-37/</link>
 		
-		<dc:creator><!--[CDATA[Jaynelle Ramon]]--></dc:creator>
-		<pubdate>Fri, 22 Nov 2024 13:41:31 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[In case you missed it]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396934</guid>
+		<dc:creator><![CDATA[Jaynelle Ramon]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 13:41:31 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[In case you missed it]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396934</guid>
 
-					<description><!--[CDATA[<p-->Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Mayo Clinic performs successful face transplant, restoring vital functions for Michigan man A Michigan man can blink, swallow, smile and breathe through his nose for the first time in a decade thanks to a face transplant performed […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-37/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Mayo Clinic performs successful face transplant, restoring vital functions for Michigan man A Michigan man can blink, swallow, smile and breathe through his nose for the first time in a decade thanks to a face transplant performed [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-37/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"-->
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCXpmeeOIwz/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="682" data-id="396269" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-1024x682.jpg" alt="" class="wp-image-396269" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCXpmeeOIwz/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="682" data-id="396269" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-1024x682.jpg" alt="" class="wp-image-396269" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/MICROBIOME-DR.MARS3_.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DChup-Av7FD/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="348600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg" alt="Dr. Megan Wasson, surgery, endometriosis," class="wp-image-348600" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DChup-Av7FD/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="348600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg" alt="Dr. Megan Wasson, surgery, endometriosis," class="wp-image-348600" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCmc3eNCyS2/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396676" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-1024x576.jpg" alt="medical illustration of stomach cancer" class="wp-image-396676" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCmc3eNCyS2/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396676" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-1024x576.jpg" alt="medical illustration of stomach cancer" class="wp-image-396676" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCjaPSNtX2K/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396703" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-1024x576.jpg" alt="Man standing at pier after his face transplant" class="wp-image-396703" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCjaPSNtX2K/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396703" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-1024x576.jpg" alt="Man standing at pier after his face transplant" class="wp-image-396703" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Derek-post-face-transplant-pier-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DChPx3_OOxa/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="684" data-id="396827" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-1024x684.jpg" alt="" class="wp-image-396827" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-1024x684.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-768x513.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-1536x1025.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-2048x1367.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
-
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DChPx3_OOxa/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="684" data-id="396827" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-1024x684.jpg" alt="" class="wp-image-396827" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-1024x684.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-768x513.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-1536x1025.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1494155342-2048x1367.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
 
 
 
@@ -380,7 +388,7 @@
 
 
 
-<h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-cholesterol-know-your-numbers/">Mayo Clinic Q&amp;A: Cholesterol — know your numbers</a></h2>
+<h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-cholesterol-know-your-numbers/">Mayo Clinic Q&amp;amp;A: Cholesterol — know your numbers</a></h2>
 
 
 
@@ -417,36 +425,36 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-37/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-37/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/web-top-5_11222024.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[In case you missed it]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[In case you missed it]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Knowing your family health history could save your life</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-knowing-your-family-health-history-could-save-your-life/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-knowing-your-family-health-history-could-save-your-life/</link>
 		
-		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
-		<pubdate>Thu, 21 Nov 2024 14:57:46 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Tina Ardon]]--></category>
-		<category><!--[CDATA[Newspp]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395555</guid>
+		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2024 14:57:46 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Tina Ardon]]></category>
+		<category><![CDATA[Newspp]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395555</guid>
 
-					<description><!--[CDATA[<p-->Does cancer, kidney disease or high blood pressure run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share family health information with your loved ones. The Office of the Surgeon General declared Thanksgiving as National Family History Day to encourage families to share information about family […]<p></p>
+					<description><![CDATA[<p>Does cancer, kidney disease or high blood pressure run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share family health information with your loved ones. The Office of the Surgeon General declared Thanksgiving as National Family History Day to encourage families to share information about family [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-knowing-your-family-health-history-could-save-your-life/">Mayo Clinic Minute: Knowing your family health history could save your life</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Does <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588">cancer</a>, <a href="https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721">kidney disease </a>or <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-high-blood-pressure-hurts-the-kidneys/">high blood pressure </a>run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share <a href="https://www.cdc.gov/family-health-history/about/index.html" target="_blank" rel="noreferrer noopener">family health information</a> with your loved ones.<p></p>
+										<content:encoded><![CDATA[
+<p>Does <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588">cancer</a>, <a href="https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721">kidney disease </a>or <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-high-blood-pressure-hurts-the-kidneys/">high blood pressure </a>run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share <a href="https://www.cdc.gov/family-health-history/about/index.html" target="_blank" rel="noreferrer noopener">family health information</a> with your loved ones.</p>
 
 
 
@@ -454,7 +462,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/ardon-tina-m-d/bio-20055713" target="_blank" rel="noreferrer noopener">Dr. Tina Ardon</a>, a Mayo Clinic family medicine physician,&nbsp;says reviewing family history can significantly affect overall health.</p>
+<p><a href="https://www.mayoclinic.org/biographies/ardon-tina-m-d/bio-20055713" target="_blank" rel="noreferrer noopener">Dr. Tina Ardon</a>, a Mayo Clinic family medicine physician,&amp;nbsp;says reviewing family history can significantly affect overall health.</p>
 
 
 
@@ -463,7 +471,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeM3s5ke1XUtM" title="Mayo Clinic Minute - Knowing your family health history could save your life" width="500" height="281" src="https://www.youtube.com/embed/M3s5ke1XUtM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeM3s5ke1XUtM"  title="Mayo Clinic Minute - Knowing your family health history could save your life" width="500" height="281" src="https://www.youtube.com/embed/M3s5ke1XUtM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -480,7 +488,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg" alt="a Black family of several generations having fun at Thanksgiving dinner table" class="wp-image-325130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Thanksgiving is a great time to discuss family health information.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg" alt="a Black family of several generations having fun at Thanksgiving dinner table" class="wp-image-325130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Thanksgiving is a great time to discuss family health information.</figcaption></figure>
 
 
 
@@ -509,7 +517,7 @@
 
 
 <ul class="wp-block-list">
-<li><a href="https://newsnetwork.mayoclinic.org/wp-admin/post.php?post=395555&amp;action=edit">Gather your family health history this Thanksgiving; it could save your life</a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/wp-admin/post.php?post=395555&amp;amp;action=edit">Gather your family health history this Thanksgiving; it could save your life</a></li>
 
 
 
@@ -526,27 +534,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/multi-generational-family-perhaps-Latino-celebrating-Thanksgiving-holiday-with-turkey-and-festive-table-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/11/THANKSGIVING-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Tina Ardon]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Newspp]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tina Ardon]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Newspp]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Q and A: Tips for living with COPD</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tips-for-living-with-copd/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tips-for-living-with-copd/</link>
 		
-		<dc:creator><!--[CDATA[Joel Streed]]--></dc:creator>
-		<pubdate>Sat, 16 Nov 2024 11:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Health System]]--></category>
-		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Mais Abdou]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396622</guid>
+		<dc:creator><![CDATA[Joel Streed]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Health System]]></category>
+		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Mais Abdou]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396622</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC: I was diagnosed with COPD last year after struggling with multiple symptoms. I quit smoking over 10 years ago, but I'm dealing with the effects of it now. How can I best manage the symptoms and live as fully as possible with this condition? ANSWER: Chronic obstructive pulmonary disease, or&nbsp;COPD, is a […]<p></p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC: I was diagnosed with COPD last year after struggling with multiple symptoms. I quit smoking over 10 years ago, but I'm dealing with the effects of it now. How can I best manage the symptoms and live as fully as possible with this condition? ANSWER: Chronic obstructive pulmonary disease, or&amp;#160;COPD, is a [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tips-for-living-with-copd/">Mayo Clinic Q and A: Tips for living with COPD</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full is-resized"--><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-16x9-.jpg" alt="medical illustration of COPD" class="wp-image-220354" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-16x9-.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-16x9--300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-16x9-.jpg" alt="medical illustration of COPD" class="wp-image-220354" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-16x9-.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-16x9--300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
 
 
 
@@ -554,19 +562,19 @@
 
 
 
-<p><strong>ANSWER: </strong>Chronic obstructive pulmonary disease, or&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679" target="_blank" rel="noreferrer noopener">COPD</a>, is a leading cause of disability and death in the U.S., according to the American Lung Association. More than 12.5 million people in the U.S. have a diagnosis of COPD, but millions more may have the disease without knowing it.</p>
+<p><strong>ANSWER: </strong>Chronic obstructive pulmonary disease, or&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679" target="_blank" rel="noreferrer noopener">COPD</a>, is a leading cause of disability and death in the U.S., according to the American Lung Association. More than 12.5 million people in the U.S. have a diagnosis of COPD, but millions more may have the disease without knowing it.</p>
 
 
 
-<p>COPD&nbsp;is a chronic inflammatory lung disease most often caused by long-term smoking, especially cigarettes. Another cause of COPD is breathing in toxic fumes or gases. In rare cases, the cause is a genetic problem.</p>
+<p>COPD&amp;nbsp;is a chronic inflammatory lung disease most often caused by long-term smoking, especially cigarettes. Another cause of COPD is breathing in toxic fumes or gases. In rare cases, the cause is a genetic problem.</p>
 
 
 
-<p>People with COPD are at increased risk of developing respiratory infections,&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">heart disease</a>,&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620" target="_blank" rel="noreferrer noopener">lung cancer</a>, pulmonary hypertension and depression. Also, people with chronic lung disease like COPD may be at greater risk of severe illness and complications from&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-who-is-at-risk/art-20483301" target="_blank" rel="noreferrer noopener">COVID-19</a>.</p>
+<p>People with COPD are at increased risk of developing respiratory infections,&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">heart disease</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620" target="_blank" rel="noreferrer noopener">lung cancer</a>, pulmonary hypertension and depression. Also, people with chronic lung disease like COPD may be at greater risk of severe illness and complications from&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-who-is-at-risk/art-20483301" target="_blank" rel="noreferrer noopener">COVID-19</a>.</p>
 
 
 
-<p>Factors that can increase the risk of COPD include exposure to tobacco smoke, including secondhand smoke;&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653" target="_blank" rel="noreferrer noopener">asthma</a>; occupational exposure to dust and chemicals; exposure to fumes from burning fuel; infections; and genetics.</p>
+<p>Factors that can increase the risk of COPD include exposure to tobacco smoke, including secondhand smoke;&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653" target="_blank" rel="noreferrer noopener">asthma</a>; occupational exposure to dust and chemicals; exposure to fumes from burning fuel; infections; and genetics.</p>
 
 
 
@@ -620,7 +628,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/diseases-conditions/copd/diagnosis-treatment/drc-20353685" target="_blank" rel="noreferrer noopener">Treatment for COPD</a>&nbsp;can include medications, such as inhalers; oxygen; pulmonary rehabilitation; in-home noninvasive ventilation therapy; managing flare-ups, also called exacerbations; endobronchial valves; and surgery.</p>
+<p><a href="https://www.mayoclinic.org/diseases-conditions/copd/diagnosis-treatment/drc-20353685" target="_blank" rel="noreferrer noopener">Treatment for COPD</a>&amp;nbsp;can include medications, such as inhalers; oxygen; pulmonary rehabilitation; in-home noninvasive ventilation therapy; managing flare-ups, also called exacerbations; endobronchial valves; and surgery.</p>
 
 
 
@@ -666,42 +674,42 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/COPD-16x9-.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Mais Abdou]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Mais Abdou]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>In case you missed it: This week’s Top 5 stories on social media</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-36/
+		<title>In case you missed it: This week&amp;#8217;s Top 5 stories on social media</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-36/</link>
 		
-		<dc:creator><!--[CDATA[Jaynelle Ramon]]--></dc:creator>
-		<pubdate>Fri, 15 Nov 2024 13:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[In case you missed it]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396563</guid>
+		<dc:creator><![CDATA[Jaynelle Ramon]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[In case you missed it]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396563</guid>
 
-					<description><!--[CDATA[<p-->Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Former Army Ranger found his path to medical school through Mayo Clinic's Military Medicine program Former Army Ranger and medic Jessie Milaski found a new mission through Mayo Clinic's Military Medicine Fellowship. After serving two tours in […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-36/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Former Army Ranger found his path to medical school through Mayo Clinic's Military Medicine program Former Army Ranger and medic Jessie Milaski found a new mission through Mayo Clinic's Military Medicine Fellowship. After serving two tours in [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-36/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"-->
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCPTWEKs4E4/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="395997" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-1024x1024.jpg" alt="" class="wp-image-395997" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1.jpg 1026w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCPTWEKs4E4/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="395997" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-1024x1024.jpg" alt="" class="wp-image-395997" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Pancreatic-cancer-1-x-1.jpg 1026w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCFrFyUNC0c/?img_index=1" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396149" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg" alt="Close-up of unrecognizable Black woman sitting on sofa holding her abdomen in pain. Getty Images" class="wp-image-396149" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCFrFyUNC0c/?img_index=1" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396149" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg" alt="Close-up of unrecognizable Black woman sitting on sofa holding her abdomen in pain. Getty Images" class="wp-image-396149" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/GettyImages-1425387272_16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCH38Ydh5JB/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="325130" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg" alt="a Black family of several generations having fun at Thanksgiving dinner table" class="wp-image-325130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCH38Ydh5JB/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="325130" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg" alt="a Black family of several generations having fun at Thanksgiving dinner table" class="wp-image-325130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCQRIYtu6J5/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="800" height="450" data-id="396327" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1.jpg" alt="" class="wp-image-396327" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DCQRIYtu6J5/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="800" height="450" data-id="396327" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1.jpg" alt="" class="wp-image-396327" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.facebook.com/MayoClinic/videos/1386488872326513/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396297" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-1024x576.jpg" alt="Graphic blue background white letters birds flying, Avian influenza, Mayo Clinic identifier" class="wp-image-396297" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
-
+<figure class="wp-block-image size-large"><a href="https://www.facebook.com/MayoClinic/videos/1386488872326513/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396297" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-1024x576.jpg" alt="Graphic blue background white letters birds flying, Avian influenza, Mayo Clinic identifier" class="wp-image-396297" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/H5N1-avian-flu-identifier-16x9-3-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
 
 
 
@@ -750,45 +758,45 @@
 
 
 <p>Dr. Ronald Petersen, director of the Mayo Clinic Alzheimer's Disease Research Center, says Alzheimer's disease, like many other conditions, can be passed down through families.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-36/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-36/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Milaski-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/web-top-5_11152024.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[In case you missed it]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[In case you missed it]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>(VIDEO) Focus on hope: Brescia’s Story</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/
+		<title>(VIDEO) Focus on hope: Brescia&amp;#8217;s Story</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/</link>
 		
-		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
-		<pubdate>Thu, 14 Nov 2024 17:48:52 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Cancer Patient Stories]]--></category>
-		<category><!--[CDATA[Cancer survivor]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Healthcare Delivery]]--></category>
-		<category><!--[CDATA[Marty Velasco Hames]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#cancersupportgroup]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[American Cancer Society]]--></category>
-		<category><!--[CDATA[cancer cures]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[lymphoma]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396442</guid>
+		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2024 17:48:52 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Cancer Patient Stories]]></category>
+		<category><![CDATA[Cancer survivor]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Healthcare Delivery]]></category>
+		<category><![CDATA[Marty Velasco Hames]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#cancersupportgroup]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[American Cancer Society]]></category>
+		<category><![CDATA[cancer cures]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[lymphoma]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396442</guid>
 
-					<description><!--[CDATA[<p-->At 20 years old, Brescia Dover was ready to take on the world. She was on her way to achieving her dream of being a professional photographer. Everything was going according to plan when her dream came to a halt. Brescia was diagnosed with cancer. With her plans for her future pushed aside, Brescia's focus […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia’s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>At 20 years old, Brescia Dover was ready to take on the world. She was on her way to achieving her dream of being a professional photographer. Everything was going according to plan when her dream came to a halt. Brescia was diagnosed with cancer. With her plans for her future pushed aside, Brescia's focus [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia&amp;#8217;s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg" alt="" class="wp-image-396534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Brescia Dover studying abroad in Italy </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg" alt="" class="wp-image-396534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Brescia Dover studying abroad in Italy </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure>
 
 
 
@@ -813,7 +821,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeK2wUmw6h0wQ" title="Focus on hope: Brescia's Story" width="500" height="281" src="https://www.youtube.com/embed/K2wUmw6h0wQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeK2wUmw6h0wQ"  title="Focus on hope: Brescia&amp;#039;s Story" width="500" height="281" src="https://www.youtube.com/embed/K2wUmw6h0wQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -830,7 +838,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg" alt="" class="wp-image-396517" style="width:570px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><figcaption class="wp-element-caption">           <strong>Brescia at 4 years old                 </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg" alt="" class="wp-image-396517" style="width:570px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">           <strong>Brescia at 4 years old                 </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <p>"Being creative has always been at the core of what I do," she says. Early on she developed a love for photography and videography. Brescia's dream was to pursue a career that allowed her to put her creative energy to work.</p>
@@ -845,7 +853,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="903" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg" alt="" class="wp-image-396519" style="width:600px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-300x265.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-768x678.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1536x1355.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump.jpg 1682w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Looking back at this photo taken before her cancer diagnosis, Brescia says she can see the swelling on the left side of her neck <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="903" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg" alt="" class="wp-image-396519" style="width:600px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-300x265.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-768x678.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1536x1355.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump.jpg 1682w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Looking back at this photo taken before her cancer diagnosis, Brescia says she can see the swelling on the left side of her neck <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><strong>The diagnosis - cancer</strong></h2>
@@ -864,7 +872,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg" alt="" class="wp-image-396443" style="width:293px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><figcaption class="wp-element-caption"><strong>Brescia at Mayo Clinic <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg" alt="" class="wp-image-396443" style="width:293px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption"><strong>Brescia at Mayo Clinic <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <p></p>
@@ -887,7 +895,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="938" height="527" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg" alt="" class="wp-image-393253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg 938w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-768x431.jpg 768w" sizes="auto, (max-width: 938px) 100vw, 938px"><figcaption class="wp-element-caption"><strong>Dr. Allison Rosenthal is medical director of Mayo Clinic's Adolescent and Young Adult Cancer Program</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="938" height="527" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg" alt="" class="wp-image-393253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg 938w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-768x431.jpg 768w" sizes="auto, (max-width: 938px) 100vw, 938px" /><figcaption class="wp-element-caption"><strong>Dr. Allison Rosenthal is medical director of Mayo Clinic's Adolescent and Young Adult Cancer Program</strong></figcaption></figure>
 
 
 
@@ -903,7 +911,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="863" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg" alt="" class="wp-image-396524" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-300x253.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-768x647.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1536x1294.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-2048x1726.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Brescia and her doctor, Allison Rosenthal <br>Photo courtesy: Brescia Dover</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="863" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg" alt="" class="wp-image-396524" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-300x253.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-768x647.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1536x1294.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-2048x1726.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Brescia and her doctor, Allison Rosenthal <br>Photo courtesy: Brescia Dover</strong></figcaption></figure>
 
 
 
@@ -915,7 +923,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="946" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg" alt="" class="wp-image-396530" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-300x277.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-768x709.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1536x1419.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-2048x1892.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="946" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg" alt="" class="wp-image-396530" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-300x277.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-768x709.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1536x1419.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-2048x1892.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure>
 
 
 
@@ -927,7 +935,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="861" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg" alt="" class="wp-image-396515" style="width:608px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg 861w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-252x300.jpg 252w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-768x914.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar.jpg 1024w" sizes="auto, (max-width: 861px) 100vw, 861px"><figcaption class="wp-element-caption"><strong>Brescia is five years cancer-free and owns her own marketing agency<br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="861" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg" alt="" class="wp-image-396515" style="width:608px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg 861w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-252x300.jpg 252w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-768x914.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar.jpg 1024w" sizes="auto, (max-width: 861px) 100vw, 861px" /><figcaption class="wp-element-caption"><strong>Brescia is five years cancer-free and owns her own marketing agency<br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <figure class="wp-block-pullquote"><blockquote><p>"<strong>To anyone in their 20s diagnosed with cancer, know that you are never alone. There is light at the end of the tunnel and there is hope</strong>."</p><cite>-Brescia dover, cancer survivor</cite></blockquote></figure>
@@ -951,7 +959,7 @@
 
 
 
-<li><a href="https://connect.mayoclinic.org/group/adolescent-young-adult-aya-cancer/" target="_blank" rel="noreferrer noopener"><strong>Adolescent &amp; Young Adult (AYA) Cancer Support Group</strong></a><div class="ch-group-privacy" style="align-items: center;font-family: MayoClinicSerif;font-size: 16px"></div></li>
+<li><a href="https://connect.mayoclinic.org/group/adolescent-young-adult-aya-cancer/" target="_blank" rel="noreferrer noopener"><strong>Adolescent &amp;amp; Young Adult (AYA) Cancer Support Group</strong></a><div class="ch-group-privacy" style="align-items: center;font-family: MayoClinicSerif;font-size: 16px"></div></li>
 
 
 
@@ -973,44 +981,44 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia’s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia&amp;#8217;s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-seated-holding-camera-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#cancersupportgroup]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[American Cancer Society]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[cancer cures]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[lymphoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Crop-of-Dr.-R-and-Brescia-150x150.jpg</mayoclinic:mcthumb>	</item>
+<mayoclinic:mctag><![CDATA[#cancersupportgroup]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[American Cancer Society]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[cancer cures]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[lymphoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Crop-of-Dr.-R-and-Brescia-150x150.jpg</mayoclinic:mcthumb >	</item>
 		<item>
 		<title>(VIDEO) Mpox strain detected in new regions: A Mayo Clinic expert explains</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-mpox-strain-detected-in-new-regions-a-mayo-clinic-expert-explains/
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-mpox-strain-detected-in-new-regions-a-mayo-clinic-expert-explains/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Thu, 14 Nov 2024 15:19:44 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Infectious Diseases]]--></category>
-		<category><!--[CDATA[Mayo Clinic Laboratories]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Matthew Binnicker]]--></category>
-		<category><!--[CDATA[mpox]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396324</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2024 15:19:44 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Infectious Diseases]]></category>
+		<category><![CDATA[Mayo Clinic Laboratories]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Matthew Binnicker]]></category>
+		<category><![CDATA[mpox]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396324</guid>
 
-					<description><!--[CDATA[<p-->Mpox, a disease caused by the monkeypox virus, is a global health concern, with outbreaks in Western and Central African countries spreading into other regions. Recently, health officials in the&nbsp;United Kingdom&nbsp;reported new cases of a mpox strain called clade Ib. The World Health Organization&nbsp;declared&nbsp;mpox a public health emergency of international concern in August. Dr. Matthew […]<p></p>
+					<description><![CDATA[<p>Mpox, a disease caused by the monkeypox virus, is a global health concern, with outbreaks in Western and Central African countries spreading into other regions. Recently, health officials in the&amp;#160;United Kingdom&amp;#160;reported new cases of a mpox strain called clade Ib. The World Health Organization&amp;#160;declared&amp;#160;mpox a public health emergency of international concern in August. Dr. Matthew [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-mpox-strain-detected-in-new-regions-a-mayo-clinic-expert-explains/">(VIDEO) Mpox strain detected in new regions: A Mayo Clinic expert explains</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-left-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-1024x576.jpg" alt="colorized transmission electron microscopic image of mpox virus particles (red), found within an infected cell (blue), that had been cultured in the laboratory. The image was captured and color-enhanced at the National Institute of Allergy and Infectious Diseases (NIAID), Integrated Research Facility (IRF), located in Fort Detrick, Maryland." class="wp-image-396407" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9.jpg 1995w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A colorized transmission electron microscopic image of mpox virus particles (red), found within an infected cell (blue), that had been cultured in the laboratory. The image was captured and color-enhanced at the National Institute of Allergy and Infectious Diseases (NIAID), Integrated Research Facility (IRF), located in Fort Detrick, Maryland.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-left-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-1024x576.jpg" alt="colorized transmission electron microscopic image of mpox virus particles (red), found within an infected cell (blue), that had been cultured in the laboratory. The image was captured and color-enhanced at the National Institute of Allergy and Infectious Diseases (NIAID), Integrated Research Facility (IRF), located in Fort Detrick, Maryland." class="wp-image-396407" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9.jpg 1995w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A colorized transmission electron microscopic image of mpox virus particles (red), found within an infected cell (blue), that had been cultured in the laboratory. The image was captured and color-enhanced at the National Institute of Allergy and Infectious Diseases (NIAID), Integrated Research Facility (IRF), located in Fort Detrick, Maryland.</figcaption></figure>
 
 
 
-<p><a href="https://newsnetwork.mayoclinic.org/discussion/video-mayo-clinic-expert-answers-questions-about-mpox/">Mpox</a>, a disease caused by the monkeypox virus, is a global health concern, with outbreaks in Western and Central African countries spreading into other regions. Recently, health officials in the&nbsp;<a href="https://www.gov.uk/government/publications/monkeypox-outbreak-epidemiological-overview/mpox-outbreak-epidemiological-overview-7-november-2024">United Kingdom</a>&nbsp;reported new cases of a mpox strain called clade Ib. The World Health Organization&nbsp;<a href="https://www.who.int/news/item/26-08-2024-global-strategic-preparedness-and-response-plan-launched-by-who-to-contain-mpox-outbreak">declared</a>&nbsp;mpox a public health emergency of international concern in August.</p>
+<p><a href="https://newsnetwork.mayoclinic.org/discussion/video-mayo-clinic-expert-answers-questions-about-mpox/">Mpox</a>, a disease caused by the monkeypox virus, is a global health concern, with outbreaks in Western and Central African countries spreading into other regions. Recently, health officials in the&amp;nbsp;<a href="https://www.gov.uk/government/publications/monkeypox-outbreak-epidemiological-overview/mpox-outbreak-epidemiological-overview-7-november-2024">United Kingdom</a>&amp;nbsp;reported new cases of a mpox strain called clade Ib. The World Health Organization&amp;nbsp;<a href="https://www.who.int/news/item/26-08-2024-global-strategic-preparedness-and-response-plan-launched-by-who-to-contain-mpox-outbreak">declared</a>&amp;nbsp;mpox a public health emergency of international concern in August.</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/binnicker-matthew-j-ph-d/bio-20513862?_ga=2.224776410.1916523742.1658847814-1971724449.1645459629?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Matthew Binnicker</a>, director of the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/laboratory-medicine-pathology/overview/specialty-groups/clinical-microbiology?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Clinical Virology Laboratory</a>&nbsp;at Mayo Clinic, says there are two strains of the virus that cause mpox, clade I and clade II. Each has different subclades that can cause varying degrees of severity. Clade I generally causes more severe illness than clade II.</p>
+<p><a href="https://www.mayoclinic.org/biographies/binnicker-matthew-j-ph-d/bio-20513862?_ga=2.224776410.1916523742.1658847814-1971724449.1645459629?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Matthew Binnicker</a>, director of the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/laboratory-medicine-pathology/overview/specialty-groups/clinical-microbiology?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Clinical Virology Laboratory</a>&amp;nbsp;at Mayo Clinic, says there are two strains of the virus that cause mpox, clade I and clade II. Each has different subclades that can cause varying degrees of severity. Clade I generally causes more severe illness than clade II.</p>
 
 
 
@@ -1023,7 +1031,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubekwdTjhHXno" title="Mpox virus spreads - Hear from a Mayo Clinic expert" width="500" height="281" src="https://www.youtube.com/embed/_kwdTjhHXno?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubekwdTjhHXno"  title="Mpox virus spreads - Hear from a Mayo Clinic expert" width="500" height="281" src="https://www.youtube.com/embed/_kwdTjhHXno?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -1076,18 +1084,18 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="665" height="374" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/05/ChildMonkeyPoxCDCimage16x9.jpg" alt="Young person in Africa with lesions from mpox, monkeypox" class="wp-image-340669" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/05/ChildMonkeyPoxCDCimage16x9.jpg 665w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/05/ChildMonkeyPoxCDCimage16x9-300x169.jpg 300w" sizes="auto, (max-width: 665px) 100vw, 665px"><figcaption class="wp-element-caption">Image of a young person with lesions from mpox infection</figcaption></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="665" height="374" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/05/ChildMonkeyPoxCDCimage16x9.jpg" alt="Young person in Africa with lesions from mpox, monkeypox" class="wp-image-340669" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/05/ChildMonkeyPoxCDCimage16x9.jpg 665w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/05/ChildMonkeyPoxCDCimage16x9-300x169.jpg 300w" sizes="auto, (max-width: 665px) 100vw, 665px" /><figcaption class="wp-element-caption">Image of a young person with lesions from mpox infection</figcaption></figure></div>
 
 
 <p>"In most cases of mpox, people will develop lesions, a blister-like rash, near the site of infection. In certain patients, especially those with a compromised immune system, the presentation of their lesions can be throughout the body. In some cases, people can have what we call a disseminated disease, where the virus can infect a number of different organ systems, leading to hospitalization and, in some cases, death," says Dr. Binnicker.</p>
 
 
 
-<h2 class="wp-block-heading">Vaccination, prevention&nbsp;</h2>
+<h2 class="wp-block-heading">Vaccination, prevention&amp;nbsp;</h2>
 
 
 
-<p>Nearly 900,000 doses of the mpox vaccine have been&nbsp;<a href="https://www.who.int/news/item/06-11-2024-vaccine-doses-allocated-to-9-african-countries-hardest-hit-by-mpox-surge">allocated</a>&nbsp;for the region in Africa hit hardest by the mpox outbreak.</p>
+<p>Nearly 900,000 doses of the mpox vaccine have been&amp;nbsp;<a href="https://www.who.int/news/item/06-11-2024-vaccine-doses-allocated-to-9-african-countries-hardest-hit-by-mpox-surge">allocated</a>&amp;nbsp;for the region in Africa hit hardest by the mpox outbreak.</p>
 
 
 
@@ -1129,29 +1137,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-1-x-1.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Mpox-virus-CDC-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Binnicker]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Laboratories]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[mpox]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Binnicker]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Laboratories]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[mpox]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>(VIDEO) Multiple sclerosis fuels artist’s work</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-multiple-sclerosis-fuels-artists-work/
+		<title>(VIDEO) Multiple sclerosis fuels artist&amp;#8217;s work</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-multiple-sclerosis-fuels-artists-work/</link>
 		
-		<dc:creator><!--[CDATA[Susan Barber Lindquist]]--></dc:creator>
-		<pubdate>Tue, 12 Nov 2024 16:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[Rochester]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Eoin Flanagan]]--></category>
-		<category><!--[CDATA[multiple sclerosis]]--></category>
-		<category><!--[CDATA[Patient Story]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396164</guid>
+		<dc:creator><![CDATA[Susan Barber Lindquist]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[Rochester]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Eoin Flanagan]]></category>
+		<category><![CDATA[multiple sclerosis]]></category>
+		<category><![CDATA[Patient Story]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396164</guid>
 
-					<description><!--[CDATA[<p-->How does someone deal with a diagnosis of multiple sclerosis (MS), a potentially disabling disease that attacks nerves in the brain and spinal cord? For May Ling Kopecky, who was diagnosed with MS at Mayo Clinic as a teen, making art and music helps her share what it's like to live with a chronic disease. […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-multiple-sclerosis-fuels-artists-work/">(VIDEO) Multiple sclerosis fuels artist’s work</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>How does someone deal with a diagnosis of multiple sclerosis (MS), a potentially disabling disease that attacks nerves in the brain and spinal cord? For May Ling Kopecky, who was diagnosed with MS at Mayo Clinic as a teen, making art and music helps her share what it's like to live with a chronic disease. [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-multiple-sclerosis-fuels-artists-work/">(VIDEO) Multiple sclerosis fuels artist&amp;#8217;s work</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->How does someone deal with a diagnosis of <a href="https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269" target="_blank" rel="noreferrer noopener">multiple sclerosis</a> (MS), a potentially disabling disease that attacks nerves in the brain and spinal cord?<p></p>
+										<content:encoded><![CDATA[
+<p>How does someone deal with a diagnosis of <a href="https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269" target="_blank" rel="noreferrer noopener">multiple sclerosis</a> (MS), a potentially disabling disease that attacks nerves in the brain and spinal cord?</p>
 
 
 
@@ -1176,7 +1184,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeTEIcjwqE1JQ" title="Multiple sclerosis fuels artist's work" width="500" height="281" src="https://www.youtube.com/embed/TEIcjwqE1JQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeTEIcjwqE1JQ"  title="Multiple sclerosis fuels artist&amp;#039;s work" width="500" height="281" src="https://www.youtube.com/embed/TEIcjwqE1JQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -1217,7 +1225,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="562" height="562" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI.jpg" alt="" class="wp-image-396278" style="width:564px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI.jpg 562w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI-150x150.jpg 150w" sizes="auto, (max-width: 562px) 100vw, 562px"><figcaption class="wp-element-caption">Posed with a painting of her MRI scans, May Ling Kopecky shares the reality of living with lesions on her brain caused by multiple sclerosis.</figcaption></figure></div>
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="562" height="562" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI.jpg" alt="" class="wp-image-396278" style="width:564px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI.jpg 562w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-paints-MRI-150x150.jpg 150w" sizes="auto, (max-width: 562px) 100vw, 562px" /><figcaption class="wp-element-caption">Posed with a painting of her MRI scans, May Ling Kopecky shares the reality of living with lesions on her brain caused by multiple sclerosis.</figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><strong>New treatments for multiple sclerosis</strong></h2>
@@ -1244,7 +1252,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-1024x576.jpg" alt="" class="wp-image-396372" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Gait testing is helping clinicians look for early clues to patients' MS symptoms, with the goal of intervening before problems worsen.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-1024x576.jpg" alt="" class="wp-image-396372" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-gait-test-image.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Gait testing is helping clinicians look for early clues to patients' MS symptoms, with the goal of intervening before problems worsen.</figcaption></figure>
 
 
 
@@ -1268,7 +1276,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="436" height="563" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-blurry-vision-IV-painting.jpg" alt="" class="wp-image-396276" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-blurry-vision-IV-painting.jpg 436w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-blurry-vision-IV-painting-232x300.jpg 232w" sizes="auto, (max-width: 436px) 100vw, 436px"><figcaption class="wp-element-caption">This piece by May Ling Kopecky shows the viewer what it's like to have double vision.</figcaption></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="436" height="563" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-blurry-vision-IV-painting.jpg" alt="" class="wp-image-396276" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-blurry-vision-IV-painting.jpg 436w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-blurry-vision-IV-painting-232x300.jpg 232w" sizes="auto, (max-width: 436px) 100vw, 436px" /><figcaption class="wp-element-caption">This piece by May Ling Kopecky shows the viewer what it's like to have double vision.</figcaption></figure></div>
 
 
 <p>For May Ling, Mayo Clinic has been a trusted healthcare partner for more than a decade as she learned how to manage her chronic disease.</p>
@@ -1284,13 +1292,13 @@
 
 
 <p>"I'm communicating with the viewers about, you know, what my experience is," May Ling says. "I always find it super rewarding when somebody else comes up to me and says something like, 'I see myself in this work.'"</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-multiple-sclerosis-fuels-artists-work/">(VIDEO) Multiple sclerosis fuels artist’s work</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-multiple-sclerosis-fuels-artists-work/">(VIDEO) Multiple sclerosis fuels artist&amp;#8217;s work</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-sketching-closeup-1x1-2.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/May-Ling-Kopecky-drawing-at-desk-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eoin Flanagan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[multiple sclerosis]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Patient Story]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eoin Flanagan]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[multiple sclerosis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Patient Story]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
