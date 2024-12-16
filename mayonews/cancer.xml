@@ -1,42 +1,50 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Cancer - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/cancer/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Thu, 12 Dec 2024 16:04:56 +0000</lastbuilddate>
+	<lastBuildDate>Thu, 12 Dec 2024 16:04:56 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Mayo Clinic Minute: Treating liver cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-treating-liver-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-treating-liver-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
-		<pubdate>Thu, 12 Dec 2024 16:04:55 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Lionel Kankeu Fonkoua]]--></category>
-		<category><!--[CDATA[Liver Cancer]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=378475</guid>
+		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 16:04:55 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Lionel Kankeu Fonkoua]]></category>
+		<category><![CDATA[Liver Cancer]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=378475</guid>
 
-					<description><!--[CDATA[<p-->Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the American Cancer Society. Dr. Lionel Kankeu Fonkoua, a Mayo Clinic Comprehensive Cancer Center […]<p></p>
+					<description><![CDATA[<p>Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the American Cancer Society. Dr. Lionel Kankeu Fonkoua, a Mayo Clinic Comprehensive Cancer Center [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-treating-liver-cancer/">Mayo Clinic Minute: Treating liver cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the <a href="https://www.cancer.org/cancer/types/liver-cancer.html" target="_blank" rel="noreferrer noopener">American Cancer Society.</a><p></p>
+										<content:encoded><![CDATA[
+<p>Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the <a href="https://www.cancer.org/cancer/types/liver-cancer.html" target="_blank" rel="noreferrer noopener">American Cancer Society.</a></p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/kankeu-fonkoua-lionel-a-m-d/bio-20526829?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Lionel Kankeu Fonkoua</a>, a Mayo Clinic Comprehensive Cancer Center oncologist, discusses prevention and treatment.</p>
+<p><a href="https://www.mayoclinic.org/biographies/kankeu-fonkoua-lionel-a-m-d/bio-20526829?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Lionel Kankeu Fonkoua</a>, a Mayo Clinic Comprehensive Cancer Center oncologist, discusses prevention and treatment.</p>
 
 
 
@@ -44,7 +52,7 @@
 
 
 
-<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-Treating-liver-cancer-CLEAN.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-Treating-liver-cancer-CLEAN.mp4"></video></figure>
 
 
 
@@ -52,7 +60,7 @@
 
 
 
-<p>The most common form of primary <a href="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">liver cancer</a> — cancer that starts in the liver — is called hepatocellular carcinoma. This type of cancer often develops in people with chronic liver diseases, such as hepatitis.</p>
+<p>The most common form of primary <a href="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">liver cancer</a> — cancer that starts in the liver — is called hepatocellular carcinoma. This type of cancer often develops in people with chronic liver diseases, such as hepatitis.</p>
 
 
 
@@ -60,7 +68,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg" alt="a medical illustration of liver cancer" class="wp-image-174281" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9-300x169.jpg 300w" sizes="(max-width: 550px) 100vw, 550px"></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg" alt="a medical illustration of liver cancer" class="wp-image-174281" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9-300x169.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure>
 
 
 
@@ -124,34 +132,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/X-ray-of-a-persons-abdomen-and-a-radiologist-physician-pointing-toward-the-liver-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/09/Anatomical-illustration-of-the-liver-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Lionel Kankeu Fonkoua]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Cancer]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Lionel Kankeu Fonkoua]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Liver Cancer]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Research shows new treatment could delay cancer progression in patients with high-risk smoldering multiple myeloma</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/
+		<link>https://newsnetwork.mayoclinic.org/discussion/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/</link>
 		
-		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
-		<pubdate>Tue, 10 Dec 2024 18:54:24 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[AQUILA]]--></category>
-		<category><!--[CDATA[blood cancer]]--></category>
-		<category><!--[CDATA[daratumumab]]--></category>
-		<category><!--[CDATA[Dr. S. Vincent Rajkumar]]--></category>
-		<category><!--[CDATA[Hematology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[monoclonal antibody]]--></category>
-		<category><!--[CDATA[Multiple Myeloma]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397647</guid>
+		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 18:54:24 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[AQUILA]]></category>
+		<category><![CDATA[blood cancer]]></category>
+		<category><![CDATA[daratumumab]]></category>
+		<category><![CDATA[Dr. S. Vincent Rajkumar]]></category>
+		<category><![CDATA[Hematology]]></category>
+		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[monoclonal antibody]]></category>
+		<category><![CDATA[Multiple Myeloma]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397647</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A new treatment is showing promise for people with high-risk smoldering multiple myeloma (SMM). This precancerous condition can progress to active multiple myeloma, a type of blood cancer. High-risk SMM carries a higher likelihood of progression. Results from a phase 3 clinical trial, published in the New England Journal of Medicine and […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A new treatment is showing promise for people with high-risk smoldering multiple myeloma (SMM). This precancerous condition can progress to active multiple myeloma, a type of blood cancer. High-risk SMM carries a higher likelihood of progression. Results from a phase 3 clinical trial, published in the New England Journal of Medicine and [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/">Research shows new treatment could delay cancer progression in patients with high-risk smoldering multiple myeloma</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg" alt="" class="wp-image-383833" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg" alt="" class="wp-image-383833" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -199,11 +207,11 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -221,31 +229,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[AQUILA]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[blood cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daratumumab]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. S. Vincent Rajkumar]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Hematology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[monoclonal antibody]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Multiple Myeloma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[AQUILA]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[blood cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daratumumab]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. S. Vincent Rajkumar]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Hematology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[monoclonal antibody]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Multiple Myeloma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Late-breaking abstract at SUO: Novel oncolytic immunotherapy shows promise for patients with bladder cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/late-breaking-abstract-at-suo-novel-oncolytic-immunotherapy-shows-promise-for-patients-with-bladder-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/late-breaking-abstract-at-suo-novel-oncolytic-immunotherapy-shows-promise-for-patients-with-bladder-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
-		<pubdate>Thu, 05 Dec 2024 17:50:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[bladder cancer]]--></category>
-		<category><!--[CDATA[Dr. Mark Tyson]]--></category>
-		<category><!--[CDATA[immunotherapy]]--></category>
-		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[Urology]]--></category>
-		<category><!--[CDATA[virus]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397430</guid>
+		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 17:50:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[bladder cancer]]></category>
+		<category><![CDATA[Dr. Mark Tyson]]></category>
+		<category><![CDATA[immunotherapy]]></category>
+		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[Urology]]></category>
+		<category><![CDATA[virus]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397430</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A Mayo Clinic Comprehensive Cancer Center researcher will share findings from a late-breaking abstract at the 2024 Society of Urologic Oncology Annual Meeting in Dallas, Dec. 4-6. The study demonstrated a potentially effective treatment for patients with bladder cancer who no longer respond to the common therapy, Bacillus Calmette-Guérin (BCG). The novel […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A Mayo Clinic Comprehensive Cancer Center researcher will share findings from a late-breaking abstract at the 2024 Society of Urologic Oncology Annual Meeting in Dallas, Dec. 4-6. The study demonstrated a potentially effective treatment for patients with bladder cancer who no longer respond to the common therapy, Bacillus Calmette-Guérin (BCG). The novel [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/late-breaking-abstract-at-suo-novel-oncolytic-immunotherapy-shows-promise-for-patients-with-bladder-cancer/">Late-breaking abstract at SUO: Novel oncolytic immunotherapy shows promise for patients with bladder cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-1024x683.jpg" alt="a medical illustration of cancer cells" class="wp-image-369253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-1024x683.jpg" alt="a medical illustration of cancer cells" class="wp-image-369253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cellsoriginal-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -257,11 +265,11 @@
 
 
 
-<p>Efficacy data from 110 participants in the study showed that nearly 75% experienced complete cancer remission, with many remaining cancer-free beyond two years. Remarkably, most participants did not require bladder removal surgery, and the treatment was well tolerated with minimal serious side effects. Ongoing research will look to determine the long-term efficacy and whether combining this therapy with other treatments will enhance its effectiveness. &nbsp;</p>
+<p>Efficacy data from 110 participants in the study showed that nearly 75% experienced complete cancer remission, with many remaining cancer-free beyond two years. Remarkably, most participants did not require bladder removal surgery, and the treatment was well tolerated with minimal serious side effects. Ongoing research will look to determine the long-term efficacy and whether combining this therapy with other treatments will enhance its effectiveness. &amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Mark_Tyson_1506856_3742198_0008-200x300.jpg" alt="" class="wp-image-397466" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Mark_Tyson_1506856_3742198_0008-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Mark_Tyson_1506856_3742198_0008.jpg 533w" sizes="auto, (max-width: 200px) 100vw, 200px"><figcaption class="wp-element-caption"><sup>Mark Tyson, M.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Mark_Tyson_1506856_3742198_0008-200x300.jpg" alt="" class="wp-image-397466" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Mark_Tyson_1506856_3742198_0008-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Mark_Tyson_1506856_3742198_0008.jpg 533w" sizes="auto, (max-width: 200px) 100vw, 200px" /><figcaption class="wp-element-caption"><sup>Mark Tyson, M.D.</sup></figcaption></figure></div>
 
 
 <p>"These findings address a significant unmet need for bladder cancer patients and could improve their quality of life," says <a href="https://www.mayo.edu/research/faculty/tyson-mark-d-ii-m-d-m-p-h/bio-20524031" target="_blank" rel="noreferrer noopener">Mark Tyson, M.D.</a>, urologic oncologist and lead investigator of the study. "We now know this treatment can be both effective and safe, potentially reducing the need for bladder removal surgery and providing a much-needed alternative for patients with limited options."</p>
@@ -276,11 +284,11 @@
 
 
 
-<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;&nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -298,29 +306,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cells1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/06/cancer-cells16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[bladder cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Mark Tyson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[immunotherapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Urology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[virus]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[bladder cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Mark Tyson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[immunotherapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Urology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[virus]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Does thyroid cancer affect women more than men?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/</link>
 		
-		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
-		<pubdate>Wed, 27 Nov 2024 16:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Victor Bernet]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396810</guid>
+		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Victor Bernet]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396810</guid>
 
-					<description><!--[CDATA[<p-->Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer. Dr. Victor Bernet, a Mayo Clinic endocrinologist, says men also need to be aware of thyroid cancer risks. Watch: The Mayo Clinic Minute […]<p></p>
+					<description><![CDATA[<p>Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer. Dr. Victor Bernet, a Mayo Clinic endocrinologist, says men also need to be aware of thyroid cancer risks. Watch: The Mayo Clinic Minute [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/">Mayo Clinic Minute: Does thyroid cancer affect women more than men?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer.<p></p>
+										<content:encoded><![CDATA[
+<p>Women are three to four times more likely than men to be diagnosed with thyroid cancer. However, recent research shows that men face an equal risk of developing this type of cancer.</p>
 
 
 
@@ -333,7 +341,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubePGH3TROOSn4" title="Mayo Clinic Minute - Does thyroid cancer affect women more than men?" width="500" height="281" src="https://www.youtube.com/embed/PGH3TROOSn4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubePGH3TROOSn4"  title="Mayo Clinic Minute - Does thyroid cancer affect women more than men?" width="500" height="281" src="https://www.youtube.com/embed/PGH3TROOSn4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -354,10 +362,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img decoding="async" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2015/09/Thyroid-cancer.jpg" alt="" class="wp-image-130392"></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2015/09/Thyroid-cancer.jpg" alt="" class="wp-image-130392" /></figure></div>
 
 
-<p>In the past, it was believed that women developed thyroid cancer more than men.&nbsp; However, recent data shows that women are often diagnosed with a less aggressive, relatively non-life-threatening form of thyroid cancer. But when it comes to advanced thyroid cancer, the risks are the same for both men and women.</p>
+<p>In the past, it was believed that women developed thyroid cancer more than men.&amp;nbsp; However, recent data shows that women are often diagnosed with a less aggressive, relatively non-life-threatening form of thyroid cancer. But when it comes to advanced thyroid cancer, the risks are the same for both men and women.</p>
 
 
 
@@ -369,7 +377,7 @@
 
 
 
-<p>&nbsp;"So, in actuality, they probably don't have as much of a higher risk than we thought," explains Dr. Bernet.</p>
+<p>&amp;nbsp;"So, in actuality, they probably don't have as much of a higher risk than we thought," explains Dr. Bernet.</p>
 
 
 
@@ -399,7 +407,7 @@
 
 
 
-<p>&nbsp;</p>
+<p>&amp;nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-does-thyroid-cancer-affect-women-more-than-men/">Mayo Clinic Minute: Does thyroid cancer affect women more than men?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -407,34 +415,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/Woman-with-sore-throat-GettyImages-1316977900_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Victor Bernet]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Victor Bernet]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Laparoscopic Whipple procedure for pancreatic cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-laparoscopic-whipple-procedure-for-pancreatic-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-laparoscopic-whipple-procedure-for-pancreatic-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Tue, 26 Nov 2024 14:58:58 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Michael Kendrick]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<category><!--[CDATA[Whipple]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395199</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 14:58:58 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Michael Kendrick]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<category><![CDATA[Whipple]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395199</guid>
 
-					<description><!--[CDATA[<p-->Pancreatic cancer&nbsp;begins in the pancreas, which is located behind the stomach. It is often difficult to detect early because symptoms typically appear only after the cancer has spread. As a result, it is usually diagnosed at an advanced stage, which complicates treatment. One key treatment option is the&nbsp;Whipple procedure, a complex surgery that removes the […]<p></p>
+					<description><![CDATA[<p>Pancreatic cancer&amp;#160;begins in the pancreas, which is located behind the stomach. It is often difficult to detect early because symptoms typically appear only after the cancer has spread. As a result, it is usually diagnosed at an advanced stage, which complicates treatment. One key treatment option is the&amp;#160;Whipple procedure, a complex surgery that removes the [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-laparoscopic-whipple-procedure-for-pancreatic-cancer/">(VIDEO) Laparoscopic Whipple procedure for pancreatic cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p--><a href="https://newsnetwork.mayoclinic.org/discussion/long-term-pancreatic-cancer-survivors-report-excellent-post-surgery-quality-of-life/">Pancreatic cancer</a>&nbsp;begins in the pancreas, which is located behind the stomach. It is often difficult to detect early because symptoms typically appear only after the cancer has spread. As a result, it is usually diagnosed at an advanced stage, which complicates treatment.<p></p>
+										<content:encoded><![CDATA[
+<p><a href="https://newsnetwork.mayoclinic.org/discussion/long-term-pancreatic-cancer-survivors-report-excellent-post-surgery-quality-of-life/">Pancreatic cancer</a>&amp;nbsp;begins in the pancreas, which is located behind the stomach. It is often difficult to detect early because symptoms typically appear only after the cancer has spread. As a result, it is usually diagnosed at an advanced stage, which complicates treatment.</p>
 
 
 
-<p>One key treatment option is the&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/whipple-procedure/about/pac-20385054">Whipple procedure</a>, a complex surgery that removes the head of the pancreas. There are three approaches to this challenging surgery: open, laparoscopic and&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-advancing-pancreatic-cancer-treatment-with-total-robotic-whipple-surgery/">robotic</a>.</p>
+<p>One key treatment option is the&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/whipple-procedure/about/pac-20385054">Whipple procedure</a>, a complex surgery that removes the head of the pancreas. There are three approaches to this challenging surgery: open, laparoscopic and&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-advancing-pancreatic-cancer-treatment-with-total-robotic-whipple-surgery/">robotic</a>.</p>
 
 
 
@@ -447,12 +455,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeKwkMCucV9Xc" title="Laparoscopic Whipple procedure for pancreatic cancer" width="500" height="281" src="https://www.youtube.com/embed/KwkMCucV9Xc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeKwkMCucV9Xc"  title="Laparoscopic Whipple procedure for pancreatic cancer" width="500" height="281" src="https://www.youtube.com/embed/KwkMCucV9Xc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (1:16) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/SCRIPT-jthEDITS_MCM-Laparoscopic-Whipple-procedure-for-pancreatic-cancer_CC-EDITS92.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (1:16) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/SCRIPT-jthEDITS_MCM-Laparoscopic-Whipple-procedure-for-pancreatic-cancer_CC-EDITS92.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -460,21 +468,21 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-1024x576.jpg" alt="Closeup photograph of Dr. Michael Kendrick wearing surgical mask, safety glasses, in surgery" class="wp-image-396838" style="width:768px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Michael Kendrick during a laparoscopic&nbsp;Whipple procedure</figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-1024x576.jpg" alt="Closeup photograph of Dr. Michael Kendrick wearing surgical mask, safety glasses, in surgery" class="wp-image-396838" style="width:768px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Michael Kendrick during a laparoscopic&amp;nbsp;Whipple procedure</figcaption></figure></div>
 
 
 <p>However, for the best outcome, most patients with pancreatic cancer will need chemotherapy and radiation before surgery to maximize cancer outcomes. Dr. Kendrick says that after such rigorous treatments prior to surgery, minimally invasive approaches help minimize the effect on the patient's health.</p>
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-1024x576.jpg" alt="Dr. Michael Kenrick and surgical team performing laprascopic Whipple procedure" class="wp-image-396841" style="width:686px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Michael Kendrick and surgical team performing a laparoscopic&nbsp;Whipple procedure</figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-1024x576.jpg" alt="Dr. Michael Kenrick and surgical team performing laprascopic Whipple procedure" class="wp-image-396841" style="width:686px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Michael Kendrick and surgical team performing a laparoscopic&amp;nbsp;Whipple procedure</figcaption></figure></div>
 
 
 <p>"It's much less stress on the body than the open approach, and so most of the studies show that patients have less pain, quicker recovery, less blood loss and shorter hospital stays, which has been very beneficial," he says.</p>
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="303" height="303" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic.jpg" alt="infographic for minimally invasive pancreatic cancer surgery" class="wp-image-177623 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic.jpg 303w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic-300x300.jpg 300w" sizes="auto, (max-width: 303px) 100vw, 303px"></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="303" height="303" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic.jpg" alt="infographic for minimally invasive pancreatic cancer surgery" class="wp-image-177623 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic.jpg 303w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/11_17_17_MinimallyInvasive-Pancreatic-Cancer-Treatment_PreviewThumbnail_303x303_infographic-300x300.jpg 300w" sizes="auto, (max-width: 303px) 100vw, 303px" /></figure><div class="wp-block-media-text__content">
 <p>Laparoscopic means making small incisions and using a camera and special instruments that traverse the abdominal wall to perform the operation internally.</p>
 </div></div>
 
@@ -484,11 +492,11 @@
 
 
 
-<p>After the operation, the patient wakes up with bandages rather than a large incision. These small incisions mean less pain from the operation and quicker healing time.&nbsp;</p>
+<p>After the operation, the patient wakes up with bandages rather than a large incision. These small incisions mean less pain from the operation and quicker healing time.&amp;nbsp;</p>
 
 
 
-<p>"The minimally invasive approach is allowing people to recover quicker, which gives them more hope that after all of the treatment they've gone through&nbsp;&nbsp;— the chemotherapy, the radiation, now the surgery — that finally they're going to get some of their life back. And I think that's really rewarding," Dr. Kendrick says.</p>
+<p>"The minimally invasive approach is allowing people to recover quicker, which gives them more hope that after all of the treatment they've gone through&amp;nbsp;&amp;nbsp;— the chemotherapy, the radiation, now the surgery — that finally they're going to get some of their life back. And I think that's really rewarding," Dr. Kendrick says.</p>
 
 
 
@@ -514,29 +522,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Dr-Michael-Kendrick-closeup-surgery-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Whipple-surgery-Dr-Kendrick-team-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Michael Kendrick]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Whipple]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Michael Kendrick]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Whipple]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Knowing your family health history could save your life</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-knowing-your-family-health-history-could-save-your-life/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-knowing-your-family-health-history-could-save-your-life/</link>
 		
-		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
-		<pubdate>Thu, 21 Nov 2024 14:57:46 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Tina Ardon]]--></category>
-		<category><!--[CDATA[Newspp]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395555</guid>
+		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2024 14:57:46 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Tina Ardon]]></category>
+		<category><![CDATA[Newspp]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395555</guid>
 
-					<description><!--[CDATA[<p-->Does cancer, kidney disease or high blood pressure run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share family health information with your loved ones. The Office of the Surgeon General declared Thanksgiving as National Family History Day to encourage families to share information about family […]<p></p>
+					<description><![CDATA[<p>Does cancer, kidney disease or high blood pressure run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share family health information with your loved ones. The Office of the Surgeon General declared Thanksgiving as National Family History Day to encourage families to share information about family [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-knowing-your-family-health-history-could-save-your-life/">Mayo Clinic Minute: Knowing your family health history could save your life</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Does <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588">cancer</a>, <a href="https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721">kidney disease </a>or <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-high-blood-pressure-hurts-the-kidneys/">high blood pressure </a>run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share <a href="https://www.cdc.gov/family-health-history/about/index.html" target="_blank" rel="noreferrer noopener">family health information</a> with your loved ones.<p></p>
+										<content:encoded><![CDATA[
+<p>Does <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588">cancer</a>, <a href="https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721">kidney disease </a>or <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-high-blood-pressure-hurts-the-kidneys/">high blood pressure </a>run in your family? Knowing your family health history is crucial. The holidays are the perfect time to share <a href="https://www.cdc.gov/family-health-history/about/index.html" target="_blank" rel="noreferrer noopener">family health information</a> with your loved ones.</p>
 
 
 
@@ -544,7 +552,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/ardon-tina-m-d/bio-20055713" target="_blank" rel="noreferrer noopener">Dr. Tina Ardon</a>, a Mayo Clinic family medicine physician,&nbsp;says reviewing family history can significantly affect overall health.</p>
+<p><a href="https://www.mayoclinic.org/biographies/ardon-tina-m-d/bio-20055713" target="_blank" rel="noreferrer noopener">Dr. Tina Ardon</a>, a Mayo Clinic family medicine physician,&amp;nbsp;says reviewing family history can significantly affect overall health.</p>
 
 
 
@@ -553,7 +561,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeM3s5ke1XUtM" title="Mayo Clinic Minute - Knowing your family health history could save your life" width="500" height="281" src="https://www.youtube.com/embed/M3s5ke1XUtM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeM3s5ke1XUtM"  title="Mayo Clinic Minute - Knowing your family health history could save your life" width="500" height="281" src="https://www.youtube.com/embed/M3s5ke1XUtM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -570,7 +578,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg" alt="a Black family of several generations having fun at Thanksgiving dinner table" class="wp-image-325130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Thanksgiving is a great time to discuss family health information.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg" alt="a Black family of several generations having fun at Thanksgiving dinner table" class="wp-image-325130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/a-Black-family-of-several-generations-having-fun-at-Thanksgiving-dinner-table-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Thanksgiving is a great time to discuss family health information.</figcaption></figure>
 
 
 
@@ -599,7 +607,7 @@
 
 
 <ul class="wp-block-list">
-<li><a href="https://newsnetwork.mayoclinic.org/wp-admin/post.php?post=395555&amp;action=edit">Gather your family health history this Thanksgiving; it could save your life</a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/wp-admin/post.php?post=395555&amp;amp;action=edit">Gather your family health history this Thanksgiving; it could save your life</a></li>
 
 
 
@@ -616,28 +624,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/11/multi-generational-family-perhaps-Latino-celebrating-Thanksgiving-holiday-with-turkey-and-festive-table-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/11/THANKSGIVING-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Tina Ardon]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Newspp]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tina Ardon]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Newspp]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Stomach cancer in younger people</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-stomach-cancer-in-younger-people/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-stomach-cancer-in-younger-people/</link>
 		
-		<dc:creator><!--[CDATA[DeeDee Stiepan]]--></dc:creator>
-		<pubdate>Wed, 20 Nov 2024 14:58:51 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Travis Grotz]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396759</guid>
+		<dc:creator><![CDATA[DeeDee Stiepan]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 14:58:51 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Travis Grotz]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396759</guid>
 
-					<description><!--[CDATA[<p-->Rates of stomach cancer, which is also called gastric cancer, among younger people is on the rise. Typically, stomach cancer is diagnosed in patients in their 60s and 70s, but increasingly it's being diagnosed in younger patients. While rates of stomach cancer in older patients have been declining for decades, early onset stomach cancer is […]<p></p>
+					<description><![CDATA[<p>Rates of stomach cancer, which is also called gastric cancer, among younger people is on the rise. Typically, stomach cancer is diagnosed in patients in their 60s and 70s, but increasingly it's being diagnosed in younger patients. While rates of stomach cancer in older patients have been declining for decades, early onset stomach cancer is [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-stomach-cancer-in-younger-people/">Mayo Clinic Minute: Stomach cancer in younger people</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Rates of <a href="https://newsnetwork.mayoclinic.org/discussion/new-heated-drug-baths-provide-hope-for-patients-with-stomach-cancer/" target="_blank" rel="noreferrer noopener">stomach cancer</a>, which is also called <a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438">gastric cancer</a>, among younger people is on the rise. Typically, stomach cancer is diagnosed in patients in their 60s and 70s, but increasingly it's being diagnosed in younger patients. While rates of stomach cancer in older patients have been declining for decades, early onset stomach cancer is increasing and makes up around <a href="https://www.surgjournal.com/article/S0039-6060(19)30299-5/abstract">30%</a> of stomach cancer diagnoses.<p></p>
+										<content:encoded><![CDATA[
+<p>Rates of <a href="https://newsnetwork.mayoclinic.org/discussion/new-heated-drug-baths-provide-hope-for-patients-with-stomach-cancer/" target="_blank" rel="noreferrer noopener">stomach cancer</a>, which is also called <a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438">gastric cancer</a>, among younger people is on the rise. Typically, stomach cancer is diagnosed in patients in their 60s and 70s, but increasingly it's being diagnosed in younger patients. While rates of stomach cancer in older patients have been declining for decades, early onset stomach cancer is increasing and makes up around <a href="https://www.surgjournal.com/article/S0039-6060(19)30299-5/abstract">30%</a> of stomach cancer diagnoses.</p>
 
 
 
@@ -650,7 +658,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube9FXmx5qrkBM" title="Mayo Clinic Minute: Stomach cancer in younger people" width="500" height="281" src="https://www.youtube.com/embed/9FXmx5qrkBM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube9FXmx5qrkBM"  title="Mayo Clinic Minute: Stomach cancer in younger people" width="500" height="281" src="https://www.youtube.com/embed/9FXmx5qrkBM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -667,7 +675,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/a-medical-illustration-of-stomach-cancer-16X9.jpg" alt="a medical illustration of stomach cancer" class="wp-image-220699" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/a-medical-illustration-of-stomach-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/a-medical-illustration-of-stomach-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/a-medical-illustration-of-stomach-cancer-16X9.jpg" alt="a medical illustration of stomach cancer" class="wp-image-220699" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/a-medical-illustration-of-stomach-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/a-medical-illustration-of-stomach-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
 
 
 <p>"I think unfortunately, the younger patients, they often think they had a bad meal. They think — even physicians, you know, think — that it's just reflux; they're just stressed out; they're too young to have cancer," says Dr. Grotz.</p>
@@ -722,36 +730,36 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Stomach-Cancer-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Travis Grotz]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Travis Grotz]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Minimally invasive hysterectomy</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-minimally-invasive-hysterectomy/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-minimally-invasive-hysterectomy/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Mon, 18 Nov 2024 15:06:23 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverserepresentation]]--></category>
-		<category><!--[CDATA[Dr. Megan Wasson]]--></category>
-		<category><!--[CDATA[Hysterectomy]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=394104</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 15:06:23 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverserepresentation]]></category>
+		<category><![CDATA[Dr. Megan Wasson]]></category>
+		<category><![CDATA[Hysterectomy]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=394104</guid>
 
-					<description><!--[CDATA[<p-->A hysterectomy can treat many gynecologic conditions, including fibroids, painful periods and cancer, such as&nbsp;endometrial,&nbsp;cervical,&nbsp;ovarian&nbsp;and uterine cancers. Dr. Megan Wasson,&nbsp;a gynecologic surgeon at Mayo Clinic, specializes in&nbsp;minimally invasive surgery. She says the decision to undergo a hysterectomy is highly individualized, based on each patient's specific needs.&nbsp; In many cases, a minimally invasive approach is an […]<p></p>
+					<description><![CDATA[<p>A hysterectomy can treat many gynecologic conditions, including fibroids, painful periods and cancer, such as&amp;#160;endometrial,&amp;#160;cervical,&amp;#160;ovarian&amp;#160;and uterine cancers. Dr. Megan Wasson,&amp;#160;a gynecologic surgeon at Mayo Clinic, specializes in&amp;#160;minimally invasive surgery. She says the decision to undergo a hysterectomy is highly individualized, based on each patient's specific needs.&amp;#160; In many cases, a minimally invasive approach is an [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-minimally-invasive-hysterectomy/">Mayo Clinic Minute: Minimally invasive hysterectomy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-center-align-caption"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg" alt="Dr. Megan Wasson, surgery, endometriosis," class="wp-image-348600" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Megan Wasson in the operating room</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-center-align-caption">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg" alt="Dr. Megan Wasson, surgery, endometriosis," class="wp-image-348600" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Wasson-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Megan Wasson in the operating room</figcaption></figure></div>
 
 
-<p>A hysterectomy can treat many gynecologic conditions, including fibroids, painful periods and cancer, such as&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/endometrial-cancer/symptoms-causes/syc-20352461" target="_blank" rel="noreferrer noopener">endometrial</a>,&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/toolkit-for-reducing-cervical-cancer-risk/" target="_blank" rel="noreferrer noopener">cervical</a>,&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/ovarian-cancer/symptoms-causes/syc-20375941" target="_blank" rel="noreferrer noopener">ovarian&nbsp;</a>and uterine cancers.</p>
+<p>A hysterectomy can treat many gynecologic conditions, including fibroids, painful periods and cancer, such as&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/endometrial-cancer/symptoms-causes/syc-20352461" target="_blank" rel="noreferrer noopener">endometrial</a>,&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/toolkit-for-reducing-cervical-cancer-risk/" target="_blank" rel="noreferrer noopener">cervical</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/ovarian-cancer/symptoms-causes/syc-20375941" target="_blank" rel="noreferrer noopener">ovarian&amp;nbsp;</a>and uterine cancers.</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/wasson-megan-n-d-o/bio-20234473?_ga=2.26311997.16198988.1507659618-218178136.1502116314?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Megan Wasson,</a>&nbsp;a gynecologic surgeon at Mayo Clinic, specializes in&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/minimally-invasive-surgery/about/pac-20384771" target="_blank" rel="noreferrer noopener">minimally invasive surgery</a>. She says the decision to undergo a hysterectomy is highly individualized, based on each patient's specific needs.&nbsp;</p>
+<p><a href="https://www.mayoclinic.org/biographies/wasson-megan-n-d-o/bio-20234473?_ga=2.26311997.16198988.1507659618-218178136.1502116314?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Megan Wasson,</a>&amp;nbsp;a gynecologic surgeon at Mayo Clinic, specializes in&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/minimally-invasive-surgery/about/pac-20384771" target="_blank" rel="noreferrer noopener">minimally invasive surgery</a>. She says the decision to undergo a hysterectomy is highly individualized, based on each patient's specific needs.&amp;nbsp;</p>
 
 
 
@@ -764,16 +772,16 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubel2AgnVgivok" title="Mayo Clinic Minute - Minimally invasive hysterectomy" width="500" height="281" src="https://www.youtube.com/embed/l2AgnVgivok?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubel2AgnVgivok"  title="Mayo Clinic Minute - Minimally invasive hysterectomy" width="500" height="281" src="https://www.youtube.com/embed/l2AgnVgivok?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (1:00) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/SCRIPT-MCM-Minimally-invasive-hysterectomy.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (1:00) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/SCRIPT-MCM-Minimally-invasive-hysterectomy.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
-<p>Minimally invasive surgery uses small incisions and special tools, causing less damage to the body than traditional surgery.&nbsp;</p>
+<p>Minimally invasive surgery uses small incisions and special tools, causing less damage to the body than traditional surgery.&amp;nbsp;</p>
 
 
 
@@ -785,7 +793,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/hysterectomy.jpg" alt="medical illustration of the various types of hysterectomies" class="wp-image-174317" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/hysterectomy.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/hysterectomy-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/hysterectomy.jpg" alt="medical illustration of the various types of hysterectomies" class="wp-image-174317" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/hysterectomy.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/hysterectomy-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
 
 
 <p>"The vast majority of the time we are able to complete hysterectomy through a minimally invasive approach. The most minimally invasive is a vaginal hysterectomy, which does not require any incisions on the abdomen," she says.</p>
@@ -826,30 +834,30 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Megan-Wasson-Surgery-2-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Dr.-Megan-Wasson-Surgery-2-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Megan Wasson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Hysterectomy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Megan Wasson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Hysterectomy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Rainbows Cancer Clinic helps the LGBTQ+ community navigate breast cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-rainbows-cancer-clinic-helps-the-lgbtq-community-navigate-breast-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-rainbows-cancer-clinic-helps-the-lgbtq-community-navigate-breast-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Fri, 15 Nov 2024 15:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Diversity]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverserepresentation]]--></category>
-		<category><!--[CDATA[Dr. Elizabeth Cathcart-Rake]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=394161</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 15:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverserepresentation]]></category>
+		<category><![CDATA[Dr. Elizabeth Cathcart-Rake]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=394161</guid>
 
-					<description><!--[CDATA[<p-->Receiving a breast cancer diagnosis involves many emotional and medical decisions. For members of the LGBTQ+ community, the experience may be further complicated by stigma and discrimination. To address these barriers, Dr. Elizabeth Cathcart-Rake, an oncologist with the Mayo Clinic Comprehensive Cancer Center, led the effort to launch the Rainbows Cancer Clinic in Rochester, Minnesota. […]<p></p>
+					<description><![CDATA[<p>Receiving a breast cancer diagnosis involves many emotional and medical decisions. For members of the LGBTQ+ community, the experience may be further complicated by stigma and discrimination. To address these barriers, Dr. Elizabeth Cathcart-Rake, an oncologist with the Mayo Clinic Comprehensive Cancer Center, led the effort to launch the Rainbows Cancer Clinic in Rochester, Minnesota. [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-rainbows-cancer-clinic-helps-the-lgbtq-community-navigate-breast-cancer/">Mayo Clinic Minute: Rainbows Cancer Clinic helps the LGBTQ+ community navigate breast cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Receiving a <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475" target="_blank" rel="noreferrer noopener">breast cancer diagnosis</a> involves many emotional and medical decisions. For members of the LGBTQ+ community, the experience may be further complicated by stigma and discrimination.<p></p>
+										<content:encoded><![CDATA[
+<p>Receiving a <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475" target="_blank" rel="noreferrer noopener">breast cancer diagnosis</a> involves many emotional and medical decisions. For members of the LGBTQ+ community, the experience may be further complicated by stigma and discrimination.</p>
 
 
 
@@ -862,12 +870,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeixvRVMIXUeY" title="Mayo Clinic Minute - Rainbows Cancer Clinic helps LGBTQ+ community navigate breast cancer" width="500" height="281" src="https://www.youtube.com/embed/ixvRVMIXUeY?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeixvRVMIXUeY"  title="Mayo Clinic Minute - Rainbows Cancer Clinic helps LGBTQ+ community navigate breast cancer" width="500" height="281" src="https://www.youtube.com/embed/ixvRVMIXUeY?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (1:02) is available in the downloads at the end of the post.&nbsp;Please courtesy: "Mayo Clinic News Network."&nbsp;Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/SCRIPT-MCM-Rainbows-breast-cancer-clinic.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (1:02) is available in the downloads at the end of the post.&amp;nbsp;Please courtesy: "Mayo Clinic News Network."&amp;nbsp;Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/SCRIPT-MCM-Rainbows-breast-cancer-clinic.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -883,11 +891,11 @@
 
 
 
-<p>She says the Rainbows Cancer Clinic has three main goals: to offer a welcoming, affirming space; provide clinical expertise; and conduct research to improve care.&nbsp;</p>
+<p>She says the Rainbows Cancer Clinic has three main goals: to offer a welcoming, affirming space; provide clinical expertise; and conduct research to improve care.&amp;nbsp;</p>
 
 
 
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-1024x576.jpg" alt="Two colorful handmade fabric bags, one with rainbow hearts, the other with rainbow stipes" class="wp-image-394563" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Each patient at the Rainbows Cancer Clinic receives a handmade bag filled with resources </figcaption></figure>
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-1024x576.jpg" alt="Two colorful handmade fabric bags, one with rainbow hearts, the other with rainbow stipes" class="wp-image-394563" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Each patient at the Rainbows Cancer Clinic receives a handmade bag filled with resources </figcaption></figure>
 
 
 
@@ -925,38 +933,38 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/Rainbows-Cancer-Clinic-resource-bag-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Elizabeth Cathcart-Rake]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Elizabeth Cathcart-Rake]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>(VIDEO) Focus on hope: Brescia’s Story</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/
+		<title>(VIDEO) Focus on hope: Brescia&amp;#8217;s Story</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/</link>
 		
-		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
-		<pubdate>Thu, 14 Nov 2024 17:48:52 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Cancer Patient Stories]]--></category>
-		<category><!--[CDATA[Cancer survivor]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Healthcare Delivery]]--></category>
-		<category><!--[CDATA[Marty Velasco Hames]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#cancersupportgroup]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[American Cancer Society]]--></category>
-		<category><!--[CDATA[cancer cures]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[lymphoma]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=396442</guid>
+		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2024 17:48:52 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Cancer Patient Stories]]></category>
+		<category><![CDATA[Cancer survivor]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Healthcare Delivery]]></category>
+		<category><![CDATA[Marty Velasco Hames]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#cancersupportgroup]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[American Cancer Society]]></category>
+		<category><![CDATA[cancer cures]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[lymphoma]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=396442</guid>
 
-					<description><!--[CDATA[<p-->At 20 years old, Brescia Dover was ready to take on the world. She was on her way to achieving her dream of being a professional photographer. Everything was going according to plan when her dream came to a halt. Brescia was diagnosed with cancer. With her plans for her future pushed aside, Brescia's focus […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia’s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>At 20 years old, Brescia Dover was ready to take on the world. She was on her way to achieving her dream of being a professional photographer. Everything was going according to plan when her dream came to a halt. Brescia was diagnosed with cancer. With her plans for her future pushed aside, Brescia's focus [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia&amp;#8217;s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg" alt="" class="wp-image-396534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Brescia Dover studying abroad in Italy </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg" alt="" class="wp-image-396534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-in-Italy-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Brescia Dover studying abroad in Italy </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure>
 
 
 
@@ -981,7 +989,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeK2wUmw6h0wQ" title="Focus on hope: Brescia's Story" width="500" height="281" src="https://www.youtube.com/embed/K2wUmw6h0wQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeK2wUmw6h0wQ"  title="Focus on hope: Brescia&amp;#039;s Story" width="500" height="281" src="https://www.youtube.com/embed/K2wUmw6h0wQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -998,7 +1006,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg" alt="" class="wp-image-396517" style="width:570px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><figcaption class="wp-element-caption">           <strong>Brescia at 4 years old                 </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg" alt="" class="wp-image-396517" style="width:570px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-as-a-little-girl-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">           <strong>Brescia at 4 years old                 </strong><br><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <p>"Being creative has always been at the core of what I do," she says. Early on she developed a love for photography and videography. Brescia's dream was to pursue a career that allowed her to put her creative energy to work.</p>
@@ -1013,7 +1021,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="903" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg" alt="" class="wp-image-396519" style="width:600px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-300x265.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-768x678.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1536x1355.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump.jpg 1682w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Looking back at this photo taken before her cancer diagnosis, Brescia says she can see the swelling on the left side of her neck <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="903" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg" alt="" class="wp-image-396519" style="width:600px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1024x903.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-300x265.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-768x678.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump-1536x1355.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump.jpg 1682w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Looking back at this photo taken before her cancer diagnosis, Brescia says she can see the swelling on the left side of her neck <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><strong>The diagnosis - cancer</strong></h2>
@@ -1032,7 +1040,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg" alt="" class="wp-image-396443" style="width:293px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><figcaption class="wp-element-caption"><strong>Brescia at Mayo Clinic <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg" alt="" class="wp-image-396443" style="width:293px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-post-op-biopsy-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption"><strong>Brescia at Mayo Clinic <br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <p></p>
@@ -1055,7 +1063,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="938" height="527" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg" alt="" class="wp-image-393253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg 938w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-768x431.jpg 768w" sizes="auto, (max-width: 938px) 100vw, 938px"><figcaption class="wp-element-caption"><strong>Dr. Allison Rosenthal is medical director of Mayo Clinic's Adolescent and Young Adult Cancer Program</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="938" height="527" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg" alt="" class="wp-image-393253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1.jpg 938w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/08/Dr-Rosenthal-16x9-1-768x431.jpg 768w" sizes="auto, (max-width: 938px) 100vw, 938px" /><figcaption class="wp-element-caption"><strong>Dr. Allison Rosenthal is medical director of Mayo Clinic's Adolescent and Young Adult Cancer Program</strong></figcaption></figure>
 
 
 
@@ -1071,7 +1079,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="863" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg" alt="" class="wp-image-396524" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-300x253.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-768x647.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1536x1294.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-2048x1726.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Brescia and her doctor, Allison Rosenthal <br>Photo courtesy: Brescia Dover</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="863" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg" alt="" class="wp-image-396524" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1024x863.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-300x253.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-768x647.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-1536x1294.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-and-Dr.-Rosenthal-1-2048x1726.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Brescia and her doctor, Allison Rosenthal <br>Photo courtesy: Brescia Dover</strong></figcaption></figure>
 
 
 
@@ -1083,7 +1091,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="946" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg" alt="" class="wp-image-396530" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-300x277.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-768x709.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1536x1419.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-2048x1892.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="946" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg" alt="" class="wp-image-396530" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1024x946.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-300x277.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-768x709.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-1536x1419.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-celebrates-five-year-cancer-free-2048x1892.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Photo courtesy: Brescia Dover</strong></figcaption></figure>
 
 
 
@@ -1095,7 +1103,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="861" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg" alt="" class="wp-image-396515" style="width:608px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg 861w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-252x300.jpg 252w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-768x914.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar.jpg 1024w" sizes="auto, (max-width: 861px) 100vw, 861px"><figcaption class="wp-element-caption"><strong>Brescia is five years cancer-free and owns her own marketing agency<br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="861" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg" alt="" class="wp-image-396515" style="width:608px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-861x1024.jpg 861w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-252x300.jpg 252w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar-768x914.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Checkered-jaguar.jpg 1024w" sizes="auto, (max-width: 861px) 100vw, 861px" /><figcaption class="wp-element-caption"><strong>Brescia is five years cancer-free and owns her own marketing agency<br>Photo courtesy: Brescia Dover</strong></figcaption></figure></div>
 
 
 <figure class="wp-block-pullquote"><blockquote><p>"<strong>To anyone in their 20s diagnosed with cancer, know that you are never alone. There is light at the end of the tunnel and there is hope</strong>."</p><cite>-Brescia dover, cancer survivor</cite></blockquote></figure>
@@ -1119,7 +1127,7 @@
 
 
 
-<li><a href="https://connect.mayoclinic.org/group/adolescent-young-adult-aya-cancer/" target="_blank" rel="noreferrer noopener"><strong>Adolescent &amp; Young Adult (AYA) Cancer Support Group</strong></a><div class="ch-group-privacy" style="align-items: center;font-family: MayoClinicSerif;font-size: 16px"></div></li>
+<li><a href="https://connect.mayoclinic.org/group/adolescent-young-adult-aya-cancer/" target="_blank" rel="noreferrer noopener"><strong>Adolescent &amp;amp; Young Adult (AYA) Cancer Support Group</strong></a><div class="ch-group-privacy" style="align-items: center;font-family: MayoClinicSerif;font-size: 16px"></div></li>
 
 
 
@@ -1141,13 +1149,13 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia’s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-focus-on-hope-brescias-story/">(VIDEO) Focus on hope: Brescia&amp;#8217;s Story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-headshot-with-lump.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Brescia-seated-holding-camera-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#cancersupportgroup]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[American Cancer Society]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[cancer cures]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[lymphoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Crop-of-Dr.-R-and-Brescia-150x150.jpg</mayoclinic:mcthumb>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#cancersupportgroup]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[American Cancer Society]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[cancer cures]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[lymphoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Crop-of-Dr.-R-and-Brescia-150x150.jpg</mayoclinic:mcthumb >	</item>
+	</channel>
 </rss> 
