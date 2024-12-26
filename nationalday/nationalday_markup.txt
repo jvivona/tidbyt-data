@@ -1,0 +1,18 @@
+<div class="layout">
+  <div class="columns">
+    <div class="column">
+      <div class="markdown gap--large">
+        {% for day in today %}
+        <span class="title">{{ day }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <img class="image" src="https://usetrmnl.com/images/plugins/wikipedia--render.svg">
+  <span class="title">National Day Calendar</span>
+
+  <span class="instance">{{ metadata.day | replace: "-", " " | capitalize  }}</span>
+</div>
