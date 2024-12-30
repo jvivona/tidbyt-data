@@ -1,47 +1,55 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Cancer - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/cancer/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Fri, 27 Dec 2024 14:20:37 +0000</lastbuilddate>
+	<lastBuildDate>Fri, 27 Dec 2024 14:20:37 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Mayo Clinic Q and A: Tonsil cancer: What is it and how do you prevent it</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tonsil-cancer-what-is-it-and-how-do-you-prevent-it/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tonsil-cancer-what-is-it-and-how-do-you-prevent-it/</link>
 		
-		<dc:creator><!--[CDATA[Susan Barber Lindquist]]--></dc:creator>
-		<pubdate>Fri, 27 Dec 2024 14:45:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverse representation]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397827</guid>
+		<dc:creator><![CDATA[Susan Barber Lindquist]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 14:45:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverse representation]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397827</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&nbsp;tonsil cancer. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding […]<p></p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&amp;#160;tonsil cancer. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tonsil-cancer-what-is-it-and-how-do-you-prevent-it/">Mayo Clinic Q and A: Tonsil cancer: What is it and how do you prevent it</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-center-align-caption"-->
-<figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg" alt="Dr. Katharine Price talks with man, 3-model of skull, showins tonsil, throat, head and neck cancer" class="wp-image-382313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Katherine Price talks with a patient about head and neck cancer</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-center-align-caption">
+<figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg" alt="Dr. Katharine Price talks with man, 3-model of skull, showins tonsil, throat, head and neck cancer" class="wp-image-382313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Katherine Price talks with a patient about head and neck cancer</figcaption></figure></div>
 
 
-<p><strong>DEAR MAYO CLINIC:</strong>&nbsp;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tonsil-cancer/symptoms-causes/syc-20367939">tonsil cancer</a>. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding tube, but he has lost a lot of weight and is fatigued. I'm worried about him. I never heard of tonsil cancer before this. I'd like to help spread awareness.&nbsp;</p>
-
-
-
-<p><strong>ANSWER:</strong>&nbsp;Dealing with a life-threatening illness — for yourself or a loved one — can be devastating.&nbsp;It can help to learn more. Spreading awareness and learning about prevention are so important.&nbsp;</p>
+<p><strong>DEAR MAYO CLINIC:</strong>&amp;nbsp;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tonsil-cancer/symptoms-causes/syc-20367939">tonsil cancer</a>. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding tube, but he has lost a lot of weight and is fatigued. I'm worried about him. I never heard of tonsil cancer before this. I'd like to help spread awareness.&amp;nbsp;</p>
 
 
 
-<p>Tonsil cancer is a type of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/head-and-neck-cancers/symptoms-causes/syc-20354171">head and neck cancer</a>. Head and neck cancers include cancers of the&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tongue-cancer/symptoms-causes/syc-20378428">tongue</a>; the back of the tongue, which you can't see when you look in the mirror; the tonsils; or the&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462">throat</a>, which includes several body parts, such as the larynx or voice box. We also see other rare cancers, including salivary gland cancers and cancers in the sinuses and nose.&nbsp;</p>
+<p><strong>ANSWER:</strong>&amp;nbsp;Dealing with a life-threatening illness — for yourself or a loved one — can be devastating.&amp;nbsp;It can help to learn more. Spreading awareness and learning about prevention are so important.&amp;nbsp;</p>
+
+
+
+<p>Tonsil cancer is a type of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/head-and-neck-cancers/symptoms-causes/syc-20354171">head and neck cancer</a>. Head and neck cancers include cancers of the&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tongue-cancer/symptoms-causes/syc-20378428">tongue</a>; the back of the tongue, which you can't see when you look in the mirror; the tonsils; or the&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462">throat</a>, which includes several body parts, such as the larynx or voice box. We also see other rare cancers, including salivary gland cancers and cancers in the sinuses and nose.&amp;nbsp;</p>
 
 
 
@@ -53,7 +61,7 @@
 
 
 
-<p>HPV is a virus that almost everybody will get exposed to in their lifetime. The primary mode of transmission is sexual. Most people get exposed in their teenage years or early 20s. The virus typically doesn't cause any symptoms, and there is no treatment. Fortunately, most people's immune system will clear the virus from the body after exposure. However, in approximately 10% of people, the virus is not cleared, and they become chronic carriers of HPV and at risk for cancer development decades later.&nbsp;</p>
+<p>HPV is a virus that almost everybody will get exposed to in their lifetime. The primary mode of transmission is sexual. Most people get exposed in their teenage years or early 20s. The virus typically doesn't cause any symptoms, and there is no treatment. Fortunately, most people's immune system will clear the virus from the body after exposure. However, in approximately 10% of people, the virus is not cleared, and they become chronic carriers of HPV and at risk for cancer development decades later.&amp;nbsp;</p>
 
 
 
@@ -61,7 +69,7 @@
 
 
 
-<p>When somebody is diagnosed with a type of head and neck cancer, we do a lot of testing to see if the cancer has spread into lymph nodes or other parts of the body. That helps us determine treatment.&nbsp;</p>
+<p>When somebody is diagnosed with a type of head and neck cancer, we do a lot of testing to see if the cancer has spread into lymph nodes or other parts of the body. That helps us determine treatment.&amp;nbsp;</p>
 
 
 
@@ -69,7 +77,7 @@
 
 
 
-<p>In 2016, the Food and Drug Administration (FDA) approved immunotherapy to treat advanced head and neck cancer.&nbsp;What's promising for the future is the next generation of immunotherapy that aims to further engage the immune system. Research is ongoing into therapeutic vaccines that try to get the body's immune system to recognize and then fight the cancer.&nbsp;</p>
+<p>In 2016, the Food and Drug Administration (FDA) approved immunotherapy to treat advanced head and neck cancer.&amp;nbsp;What's promising for the future is the next generation of immunotherapy that aims to further engage the immune system. Research is ongoing into therapeutic vaccines that try to get the body's immune system to recognize and then fight the cancer.&amp;nbsp;</p>
 
 
 
@@ -77,7 +85,7 @@
 
 
 
-<p>The&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/hpv-infection/in-depth/hpv-vaccine/art-20047292">HPV vaccine</a>&nbsp;has been available since 2006 in the U.S. It's FDA-approved for males and females ages 9 to 45. For cancer prevention, we know from studies that earlier is better, before sexual activity begins, but we also know there's still benefit over time, even up to age 45.&nbsp;</p>
+<p>The&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/hpv-infection/in-depth/hpv-vaccine/art-20047292">HPV vaccine</a>&amp;nbsp;has been available since 2006 in the U.S. It's FDA-approved for males and females ages 9 to 45. For cancer prevention, we know from studies that earlier is better, before sexual activity begins, but we also know there's still benefit over time, even up to age 45.&amp;nbsp;</p>
 
 
 
@@ -109,25 +117,25 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Man-holds-neck-sore-throat-Getty-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Man-holds-neck-sore-throat-Getty-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverse representation]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverse representation]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Advances in pancreatic cancer screening</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/advances-in-pancreatic-cancer-screening/
+		<link>https://newsnetwork.mayoclinic.org/discussion/advances-in-pancreatic-cancer-screening/</link>
 		
-		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
-		<pubdate>Thu, 26 Dec 2024 14:16:46 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Michael Wallace]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397064</guid>
+		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
+		<pubDate>Thu, 26 Dec 2024 14:16:46 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Michael Wallace]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397064</guid>
 
-					<description><!--[CDATA[<p-->Pancreatic cancer screening has advanced significantly in recent years. There are now research-based guidelines on screening for people at high risk of developing the disease, and researchers are collaborating to develop new screening approaches involving genetic testing and artificial intelligence (AI). "We have high-quality studies from the U.S. and Europe that show screening can detect […]<p></p>
+					<description><![CDATA[<p>Pancreatic cancer screening has advanced significantly in recent years. There are now research-based guidelines on screening for people at high risk of developing the disease, and researchers are collaborating to develop new screening approaches involving genetic testing and artificial intelligence (AI). "We have high-quality studies from the U.S. and Europe that show screening can detect [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/advances-in-pancreatic-cancer-screening/">Advances in pancreatic cancer screening</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg" alt="Older, middle aged man, beard, Black male sitting on couch, looking at mobile phone" class="wp-image-397066" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg" alt="Older, middle aged man, beard, Black male sitting on couch, looking at mobile phone" class="wp-image-397066" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 
 
 
@@ -135,7 +143,7 @@
 
 
 
-<p>"We have high-quality studies from the U.S. and Europe that show screening can detect cancer at an earlier stage and that detection leads to better overall outcomes — most notably, improved survival," says&nbsp;<a href="https://www.mayoclinic.org/biographies/wallace-michael-b-m-d/bio-20569473" target="_blank" rel="noreferrer noopener">Michael Wallace, M.D.</a>, an interventional&nbsp;<a href="https://www.mayoclinic.org/departments-centers/advanced-endoscopy-center-florida/overview/ovc-20523888" target="_blank" rel="noreferrer noopener">endoscopist</a>&nbsp;at Mayo Clinic Comprehensive Cancer Center.</p>
+<p>"We have high-quality studies from the U.S. and Europe that show screening can detect cancer at an earlier stage and that detection leads to better overall outcomes — most notably, improved survival," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/wallace-michael-b-m-d/bio-20569473" target="_blank" rel="noreferrer noopener">Michael Wallace, M.D.</a>, an interventional&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/advanced-endoscopy-center-florida/overview/ovc-20523888" target="_blank" rel="noreferrer noopener">endoscopist</a>&amp;nbsp;at Mayo Clinic Comprehensive Cancer Center.</p>
 
 
 
@@ -159,7 +167,7 @@
 
 
 
-<p>Mayo Clinic&nbsp;<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6120785/" target="_blank" rel="noreferrer noopener">research</a>&nbsp;has also shown that a new diagnosis of diabetes accompanied by weight loss can be one of the earliest indicators of pancreatic cancer. "This is different than the more common form of diabetes that is associated with obesity and weight gain. This is diabetes associated with weight loss, particularly in people over the age of 50. Those individuals should speak with their doctor and consider having an evaluation to look at their pancreas, such as imaging or blood tests," says Dr. Wallace.</p>
+<p>Mayo Clinic&amp;nbsp;<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6120785/" target="_blank" rel="noreferrer noopener">research</a>&amp;nbsp;has also shown that a new diagnosis of diabetes accompanied by weight loss can be one of the earliest indicators of pancreatic cancer. "This is different than the more common form of diabetes that is associated with obesity and weight gain. This is diabetes associated with weight loss, particularly in people over the age of 50. Those individuals should speak with their doctor and consider having an evaluation to look at their pancreas, such as imaging or blood tests," says Dr. Wallace.</p>
 
 
 
@@ -167,15 +175,15 @@
 
 
 
-<p>Dr. Wallace says two screening tests are recommended for pancreatic cancer:&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768" target="_blank" rel="noreferrer noopener">MRI</a>&nbsp;and endoscopic&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177" target="_blank" rel="noreferrer noopener">ultrasound</a>.</p>
+<p>Dr. Wallace says two screening tests are recommended for pancreatic cancer:&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768" target="_blank" rel="noreferrer noopener">MRI</a>&amp;nbsp;and endoscopic&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177" target="_blank" rel="noreferrer noopener">ultrasound</a>.</p>
 
 
 
-<p>"Screening should be done in a center that can conduct a high-quality MRI and a procedure called an endoscopic ultrasound," says Dr. Wallace. "That's like the&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/endoscopy/multimedia/endoscopy/img-20007299" target="_blank" rel="noreferrer noopener">endoscopy</a>&nbsp;we do for heartburn or stomach pain, but the endoscope has an ultrasound device on the end of it."</p>
+<p>"Screening should be done in a center that can conduct a high-quality MRI and a procedure called an endoscopic ultrasound," says Dr. Wallace. "That's like the&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/endoscopy/multimedia/endoscopy/img-20007299" target="_blank" rel="noreferrer noopener">endoscopy</a>&amp;nbsp;we do for heartburn or stomach pain, but the endoscope has an ultrasound device on the end of it."</p>
 
 
 
-<p>Because the pancreas sits just behind the stomach, an endoscopic ultrasound allows your doctor to get a precise view of the pancreas. If an area looks concerning, they can use the endoscope to get a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922" target="_blank" rel="noreferrer noopener">biopsy</a>.</p>
+<p>Because the pancreas sits just behind the stomach, an endoscopic ultrasound allows your doctor to get a precise view of the pancreas. If an area looks concerning, they can use the endoscope to get a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922" target="_blank" rel="noreferrer noopener">biopsy</a>.</p>
 
 
 
@@ -195,7 +203,7 @@
 
 
 
-<p>People identified as high risk based on genetic testing make up only about 10% of pancreatic cancer diagnoses. Healthcare professionals often incidentally diagnose the other 90% of pancreatic cancer cases while investigating another issue, such as a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cysts/symptoms-causes/syc-20375993" target="_blank" rel="noreferrer noopener">pancreatic cyst</a>. "A cyst is a small fluid collection. Most cysts are benign, but there is a small subset that can turn malignant," says Dr. Wallace.</p>
+<p>People identified as high risk based on genetic testing make up only about 10% of pancreatic cancer diagnoses. Healthcare professionals often incidentally diagnose the other 90% of pancreatic cancer cases while investigating another issue, such as a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cysts/symptoms-causes/syc-20375993" target="_blank" rel="noreferrer noopener">pancreatic cyst</a>. "A cyst is a small fluid collection. Most cysts are benign, but there is a small subset that can turn malignant," says Dr. Wallace.</p>
 
 
 
@@ -211,7 +219,7 @@
 
 
 
-<p>Dr. Wallace and his colleagues are nearing the end of a five-year study evaluating an AI algorithm designed to help care teams classify high- and low-risk cysts.&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/an-artificial-intelligence-tool-to-improve-pancreatic-cancer-outcomes/" target="_blank" rel="noreferrer noopener">Preliminary findings published in 2019</a>&nbsp;showed the algorithm could read an MRI scan in half a second, compared to 20 to 30 minutes of manual review by a radiologist.&nbsp;"These advances allow us to tell which of these cysts are likely to turn cancerous, and for those individuals, we can remove the cyst before it becomes malignant and prevent the disease," says Dr. Wallace.</p>
+<p>Dr. Wallace and his colleagues are nearing the end of a five-year study evaluating an AI algorithm designed to help care teams classify high- and low-risk cysts.&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/an-artificial-intelligence-tool-to-improve-pancreatic-cancer-outcomes/" target="_blank" rel="noreferrer noopener">Preliminary findings published in 2019</a>&amp;nbsp;showed the algorithm could read an MRI scan in half a second, compared to 20 to 30 minutes of manual review by a radiologist.&amp;nbsp;"These advances allow us to tell which of these cysts are likely to turn cancerous, and for those individuals, we can remove the cyst before it becomes malignant and prevent the disease," says Dr. Wallace.</p>
 
 
 
@@ -247,26 +255,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Mature-woman-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Michael Wallace]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Michael Wallace]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Pokémon party at Mayo Clinic Children’s Center brings joy, lasting memories</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/
+		<title>Pokémon party at Mayo Clinic Children&amp;#8217;s Center brings joy, lasting memories</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/</link>
 		
-		<dc:creator><!--[CDATA[amymittlestadt]]--></dc:creator>
-		<pubdate>Tue, 24 Dec 2024 16:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Children's Center]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Arthur Heyer]]--></category>
-		<category><!--[CDATA[Patient Story]]--></category>
-		<category><!--[CDATA[pokemon]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398068</guid>
+		<dc:creator><![CDATA[amymittlestadt]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Children's Center]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Arthur Heyer]]></category>
+		<category><![CDATA[Patient Story]]></category>
+		<category><![CDATA[pokemon]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398068</guid>
 
-					<description><!--[CDATA[<p-->"If you excuse me — I can show you my deck," Arthur says, darting upstairs. Moments later, he returns with a stack of Pokémon cards 5 inches high. "This is Code Breaker," he explains. "It puts two of any card on top of your deck. It's handy." As he shuffles through the stack, explaining each […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children’s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>"If you excuse me — I can show you my deck," Arthur says, darting upstairs. Moments later, he returns with a stack of Pokémon cards 5 inches high. "This is Code Breaker," he explains. "It puts two of any card on top of your deck. It's handy." As he shuffles through the stack, explaining each [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children&amp;#8217;s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full is-resized"--><img decoding="async" width="545" height="307" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg" alt="A close-up of Arthur Heyer at his Pokemon party" class="wp-image-398072" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg 545w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1-300x169.jpg 300w" sizes="(max-width: 545px) 100vw, 545px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="545" height="307" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg" alt="A close-up of Arthur Heyer at his Pokemon party" class="wp-image-398072" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg 545w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1-300x169.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" /></figure>
 
 
 
@@ -318,7 +326,7 @@
 
 
 
-<p>"I started making little packs to hand out to kids so I could shrink down my bulk collection," recalls Pike. One day, as Arthur passed through, Pike offered him a deck of cards, which he gladly accepted. "I learned what he was facing and asked if I could visit him." &nbsp;</p>
+<p>"I started making little packs to hand out to kids so I could shrink down my bulk collection," recalls Pike. One day, as Arthur passed through, Pike offered him a deck of cards, which he gladly accepted. "I learned what he was facing and asked if I could visit him." &amp;nbsp;</p>
 
 
 
@@ -335,19 +343,19 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398076" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398076" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398076" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398076" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398077" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg" alt="Arthur Heyer with James Miller at Arthur's Pokemon party" class="wp-image-398077" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398077" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg" alt="Arthur Heyer with James Miller at Arthur's Pokemon party" class="wp-image-398077" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398075" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg" alt="Arthur Heyer with Kevin Pike at Arthur's Pokemon party" class="wp-image-398075" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398075" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg" alt="Arthur Heyer with Kevin Pike at Arthur's Pokemon party" class="wp-image-398075" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398074" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398074" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398074" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398074" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
 </figure>
 
 
@@ -390,7 +398,7 @@
 
 
 
-<p>During the Pokémon party, Arthur was the heart and soul of the event. Beaming excitedly, he handed out cards, plushies, coins and toys to his hospital friends — the pediatric patients, his nurses and care providers, including those from the PICU. Even those who don't play Pokémon had fun collecting the cards they thought were the cutest. &nbsp;&nbsp;</p>
+<p>During the Pokémon party, Arthur was the heart and soul of the event. Beaming excitedly, he handed out cards, plushies, coins and toys to his hospital friends — the pediatric patients, his nurses and care providers, including those from the PICU. Even those who don't play Pokémon had fun collecting the cards they thought were the cutest. &amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -402,7 +410,7 @@
 
 
 
-<p>Arthur’s family appreciates how supportive people have been and wants to share that kindness with others even after Arthur's journey is complete — and the connections they fostered through Artrhur’s journey will help ensure that the joy of Pokémon will be shared with other patients for years to come. &nbsp;</p>
+<p>Arthur’s family appreciates how supportive people have been and wants to share that kindness with others even after Arthur's journey is complete — and the connections they fostered through Artrhur’s journey will help ensure that the joy of Pokémon will be shared with other patients for years to come. &amp;nbsp;</p>
 
 
 
@@ -431,33 +439,33 @@
 
 
 <p><em>At Mayo Clinic Children's Center, over 50,000 children and adolescents from the U.S. and around the world receive exceptional care each year. Our world-class pediatric experts inspire hope and provide healing for even the most complex cases in over 70 clinical and surgical departments. Scientists and researchers in the Children's Research Center pioneer groundbreaking treatment options to help children live longer, healthier lives.</em></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children’s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children&amp;#8217;s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Arthur Heyer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Patient Story]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[pokemon]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Arthur Heyer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Patient Story]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[pokemon]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>An army of support</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/an-army-of-support/
+		<link>https://newsnetwork.mayoclinic.org/discussion/an-army-of-support/</link>
 		
-		<dc:creator><!--[CDATA[Joel Streed]]--></dc:creator>
-		<pubdate>Fri, 20 Dec 2024 22:08:48 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Children's Center]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Gabe Downey]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398177</guid>
+		<dc:creator><![CDATA[Joel Streed]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 22:08:48 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Children's Center]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Gabe Downey]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398177</guid>
 
-					<description><!--[CDATA[<p-->Approximately 20 active-duty soldiers from the Twin Cities area were in Rochester, Minnesota, for a special mission. They made a visit to Mayo Clinic Children's Center to meet with 5-year-old Gabe Downey. Gabe is battling rhabdomyosarcoma, a rare type of cancer often found in soft tissue. Diagnosed in April, Gabe has been receiving weekly chemotherapy […]<p></p>
+					<description><![CDATA[<p>Approximately 20 active-duty soldiers from the Twin Cities area were in Rochester, Minnesota, for a special mission. They made a visit to Mayo Clinic Children's Center to meet with 5-year-old Gabe Downey. Gabe is battling rhabdomyosarcoma, a rare type of cancer often found in soft tissue. Diagnosed in April, Gabe has been receiving weekly chemotherapy [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/an-army-of-support/">An army of support</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg" alt="" class="wp-image-398243" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg" alt="" class="wp-image-398243" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -473,7 +481,7 @@
 
 
 
-<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/A-special-visit-for-Gabe.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/A-special-visit-for-Gabe.mp4"></video></figure>
 
 
 
@@ -501,29 +509,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Gabe Downey]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Gabe Downey]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: The right way to talk with someone who has cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-the-right-way-to-talk-with-someone-who-has-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-the-right-way-to-talk-with-someone-who-has-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Jason Howland]]--></dc:creator>
-		<pubdate>Fri, 20 Dec 2024 15:55:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverse representation]]--></category>
-		<category><!--[CDATA[holidays]]--></category>
-		<category><!--[CDATA[Jason Howland]]--></category>
-		<category><!--[CDATA[Lynne Vitagliano]]--></category>
-		<category><!--[CDATA[Newsapp]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=378818</guid>
+		<dc:creator><![CDATA[Jason Howland]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 15:55:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverse representation]]></category>
+		<category><![CDATA[holidays]]></category>
+		<category><![CDATA[Jason Howland]]></category>
+		<category><![CDATA[Lynne Vitagliano]]></category>
+		<category><![CDATA[Newsapp]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=378818</guid>
 
-					<description><!--[CDATA[<p-->The holidays are a joyous occasion for most people. But for someone with cancer or other serious illness, it can be a time of overwhelming anxiety and fear. And as family and friends get together, it's important to show that you care without coming across as insensitive. Lynne Vitagliano, a clinical social worker at Mayo […]<p></p>
+					<description><![CDATA[<p>The holidays are a joyous occasion for most people. But for someone with cancer or other serious illness, it can be a time of overwhelming anxiety and fear. And as family and friends get together, it's important to show that you care without coming across as insensitive. Lynne Vitagliano, a clinical social worker at Mayo [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-the-right-way-to-talk-with-someone-who-has-cancer/">Mayo Clinic Minute: The right way to talk with someone who has cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->The holidays are a joyous occasion for most people. But for someone with <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">cancer</a> or other serious illness, it can be a time of overwhelming anxiety and fear. And as family and friends get together, it's important to show that you care without coming across as insensitive.<p></p>
+										<content:encoded><![CDATA[
+<p>The holidays are a joyous occasion for most people. But for someone with <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">cancer</a> or other serious illness, it can be a time of overwhelming anxiety and fear. And as family and friends get together, it's important to show that you care without coming across as insensitive.</p>
 
 
 
@@ -535,7 +543,7 @@
 
 
 
-<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-The-right-way-to-talk-with-someone-who-has-cancer_CLEAN.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-The-right-way-to-talk-with-someone-who-has-cancer_CLEAN.mp4"></video></figure>
 
 
 
@@ -571,33 +579,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/two-young-women-in-conversation-caring-and-showing-compassion-during-saddness-and-suffering-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/two-young-women-in-conversation-caring-and-showing-compassion-during-saddness-and-suffering-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverse representation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[holidays]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Jason Howland]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Lynne Vitagliano]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Newsapp]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverse representation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[holidays]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Jason Howland]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Lynne Vitagliano]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Newsapp]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Treating advanced prostate cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/treating-advanced-prostate-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/treating-advanced-prostate-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Nicole Ferrara]]--></dc:creator>
-		<pubdate>Fri, 20 Dec 2024 14:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Oliver Sartor]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398005</guid>
+		<dc:creator><![CDATA[Nicole Ferrara]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 14:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Oliver Sartor]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398005</guid>
 
-					<description><!--[CDATA[<p-->Advanced prostate cancer is cancer that has spread beyond the prostate to distant parts of the body. It is also called metastatic or&nbsp;stage 4 prostate cancer. While most advanced prostate cancer is incurable, treatments can slow or shrink the cancer, reduce symptoms and extend a person's life. Recent advancements in diagnostic techniques and new treatments […]<p></p>
+					<description><![CDATA[<p>Advanced prostate cancer is cancer that has spread beyond the prostate to distant parts of the body. It is also called metastatic or&amp;#160;stage 4 prostate cancer. While most advanced prostate cancer is incurable, treatments can slow or shrink the cancer, reduce symptoms and extend a person's life. Recent advancements in diagnostic techniques and new treatments [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/treating-advanced-prostate-cancer/">Treating advanced prostate cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="6048" height="3402" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9.jpg" alt="an older man, looking worried or thoughtful, talking with a female health care provider" class="wp-image-177780" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9.jpg 6048w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9-1024x576.jpg 1024w" sizes="auto, (max-width: 6048px) 100vw, 6048px"><figcaption class="wp-element-caption">Shutterstock</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="6048" height="3402" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9.jpg" alt="an older man, looking worried or thoughtful, talking with a female health care provider" class="wp-image-177780" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9.jpg 6048w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9-1024x576.jpg 1024w" sizes="auto, (max-width: 6048px) 100vw, 6048px" /><figcaption class="wp-element-caption">Shutterstock</figcaption></figure>
 
 
 
-<p>Advanced prostate cancer is cancer that has spread beyond the prostate to distant parts of the body. It is also called metastatic or&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/stage-4-prostate-cancer/symptoms-causes/syc-20377966" target="_blank" rel="noreferrer noopener">stage 4 prostate cancer</a>. While most advanced prostate cancer is incurable, treatments can slow or shrink the cancer, reduce symptoms and extend a person's life.</p>
+<p>Advanced prostate cancer is cancer that has spread beyond the prostate to distant parts of the body. It is also called metastatic or&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/stage-4-prostate-cancer/symptoms-causes/syc-20377966" target="_blank" rel="noreferrer noopener">stage 4 prostate cancer</a>. While most advanced prostate cancer is incurable, treatments can slow or shrink the cancer, reduce symptoms and extend a person's life.</p>
 
 
 
-<p>Recent advancements in diagnostic techniques and new treatments have improved the survival rate for advanced prostate cancer. "A variety of treatments, including hormonal treatments, can control the disease for a longer period, even if it's metastatic," says&nbsp;<a href="https://www.mayoclinic.org/biographies/sartor-alton-o-m-d/bio-20548417" target="_blank" rel="noreferrer noopener">Oliver Sartor, M.D.</a>, a Mayo Clinic oncologist specializing in prostate cancer.</p>
+<p>Recent advancements in diagnostic techniques and new treatments have improved the survival rate for advanced prostate cancer. "A variety of treatments, including hormonal treatments, can control the disease for a longer period, even if it's metastatic," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/sartor-alton-o-m-d/bio-20548417" target="_blank" rel="noreferrer noopener">Oliver Sartor, M.D.</a>, a Mayo Clinic oncologist specializing in prostate cancer.</p>
 
 
 
@@ -609,7 +617,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/diagnosis-treatment/drc-20353093" target="_blank" rel="noreferrer noopener">Prostate cancer treatment</a>&nbsp;is individualized to each person and their cancer, says Dr. Sartor. "The thing that makes prostate cancer different from other cancers is the huge diversity in the disease. The treatment your neighbor had likely won't be the same treatment you'll have. Assessments and treatment are very personalized," he says.</p>
+<p><a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/diagnosis-treatment/drc-20353093" target="_blank" rel="noreferrer noopener">Prostate cancer treatment</a>&amp;nbsp;is individualized to each person and their cancer, says Dr. Sartor. "The thing that makes prostate cancer different from other cancers is the huge diversity in the disease. The treatment your neighbor had likely won't be the same treatment you'll have. Assessments and treatment are very personalized," he says.</p>
 
 
 
@@ -633,7 +641,7 @@
 
 
 
-<p>A&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/psa-test/about/pac-20384731" target="_blank" rel="noreferrer noopener">PSA test</a>&nbsp;is a blood test that measures the amount of prostate-specific antigen (PSA) in your blood. PSA is a protein produced by both cancerous and noncancerous tissue in the prostate. A PSA test can detect high levels of PSA that may indicate the presence of prostate cancer. Ordinarily, small amounts of PSA circulate in the blood.</p>
+<p>A&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/psa-test/about/pac-20384731" target="_blank" rel="noreferrer noopener">PSA test</a>&amp;nbsp;is a blood test that measures the amount of prostate-specific antigen (PSA) in your blood. PSA is a protein produced by both cancerous and noncancerous tissue in the prostate. A PSA test can detect high levels of PSA that may indicate the presence of prostate cancer. Ordinarily, small amounts of PSA circulate in the blood.</p>
 
 
 
@@ -667,7 +675,7 @@
 
 
 
-<p>Some people with advanced castrate-resistant prostate cancer now have a new option: PSMA lutetium-177, also known as&nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/lutetium-lu-177-vipivotide-tetraxetan-intravenous-route/description/drg-20531832" target="_blank" rel="noreferrer noopener">lutetium Lu 177 vipivotide tetraxetan</a>, a radiopharmaceutical.&nbsp;<a href="https://www.cancer.gov/news-events/cancer-currents-blog/2020/radiopharmaceuticals-cancer-radiation-therapy" target="_blank" rel="noreferrer noopener">Radiopharmaceuticals</a>&nbsp;are drugs containing a radioactive substance used to diagnose or treat disease.</p>
+<p>Some people with advanced castrate-resistant prostate cancer now have a new option: PSMA lutetium-177, also known as&amp;nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/lutetium-lu-177-vipivotide-tetraxetan-intravenous-route/description/drg-20531832" target="_blank" rel="noreferrer noopener">lutetium Lu 177 vipivotide tetraxetan</a>, a radiopharmaceutical.&amp;nbsp;<a href="https://www.cancer.gov/news-events/cancer-currents-blog/2020/radiopharmaceuticals-cancer-radiation-therapy" target="_blank" rel="noreferrer noopener">Radiopharmaceuticals</a>&amp;nbsp;are drugs containing a radioactive substance used to diagnose or treat disease.</p>
 
 
 
@@ -689,7 +697,7 @@
 
 
 
-<p>Healthcare professionals use an imaging test called a PSMA&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/pet-scan/about/pac-20385078" target="_blank" rel="noreferrer noopener">PET scan</a>&nbsp;to determine if people are eligible for PSMA lutetium-177 treatment. Before undergoing this type of scan, you receive an IV injection of another radiopharmaceutical — a radioactive tracer that binds to the PSMA protein on prostate cancer cells. This tracer can be detected on the scan.</p>
+<p>Healthcare professionals use an imaging test called a PSMA&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/pet-scan/about/pac-20385078" target="_blank" rel="noreferrer noopener">PET scan</a>&amp;nbsp;to determine if people are eligible for PSMA lutetium-177 treatment. Before undergoing this type of scan, you receive an IV injection of another radiopharmaceutical — a radioactive tracer that binds to the PSMA protein on prostate cancer cells. This tracer can be detected on the scan.</p>
 
 
 
@@ -709,15 +717,15 @@
 
 
 
-<p>Learn more about&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/diagnosis-treatment/drc-20353093">prostate cancer</a>&nbsp;and&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?studySiteStatusesGrouped=Open/Status%20Unknown&amp;pocId=CON-20377948" target="_blank" rel="noreferrer noopener">find a clinical trial</a>&nbsp;at Mayo Clinic.</p>
+<p>Learn more about&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/diagnosis-treatment/drc-20353093">prostate cancer</a>&amp;nbsp;and&amp;nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?studySiteStatusesGrouped=Open/Status%20Unknown&amp;amp;pocId=CON-20377948" target="_blank" rel="noreferrer noopener">find a clinical trial</a>&amp;nbsp;at Mayo Clinic.</p>
 
 
 
-<p>Join the&nbsp;<a href="https://connect.mayoclinic.org/group/prostate-cancer/" target="_blank" rel="noreferrer noopener">Prostate Cancer Support Group</a>&nbsp;on&nbsp;<a href="https://connect.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Connect</a>, an online community moderated by Mayo Clinic for patients and caregivers.</p>
+<p>Join the&amp;nbsp;<a href="https://connect.mayoclinic.org/group/prostate-cancer/" target="_blank" rel="noreferrer noopener">Prostate Cancer Support Group</a>&amp;nbsp;on&amp;nbsp;<a href="https://connect.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Connect</a>, an online community moderated by Mayo Clinic for patients and caregivers.</p>
 
 
 
-<p><strong>Conflict of interest or disclosure:</strong>&nbsp;Dr. Sartor is a paid consultant for Novartis, the maker of the drug lutetium Lu 177 vipivotide tetraxetan (Pluvicto).</p>
+<p><strong>Conflict of interest or disclosure:</strong>&amp;nbsp;Dr. Sartor is a paid consultant for Novartis, the maker of the drug lutetium Lu 177 vipivotide tetraxetan (Pluvicto).</p>
 
 
 
@@ -733,47 +741,47 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-1X1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-older-man-looking-worried-or-thoughtful-talking-with-a-female-health-care-provider-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Oliver Sartor]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Oliver Sartor]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Breakthrough in the fight against glioblastoma</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-breakthrough-in-the-fight-against-glioblastoma/
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-breakthrough-in-the-fight-against-glioblastoma/</link>
 		
-		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
-		<pubdate>Mon, 16 Dec 2024 18:33:43 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Cancer Patient Stories]]--></category>
-		<category><!--[CDATA[Clinical Trials]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Diversity]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Healthcare Delivery]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurology Patient Stories]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Research Patient Stories]]--></category>
-		<category><!--[CDATA[Rochester]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[brain cancer]]--></category>
-		<category><!--[CDATA[Brain cancer research]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[fight cancer]]--></category>
-		<category><!--[CDATA[glioblastoma]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397757</guid>
+		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 18:33:43 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Cancer Patient Stories]]></category>
+		<category><![CDATA[Clinical Trials]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Healthcare Delivery]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurology Patient Stories]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Research Patient Stories]]></category>
+		<category><![CDATA[Rochester]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[brain cancer]]></category>
+		<category><![CDATA[Brain cancer research]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[fight cancer]]></category>
+		<category><![CDATA[glioblastoma]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397757</guid>
 
-					<description><!--[CDATA[<p-->There is new hope in the fight against glioblastoma, the deadliest and most aggressive form of primary brain cancer. Currently there is no cure, but results of a new study conducted at Mayo Clinic show patients experienced improved overall survival while maintaining quality of life after undergoing a novel approach to treatment. Watch: Breakthrough in […]<p></p>
+					<description><![CDATA[<p>There is new hope in the fight against glioblastoma, the deadliest and most aggressive form of primary brain cancer. Currently there is no cure, but results of a new study conducted at Mayo Clinic show patients experienced improved overall survival while maintaining quality of life after undergoing a novel approach to treatment. Watch: Breakthrough in [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-breakthrough-in-the-fight-against-glioblastoma/">(VIDEO) Breakthrough in the fight against glioblastoma</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-1024x576.jpg" alt="" class="wp-image-378620" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-2048x1151.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>The Casper family cherishing time together in 2023</strong></figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-1024x576.jpg" alt="" class="wp-image-378620" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Casper-family_16x9-2048x1151.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Casper family cherishing time together in 2023</strong></figcaption></figure>
 
 
 
@@ -790,7 +798,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube3TZSUEP4jPM" title="Breakthrough in the fight against glioblastoma" width="500" height="281" src="https://www.youtube.com/embed/3TZSUEP4jPM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube3TZSUEP4jPM"  title="Breakthrough in the fight against glioblastoma" width="500" height="281" src="https://www.youtube.com/embed/3TZSUEP4jPM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -811,7 +819,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="842" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-842x1024.jpg" alt="" class="wp-image-378556" style="width:567px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-842x1024.jpg 842w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-247x300.jpg 247w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-768x934.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-1263x1536.jpg 1263w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-1685x2048.jpg 1685w" sizes="auto, (max-width: 842px) 100vw, 842px"><figcaption class="wp-element-caption"><strong>Richard (center) with his daughter Susan (left) and wife Carol</strong> <strong>(right)</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="842" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-842x1024.jpg" alt="" class="wp-image-378556" style="width:567px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-842x1024.jpg 842w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-247x300.jpg 247w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-768x934.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-1263x1536.jpg 1263w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/The-three-Caspers-e1734311132817-1685x2048.jpg 1685w" sizes="auto, (max-width: 842px) 100vw, 842px" /><figcaption class="wp-element-caption"><strong>Richard (center) with his daughter Susan (left) and wife Carol</strong> <strong>(right)</strong></figcaption></figure></div>
 
 
 <p>The clinical trial was led by <a href="https://www.mayoclinic.org/biographies/vora-sujay-a-m-d/bio-20054182">Dr. </a><a href="https://www.mayoclinic.org/biographies/vora-sujay-a-m-d/bio-20054182" target="_blank" rel="noreferrer noopener">Sujay</a><a href="https://www.mayoclinic.org/biographies/vora-sujay-a-m-d/bio-20054182"> Vora</a>, a radiation oncologist at <a href="https://www.mayoclinic.org/patient-visitor-guide/arizona">Mayo Clinic in Arizona</a>. The small, single-arm study incorporated the use of advanced imaging technology combined with cutting-edge radiation therapy in patients over the age of 65 with newly diagnosed World Health Organization (WHO) grade 4 malignant glioblastoma.</p>
@@ -826,7 +834,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="567" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-1024x567.jpg" alt="" class="wp-image-397933" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-1024x567.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-300x166.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-768x425.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-1536x850.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-2048x1134.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Dr. Sujay Vora, radiation oncologist, reviewing imaging of Richard's glioblastoma</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="567" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-1024x567.jpg" alt="" class="wp-image-397933" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-1024x567.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-300x166.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-768x425.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-1536x850.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Doctor-Vora-2048x1134.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Dr. Sujay Vora, radiation oncologist, reviewing imaging of Richard's glioblastoma</strong></figcaption></figure>
 
 
 
@@ -850,14 +858,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="460" height="460" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1.jpg" alt="Medical illustration of glioblastoma, a type of brain tumor" class="wp-image-333629" style="width:589px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1.jpg 460w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 460px) 100vw, 460px"></figure></div>
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="460" height="460" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1.jpg" alt="Medical illustration of glioblastoma, a type of brain tumor" class="wp-image-333629" style="width:589px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1.jpg 460w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/03/Glioblastoma-illustration-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 460px) 100vw, 460px" /></figure></div>
 
 
 <p>An estimated 14,500 people will be diagnosed with glioblastoma in the U.S this year. "In the best of circumstances the average survival rates are in the 14-15 month range. But for patients 65 and older, the group that was the focus of our study, patients do even worse. The prognosis for this population is between six and nine months," says Dr. Vora.</p>
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:59% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="987" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-987x1024.jpg" alt="Symptoms of glioblastoma" class="wp-image-397969 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-987x1024.jpg 987w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-289x300.jpg 289w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-768x797.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-1480x1536.jpg 1480w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-1974x2048.jpg 1974w" sizes="auto, (max-width: 987px) 100vw, 987px"></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:59% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="987" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-987x1024.jpg" alt="Symptoms of glioblastoma" class="wp-image-397969 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-987x1024.jpg 987w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-289x300.jpg 289w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-768x797.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-1480x1536.jpg 1480w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-brain-cancer-image-e1734364237614-1974x2048.jpg 1974w" sizes="auto, (max-width: 987px) 100vw, 987px" /></figure><div class="wp-block-media-text__content">
 <p class="has-text-align-center"><strong>Symptoms of glioblastoma</strong></p>
 
 
@@ -913,11 +921,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="556" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg" alt="" class="wp-image-397931" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-300x163.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-768x417.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1536x834.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-2048x1112.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="556" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg" alt="" class="wp-image-397931" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-300x163.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-768x417.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1536x834.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-2048x1112.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-pullquote"><blockquote><p>"It is the triad of metabolic imaging, proton beam therapy and hypofractionation, which is a shorter course of radiation that might be the best combination to treat glioblastoma in the 65-and-older patient population."</p><cite>Dr. Sujay Vora, radiation oncologist &amp; Principal study investigator</cite></blockquote></figure>
+<figure class="wp-block-pullquote"><blockquote><p>"It is the triad of metabolic imaging, proton beam therapy and hypofractionation, which is a shorter course of radiation that might be the best combination to treat glioblastoma in the 65-and-older patient population."</p><cite>Dr. Sujay Vora, radiation oncologist &amp;amp; Principal study investigator</cite></blockquote></figure>
 
 
 
@@ -941,7 +949,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="897" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-1024x897.png" alt="" class="wp-image-397936" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-1024x897.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-300x263.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-768x673.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-1536x1345.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture.png 1546w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="897" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-1024x897.png" alt="" class="wp-image-397936" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-1024x897.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-300x263.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-768x673.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture-1536x1345.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Proton-beam-therapy-picture.png 1546w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -953,7 +961,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="515" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-1024x515.jpg" alt="" class="wp-image-397937" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-1024x515.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-300x151.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-768x387.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-1536x773.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-2048x1031.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Patient undergoing proton beam therapy</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="515" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-1024x515.jpg" alt="" class="wp-image-397937" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-1024x515.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-300x151.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-768x387.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-1536x773.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Patient-getting-PBT-2048x1031.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Patient undergoing proton beam therapy</strong></figcaption></figure>
 
 
 
@@ -977,7 +985,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="956" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-956x1024.jpg" alt="" class="wp-image-397939" style="width:462px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-956x1024.jpg 956w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-280x300.jpg 280w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-768x823.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-1434x1536.jpg 1434w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-1912x2048.jpg 1912w" sizes="auto, (max-width: 956px) 100vw, 956px"><figcaption class="wp-element-caption"><strong>Nadya El-Afandi in the hospital after surgery for glioblastoma in 2022</strong> photo courtesy: Nadya El-Afandi</figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="956" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-956x1024.jpg" alt="" class="wp-image-397939" style="width:462px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-956x1024.jpg 956w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-280x300.jpg 280w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-768x823.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-1434x1536.jpg 1434w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-in-hosptail-1912x2048.jpg 1912w" sizes="auto, (max-width: 956px) 100vw, 956px" /><figcaption class="wp-element-caption"><strong>Nadya El-Afandi in the hospital after surgery for glioblastoma in 2022</strong> photo courtesy: Nadya El-Afandi</figcaption></figure></div>
 
 
 <p>Nadya is a wife and mother of four children. She lives just outside of Rochester, Minnesota. "My children said to me, 'Mom, you're a unicorn. Of course you'll live.' My mother has had a number of medical conditions and we never expected her to live this long. And she's still alive and with us," says Nadya. "My children have also said, 'You've got grandma's blood in you. You will live.'"</p>
@@ -1008,11 +1016,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-1024x1024.jpg" alt="" class="wp-image-397959" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Nadya vacationing in Hawaii 15 months after her treatment for glioblastoma </strong><br>photo courtesy: Nadya El-Afandi</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-1024x1024.jpg" alt="" class="wp-image-397959" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Nadya vacationing in Hawaii 15 months after her treatment for glioblastoma </strong><br>photo courtesy: Nadya El-Afandi</figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity">
+<hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
 
@@ -1054,35 +1062,35 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Nadya-El-Afandi-On-Boat_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[brain cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Brain cancer research]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[fight cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[glioblastoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/07/shutterstock_532184869_Fotor-1x1-1-150x150.jpg</mayoclinic:mcthumb>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[brain cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Brain cancer research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[fight cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[glioblastoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/07/shutterstock_532184869_Fotor-1x1-1-150x150.jpg</mayoclinic:mcthumb >	</item>
 		<item>
 		<title>Breakthrough in treatment approach showing promise in the fight against glioblastoma, the deadliest and most aggressive type of brain cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/breakthrough-in-treatment-approach-showing-promise-in-the-fight-against-glioblastoma-the-deadliest-and-most-aggressive-type-of-brain-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/breakthrough-in-treatment-approach-showing-promise-in-the-fight-against-glioblastoma-the-deadliest-and-most-aggressive-type-of-brain-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
-		<pubdate>Mon, 16 Dec 2024 17:03:40 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[Dr. Sujay Vora]]--></category>
-		<category><!--[CDATA[Dr. William Breen]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397966</guid>
+		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 17:03:40 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[Dr. Sujay Vora]]></category>
+		<category><![CDATA[Dr. William Breen]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397966</guid>
 
-					<description><!--[CDATA[<p-->PHOENIX — Mayo Clinic announces the results of an innovative treatment approach that may offer improvement in overall survival in older patients with newly diagnosed glioblastoma while maintaining quality of life. Glioblastoma is the most lethal type of primary brain cancer due to its aggressive nature and its treatment-resistant characteristics. It is the most common […]<p></p>
+					<description><![CDATA[<p>PHOENIX — Mayo Clinic announces the results of an innovative treatment approach that may offer improvement in overall survival in older patients with newly diagnosed glioblastoma while maintaining quality of life. Glioblastoma is the most lethal type of primary brain cancer due to its aggressive nature and its treatment-resistant characteristics. It is the most common [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/breakthrough-in-treatment-approach-showing-promise-in-the-fight-against-glioblastoma-the-deadliest-and-most-aggressive-type-of-brain-cancer/">Breakthrough in treatment approach showing promise in the fight against glioblastoma, the deadliest and most aggressive type of brain cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="556" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg" alt="" class="wp-image-397931" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-300x163.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-768x417.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1536x834.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-2048x1112.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="556" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg" alt="" class="wp-image-397931" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1024x556.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-300x163.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-768x417.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-1536x834.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation-2048x1112.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>PHOENIX — <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> announces the results of an innovative treatment approach that may offer improvement in overall survival in older patients with newly diagnosed <a href="https://www.mayoclinic.org/diseases-conditions/glioblastoma/symptoms-causes/syc-20569077" target="_blank" rel="noreferrer noopener">glioblastoma</a> while maintaining quality of life. Glioblastoma is the most lethal type of primary brain cancer due to its aggressive nature and its treatment-resistant characteristics. It is the most common form of primary brain cancer. Each year an estimated 14,500 people in the U.S. are diagnosed with the disease. Results of Mayo Clinic's phase 2, single-arm study are published in <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00585-0/abstract" target="_blank" rel="noreferrer noopener">The Lancet Oncology</a>. &nbsp;</p>
+<p>PHOENIX — <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> announces the results of an innovative treatment approach that may offer improvement in overall survival in older patients with newly diagnosed <a href="https://www.mayoclinic.org/diseases-conditions/glioblastoma/symptoms-causes/syc-20569077" target="_blank" rel="noreferrer noopener">glioblastoma</a> while maintaining quality of life. Glioblastoma is the most lethal type of primary brain cancer due to its aggressive nature and its treatment-resistant characteristics. It is the most common form of primary brain cancer. Each year an estimated 14,500 people in the U.S. are diagnosed with the disease. Results of Mayo Clinic's phase 2, single-arm study are published in <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00585-0/abstract" target="_blank" rel="noreferrer noopener">The Lancet Oncology</a>. &amp;nbsp;</p>
 
 
 
@@ -1150,7 +1158,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -1182,32 +1190,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Glioblastoma-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Enhanced-target-delineation.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Sujay Vora]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. William Breen]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Sujay Vora]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. William Breen]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Treating liver cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-treating-liver-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-treating-liver-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
-		<pubdate>Thu, 12 Dec 2024 16:04:55 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Lionel Kankeu Fonkoua]]--></category>
-		<category><!--[CDATA[Liver Cancer]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=378475</guid>
+		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 16:04:55 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Lionel Kankeu Fonkoua]]></category>
+		<category><![CDATA[Liver Cancer]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=378475</guid>
 
-					<description><!--[CDATA[<p-->Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the American Cancer Society. Dr. Lionel Kankeu Fonkoua, a Mayo Clinic Comprehensive Cancer Center […]<p></p>
+					<description><![CDATA[<p>Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the American Cancer Society. Dr. Lionel Kankeu Fonkoua, a Mayo Clinic Comprehensive Cancer Center [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-treating-liver-cancer/">Mayo Clinic Minute: Treating liver cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the <a href="https://www.cancer.org/cancer/types/liver-cancer.html" target="_blank" rel="noreferrer noopener">American Cancer Society.</a><p></p>
+										<content:encoded><![CDATA[
+<p>Liver cancer rates have more than tripled in the U.S. since 1980 and continue to rise. More than 41,000 people will be diagnosed with liver cancer in the U.S. this year, and about 29,000 will die from the disease, according to the <a href="https://www.cancer.org/cancer/types/liver-cancer.html" target="_blank" rel="noreferrer noopener">American Cancer Society.</a></p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/kankeu-fonkoua-lionel-a-m-d/bio-20526829?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Lionel Kankeu Fonkoua</a>, a Mayo Clinic Comprehensive Cancer Center oncologist, discusses prevention and treatment.</p>
+<p><a href="https://www.mayoclinic.org/biographies/kankeu-fonkoua-lionel-a-m-d/bio-20526829?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Lionel Kankeu Fonkoua</a>, a Mayo Clinic Comprehensive Cancer Center oncologist, discusses prevention and treatment.</p>
 
 
 
@@ -1215,7 +1223,7 @@
 
 
 
-<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-Treating-liver-cancer-CLEAN.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-Treating-liver-cancer-CLEAN.mp4"></video></figure>
 
 
 
@@ -1223,7 +1231,7 @@
 
 
 
-<p>The most common form of primary <a href="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">liver cancer</a> — cancer that starts in the liver — is called hepatocellular carcinoma. This type of cancer often develops in people with chronic liver diseases, such as hepatitis.</p>
+<p>The most common form of primary <a href="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">liver cancer</a> — cancer that starts in the liver — is called hepatocellular carcinoma. This type of cancer often develops in people with chronic liver diseases, such as hepatitis.</p>
 
 
 
@@ -1231,7 +1239,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg" alt="a medical illustration of liver cancer" class="wp-image-174281" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg" alt="a medical illustration of liver cancer" class="wp-image-174281" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-medical-illustration-of-liver-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
 
 
 
@@ -1295,34 +1303,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/X-ray-of-a-persons-abdomen-and-a-radiologist-physician-pointing-toward-the-liver-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/09/Anatomical-illustration-of-the-liver-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Lionel Kankeu Fonkoua]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Cancer]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Lionel Kankeu Fonkoua]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Liver Cancer]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Research shows new treatment could delay cancer progression in patients with high-risk smoldering multiple myeloma</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/
+		<link>https://newsnetwork.mayoclinic.org/discussion/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/</link>
 		
-		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
-		<pubdate>Tue, 10 Dec 2024 18:54:24 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[AQUILA]]--></category>
-		<category><!--[CDATA[blood cancer]]--></category>
-		<category><!--[CDATA[daratumumab]]--></category>
-		<category><!--[CDATA[Dr. S. Vincent Rajkumar]]--></category>
-		<category><!--[CDATA[Hematology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[monoclonal antibody]]--></category>
-		<category><!--[CDATA[Multiple Myeloma]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397647</guid>
+		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 18:54:24 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[AQUILA]]></category>
+		<category><![CDATA[blood cancer]]></category>
+		<category><![CDATA[daratumumab]]></category>
+		<category><![CDATA[Dr. S. Vincent Rajkumar]]></category>
+		<category><![CDATA[Hematology]]></category>
+		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[monoclonal antibody]]></category>
+		<category><![CDATA[Multiple Myeloma]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397647</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A new treatment is showing promise for people with high-risk smoldering multiple myeloma (SMM). This precancerous condition can progress to active multiple myeloma, a type of blood cancer. High-risk SMM carries a higher likelihood of progression. Results from a phase 3 clinical trial, published in the New England Journal of Medicine and […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A new treatment is showing promise for people with high-risk smoldering multiple myeloma (SMM). This precancerous condition can progress to active multiple myeloma, a type of blood cancer. High-risk SMM carries a higher likelihood of progression. Results from a phase 3 clinical trial, published in the New England Journal of Medicine and [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/">Research shows new treatment could delay cancer progression in patients with high-risk smoldering multiple myeloma</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg" alt="" class="wp-image-383833" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg" alt="" class="wp-image-383833" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1370,11 +1378,11 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -1392,6 +1400,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/Multiple-Myeloma-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[AQUILA]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[blood cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daratumumab]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. S. Vincent Rajkumar]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Hematology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[monoclonal antibody]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Multiple Myeloma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[AQUILA]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[blood cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daratumumab]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. S. Vincent Rajkumar]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Hematology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[monoclonal antibody]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Multiple Myeloma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
