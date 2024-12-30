@@ -161,6 +161,10 @@
             "year": 1702
         },
         {
+            "text": "Reapers' War: Louis XIII of France swears the Catalan constitutions, being appointed Count of Barcelona and thus establishing the personal union of the Principality of Catalonia with the Kingdom of France.",
+            "year": 1641
+        },
+        {
             "text": "Wars of the Roses: Lancastrians kill the 3rd Duke of York and win the Battle of Wakefield.",
             "year": 1460
         },
@@ -1515,22 +1519,28 @@
     ],
     "metadata": {
         "events": [
-            26,
-            40,
-            0,
-            14
+            9,
+            20,
+            39,
+            41,
+            45,
+            7,
+            22,
+            43,
+            30,
+            0
         ],
         "births": [
-            90,
-            26,
-            109,
-            40
+            91,
+            47,
+            70,
+            183
         ],
         "deaths": [
+            18,
+            74,
             51,
-            101,
-            9,
-            64
+            63
         ]
     }
 }
