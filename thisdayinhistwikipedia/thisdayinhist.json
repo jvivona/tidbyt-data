@@ -1,5 +1,1095 @@
 {
+    "events": [
+        {
+            "text": "Two aircraft collide on a runway at Haneda Airport in Tokyo, killing 5 and injuring 15.",
+            "year": 2024
+        },
+        {
+            "text": "Massive nationwide protests and unrest break out in Kazakhstan over the sudden increase of liquefied petroleum gas prices, leaving over 200 people dead and thousands injured.",
+            "year": 2022
+        },
+        {
+            "text": "Adventist Health System and its subsidiaries rebranded to AdventHealth.",
+            "year": 2019
+        },
+        {
+            "text": "Stardust successfully flies past Comet Wild 2, collecting samples that are returned to Earth.",
+            "year": 2004
+        },
+        {
+            "text": "Sri Lankan Civil War: The Sri Lanka Navy kill 35–100 civilians on the Jaffna Lagoon.",
+            "year": 1993
+        },
+        {
+            "text": "Sharon Pratt Dixon becomes the first African American woman mayor of a major city and first woman Mayor of the District of Columbia.",
+            "year": 1991
+        },
+        {
+            "text": "Condor Flugdienst Flight 3782 crashes near Seferihisar, Turkey, killing 16 people.",
+            "year": 1988
+        },
+        {
+            "text": "One of the largest investigations by a British police force ends when serial killer Peter Sutcliffe, the \"Yorkshire Ripper\", is arrested in Sheffield, South Yorkshire.",
+            "year": 1981
+        },
+        {
+            "text": "On the orders of the President of Pakistan, Muhammad Zia-ul-Haq, paramilitary forces opened fire on peaceful protesting workers in Multan, Pakistan; it is known as 1978 massacre at Multan Colony Textile Mills.",
+            "year": 1978
+        },
+        {
+            "text": "The Gale of January 1976 begins, resulting in coastal flooding around the southern North Sea coasts, affecting countries from Ireland to Yugoslavia and causing at least 82 deaths and US$1.3 billion in damage.",
+            "year": 1976
+        },
+        {
+            "text": "At the opening of a new railway line, a bomb blast at Samastipur, Bihar, India, fatally wounds Lalit Narayan Mishra, Minister of Railways.",
+            "year": 1975
+        },
+        {
+            "text": "The Federal Rules of Evidence are approved by the United States Congress.",
+            "year": 1975
+        },
+        {
+            "text": "United States President Richard Nixon signs a bill lowering the maximum U.S. speed limit to 55 mph in order to conserve gasoline during an OPEC embargo.",
+            "year": 1974
+        },
+        {
+            "text": "The second Ibrox disaster kills 66 fans at a Rangers-Celtic association football (soccer) match.",
+            "year": 1971
+        },
+        {
+            "text": "Ronald Reagan, past movie actor and future President of the United States, is sworn in as Governor of California.",
+            "year": 1967
+        },
+        {
+            "text": "Vietnam War: The Viet Cong wins its first major victory, at the Battle of Ap Bac.",
+            "year": 1963
+        },
+        {
+            "text": "Luna 1, the first spacecraft to reach the vicinity of the Moon and to orbit the Sun, is launched by the Soviet Union.",
+            "year": 1959
+        },
+        {
+            "text": "Following the assassination of the Panamanian president José Antonio Remón Cantera, his deputy, José Ramón Guizado, takes power, but is quickly deposed after his involvement in Cantera's death is discovered.",
+            "year": 1955
+        },
+        {
+            "text": "India establishes its highest civilian awards, the Bharat Ratna and the Padma Vibhushan.",
+            "year": 1954
+        },
+        {
+            "text": "Luis Muñoz Marín is inaugurated as the first democratically elected Governor of Puerto Rico.",
+            "year": 1949
+        },
+        {
+            "text": "The Federal Bureau of Investigation (FBI) obtains the conviction of 33 members of a German spy ring headed by Fritz Joubert Duquesne in the largest espionage case in United States history; Also known as the Duquesne Spy Ring.",
+            "year": 1942
+        },
+        {
+            "text": "World War II: Manila is captured by Japanese forces, enabling them to control the Philippines.",
+            "year": 1942
+        },
+        {
+            "text": "World War II: The Cardiff Blitz severely damages the cathedral in Cardiff, Wales.",
+            "year": 1941
+        },
+        {
+            "text": "World premiere of the science fiction play R.U.R. by the Czech writer Karel Čapek in a theater in Hradec Králové.",
+            "year": 1921
+        },
+        {
+            "text": "The second Palmer Raid, ordered by the US Department of Justice, results in 6,000 suspected communists and anarchists being arrested and held without trial.",
+            "year": 1920
+        },
+        {
+            "text": "American statesman and diplomat John Hay announces the Open Door Policy to promote trade with China.",
+            "year": 1900
+        },
+        {
+            "text": "Chicago Canal opens.",
+            "year": 1900
+        },
+        {
+            "text": "Uruguayan War: The Siege of Paysandú ends as the Brazilians and Coloradans capture Paysandú, Uruguay.",
+            "year": 1865
+        },
+        {
+            "text": "American Civil War: The three-day Battle of Stones River ends in a Union victory when the Confederate Army of Tennessee under General Braxton Bragg are repulsed for the final time by the Army of the Cumberland under General William S. Rosecrans.",
+            "year": 1863
+        },
+        {
+            "text": "The British Institution of Civil Engineers is founded by a group of six engineers; Thomas Telford would later become its first president.",
+            "year": 1818
+        },
+        {
+            "text": "Northwest Indian War: The Big Bottom massacre is committed by Lenape and Wyandot warriors in the Ohio Country, North America.",
+            "year": 1791
+        },
+        {
+            "text": "Georgia becomes the fourth state to ratify the United States Constitution.",
+            "year": 1788
+        },
+        {
+            "text": "American Revolutionary War: American forces under the command of General George Washington repulse a British attack led by General Charles Cornwallis at the Battle of the Assunpink Creek near Trenton, New Jersey.",
+            "year": 1777
+        },
+        {
+            "text": "Trunajaya rebellion: Amangkurat II of Mataram and his bodyguards execute the rebel leader Trunajaya.",
+            "year": 1680
+        },
+        {
+            "text": "Reconquista: The Emirate of Granada, the last Moorish stronghold in Spain, surrenders.",
+            "year": 1492
+        },
+        {
+            "text": "Mercurius becomes Pope John II, the first pope to adopt a new name upon elevation to the papacy.",
+            "year": 533
+        },
+        {
+            "text": "The Alemanni cross the frozen Rhine in large numbers, invading the Roman Empire.",
+            "year": 366
+        },
+        {
+            "text": "The Roman legions in Germania Superior refuse to swear loyalty to Galba. They rebel and proclaim Vitellius as emperor.",
+            "year": 69
+        }
+    ],
+    "births": [
+        {
+            "text": "Cole Caufield, American ice hockey player",
+            "year": 2001
+        },
+        {
+            "text": "Spencer Arrighetti, American baseball player",
+            "year": 2000
+        },
+        {
+            "text": "Georgios Kalaitzakis, Greek basketball player",
+            "year": 1999
+        },
+        {
+            "text": "Fernando Tatís Jr., Dominican baseball player",
+            "year": 1999
+        },
+        {
+            "text": "Tfue, American online streamer",
+            "year": 1998
+        },
+        {
+            "text": "Timothy Fosu-Mensah, Dutch footballer",
+            "year": 1998
+        },
+        {
+            "text": "Jonah Bolden, Australian-American basketball player",
+            "year": 1996
+        },
+        {
+            "text": "Ronald Darby, American football player",
+            "year": 1994
+        },
+        {
+            "text": "Bryson Tiller, American singer and rapper",
+            "year": 1993
+        },
+        {
+            "text": "Paulo Gazzaniga, Argentine footballer",
+            "year": 1992
+        },
+        {
+            "text": "Alexey Marchenko, Russian ice hockey player",
+            "year": 1992
+        },
+        {
+            "text": "Teemu Pulkkinen, Finnish ice hockey player",
+            "year": 1992
+        },
+        {
+            "text": "Korbin Sims, Australian-Fijian rugby league player",
+            "year": 1992
+        },
+        {
+            "text": "Ben Hardy, English actor",
+            "year": 1991
+        },
+        {
+            "text": "Luke Harangody, American basketball player",
+            "year": 1988
+        },
+        {
+            "text": "Damien Tussac, French-German rugby player",
+            "year": 1988
+        },
+        {
+            "text": "Shelley Hennig, American actress and model",
+            "year": 1987
+        },
+        {
+            "text": "Robert Milsom, English footballer",
+            "year": 1987
+        },
+        {
+            "text": "Kate Bosworth, American actress",
+            "year": 1983
+        },
+        {
+            "text": "Anthony Carrigan, American actor",
+            "year": 1983
+        },
+        {
+            "text": "Kirk Hinrich, American basketball player",
+            "year": 1981
+        },
+        {
+            "text": "Maxi Rodríguez, Argentine footballer",
+            "year": 1981
+        },
+        {
+            "text": "David Gyasi, British actor",
+            "year": 1980
+        },
+        {
+            "text": "Jonathan Greening, English footballer",
+            "year": 1979
+        },
+        {
+            "text": "Brian Boucher, American ice hockey player and sportscaster",
+            "year": 1977
+        },
+        {
+            "text": "Stefan Koubek, Austrian tennis player",
+            "year": 1977
+        },
+        {
+            "text": "Paz Vega, Spanish actress",
+            "year": 1976
+        },
+        {
+            "text": "Dax Shepard, American actor",
+            "year": 1975
+        },
+        {
+            "text": "Jeff Suppan, American baseball player",
+            "year": 1975
+        },
+        {
+            "text": "Reuben Thorne, New Zealand rugby player",
+            "year": 1975
+        },
+        {
+            "text": "Ludmila Formanová, Czech runner",
+            "year": 1974
+        },
+        {
+            "text": "Juha Lind, Finnish ice hockey player",
+            "year": 1974
+        },
+        {
+            "text": "Tomáš Řepka, Czech footballer",
+            "year": 1974
+        },
+        {
+            "text": "Rodney MacDonald, Canadian educator and politician, 26th Premier of Nova Scotia",
+            "year": 1972
+        },
+        {
+            "text": "Shiraz Minwalla, Indian theoretical physicist and string theorist",
+            "year": 1972
+        },
+        {
+            "text": "Mattias Norström, Swedish ice hockey player and manager",
+            "year": 1972
+        },
+        {
+            "text": "Taye Diggs, American actor and singer",
+            "year": 1971
+        },
+        {
+            "text": "Renée Elise Goldsberry, American actress",
+            "year": 1971
+        },
+        {
+            "text": "Eric Whitacre, American composer and conductor",
+            "year": 1970
+        },
+        {
+            "text": "István Bagyula, Hungarian pole vaulter",
+            "year": 1969
+        },
+        {
+            "text": "William Fox-Pitt, English horse rider and journalist",
+            "year": 1969
+        },
+        {
+            "text": "Róbert Švehla, Slovak ice hockey player",
+            "year": 1969
+        },
+        {
+            "text": "Christy Turlington, American model",
+            "year": 1969
+        },
+        {
+            "text": "Cuba Gooding, Jr., American actor and producer",
+            "year": 1968
+        },
+        {
+            "text": "Anky van Grunsven, Dutch dressage champion",
+            "year": 1968
+        },
+        {
+            "text": "Francois Pienaar, South African rugby player",
+            "year": 1967
+        },
+        {
+            "text": "Tia Carrere, American actress",
+            "year": 1967
+        },
+        {
+            "text": "Jón Gnarr, Icelandic actor and politician; 20th Mayor of Reykjavík",
+            "year": 1967
+        },
+        {
+            "text": "Chris Welp, German-American basketball player (d. 2015)",
+            "year": 1964
+        },
+        {
+            "text": "Pernell Whitaker, American boxer (d. 2019)",
+            "year": 1964
+        },
+        {
+            "text": "David Cone, American baseball player and sportscaster",
+            "year": 1963
+        },
+        {
+            "text": "Edgar Martínez, American baseball player",
+            "year": 1963
+        },
+        {
+            "text": "Gabrielle Carteris, American actress",
+            "year": 1961
+        },
+        {
+            "text": "Paula Hamilton, English model",
+            "year": 1961
+        },
+        {
+            "text": "Todd Haynes, American film director, screenwriter, and producer",
+            "year": 1961
+        },
+        {
+            "text": "Craig James, American football player and sportscaster",
+            "year": 1961
+        },
+        {
+            "text": "Robert Wexler, American lawyer and politician",
+            "year": 1961
+        },
+        {
+            "text": "Henry Bonilla, American broadcaster and politician",
+            "year": 1954
+        },
+        {
+            "text": "Évelyne Trouillot, Haitian playwright and author",
+            "year": 1954
+        },
+        {
+            "text": "Indulis Emsis, Latvian biologist and politician, 9th Prime Minister of Latvia",
+            "year": 1952
+        },
+        {
+            "text": "Wendy Phillips, American actress",
+            "year": 1952
+        },
+        {
+            "text": "Christopher Durang, American playwright and screenwriter (d. 2024)",
+            "year": 1949
+        },
+        {
+            "text": "Iris Marion Young, American political scientist and academic (d. 2006)",
+            "year": 1949
+        },
+        {
+            "text": "Judith Miller, American journalist",
+            "year": 1948
+        },
+        {
+            "text": "Deborah Watling, English actress (d. 2017)",
+            "year": 1948
+        },
+        {
+            "text": "Jack Hanna, American zoologist and author",
+            "year": 1947
+        },
+        {
+            "text": "Calvin Hill, American football player",
+            "year": 1947
+        },
+        {
+            "text": "David Shapiro, American poet, historian, and critic (d. 2024)",
+            "year": 1947
+        },
+        {
+            "text": "Charlie Davis, Trinidadian cricketer",
+            "year": 1944
+        },
+        {
+            "text": "Péter Eötvös, Hungarian composer and conductor (d. 2024)",
+            "year": 1944
+        },
+        {
+            "text": "Norodom Ranariddh, Cambodian field marshal and politician, 1st Prime Minister of Cambodia (d. 2021)",
+            "year": 1944
+        },
+        {
+            "text": "Mohamed Ali Yusuf, Somali politician (d. 2024)",
+            "year": 1944
+        },
+        {
+            "text": "Janet Akyüz Mattei, Turkish-American astronomer (d. 2004)",
+            "year": 1943
+        },
+        {
+            "text": "Thomas Hammarberg, Swedish lawyer and diplomat",
+            "year": 1942
+        },
+        {
+            "text": "Dennis Hastert, American educator and politician, 59th Speaker of the United States House of Representatives",
+            "year": 1942
+        },
+        {
+            "text": "Jim Bakker, American televangelist",
+            "year": 1940
+        },
+        {
+            "text": "Saud bin Faisal bin Abdulaziz Al Saud, Saudi Arabian economist and politician, Saudi Arabian Minister of Foreign Affairs (d. 2015)",
+            "year": 1940
+        },
+        {
+            "text": "David Bailey, English photographer and painter",
+            "year": 1938
+        },
+        {
+            "text": "Lynn Conway, American computer scientist and electrical engineer (d. 2024)",
+            "year": 1938
+        },
+        {
+            "text": "Robert Smithson, American sculptor and photographer (d. 1973)",
+            "year": 1938
+        },
+        {
+            "text": "Roger Miller, American singer-songwriter, musician, and actor (d. 1992)",
+            "year": 1936
+        },
+        {
+            "text": "John Hollowbread, English footballer, goalkeeper (d. 2007)",
+            "year": 1934
+        },
+        {
+            "text": "Toshiki Kaifu, Japanese lawyer and politician, 76th Prime Minister of Japan (d. 2022)",
+            "year": 1931
+        },
+        {
+            "text": "Charles Beaumont, screenwriter and American author of speculative fiction (d. 1967)",
+            "year": 1929
+        },
+        {
+            "text": "Tellervo Koivisto, Finnish politician, former First Lady of Finland",
+            "year": 1929
+        },
+        {
+            "text": "Dan Rostenkowski, American politician (d. 2010)",
+            "year": 1928
+        },
+        {
+            "text": "Gino Marchetti, American football player (d. 2019)",
+            "year": 1926
+        },
+        {
+            "text": "Glen Harmon, Canadian ice hockey player (d. 2007)",
+            "year": 1921
+        },
+        {
+            "text": "Bob Feerick, American basketball player and coach (d. 1976)",
+            "year": 1920
+        },
+        {
+            "text": "Ernest Bender, American Indologist (d. 1996)",
+            "year": 1919
+        },
+        {
+            "text": "Beatrice Hicks, American engineer (d. 1979)",
+            "year": 1919
+        },
+        {
+            "text": "Willi Graf, German physician and activist (d. 1943)",
+            "year": 1918
+        },
+        {
+            "text": "Vera Zorina, German-Norwegian actress and dancer (d. 2003)",
+            "year": 1917
+        },
+        {
+            "text": "Juanita Jackson Mitchell, American lawyer and activist (d. 1992)",
+            "year": 1913
+        },
+        {
+            "text": "Anna Lee, English-American actress (d. 2004)",
+            "year": 1913
+        },
+        {
+            "text": "Riccardo Cassin, Italian mountaineer and author (d. 2009)",
+            "year": 1909
+        },
+        {
+            "text": "Barry Goldwater, American politician, businessman, and author (d. 1998)",
+            "year": 1909
+        },
+        {
+            "text": "Michael Tippett, English composer and conductor (d. 1998)",
+            "year": 1905
+        },
+        {
+            "text": "Luigi Zampa, Italian director and screenwriter (d. 1991)",
+            "year": 1905
+        },
+        {
+            "text": "Walter Heitler, German physicist and chemist (d. 1981)",
+            "year": 1904
+        },
+        {
+            "text": "Kane Tanaka, Japanese Supercentenarian, Oldest Japanese person ever, Second oldest verified person in world history (d. 2022)",
+            "year": 1903
+        },
+        {
+            "text": "Dan Keating, Irish Republican Army volunteer (d. 2007)",
+            "year": 1902
+        },
+        {
+            "text": "Bob Marshall, American activist, co-founded The Wilderness Society (d. 1939)",
+            "year": 1901
+        },
+        {
+            "text": "Una Ledingham, British physician, known for research on diabetes in pregnancy (d. 1965)",
+            "year": 1900
+        },
+        {
+            "text": "Theodore Plucknett, English legal historian (d. 1965)",
+            "year": 1897
+        },
+        {
+            "text": "Dziga Vertov, Polish-Russian director and screenwriter (d. 1954)",
+            "year": 1896
+        },
+        {
+            "text": "Lawrence Wackett, Australian commander and engineer (d. 1982)",
+            "year": 1896
+        },
+        {
+            "text": "Folke Bernadotte, Swedish diplomat (d. 1948)",
+            "year": 1895
+        },
+        {
+            "text": "Seiichiro Kashio, Japanese tennis player (d. 1962)",
+            "year": 1892
+        },
+        {
+            "text": "Giovanni Michelucci, Italian architect and urban planner, designed the Firenze Santa Maria Novella railway station (d. 1990)",
+            "year": 1891
+        },
+        {
+            "text": "Bertram Stevens, Australian accountant and politician, 25th Premier of New South Wales (d. 1973)",
+            "year": 1889
+        },
+        {
+            "text": "Apsley Cherry-Garrard, English explorer and author (d. 1959)",
+            "year": 1886
+        },
+        {
+            "text": "Gordon Flowerdew, Canadian lieutenant, Victoria Cross recipient (d. 1918)",
+            "year": 1885
+        },
+        {
+            "text": "Ben-Zion Dinur, Russian-Israeli historian and politician, 4th Israeli Minister of Education (d. 1973)",
+            "year": 1884
+        },
+        {
+            "text": "Jaakko Mäki, Finnish politician (d. 1938)",
+            "year": 1878
+        },
+        {
+            "text": "Mannathu Padmanabha Pillai, Indian activist, founded the Nair Service Society (d. 1970)",
+            "year": 1878
+        },
+        {
+            "text": "Antonie Pannekoek, Dutch astronomer and theorist (d. 1960)",
+            "year": 1873
+        },
+        {
+            "text": "Thérèse of Lisieux, French nun and saint (d. 1897)",
+            "year": 1873
+        },
+        {
+            "text": "Ernst Barlach, German sculptor and playwright (d. 1938)",
+            "year": 1870
+        },
+        {
+            "text": "Tex Rickard, American boxing promoter and businessman (d. 1929)",
+            "year": 1870
+        },
+        {
+            "text": "Gilbert Murray, Australian-English playwright and scholar (d. 1957)",
+            "year": 1866
+        },
+        {
+            "text": "Dugald Campbell Patterson, Canadian engineer (d. 1931)",
+            "year": 1860
+        },
+        {
+            "text": "William Corless Mills, American historian and curator (d. 1928)",
+            "year": 1860
+        },
+        {
+            "text": "M. Carey Thomas, American educator and activist (d. 1935)",
+            "year": 1857
+        },
+        {
+            "text": "Mily Balakirev, Russian pianist and composer (d. 1910)",
+            "year": 1837
+        },
+        {
+            "text": "Mendele Mocher Sforim, Russian author (d. 1917)",
+            "year": 1836
+        },
+        {
+            "text": "Queen Emma of Hawaii (d. 1885)",
+            "year": 1836
+        },
+        {
+            "text": "Frederick A. Johnson, American banker and politician (d. 1893)",
+            "year": 1833
+        },
+        {
+            "text": "Pyotr Semyonov-Tyan-Shansky, Russian geographer and statistician (d. 1914)",
+            "year": 1827
+        },
+        {
+            "text": "Rudolf Clausius, Polish-German physicist and mathematician (d. 1888)",
+            "year": 1822
+        },
+        {
+            "text": "Guglielmo Libri Carucci dalla Sommaja, Italian mathematician and academic (d. 1869)",
+            "year": 1803
+        },
+        {
+            "text": "Christian Daniel Rauch, German sculptor and educator (d. 1857)",
+            "year": 1777
+        },
+        {
+            "text": "František Brixi, Czech organist and composer (d. 1771)",
+            "year": 1732
+        },
+        {
+            "text": "James Wolfe, English general (d. 1759)",
+            "year": 1727
+        },
+        {
+            "text": "Marie Dumesnil, French actress (d. 1803)",
+            "year": 1713
+        },
+        {
+            "text": "Osman III, Ottoman sultan (d. 1757)",
+            "year": 1699
+        },
+        {
+            "text": "Nathaniel Bacon, English-American rebel leader (d. 1676)",
+            "year": 1647
+        },
+        {
+            "text": "Mehmed IV, Ottoman sultan (d. 1693)",
+            "year": 1642
+        },
+        {
+            "text": "Henry of Stolberg, German nobleman (d. 1572)",
+            "year": 1509
+        },
+        {
+            "text": "Piero di Cosimo, Italian painter (d. 1522)",
+            "year": 1462
+        },
+        {
+            "text": "Yōzei, Japanese emperor (d. 949)",
+            "year": 869
+        }
+    ],
+    "deaths": [
+        {
+            "text": "Rizal Ramli, Indonesian politician (b. 1954)",
+            "year": 2024
+        },
+        {
+            "text": "Ken Block, American rally driver (b. 1967)",
+            "year": 2023
+        },
+        {
+            "text": "Richard Leakey, Kenyan paleontologist and politician (b. 1944)",
+            "year": 2022
+        },
+        {
+            "text": "Daryl Dragon, American musician (b. 1942)",
+            "year": 2019
+        },
+        {
+            "text": "Bob Einstein, American actor and comedian (b. 1942)",
+            "year": 2019
+        },
+        {
+            "text": "Gene Okerlund, American wrestling announcer (b. 1942)",
+            "year": 2019
+        },
+        {
+            "text": "Guida Maria, Portuguese actress (b. 1950)",
+            "year": 2018
+        },
+        {
+            "text": "Thomas S. Monson, American religious leader, 16th president of the Church of Jesus Christ of Latter-day Saints (b. 1927)",
+            "year": 2018
+        },
+        {
+            "text": "Jean Vuarnet, French ski racer (b. 1933)",
+            "year": 2017
+        },
+        {
+            "text": "John Berger, English art critic, novelist and painter (b. 1926)",
+            "year": 2017
+        },
+        {
+            "text": "Ardhendu Bhushan Bardhan, Indian lawyer and politician (b. 1924)",
+            "year": 2016
+        },
+        {
+            "text": "Frances Cress Welsing, American psychiatrist and author (b. 1935)",
+            "year": 2016
+        },
+        {
+            "text": "Nimr al-Nimr, Saudi Arabian religious leader (b. 1959)",
+            "year": 2016
+        },
+        {
+            "text": "Gisela Mota Ocampo, mayor of Temixco, Morelos, Mexico, assassinated (b. 1982)",
+            "year": 2016
+        },
+        {
+            "text": "Tihomir Novakov, Serbian-American physicist and academic (b. 1929)",
+            "year": 2015
+        },
+        {
+            "text": "Bernard Glasser, American director and producer (b. 1924)",
+            "year": 2014
+        },
+        {
+            "text": "Elizabeth Jane Howard, English author and screenwriter (b. 1923)",
+            "year": 2014
+        },
+        {
+            "text": "Gerda Lerner, Austrian-American historian, author, and academic (b. 1920)",
+            "year": 2013
+        },
+        {
+            "text": "Teresa Torańska, Polish journalist and author (b. 1944)",
+            "year": 2013
+        },
+        {
+            "text": "Gordon Hirabayashi, American-Canadian sociologist and academic (b. 1918)",
+            "year": 2012
+        },
+        {
+            "text": "Silvana Gallardo, American actress and producer (b. 1953)",
+            "year": 2012
+        },
+        {
+            "text": "William P. Carey, American businessman and philanthropist, founded W. P. Carey (b. 1930)",
+            "year": 2012
+        },
+        {
+            "text": "Anne Francis, American actress (b. 1930)",
+            "year": 2011
+        },
+        {
+            "text": "Bali Ram Bhagat, Indian politician; 16th Governor of Rajasthan (b. 1922)",
+            "year": 2011
+        },
+        {
+            "text": "Pete Postlethwaite, English actor (b. 1946)",
+            "year": 2011
+        },
+        {
+            "text": "David R. Ross, Scottish historian and author (b. 1958)",
+            "year": 2010
+        },
+        {
+            "text": "Inger Christensen, Danish poet and author (b. 1935)",
+            "year": 2009
+        },
+        {
+            "text": "George MacDonald Fraser, Scottish journalist and author (b. 1925)",
+            "year": 2008
+        },
+        {
+            "text": "Lee S. Dreyfus, American politician, Governor of Wisconsin (b. 1926)",
+            "year": 2008
+        },
+        {
+            "text": "A. Richard Newton, Australian-American engineer and academic (b. 1951)",
+            "year": 2007
+        },
+        {
+            "text": "Elizabeth Fox-Genovese, American historian and author (b. 1941)",
+            "year": 2007
+        },
+        {
+            "text": "Teddy Kollek, Hungarian-Israeli politician, Mayor of Jerusalem (b. 1911)",
+            "year": 2007
+        },
+        {
+            "text": "Cecilia Muñoz-Palma, Filipino lawyer and jurist (b. 1913)",
+            "year": 2006
+        },
+        {
+            "text": "Osa Massen, Danish-American actress (b. 1914)",
+            "year": 2006
+        },
+        {
+            "text": "Maclyn McCarty, American geneticist and physician (b. 1911)",
+            "year": 2005
+        },
+        {
+            "text": "William P. Rogers, American lieutenant, lawyer, and politician, 55th United States Secretary of State (b. 1913)",
+            "year": 2001
+        },
+        {
+            "text": "Elmo Zumwalt, American admiral (b. 1920)",
+            "year": 2000
+        },
+        {
+            "text": "Patrick O'Brian, English author and translator (b. 1914)",
+            "year": 2000
+        },
+        {
+            "text": "Rolf Liebermann, Swiss-French composer and manager (b. 1910)",
+            "year": 1999
+        },
+        {
+            "text": "Sebastian Haffner, German journalist and author (b. 1907)",
+            "year": 1999
+        },
+        {
+            "text": "Nancy Kelly, American actress (b. 1921)",
+            "year": 1995
+        },
+        {
+            "text": "Siad Barre, Somalian general and politician; 3rd President of Somalia (b. 1919)",
+            "year": 1995
+        },
+        {
+            "text": "Dixy Lee Ray, American biologist and politician; 17th Governor of Washington (b. 1914)",
+            "year": 1994
+        },
+        {
+            "text": "Pierre-Paul Schweitzer, French lawyer and businessman (b. 1915)",
+            "year": 1994
+        },
+        {
+            "text": "Alan Hale Jr., American film and television actor (b. 1921)",
+            "year": 1990
+        },
+        {
+            "text": "Evangelos Averoff, Greek historian and politician, Greek Minister for National Defence (b. 1910)",
+            "year": 1990
+        },
+        {
+            "text": "Safdar Hashmi, Indian actor, director, and playwright (b. 1954)",
+            "year": 1989
+        },
+        {
+            "text": "Harekrushna Mahatab, Indian journalist and politician, 1st Chief Minister of Odisha (b. 1899)",
+            "year": 1987
+        },
+        {
+            "text": "Una Merkel, American actress (b. 1903)",
+            "year": 1986
+        },
+        {
+            "text": "Erroll Garner, American pianist and composer (b. 1921)",
+            "year": 1977
+        },
+        {
+            "text": "Siraj Sikder, Bangladesh revolutionary leader (b. 1944)",
+            "year": 1975
+        },
+        {
+            "text": "Tex Ritter, American actor (b. 1905)",
+            "year": 1974
+        },
+        {
+            "text": "Dick Powell, American actor, singer, and director (b. 1904)",
+            "year": 1963
+        },
+        {
+            "text": "Jack Carson, Canadian-American actor (b. 1910)",
+            "year": 1963
+        },
+        {
+            "text": "Paul Sauvé, Canadian lawyer and politician, 17th Premier of Quebec (b. 1907)",
+            "year": 1960
+        },
+        {
+            "text": "Guccio Gucci, Italian businessman and fashion designer, founder of Gucci (b. 1881)",
+            "year": 1953
+        },
+        {
+            "text": "William Campion, English colonel and politician, 21st Governor of Western Australia (b. 1870)",
+            "year": 1951
+        },
+        {
+            "text": "Edith New, English militant suffragette (b. 1877)",
+            "year": 1951
+        },
+        {
+            "text": "James Dooley, Irish-Australian politician, 21st Premier of New South Wales (b. 1877)",
+            "year": 1950
+        },
+        {
+            "text": "Joe Darling, Australian cricketer and politician (b. 1870)",
+            "year": 1946
+        },
+        {
+            "text": "Mischa Levitzki, Russian-American pianist and composer (b. 1898)",
+            "year": 1941
+        },
+        {
+            "text": "Roman Dmowski, Polish politician, Polish Minister of Foreign Affairs (b. 1864)",
+            "year": 1939
+        },
+        {
+            "text": "Sabine Baring-Gould, English author and scholar (b. 1834)",
+            "year": 1924
+        },
+        {
+            "text": "Paul Adam, French author (b. 1862)",
+            "year": 1920
+        },
+        {
+            "text": "Léon Flameng, French cyclist (b. 1877)",
+            "year": 1917
+        },
+        {
+            "text": "Karl Goldmark, Hungarian violinist and composer (b. 1830)",
+            "year": 1915
+        },
+        {
+            "text": "Léon Teisserenc de Bort, French meteorologist (b. 1855)",
+            "year": 1913
+        },
+        {
+            "text": "James Longstreet, American general and diplomat (b. 1821)",
+            "year": 1904
+        },
+        {
+            "text": "George Biddell Airy, English mathematician and astronomer (b. 1801)",
+            "year": 1892
+        },
+        {
+            "text": "Frederick William IV of Prussia (b. 1795)",
+            "year": 1861
+        },
+        {
+            "text": "Manuel de la Peña y Peña, Mexican lawyer and 20th President (1847) (b. 1789)",
+            "year": 1850
+        },
+        {
+            "text": "John Carteret, 2nd Earl Granville, English statesman (b. 1690)",
+            "year": 1763
+        },
+        {
+            "text": "Domenico Zipoli, Italian organist and composer (b. 1688)",
+            "year": 1726
+        },
+        {
+            "text": "Luisa Carvajal y Mendoza, Spanish mystical poet and Catholic martyr (b. 1566)",
+            "year": 1614
+        },
+        {
+            "text": "Salima Sultan Begum, Empress of the Mughal Empire (b. 1539)",
+            "year": 1613
+        },
+        {
+            "text": "Pontormo, Italian painter and educator (b. 1494)",
+            "year": 1557
+        },
+        {
+            "text": "Francesco Canova da Milano, Italian composer (b. 1497)",
+            "year": 1543
+        },
+        {
+            "text": "William Smyth, English bishop and academic (b. 1460)",
+            "year": 1514
+        },
+        {
+            "text": "Svante Nilsson, Sweden politician (b. 1460)",
+            "year": 1512
+        },
+        {
+            "text": "Heinrich Reuß von Plauen, Grand Master of the Teutonic Order",
+            "year": 1470
+        },
+        {
+            "text": "Lodomer, Hungarian prelate, Archbishop of Esztergom",
+            "year": 1298
+        },
+        {
+            "text": "Theodora Komnene, Duchess of Austria, daughter of Andronikos Komnenos",
+            "year": 1184
+        },
+        {
+            "text": "Bertrand de Blanchefort, sixth Grand Master of the Knights Templar (b. c. 1109)",
+            "year": 1169
+        },
+        {
+            "text": "William de St-Calais, Bishop of Durham and chief counsellor of William II of England",
+            "year": 1096
+        },
+        {
+            "text": "Liu Chengyou, Emperor Yin of the Later Han (b. 931)",
+            "year": 951
+        },
+        {
+            "text": "Su Fengji, Chinese official and chancellor",
+            "year": 951
+        }
+    ],
     "metadata": {
-        "current_date": "January 02, 2025"
+        "current_date": "January 02, 2025",
+        "events": [
+            24,
+            7,
+            8,
+            28,
+            27,
+            35,
+            19,
+            18,
+            1,
+            10
+        ],
+        "births": [
+            97,
+            111,
+            35,
+            105
+        ],
+        "deaths": [
+            33,
+            15,
+            34,
+            19
+        ]
     }
 }
