@@ -1446,30 +1446,38 @@
         }
     ],
     "metadata": {
-        "current_date": "January 03, 2025",
+        "current_date": "03 de January de 2025",
+        "language": {
+            "events": "Events",
+            "deaths": "Deaths",
+            "births": "Births",
+            "b": "b",
+            "d": "d",
+            "title": "This Day in History (Wikipedia)"
+        },
         "events": [
-            14,
-            30,
-            47,
-            48,
-            11,
+            24,
+            28,
+            49,
+            17,
             22,
-            5,
-            40,
-            1,
-            51
+            0,
+            13,
+            52,
+            26,
+            12
         ],
         "births": [
-            104,
-            51,
-            143,
-            47
+            164,
+            161,
+            0,
+            198
         ],
         "deaths": [
-            81,
-            22,
-            68,
-            69
+            24,
+            75,
+            19,
+            15
         ]
     }
 }
