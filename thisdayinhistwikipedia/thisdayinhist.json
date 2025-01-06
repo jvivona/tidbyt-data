@@ -1,6 +1,10 @@
 {
     "events": [
         {
+            "text": "Justin Trudeau announces his resignation as leader of the Liberal Party of Canada and Prime Minister of Canada after 9 years in office.",
+            "year": 2025
+        },
+        {
             "text": "Americans storm the United States Capitol Building to disrupt certification of the 2020 presidential election, resulting in five deaths and evacuation of the U.S. Congress.",
             "year": 2021
         },
@@ -1417,28 +1421,28 @@
             "title": "This Day in History (Wikipedia)"
         },
         "events": [
-            41,
-            0,
+            35,
+            44,
             13,
-            23,
-            26,
+            20,
+            6,
             29,
-            50,
-            36,
-            22,
-            42
+            49,
+            4,
+            41,
+            17
         ],
         "births": [
-            54,
-            24,
-            48,
-            144
+            105,
+            171,
+            89,
+            10
         ],
         "deaths": [
-            25,
-            58,
-            72,
-            61
+            85,
+            97,
+            87,
+            32
         ]
     }
 }
