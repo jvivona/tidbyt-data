@@ -1,50 +1,42 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Cancer - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/cancer/
 	<description>News Resources</description>
-	<lastBuildDate>Mon, 13 Jan 2025 16:55:36 +0000</lastBuildDate>
+	<lastbuilddate>Mon, 13 Jan 2025 16:55:36 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Mayo Clinic Minute: How personalized vaccines target cancer tumors</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-personalized-vaccines-target-cancer-tumors/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-personalized-vaccines-target-cancer-tumors/
 		
-		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Mayo Clinic Minute]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Cancer Research]]></category>
-		<category><![CDATA[cancer vaccine]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Keith Knutson]]></category>
-		<category><![CDATA[Lung Cancer]]></category>
-		<category><![CDATA[Vaccine]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398412</guid>
+		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
+		<pubdate>Mon, 13 Jan 2025 16:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Cancer Research]]--></category>
+		<category><!--[CDATA[cancer vaccine]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Keith Knutson]]--></category>
+		<category><!--[CDATA[Lung Cancer]]--></category>
+		<category><!--[CDATA[Vaccine]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398412</guid>
 
-					<description><![CDATA[<p>Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&amp;#160; Dr. Keith Knutson,&nbsp;a cancer vaccine researcher at Mayo Clinic, explains how the development of personalized [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&nbsp; Dr. Keith Knutson,&nbsp;a cancer vaccine researcher at Mayo Clinic, explains how the development of personalized […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-personalized-vaccines-target-cancer-tumors/">Mayo Clinic Minute: How personalized vaccines target cancer tumors</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&amp;nbsp;</p>
+										<content:encoded><!--[CDATA[
+<p-->Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&nbsp;<p></p>
 
 
 
@@ -57,7 +49,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidhttpsyoutubeTVqLoobmvG0"  title="Mayo Clinic Minute - How personalized vaccines target cancer tumors" width="500" height="281" src="https://www.youtube.com/embed/TVqLoobmvG0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe id="videoidhttpsyoutubeTVqLoobmvG0" title="Mayo Clinic Minute - How personalized vaccines target cancer tumors" width="500" height="281" src="https://www.youtube.com/embed/TVqLoobmvG0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -78,7 +70,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg" alt="Dr. Keith Knutson, cancer vaccine lab" class="wp-image-398440" style="width:690px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg" alt="Dr. Keith Knutson, cancer vaccine lab" class="wp-image-398440" style="width:690px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></div>
 
 
 <p>The process involves analyzing cancer cells to create a one-of-a-kind vaccine.</p>
@@ -131,26 +123,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer Research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[cancer vaccine]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Keith Knutson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Lung Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Vaccine]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer Research]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[cancer vaccine]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Keith Knutson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Lung Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Vaccine]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Laboratories and Lucence announce strategic collaboration to enhance cancer testing services</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-laboratories-and-lucence-announce-strategic-collaboration-to-enhance-cancer-testing-services/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-laboratories-and-lucence-announce-strategic-collaboration-to-enhance-cancer-testing-services/
 		
-		<dc:creator><![CDATA[Suzanne Ferguson]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 17:30:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Laboratories]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398864</guid>
+		<dc:creator><!--[CDATA[Suzanne Ferguson]]--></dc:creator>
+		<pubdate>Fri, 10 Jan 2025 17:30:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Laboratories]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398864</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn., and PALO ALTO, Calif. — Mayo Clinic Laboratories, a global leader in advanced laboratory testing, and Lucence, a pioneering molecular diagnostics company, announced a strategic collaboration today to expand international access to cutting-edge cancer testing services. This collaboration aims to leverage the strengths of both organizations to drive better outcomes for patients worldwide. [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn., and PALO ALTO, Calif. — Mayo Clinic Laboratories, a global leader in advanced laboratory testing, and Lucence, a pioneering molecular diagnostics company, announced a strategic collaboration today to expand international access to cutting-edge cancer testing services. This collaboration aims to leverage the strengths of both organizations to drive better outcomes for patients worldwide. […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-laboratories-and-lucence-announce-strategic-collaboration-to-enhance-cancer-testing-services/">Mayo Clinic Laboratories and Lucence announce strategic collaboration to enhance cancer testing services</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-1024x576.jpg" alt="" class="wp-image-398873" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-1024x576.jpg" alt="" class="wp-image-398873" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -186,11 +178,11 @@
 
 
 
-<p><strong>About Mayo Clinic Laboratories&nbsp;<br></strong><a href="https://c212.net/c/link/?t=0&amp;amp;l=en&amp;amp;o=3752872-1&amp;amp;h=2350035280&amp;amp;u=https%3A%2F%2Fnews.mayocliniclabs.com%2Fabout-us%2F&amp;amp;a=Mayo+Clinic+Laboratories" target="_blank" rel="noreferrer noopener">Mayo Clinic Laboratories</a>, the global leader in turning test results into clinical answers, provides advanced testing and pathology services for 3,400 healthcare organizations in partnership with&nbsp;<a href="https://c212.net/c/link/?t=0&amp;amp;l=en&amp;amp;o=3752872-1&amp;amp;h=813943410&amp;amp;u=https%3A%2F%2Fwww.mayoclinic.org%2Fdepartments-centers%2Flaboratory-medicine-pathology%2Foverview&amp;amp;a=Mayo+Clinic%27s+Department+of+Laboratory+Medicine+and+Pathology" target="_blank" rel="noreferrer noopener">Mayo Clinic's Department of Laboratory Medicine and Pathology</a>. Mayo Clinic Laboratories offers more than 4,400 tests and pathology services and performs more than 26 million tests annually.</p>
+<p><strong>About Mayo Clinic Laboratories&nbsp;<br></strong><a href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=3752872-1&amp;h=2350035280&amp;u=https%3A%2F%2Fnews.mayocliniclabs.com%2Fabout-us%2F&amp;a=Mayo+Clinic+Laboratories" target="_blank" rel="noreferrer noopener">Mayo Clinic Laboratories</a>, the global leader in turning test results into clinical answers, provides advanced testing and pathology services for 3,400 healthcare organizations in partnership with&nbsp;<a href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=3752872-1&amp;h=813943410&amp;u=https%3A%2F%2Fwww.mayoclinic.org%2Fdepartments-centers%2Flaboratory-medicine-pathology%2Foverview&amp;a=Mayo+Clinic%27s+Department+of+Laboratory+Medicine+and+Pathology" target="_blank" rel="noreferrer noopener">Mayo Clinic's Department of Laboratory Medicine and Pathology</a>. Mayo Clinic Laboratories offers more than 4,400 tests and pathology services and performs more than 26 million tests annually.</p>
 
 
 
-<p><strong>About Lucence&amp;nbsp;<br></strong>Lucence is a precision oncology company committed to improving cancer care through innovative testing solutions. With CLIA-licensed and CAP-accredited laboratories in California and Singapore, Lucence offers advanced liquid biopsy technologies that provide critical insights into cancer biology. The company's flagship product, LiquidHALLMARK®, is designed to detect clinically relevant biomarkers in ctDNA and ctRNA, enabling precise and personalized cancer treatment.</p>
+<p><strong>About Lucence&nbsp;<br></strong>Lucence is a precision oncology company committed to improving cancer care through innovative testing solutions. With CLIA-licensed and CAP-accredited laboratories in California and Singapore, Lucence offers advanced liquid biopsy technologies that provide critical insights into cancer biology. The company's flagship product, LiquidHALLMARK®, is designed to detect clinically relevant biomarkers in ctDNA and ctRNA, enabling precise and personalized cancer treatment.</p>
 
 
 
@@ -212,37 +204,37 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Header_Image_1920x1080-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Molecular breast imaging for supplemental breast screening</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-molecular-breast-imaging-for-supplemental-breast-screening/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-molecular-breast-imaging-for-supplemental-breast-screening/
 		
-		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 16:59:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Diversity]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Mayo Clinic Minute]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[diverserepresentation]]></category>
-		<category><![CDATA[Dr. Kristin Robinson]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395455</guid>
+		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
+		<pubdate>Wed, 08 Jan 2025 16:59:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Diversity]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[diverserepresentation]]--></category>
+		<category><!--[CDATA[Dr. Kristin Robinson]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395455</guid>
 
-					<description><![CDATA[<p>If you are one of the millions of women identified as having dense breasts, your healthcare team may recommend supplemental or additional screening to check your breasts for cancer.&amp;#160; Dr. Kristin Robinson, a breast radiologist at Mayo Clinic, says there are several options when it comes to these screening tests. She recommends working closely with [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->If you are one of the millions of women identified as having dense breasts, your healthcare team may recommend supplemental or additional screening to check your breasts for cancer.&nbsp; Dr. Kristin Robinson, a breast radiologist at Mayo Clinic, says there are several options when it comes to these screening tests. She recommends working closely with […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-molecular-breast-imaging-for-supplemental-breast-screening/">Mayo Clinic Minute: Molecular breast imaging for supplemental breast screening</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>If you are one of the millions of women identified as having <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-does-a-diagnosis-of-dense-breasts-mean/" target="_blank" rel="noreferrer noopener">dense breasts</a>, your healthcare team may recommend supplemental or additional screening to check your breasts for cancer.&amp;nbsp;</p>
+										<content:encoded><!--[CDATA[
+<p-->If you are one of the millions of women identified as having <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-does-a-diagnosis-of-dense-breasts-mean/" target="_blank" rel="noreferrer noopener">dense breasts</a>, your healthcare team may recommend supplemental or additional screening to check your breasts for cancer.&nbsp;<p></p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/robinson-kristin-a-m-d/bio-20466711?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Kristin Robinson</a>, a breast radiologist at Mayo Clinic, says there are several options when it comes to these screening tests. She recommends working closely with your healthcare team to determine what is the best supplemental screening available and right for you.&nbsp;</p>
+<p><a href="https://www.mayoclinic.org/biographies/robinson-kristin-a-m-d/bio-20466711?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Kristin Robinson</a>, a breast radiologist at Mayo Clinic, says there are several options when it comes to these screening tests. She recommends working closely with your healthcare team to determine what is the best supplemental screening available and right for you.&nbsp;</p>
 
 
 
-<p>One option is molecular breast imaging (MBI). A Mayo Clinic&amp;nbsp;<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2603338/" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;shows that MBI is more effective than mammography alone for women with dense breasts.</p>
+<p>One option is molecular breast imaging (MBI). A Mayo Clinic&nbsp;<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2603338/" target="_blank" rel="noreferrer noopener">study</a>&nbsp;shows that MBI is more effective than mammography alone for women with dense breasts.</p>
 
 
 
@@ -251,12 +243,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidlsikKl66yR8"  title="Mayo Clinic Minute - Molecular breast imaging for supplemental breast screening" width="500" height="281" src="https://www.youtube.com/embed/lsikKl66yR8?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidlsikKl66yR8" title="Mayo Clinic Minute - Molecular breast imaging for supplemental breast screening" width="500" height="281" src="https://www.youtube.com/embed/lsikKl66yR8?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (1:00) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Script-MCM-Molecular-breast-imaging-for-supplemental-breast-screening.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (1:00) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Script-MCM-Molecular-breast-imaging-for-supplemental-breast-screening.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -280,14 +272,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg" alt="a young woman preparing to have molecular breast imaging MBI screening for breast cancer" class="wp-image-218359" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg" alt="a young woman preparing to have molecular breast imaging MBI screening for breast cancer" class="wp-image-218359" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure></div>
 
 
 <p>"And since breast cancer is growing quickly, it's recruiting blood flow, it has more energy than the surrounding breast tissue, it will uptake that radiotracer more so than the normal tissue," she explains.</p>
 
 
 
-<p>And by doing so, it lights up and becomes clearer to see for a radiologist compared to the normal surrounding tissue.&amp;nbsp;</p>
+<p>And by doing so, it lights up and becomes clearer to see for a radiologist compared to the normal surrounding tissue.&nbsp;</p>
 
 
 
@@ -307,26 +299,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420214_Fotor-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Kristin Robinson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Kristin Robinson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Researchers resolve uncertainty in BRCA2 testing, improving cancer risk assessment and patient care</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/researchers-resolve-uncertainty-in-brca2-testing-improving-cancer-risk-assessment-and-patient-care/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/researchers-resolve-uncertainty-in-brca2-testing-improving-cancer-risk-assessment-and-patient-care/
 		
-		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398641</guid>
+		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
+		<pubdate>Wed, 08 Jan 2025 16:01:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398641</guid>
 
-					<description><![CDATA[<p>Findings will help identify patients with breast, ovarian, pancreatic or prostate cancer who may benefit from targeted therapies ROCHESTER, Minn. — Findings from a multi-institutional, international study led by researchers from the Mayo Clinic Comprehensive Cancer Center have significantly advanced the understanding of genetic alterations in the BRCA2 gene, a key player in hereditary cancer [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Findings will help identify patients with breast, ovarian, pancreatic or prostate cancer who may benefit from targeted therapies ROCHESTER, Minn. — Findings from a multi-institutional, international study led by researchers from the Mayo Clinic Comprehensive Cancer Center have significantly advanced the understanding of genetic alterations in the BRCA2 gene, a key player in hereditary cancer […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-resolve-uncertainty-in-brca2-testing-improving-cancer-risk-assessment-and-patient-care/">Researchers resolve uncertainty in BRCA2 testing, improving cancer risk assessment and patient care</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg" alt="a middle aged woman with a neutral expression, staring thoughtfully out a window" class="wp-image-371382" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg" alt="a middle aged woman with a neutral expression, staring thoughtfully out a window" class="wp-image-371382" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -342,7 +334,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906-240x300.jpg" alt="Dr. Fergus Couch" class="wp-image-398743" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption"><sup>Fergus Couch, Ph.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906-240x300.jpg" alt="Dr. Fergus Couch" class="wp-image-398743" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption"><sup>Fergus Couch, Ph.D.</sup></figcaption></figure></div>
 
 
 <p>"This research is a major advancement in understanding the role of many BRCA2 variants in cancer predisposition," says <a href="https://www.mayo.edu/research/faculty/couch-fergus-j-ph-d/bio-00027515" target="_blank" rel="noreferrer noopener">Fergus Couch, Ph.D.</a>, the Zbigniew and Anna M. Scheller Professor of Medical Research at Mayo Clinic. "Until now, patients who carried VUS often worried if they would develop cancer, but now with the classification of these variants, we can provide a clearer picture of cancer risk and tailor both prevention strategies as well as breast cancer treatment accordingly."</p>
@@ -353,7 +345,7 @@
 
 
 
-<p>&amp;nbsp;"We now have a catalog of every possible VUS in this part of BRCA2 that can be used to guide clinical care," says Dr. Couch.</p>
+<p>&nbsp;"We now have a catalog of every possible VUS in this part of BRCA2 that can be used to guide clinical care," says Dr. Couch.</p>
 
 
 
@@ -373,11 +365,11 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -395,26 +387,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/a-middle-aged-woman-with-a-neutral-expression-staring-thoughtfully-out-a-window-1X1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/a-middle-aged-woman-with-a-neutral-expression-staring-thoughtfully-out-a-window-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Top cancer research stories of 2024</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/top-cancer-research-stories-of-2024/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/top-cancer-research-stories-of-2024/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Tue, 31 Dec 2024 14:30:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[2024 cancer research]]></category>
-		<category><![CDATA[daily]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398380</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Tue, 31 Dec 2024 14:30:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[2024 cancer research]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398380</guid>
 
-					<description><![CDATA[<p>Mayo Clinic Comprehensive Cancer Center researchers spent 2024 mining patient data, leveraging artificial intelligence and conducting clinical trials to reveal insights that improve patient care. By Mayo Clinic staff Mayo Clinic Comprehensive Cancer Center physicians and scientists are researching the causes of cancer and its recurrence, innovating new methods to detect cancer as early as [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Mayo Clinic Comprehensive Cancer Center researchers spent 2024 mining patient data, leveraging artificial intelligence and conducting clinical trials to reveal insights that improve patient care. By Mayo Clinic staff Mayo Clinic Comprehensive Cancer Center physicians and scientists are researching the causes of cancer and its recurrence, innovating new methods to detect cancer as early as […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/top-cancer-research-stories-of-2024/">Top cancer research stories of 2024</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-1024x576.jpg" alt="multi pipette research of cancer stem cells" class="wp-image-238754" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-1024x576.jpg" alt="multi pipette research of cancer stem cells" class="wp-image-238754" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -434,15 +426,15 @@
 
 
 
-<p>A multicenter, international study suggests that people who have early-stage&amp;nbsp;<a href="https://cancerblog.mayoclinic.org/2024/01/03/understanding-triple-negative-breast-cancer-and-its-treatment/" target="_blank" rel="noreferrer noopener">triple-negative breast cancer</a> (TNBC) and high levels of immune cells within their tumors may have a lower risk of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/cancer/art-20044575#:~:text=What%20is%20a%20cancer%20recurrence,cells%20from%20your%20cancer%20remained." target="_blank" rel="noreferrer noopener">recurrence</a>&amp;nbsp;and better survival rates — even without chemotherapy treatment. The&amp;nbsp;<a href="https://jamanetwork.com/journals/jama/fullarticle/2816923" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;was published in the Journal of American Medical Association (JAMA).</p>
+<p>A multicenter, international study suggests that people who have early-stage&nbsp;<a href="https://cancerblog.mayoclinic.org/2024/01/03/understanding-triple-negative-breast-cancer-and-its-treatment/" target="_blank" rel="noreferrer noopener">triple-negative breast cancer</a> (TNBC) and high levels of immune cells within their tumors may have a lower risk of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/cancer/art-20044575#:~:text=What%20is%20a%20cancer%20recurrence,cells%20from%20your%20cancer%20remained." target="_blank" rel="noreferrer noopener">recurrence</a>&nbsp;and better survival rates — even without chemotherapy treatment. The&nbsp;<a href="https://jamanetwork.com/journals/jama/fullarticle/2816923" target="_blank" rel="noreferrer noopener">study</a>&nbsp;was published in the Journal of American Medical Association (JAMA).</p>
 
 
 
-<p>The immune cells, also known as tumor-infiltrating lymphocytes (TILs), are immune system cells that can move from the bloodstream into a&amp;nbsp;tumor and&amp;nbsp;can recognize and destroy cancer cells.</p>
+<p>The immune cells, also known as tumor-infiltrating lymphocytes (TILs), are immune system cells that can move from the bloodstream into a&nbsp;tumor and&nbsp;can recognize and destroy cancer cells.</p>
 
 
 
-<p>"This is an important finding because it highlights that the abundance of TILs in breast tissue is a prognostic biomarker in people with early-stage triple-negative breast cancer, even when chemotherapy is not administered," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/leon-ferre-roberto-a-m-d/bio-20463845" target="_blank" rel="noreferrer noopener">Roberto Leon-Ferre, M.D.</a>, a breast medical oncologist at&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center&amp;nbsp;</a>and first author of the study.</p>
+<p>"This is an important finding because it highlights that the abundance of TILs in breast tissue is a prognostic biomarker in people with early-stage triple-negative breast cancer, even when chemotherapy is not administered," says&nbsp;<a href="https://www.mayo.edu/research/faculty/leon-ferre-roberto-a-m-d/bio-20463845" target="_blank" rel="noreferrer noopener">Roberto Leon-Ferre, M.D.</a>, a breast medical oncologist at&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center&nbsp;</a>and first author of the study.</p>
 
 
 
@@ -450,11 +442,11 @@
 
 
 
-<p>Mayo Clinic researchers recently invented a new class of artificial intelligence (AI) algorithms called hypothesis-driven AI, which is a significant departure from traditional AI models that learn solely from data. In a review published in&amp;nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/38398213/" target="_blank" rel="noreferrer noopener">Cancers</a>, the researchers note that this emerging class of AI offers an innovative way to use massive datasets to help discover the complex causes of diseases such as cancer and improve treatment strategies.</p>
+<p>Mayo Clinic researchers recently invented a new class of artificial intelligence (AI) algorithms called hypothesis-driven AI, which is a significant departure from traditional AI models that learn solely from data. In a review published in&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/38398213/" target="_blank" rel="noreferrer noopener">Cancers</a>, the researchers note that this emerging class of AI offers an innovative way to use massive datasets to help discover the complex causes of diseases such as cancer and improve treatment strategies.</p>
 
 
 
-<p>"This fosters a new era in designing targeted and informed AI algorithms to solve scientific questions, better understand diseases, and guide individualized medicine," says senior author and co-inventor&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/li-hu-ph-d/bio-20035057" target="_blank" rel="noreferrer noopener">Hu Li, Ph.D.</a>, a Mayo Clinic Systems biology and AI researcher in the Department of Molecular Pharmacology and Experimental Therapeutics. "It has the potential to uncover insights missed by conventional AI."</p>
+<p>"This fosters a new era in designing targeted and informed AI algorithms to solve scientific questions, better understand diseases, and guide individualized medicine," says senior author and co-inventor&nbsp;<a href="https://www.mayo.edu/research/faculty/li-hu-ph-d/bio-20035057" target="_blank" rel="noreferrer noopener">Hu Li, Ph.D.</a>, a Mayo Clinic Systems biology and AI researcher in the Department of Molecular Pharmacology and Experimental Therapeutics. "It has the potential to uncover insights missed by conventional AI."</p>
 
 
 
@@ -462,11 +454,11 @@
 
 
 
-<p>Melanoma is often detected later in people with darker skin complexions, and the consequences can be devastating, a Mayo Clinic&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;reveals. While&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884">melanoma</a>&amp;nbsp;may be found less frequently in people with darker complexions than fair ones, this serious form of cancer can affect anyone. The study consisted of 492,597 patients with melanoma. Findings suggests that added vigilance in early screening is particularly needed for Black men, whose cancers are often found at later stages, leading to worse outcomes compared to white patients.</p>
+<p>Melanoma is often detected later in people with darker skin complexions, and the consequences can be devastating, a Mayo Clinic&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884" target="_blank" rel="noreferrer noopener">study</a>&nbsp;reveals. While&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884">melanoma</a>&nbsp;may be found less frequently in people with darker complexions than fair ones, this serious form of cancer can affect anyone. The study consisted of 492,597 patients with melanoma. Findings suggests that added vigilance in early screening is particularly needed for Black men, whose cancers are often found at later stages, leading to worse outcomes compared to white patients.</p>
 
 
 
-<p>"We compared non-Hispanic Black patients to white patients and saw striking differences in how patients presented with the disease," says surgical oncologist&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/hieken-tina-j-m-d/bio-20089011" target="_blank" rel="noreferrer noopener">Tina Hieken, M.D.</a>, senior author of the study and a researcher at&amp;nbsp;Mayo Clinic Comprehensive Cancer Center. "We saw more extremity melanoma and more later-stage disease."</p>
+<p>"We compared non-Hispanic Black patients to white patients and saw striking differences in how patients presented with the disease," says surgical oncologist&nbsp;<a href="https://www.mayo.edu/research/faculty/hieken-tina-j-m-d/bio-20089011" target="_blank" rel="noreferrer noopener">Tina Hieken, M.D.</a>, senior author of the study and a researcher at&nbsp;Mayo Clinic Comprehensive Cancer Center. "We saw more extremity melanoma and more later-stage disease."</p>
 
 
 
@@ -474,7 +466,7 @@
 
 
 
-<p>In a <a href="https://www.pnas.org/doi/10.1073/pnas.2318843121" target="_blank" rel="noreferrer noopener">study</a> published in Proceedings of the National Academy of Sciences, Mayo Clinic researchers report on a new surgical platform used during brain cancer surgery that informs critical decision-making about tumor treatment within minutes. The platform uses mass spectrometry, a sensitive technique used to analyze substances in tissue samples, to identify a key gene mutation in&amp;nbsp;brain cancer in real time.</p>
+<p>In a <a href="https://www.pnas.org/doi/10.1073/pnas.2318843121" target="_blank" rel="noreferrer noopener">study</a> published in Proceedings of the National Academy of Sciences, Mayo Clinic researchers report on a new surgical platform used during brain cancer surgery that informs critical decision-making about tumor treatment within minutes. The platform uses mass spectrometry, a sensitive technique used to analyze substances in tissue samples, to identify a key gene mutation in&nbsp;brain cancer in real time.</p>
 
 
 
@@ -486,15 +478,15 @@
 
 
 
-<p>Current screening protocols fail to catch a notable number of people carrying genetic mutations associated with hereditary breast and ovarian cancer syndrome and Lynch syndrome, which increase the risk of developing certain cancers. This issue is particularly pronounced among underrepresented minorities.&amp;nbsp;</p>
+<p>Current screening protocols fail to catch a notable number of people carrying genetic mutations associated with hereditary breast and ovarian cancer syndrome and Lynch syndrome, which increase the risk of developing certain cancers. This issue is particularly pronounced among underrepresented minorities.&nbsp;</p>
 
 
 
-<p>These&amp;nbsp;<a href="https://ascopubs.org/doi/10.1200/PO.24.00106" target="_blank" rel="noreferrer noopener">research findings</a>, published in JCO Precision Oncology, are based on genetic screenings of more than 44,000 study participants from diverse backgrounds.</p>
+<p>These&nbsp;<a href="https://ascopubs.org/doi/10.1200/PO.24.00106" target="_blank" rel="noreferrer noopener">research findings</a>, published in JCO Precision Oncology, are based on genetic screenings of more than 44,000 study participants from diverse backgrounds.</p>
 
 
 
-<p>Researchers sequenced the exomes, the protein-coding regions of genes where most disease-causing mutations are found. They identified 550 people (1.24% of participants) as carriers of the hereditary mutations.&amp;nbsp;Importantly, half of these people were previously unaware of their hereditary genetic risk, and 40% did not meet existing clinical guidelines for genetic testing.&amp;nbsp;</p>
+<p>Researchers sequenced the exomes, the protein-coding regions of genes where most disease-causing mutations are found. They identified 550 people (1.24% of participants) as carriers of the hereditary mutations.&nbsp;Importantly, half of these people were previously unaware of their hereditary genetic risk, and 40% did not meet existing clinical guidelines for genetic testing.&nbsp;</p>
 
 
 
@@ -502,11 +494,11 @@
 
 
 
-<p>In a new multicenter, international study led by Mayo Clinic Comprehensive Cancer Center, researchers found that people with the B-cell precursor subtype of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/acute-lymphocytic-leukemia/symptoms-causes/syc-20369077" target="_blank" rel="noreferrer noopener">acute lymphoblastic leukemia</a> (BCP-ALL), who also lacked a genetic abnormality known as the&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/chronic-myelogenous-leukemia/multimedia/how-the-philadelphia-chromosome-forms/img-20007421" target="_blank" rel="noreferrer noopener">Philadelphia chromosome</a>&amp;nbsp;and were in remission with no trace of cancer, showed significantly higher survival rates when blinatumomab was added to their chemotherapy treatment. The randomized study results are published in the New England Journal of Medicine.</p>
+<p>In a new multicenter, international study led by Mayo Clinic Comprehensive Cancer Center, researchers found that people with the B-cell precursor subtype of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/acute-lymphocytic-leukemia/symptoms-causes/syc-20369077" target="_blank" rel="noreferrer noopener">acute lymphoblastic leukemia</a> (BCP-ALL), who also lacked a genetic abnormality known as the&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/chronic-myelogenous-leukemia/multimedia/how-the-philadelphia-chromosome-forms/img-20007421" target="_blank" rel="noreferrer noopener">Philadelphia chromosome</a>&nbsp;and were in remission with no trace of cancer, showed significantly higher survival rates when blinatumomab was added to their chemotherapy treatment. The randomized study results are published in the New England Journal of Medicine.</p>
 
 
 
-<p>"These results are encouraging and establish a new standard of treatment for people with BCP-ALL," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/litzow-mark-r-m-d/bio-20053695" target="_blank" rel="noreferrer noopener">Mark Litzow, M.D.</a>, lead study author and a Mayo Clinic Comprehensive Cancer Center hematologist. "The addition of blinatumomab to chemotherapy reduced the risk of leukemia recurrence and death by nearly 60%."</p>
+<p>"These results are encouraging and establish a new standard of treatment for people with BCP-ALL," says&nbsp;<a href="https://www.mayoclinic.org/biographies/litzow-mark-r-m-d/bio-20053695" target="_blank" rel="noreferrer noopener">Mark Litzow, M.D.</a>, lead study author and a Mayo Clinic Comprehensive Cancer Center hematologist. "The addition of blinatumomab to chemotherapy reduced the risk of leukemia recurrence and death by nearly 60%."</p>
 
 
 
@@ -522,7 +514,7 @@
 
 
 
-<p>The findings, published in the journal&amp;nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/38703880/" target="_blank" rel="noreferrer noopener">Clinical Gastroenterology and Hepatology</a>, revealed changes in various physiological and metabolic measurements. The team's early findings suggest that capturing the subtle yet significant body changes that occur as pancreatic cancer develops could be a key strategy in early detection.</p>
+<p>The findings, published in the journal&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/38703880/" target="_blank" rel="noreferrer noopener">Clinical Gastroenterology and Hepatology</a>, revealed changes in various physiological and metabolic measurements. The team's early findings suggest that capturing the subtle yet significant body changes that occur as pancreatic cancer develops could be a key strategy in early detection.</p>
 
 
 
@@ -530,11 +522,11 @@
 
 
 
-<p>A radiopharmaceutical therapy that has successfully extended progression-free survival for patients with neuroendocrine tumors shows early signs of delivering similar benefits to patients with difficult-to-treat&amp;nbsp;meningioma, a type of brain tumor. The nonrandomized phase 2 study's findings were presented at the&amp;nbsp;<a href="http://www.astro.org/annualmeeting" target="_blank" rel="noreferrer noopener">American Society for Radiation Oncology (ASTRO) Annual Meeting</a>.&amp;nbsp;</p>
+<p>A radiopharmaceutical therapy that has successfully extended progression-free survival for patients with neuroendocrine tumors shows early signs of delivering similar benefits to patients with difficult-to-treat&nbsp;meningioma, a type of brain tumor. The nonrandomized phase 2 study's findings were presented at the&nbsp;<a href="http://www.astro.org/annualmeeting" target="_blank" rel="noreferrer noopener">American Society for Radiation Oncology (ASTRO) Annual Meeting</a>.&nbsp;</p>
 
 
 
-<p>"We've found a therapy with a meaningful signal for effectiveness and safety for people with refractory meningioma, a condition with no standard treatment options," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/merrell-kenneth-w-m-d/bio-20434012" target="_blank" rel="noreferrer noopener">Kenneth Merrell, M.D.</a>, lead researcher of the trial and a radiation oncologist at&amp;nbsp;Mayo Clinic Comprehensive Cancer Center.</p>
+<p>"We've found a therapy with a meaningful signal for effectiveness and safety for people with refractory meningioma, a condition with no standard treatment options," says&nbsp;<a href="https://www.mayoclinic.org/biographies/merrell-kenneth-w-m-d/bio-20434012" target="_blank" rel="noreferrer noopener">Kenneth Merrell, M.D.</a>, lead researcher of the trial and a radiation oncologist at&nbsp;Mayo Clinic Comprehensive Cancer Center.</p>
 
 
 
@@ -542,7 +534,7 @@
 
 
 
-<p>Mayo Clinic&amp;nbsp;announces the results of an innovative treatment approach that may improve overall survival in older patients with newly diagnosed&amp;nbsp;glioblastoma&amp;nbsp;while maintaining their quality of life. The phase 2, single-arm study results are published in&amp;nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00585-0/abstract" target="_blank" rel="noreferrer noopener">The Lancet Oncology</a>. &amp;nbsp;</p>
+<p>Mayo Clinic&nbsp;announces the results of an innovative treatment approach that may improve overall survival in older patients with newly diagnosed&nbsp;glioblastoma&nbsp;while maintaining their quality of life. The phase 2, single-arm study results are published in&nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00585-0/abstract" target="_blank" rel="noreferrer noopener">The Lancet Oncology</a>. &nbsp;</p>
 
 
 
@@ -558,15 +550,15 @@
 
 
 
-<p>A new treatment is showing promise for people with high-risk smoldering multiple myeloma (SMM). This precancerous condition can progress to active&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/multiple-myeloma/symptoms-causes/syc-20353378" target="_blank" rel="noreferrer noopener">multiple myeloma</a>, a type of blood cancer. High-risk SMM carries a higher likelihood of progression.</p>
+<p>A new treatment is showing promise for people with high-risk smoldering multiple myeloma (SMM). This precancerous condition can progress to active&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/multiple-myeloma/symptoms-causes/syc-20353378" target="_blank" rel="noreferrer noopener">multiple myeloma</a>, a type of blood cancer. High-risk SMM carries a higher likelihood of progression.</p>
 
 
 
-<p>Results from a phase 3 clinical trial, published in the&amp;nbsp;<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2409029" target="_blank" rel="noreferrer noopener">New England Journal of Medicine</a>&amp;nbsp;and presented at the <a href="https://www.hematology.org/meetings" target="_blank" rel="noreferrer noopener">American Society of Hematology meeting</a>, demonstrated that daratumumab, a monoclonal antibody that targets CD38, a protein found on the surface of myeloma cells, significantly reduces the risk of progression to active multiple myeloma and improves overall survival compared to active monitoring.</p>
+<p>Results from a phase 3 clinical trial, published in the&nbsp;<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2409029" target="_blank" rel="noreferrer noopener">New England Journal of Medicine</a>&nbsp;and presented at the <a href="https://www.hematology.org/meetings" target="_blank" rel="noreferrer noopener">American Society of Hematology meeting</a>, demonstrated that daratumumab, a monoclonal antibody that targets CD38, a protein found on the surface of myeloma cells, significantly reduces the risk of progression to active multiple myeloma and improves overall survival compared to active monitoring.</p>
 
 
 
-<p>"These results are a major advancement in the treatment of high-risk smoldering multiple myeloma," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/rajkumar-s-vincent-m-d/bio-00085953" target="_blank" rel="noreferrer noopener">S. Vincent Rajkumar, M.D.</a>, hematologist,&amp;nbsp;Mayo Clinic Comprehensive Cancer Center&amp;nbsp;and lead investigator of the trial. "For the first time, we have a treatment option that can significantly delay or prevent the progression to active disease, improving patients' lives and offering them a chance at a longer, healthier future."</p>
+<p>"These results are a major advancement in the treatment of high-risk smoldering multiple myeloma," says&nbsp;<a href="https://www.mayo.edu/research/faculty/rajkumar-s-vincent-m-d/bio-00085953" target="_blank" rel="noreferrer noopener">S. Vincent Rajkumar, M.D.</a>, hematologist,&nbsp;Mayo Clinic Comprehensive Cancer Center&nbsp;and lead investigator of the trial. "For the first time, we have a treatment option that can significantly delay or prevent the progression to active disease, improving patients' lives and offering them a chance at a longer, healthier future."</p>
 
 
 
@@ -604,98 +596,98 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/multi-pipette-research-of-cancer-stem-cells-_shutterstock_261331172_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[2024 cancer research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[2024 cancer research]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>10 Mayo Clinic research advances in 2024, spanning stem cell therapy in space to growing mini-organs</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/10-mayo-clinic-research-advances-in-2024-spanning-stem-cell-therapy-in-space-to-growing-mini-organs/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/10-mayo-clinic-research-advances-in-2024-spanning-stem-cell-therapy-in-space-to-growing-mini-organs/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Mon, 30 Dec 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Biotherapeutics]]></category>
-		<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Gastroenterology]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Neurosciences]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Translational Science]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Abba Zubair]]></category>
-		<category><![CDATA[Dr. Charles Howe]]></category>
-		<category><![CDATA[Dr. David Lott]]></category>
-		<category><![CDATA[Dr. Hu Li]]></category>
-		<category><![CDATA[Dr. Kendall Lee]]></category>
-		<category><![CDATA[Dr. Konstantinos Lazaridis]]></category>
-		<category><![CDATA[Dr. Marina Walther-Antonio]]></category>
-		<category><![CDATA[Dr. Melissa Murray]]></category>
-		<category><![CDATA[Dr. Sean Phelan]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398283</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Mon, 30 Dec 2024 15:00:00 +0000</pubdate>
+				<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Biotherapeutics]]--></category>
+		<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Gastroenterology]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Neurosciences]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Translational Science]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Abba Zubair]]--></category>
+		<category><!--[CDATA[Dr. Charles Howe]]--></category>
+		<category><!--[CDATA[Dr. David Lott]]--></category>
+		<category><!--[CDATA[Dr. Hu Li]]--></category>
+		<category><!--[CDATA[Dr. Kendall Lee]]--></category>
+		<category><!--[CDATA[Dr. Konstantinos Lazaridis]]--></category>
+		<category><!--[CDATA[Dr. Marina Walther-Antonio]]--></category>
+		<category><!--[CDATA[Dr. Melissa Murray]]--></category>
+		<category><!--[CDATA[Dr. Sean Phelan]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398283</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — At Mayo Clinic, researchers published more than 10,000 scientific papers in 2024 that are driving medical discoveries, leading to new cures for the future. The following are 10 research highlights from Mayo Clinic this year: Growing mini-organs to find new treatments for complex disease Mayo Clinic&amp;#160;investigators are growing three-dimensional human intestines in [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — At Mayo Clinic, researchers published more than 10,000 scientific papers in 2024 that are driving medical discoveries, leading to new cures for the future. The following are 10 research highlights from Mayo Clinic this year: Growing mini-organs to find new treatments for complex disease Mayo Clinic&nbsp;investigators are growing three-dimensional human intestines in […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/10-mayo-clinic-research-advances-in-2024-spanning-stem-cell-therapy-in-space-to-growing-mini-organs/">10 Mayo Clinic research advances in 2024, spanning stem cell therapy in space to growing mini-organs</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>ROCHESTER, Minn. — At <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, researchers published more than 10,000 scientific papers in 2024 that are driving medical discoveries, leading to new cures for the future. The following are 10 research highlights from Mayo Clinic this year:</p>
+										<content:encoded><!--[CDATA[
+<p-->ROCHESTER, Minn. — At <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, researchers published more than 10,000 scientific papers in 2024 that are driving medical discoveries, leading to new cures for the future. The following are 10 research highlights from Mayo Clinic this year:<p></p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/growing-mini-organs-to-find-new-treatments-for-complex-disease/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1155" height="651" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1.jpg" alt="" class="wp-image-381047" style="width:334px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1.jpg 1155w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1-768x433.jpg 768w" sizes="auto, (max-width: 1155px) 100vw, 1155px" /></a><figcaption class="wp-element-caption">Microscopic view of an intestinal organoid</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/growing-mini-organs-to-find-new-treatments-for-complex-disease/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1155" height="651" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1.jpg" alt="" class="wp-image-381047" style="width:334px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1.jpg 1155w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Organoid2-16x9-1-768x433.jpg 768w" sizes="auto, (max-width: 1155px) 100vw, 1155px"></a><figcaption class="wp-element-caption">Microscopic view of an intestinal organoid</figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/growing-mini-organs-to-find-new-treatments-for-complex-disease/" target="_blank" rel="noreferrer noopener">Growing mini-organs to find new treatments for complex disease</a></h2>
 
 
 
-<p><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;investigators are growing three-dimensional human intestines in a dish to track disease and find new cures for complex conditions such as&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/inflammatory-bowel-disease/symptoms-causes/syc-20353315" target="_blank" rel="noreferrer noopener">inflammatory bowel disease</a>. These mini-organs function like human intestines, with the ability to process metabolites that convert food into energy on a cellular level and secrete mucus that protects against bacteria. These 3D mini-intestines in a dish, known as "organoids," provide a unique platform for studying the intricacies of the human gut.</p>
+<p><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;investigators are growing three-dimensional human intestines in a dish to track disease and find new cures for complex conditions such as&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/inflammatory-bowel-disease/symptoms-causes/syc-20353315" target="_blank" rel="noreferrer noopener">inflammatory bowel disease</a>. These mini-organs function like human intestines, with the ability to process metabolites that convert food into energy on a cellular level and secrete mucus that protects against bacteria. These 3D mini-intestines in a dish, known as "organoids," provide a unique platform for studying the intricacies of the human gut.</p>
 
 
 
-<p>"We think this has the potential to revolutionize the way we approach disease research. We hope to save time and resources and avoid the development of therapies that fail upon translation into patients," says <a href="https://www.mayo.edu/research/faculty/howe-charles-l-ph-d/bio-00083834" target="_blank" rel="noreferrer noopener">Charles Howe, Ph.D.</a>, who leads the Translational Neuroimmunology Lab.&amp;nbsp;"Understanding which treatments show potential for success in human organoids could dramatically accelerate the rate of new therapies for patients with unmet needs."</p>
+<p>"We think this has the potential to revolutionize the way we approach disease research. We hope to save time and resources and avoid the development of therapies that fail upon translation into patients," says <a href="https://www.mayo.edu/research/faculty/howe-charles-l-ph-d/bio-00083834" target="_blank" rel="noreferrer noopener">Charles Howe, Ph.D.</a>, who leads the Translational Neuroimmunology Lab.&nbsp;"Understanding which treatments show potential for success in human organoids could dramatically accelerate the rate of new therapies for patients with unmet needs."</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/brain-stimulation-shows-promise-in-treating-drug-addiction/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Neurons.jpg" alt="Colorful digital rendering of neurons in the brain on a dark background." class="wp-image-382483" style="width:324px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Neurons.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Neurons-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></a></figure></div>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/brain-stimulation-shows-promise-in-treating-drug-addiction/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Neurons.jpg" alt="Colorful digital rendering of neurons in the brain on a dark background." class="wp-image-382483" style="width:324px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Neurons.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Neurons-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/brain-stimulation-shows-promise-in-treating-drug-addiction/" target="_blank" rel="noreferrer noopener">Brain stimulation shows promise in treating drug addiction</a></h2>
 
 
 
-<p>Physicians use neurostimulation to treat a&amp;nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/24330698/" target="_blank" rel="noreferrer noopener">variety of human disorders</a>, including Parkinson's disease, tremor, obsessive-compulsive disorder and Tourette syndrome. A Mayo Clinic neurosurgeon and his colleagues believe one form of that treatment, called&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/deep-brain-stimulation/about/pac-20384562" target="_blank" rel="noreferrer noopener">deep brain stimulation (DBS)</a>, is poised to solve one of the most significant public health challenges: drug addiction.<br><br>"Drug addiction is a huge, unmet medical need," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/lee-kendall-h-m-d-ph-d/bio-00027489" target="_blank" rel="noreferrer noopener">Kendall Lee, M.D., Ph.D.</a>, who has published nearly 100 journal articles on DBS along with his colleagues.&amp;nbsp;Key to treating it, he says, is cutting off the pleasurable "high" that comes with the addiction — which DBS potentially can do.</p>
+<p>Physicians use neurostimulation to treat a&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/24330698/" target="_blank" rel="noreferrer noopener">variety of human disorders</a>, including Parkinson's disease, tremor, obsessive-compulsive disorder and Tourette syndrome. A Mayo Clinic neurosurgeon and his colleagues believe one form of that treatment, called&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/deep-brain-stimulation/about/pac-20384562" target="_blank" rel="noreferrer noopener">deep brain stimulation (DBS)</a>, is poised to solve one of the most significant public health challenges: drug addiction.<br><br>"Drug addiction is a huge, unmet medical need," says&nbsp;<a href="https://www.mayo.edu/research/faculty/lee-kendall-h-m-d-ph-d/bio-00027489" target="_blank" rel="noreferrer noopener">Kendall Lee, M.D., Ph.D.</a>, who has published nearly 100 journal articles on DBS along with his colleagues.&nbsp;Key to treating it, he says, is cutting off the pleasurable "high" that comes with the addiction — which DBS potentially can do.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-researchers-invented-a-new-class-of-ai-to-improve-cancer-research-and-treatments/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="768" height="432" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Hypothesis-driven-AI-graphic.jpg" alt="Hypothesis-driven AI graphic" class="wp-image-398287" style="width:384px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Hypothesis-driven-AI-graphic.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Hypothesis-driven-AI-graphic-300x169.jpg 300w" sizes="auto, (max-width: 768px) 100vw, 768px" /></a></figure></div>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-researchers-invented-a-new-class-of-ai-to-improve-cancer-research-and-treatments/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="768" height="432" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Hypothesis-driven-AI-graphic.jpg" alt="Hypothesis-driven AI graphic" class="wp-image-398287" style="width:384px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Hypothesis-driven-AI-graphic.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Hypothesis-driven-AI-graphic-300x169.jpg 300w" sizes="auto, (max-width: 768px) 100vw, 768px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-researchers-invented-a-new-class-of-ai-to-improve-cancer-research-and-treatments/" target="_blank" rel="noreferrer noopener">A new class of AI aims to improve cancer research and treatments</a></h2>
 
 
 
-<p>Mayo Clinic researchers have invented a new class of artificial intelligence (AI) algorithms called hypothesis-driven AI, which is a significant departure from traditional AI models that learn solely from data.&amp;nbsp;The researchers note that this emerging class of AI offers an innovative way to use massive datasets to help discover the complex causes of diseases, such as cancer, and improve treatment strategies. </p>
+<p>Mayo Clinic researchers have invented a new class of artificial intelligence (AI) algorithms called hypothesis-driven AI, which is a significant departure from traditional AI models that learn solely from data.&nbsp;The researchers note that this emerging class of AI offers an innovative way to use massive datasets to help discover the complex causes of diseases, such as cancer, and improve treatment strategies. </p>
 
 
 
-<p>"This fosters a new era in designing targeted and informed AI algorithms to solve scientific questions, better understand diseases and guide individualized medicine," says co-inventor&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/li-hu-ph-d/bio-20035057" target="_blank" rel="noreferrer noopener">Hu Li, Ph.D.</a>, a Mayo Clinic systems biology and AI researcher. "It has the potential to uncover insights missed by conventional AI."</p>
+<p>"This fosters a new era in designing targeted and informed AI algorithms to solve scientific questions, better understand diseases and guide individualized medicine," says co-inventor&nbsp;<a href="https://www.mayo.edu/research/faculty/li-hu-ph-d/bio-20035057" target="_blank" rel="noreferrer noopener">Hu Li, Ph.D.</a>, a Mayo Clinic systems biology and AI researcher. "It has the potential to uncover insights missed by conventional AI."</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/whats-lurking-in-your-body-mayo-researchers-probing-health-risks-of-tiny-plastic-particles/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-1024x683.jpg" alt="A close-up view of white and blue microplastic pieces on a fingertip." class="wp-image-384332" style="width:327px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">White and blue microplastic pieces on a fingertip.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/whats-lurking-in-your-body-mayo-researchers-probing-health-risks-of-tiny-plastic-particles/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-1024x683.jpg" alt="A close-up view of white and blue microplastic pieces on a fingertip." class="wp-image-384332" style="width:327px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/03/microplastics7-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">White and blue microplastic pieces on a fingertip.</figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/whats-lurking-in-your-body-mayo-researchers-probing-health-risks-of-tiny-plastic-particles/" target="_blank" rel="noreferrer noopener">What's lurking in your body? Mayo probes health risks of tiny plastic particles</a></h2>
 
 
 
-<p>Similar to natural elements like iron and copper, people can ingest, absorb, or even inhale microplastics and nanoplastics and their chemical additives. A&amp;nbsp;<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2309822?query=featured_home" target="_blank" rel="noreferrer noopener">landmark study</a>&amp;nbsp;published in the New England Journal of Medicine links microplastics and nanoplastics found in plaques of human blood vessels to a potential increased risk of heart attack, stroke or death.</p>
+<p>Similar to natural elements like iron and copper, people can ingest, absorb, or even inhale microplastics and nanoplastics and their chemical additives. A&nbsp;<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2309822?query=featured_home" target="_blank" rel="noreferrer noopener">landmark study</a>&nbsp;published in the New England Journal of Medicine links microplastics and nanoplastics found in plaques of human blood vessels to a potential increased risk of heart attack, stroke or death.</p>
 
 
 
@@ -703,22 +695,22 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-new-tool-links-alzheimers-disease-types-to-rate-of-cognitive-decline/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/16-9-april-24-extended.jpg" alt="A brain imaging MRI scan is shown with a blue and red reflection covering half." class="wp-image-386390" style="width:319px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/16-9-april-24-extended.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/16-9-april-24-extended-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></a></figure></div>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-new-tool-links-alzheimers-disease-types-to-rate-of-cognitive-decline/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/16-9-april-24-extended.jpg" alt="A brain imaging MRI scan is shown with a blue and red reflection covering half." class="wp-image-386390" style="width:319px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/16-9-april-24-extended.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/16-9-april-24-extended-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-new-tool-links-alzheimers-disease-types-to-rate-of-cognitive-decline/" target="_blank" rel="noreferrer noopener">Mayo Clinic researchers' new tool links Alzheimer's disease types to rate of cognitive decline</a></h2>
 
 
 
-<p>Mayo Clinic researchers have discovered a series of brain changes characterized by unique clinical features and immune cell behaviors using a new corticolimbic index tool for&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447" target="_blank" rel="noreferrer noopener">Alzheimer's disease</a>, a leading cause of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/dementia/symptoms-causes/syc-20352013" target="_blank" rel="noreferrer noopener">dementia</a>. The tool categorizes Alzheimer's disease cases into three subtypes according to the location of brain changes and continues the&amp;nbsp;<a href="https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(11)70156-9/abstract" target="_blank" rel="noreferrer noopener">team's prior work</a>, demonstrating how these changes affect people differently. Uncovering the microscopic pathology of the disease can help researchers pinpoint biomarkers that may affect future treatments and patient care.</p>
+<p>Mayo Clinic researchers have discovered a series of brain changes characterized by unique clinical features and immune cell behaviors using a new corticolimbic index tool for&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447" target="_blank" rel="noreferrer noopener">Alzheimer's disease</a>, a leading cause of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/dementia/symptoms-causes/syc-20352013" target="_blank" rel="noreferrer noopener">dementia</a>. The tool categorizes Alzheimer's disease cases into three subtypes according to the location of brain changes and continues the&nbsp;<a href="https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(11)70156-9/abstract" target="_blank" rel="noreferrer noopener">team's prior work</a>, demonstrating how these changes affect people differently. Uncovering the microscopic pathology of the disease can help researchers pinpoint biomarkers that may affect future treatments and patient care.</p>
 
 
 
-<p>"Our team found striking demographic and clinical differences among sex, age at symptomatic onset and rate of cognitive decline," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/murray-melissa-e-ph-d/bio-00028171" target="_blank" rel="noreferrer noopener">Melissa Murray, Ph.D.</a>, a translational neuropathologist at Mayo Clinic.</p>
+<p>"Our team found striking demographic and clinical differences among sex, age at symptomatic onset and rate of cognitive decline," says&nbsp;<a href="https://www.mayo.edu/research/faculty/murray-melissa-e-ph-d/bio-00028171" target="_blank" rel="noreferrer noopener">Melissa Murray, Ph.D.</a>, a translational neuropathologist at Mayo Clinic.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/5-23-mayo-scientists-explore-swabs-for-early-endometrial-ovarian-cancer-detection/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="630" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-1024x630.jpg" alt="This 3D illustration shows cancerous cells in the female reproductive system." class="wp-image-388203" style="width:323px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-1024x630.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-300x185.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-768x473.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-1536x945.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-2048x1260.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/5-23-mayo-scientists-explore-swabs-for-early-endometrial-ovarian-cancer-detection/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="630" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-1024x630.jpg" alt="This 3D illustration shows cancerous cells in the female reproductive system." class="wp-image-388203" style="width:323px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-1024x630.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-300x185.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-768x473.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-1536x945.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/female-reproductive-cancer-1-2048x1260.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/5-23-mayo-scientists-explore-swabs-for-early-endometrial-ovarian-cancer-detection/" target="_blank" rel="noreferrer noopener">Mayo scientists explore swabs for early endometrial, ovarian cancer detection</a></h2>
@@ -729,47 +721,47 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/reversing-racisms-toll-on-heart-health/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-1024x576.jpg" alt="Photo of a person holding her chest with one hand" class="wp-image-389668" style="width:321px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/reversing-racisms-toll-on-heart-health/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-1024x576.jpg" alt="Photo of a person holding her chest with one hand" class="wp-image-389668" style="width:321px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/GettyImages-1466533872-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/reversing-racisms-toll-on-heart-health/" target="_blank" rel="noreferrer noopener">Reversing racism's toll on heart health</a></h2>
 
 
 
-<p>People who experience chronic exposure to racism may be affected by factors such as intergenerational trauma, reduced access to healthcare, differential treatment in healthcare settings and psychological distress. These negatively affect heart health and can have a cumulative effect throughout a person's life. Researchers from Mayo Clinic and the University of Minnesota published a&amp;nbsp;<a href="https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/c2dream-framework-investigating-the-structural-mechanisms-undergirding-racial-health-inequities/76ADDAD3F3EEFCBA9E56123E56CB026A" target="_blank" rel="noreferrer noopener">paper</a>&amp;nbsp;which provides a new framework describing how racism affects heart health among people of color in Minnesota. The researchers are focused on reversing these disparities.<br><br>"This framework will help scientists explore and measure how chronic exposure to racism, not race, influences health outcomes," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/phelan-sean-ph-d/bio-20035285" target="_blank" rel="noreferrer noopener">Sean Phelan, Ph.D.,</a>&amp;nbsp;a Mayo Clinic health services researcher. "This will help enable researchers to design interventions that address the root causes of these disparities and improve heart health for people of color everywhere."</p>
+<p>People who experience chronic exposure to racism may be affected by factors such as intergenerational trauma, reduced access to healthcare, differential treatment in healthcare settings and psychological distress. These negatively affect heart health and can have a cumulative effect throughout a person's life. Researchers from Mayo Clinic and the University of Minnesota published a&nbsp;<a href="https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/c2dream-framework-investigating-the-structural-mechanisms-undergirding-racial-health-inequities/76ADDAD3F3EEFCBA9E56123E56CB026A" target="_blank" rel="noreferrer noopener">paper</a>&nbsp;which provides a new framework describing how racism affects heart health among people of color in Minnesota. The researchers are focused on reversing these disparities.<br><br>"This framework will help scientists explore and measure how chronic exposure to racism, not race, influences health outcomes," says&nbsp;<a href="https://www.mayo.edu/research/faculty/phelan-sean-ph-d/bio-20035285" target="_blank" rel="noreferrer noopener">Sean Phelan, Ph.D.,</a>&nbsp;a Mayo Clinic health services researcher. "This will help enable researchers to design interventions that address the root causes of these disparities and improve heart health for people of color everywhere."</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/teamwork-and-research-play-a-key-role-in-mayo-clinics-first-larynx-transplant/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-1024x576.jpg" alt="Surgeons at Mayo Clinic in Arizona perform a total larynx transplant" class="wp-image-391589" style="width:338px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/teamwork-and-research-play-a-key-role-in-mayo-clinics-first-larynx-transplant/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-1024x576.jpg" alt="Surgeons at Mayo Clinic in Arizona perform a total larynx transplant" class="wp-image-391589" style="width:338px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Larynx-transplant-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/teamwork-and-research-play-a-key-role-in-mayo-clinics-first-larynx-transplant/" target="_blank" rel="noreferrer noopener">Teamwork and research play a key role in Mayo Clinic's first larynx transplant</a></h2>
 
 
 
-<p>A team of six surgeons and 20 support staff combined expertise from the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/ent-head-neck-surgery/sections/doctors/drc-20424100" target="_blank" rel="noreferrer noopener">Department of Otolaryngology</a>&amp;nbsp;and the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891" target="_blank" rel="noreferrer noopener">Department of Transplantation</a>&amp;nbsp;in an extraordinary 21-hour operation at Mayo Clinic. The team transplanted a donor larynx to a 59-year-old patient with cancer whose damaged larynx hampered his ability to talk, swallow and breathe. This groundbreaking surgery was only the third larynx transplant in the U.S., and the world's first known successful total larynx transplant performed in a patient with an active cancer as part of a clinical trial.<br><br>"All transplants are complex, but there are more tissue types and moving parts with laryngeal transplantation than other transplants," says <a href="https://www.mayo.edu/research/faculty/lott-david-g-m-d/bio-00092606" target="_blank" rel="noreferrer noopener">David Lott, M.D.</a>, lead surgeon.&amp;nbsp;"Mayo Clinic's team science approach made it possible for us to offer this type of transplant on a scale that was previously unattainable."</p>
+<p>A team of six surgeons and 20 support staff combined expertise from the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/ent-head-neck-surgery/sections/doctors/drc-20424100" target="_blank" rel="noreferrer noopener">Department of Otolaryngology</a>&nbsp;and the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891" target="_blank" rel="noreferrer noopener">Department of Transplantation</a>&nbsp;in an extraordinary 21-hour operation at Mayo Clinic. The team transplanted a donor larynx to a 59-year-old patient with cancer whose damaged larynx hampered his ability to talk, swallow and breathe. This groundbreaking surgery was only the third larynx transplant in the U.S., and the world's first known successful total larynx transplant performed in a patient with an active cancer as part of a clinical trial.<br><br>"All transplants are complex, but there are more tissue types and moving parts with laryngeal transplantation than other transplants," says <a href="https://www.mayo.edu/research/faculty/lott-david-g-m-d/bio-00092606" target="_blank" rel="noreferrer noopener">David Lott, M.D.</a>, lead surgeon.&nbsp;"Mayo Clinic's team science approach made it possible for us to offer this type of transplant on a scale that was previously unattainable."</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/space-a-new-frontier-for-exploring-stem-cell-therapy/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/09/16-x-9-International-space-station-shutterstock_132081785-fotor-20240916152643.jpg" alt="" class="wp-image-393844" style="width:325px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/09/16-x-9-International-space-station-shutterstock_132081785-fotor-20240916152643.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/09/16-x-9-International-space-station-shutterstock_132081785-fotor-20240916152643-300x169.jpg 300w" sizes="auto, (max-width: 760px) 100vw, 760px" /></a></figure></div>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/space-a-new-frontier-for-exploring-stem-cell-therapy/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/09/16-x-9-International-space-station-shutterstock_132081785-fotor-20240916152643.jpg" alt="" class="wp-image-393844" style="width:325px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/09/16-x-9-International-space-station-shutterstock_132081785-fotor-20240916152643.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/09/16-x-9-International-space-station-shutterstock_132081785-fotor-20240916152643-300x169.jpg 300w" sizes="auto, (max-width: 760px) 100vw, 760px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/space-a-new-frontier-for-exploring-stem-cell-therapy/" target="_blank" rel="noreferrer noopener">Space: A new frontier for exploring stem cell therapy</a></h2>
 
 
 
-<p>Two Mayo Clinic researchers say that stem cells grown in microgravity aboard the International Space Station have unique qualities that could one day help accelerate new biotherapies and heal complex disease. The research analysis by <a href="https://www.mayo.edu/research/faculty/zubair-abba-c-m-d-ph-d/bio-00092417" target="_blank" rel="noreferrer noopener">Abba Zubair, M.D., Ph.D.</a>, a laboratory medicine expert and medical director for the&amp;nbsp;<a href="https://www.mayo.edu/research/centers-programs/center-regenerative-biotherapeutics/about" target="_blank" rel="noreferrer noopener">Center for Regenerative Biotherapeutics</a>&amp;nbsp;at Mayo Clinic in Florida, and Fay Abdul Ghani, Mayo Clinic research technologist, finds microgravity can strengthen the regenerative potential of cells.&amp;nbsp;<br><br>"Studying stem cells in space has uncovered cell mechanisms that would otherwise be undetected or unknown within the presence of normal gravity," says Dr. Zubair. "That discovery indicates a broader scientific value to this research, including potential clinical applications."</p>
+<p>Two Mayo Clinic researchers say that stem cells grown in microgravity aboard the International Space Station have unique qualities that could one day help accelerate new biotherapies and heal complex disease. The research analysis by <a href="https://www.mayo.edu/research/faculty/zubair-abba-c-m-d-ph-d/bio-00092417" target="_blank" rel="noreferrer noopener">Abba Zubair, M.D., Ph.D.</a>, a laboratory medicine expert and medical director for the&nbsp;<a href="https://www.mayo.edu/research/centers-programs/center-regenerative-biotherapeutics/about" target="_blank" rel="noreferrer noopener">Center for Regenerative Biotherapeutics</a>&nbsp;at Mayo Clinic in Florida, and Fay Abdul Ghani, Mayo Clinic research technologist, finds microgravity can strengthen the regenerative potential of cells.&nbsp;<br><br>"Studying stem cells in space has uncovered cell mechanisms that would otherwise be undetected or unknown within the presence of normal gravity," says Dr. Zubair. "That discovery indicates a broader scientific value to this research, including potential clinical applications."</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-largest-ever-exome-study-offers-blueprint-for-biomedical-breakthroughs/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="960" height="540" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1.png" alt="" class="wp-image-397446" style="width:342px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1.png 960w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1-768x432.png 768w" sizes="auto, (max-width: 960px) 100vw, 960px" /></a></figure></div>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-largest-ever-exome-study-offers-blueprint-for-biomedical-breakthroughs/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="960" height="540" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1.png" alt="" class="wp-image-397446" style="width:342px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1.png 960w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/DNA-16x9-1-768x432.png 768w" sizes="auto, (max-width: 960px) 100vw, 960px"></a></figure></div>
 
 
 <h2 class="wp-block-heading"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-largest-ever-exome-study-offers-blueprint-for-biomedical-breakthroughs/" target="_blank" rel="noreferrer noopener">Mayo Clinic’s largest-ever exome study offers blueprint for biomedical breakthroughs</a></h2>
 
 
 
-<p><a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank" rel="noreferrer noopener">Mayo Clinic's Center for Individualized Medicine</a>&amp;nbsp;has achieved a significant milestone with its Tapestry <a href="https://www.mayoclinicproceedings.org/article/S0025-6196(24)00405-1/fulltext" target="_blank" rel="noreferrer noopener">study</a>. It generated Mayo's largest-ever collection of exome data, which includes genes that code for proteins—key to understanding health and disease.&amp;nbsp;&amp;nbsp;</p>
+<p><a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank" rel="noreferrer noopener">Mayo Clinic's Center for Individualized Medicine</a>&nbsp;has achieved a significant milestone with its Tapestry <a href="https://www.mayoclinicproceedings.org/article/S0025-6196(24)00405-1/fulltext" target="_blank" rel="noreferrer noopener">study</a>. It generated Mayo's largest-ever collection of exome data, which includes genes that code for proteins—key to understanding health and disease.&nbsp;&nbsp;</p>
 
 
 
@@ -795,37 +787,37 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/GettyImages-1262475670-Moment1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/GettyImages-1262475670-Moment16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Abba Zubair]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Charles Howe]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. David Lott]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Hu Li]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Kendall Lee]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Konstantinos Lazaridis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Marina Walther-Antonio]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Melissa Murray]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Sean Phelan]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/GettyImages-1262475670-Moment16x9-150x150.jpg</mayoclinic:mcthumb >	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Abba Zubair]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Charles Howe]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. David Lott]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Hu Li]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Kendall Lee]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Konstantinos Lazaridis]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Marina Walther-Antonio]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Melissa Murray]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Sean Phelan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/GettyImages-1262475670-Moment16x9-150x150.jpg</mayoclinic:mcthumb>	</item>
 		<item>
 		<title>Mayo Clinic Q and A: Tonsil cancer: What is it and how do you prevent it</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tonsil-cancer-what-is-it-and-how-do-you-prevent-it/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tonsil-cancer-what-is-it-and-how-do-you-prevent-it/
 		
-		<dc:creator><![CDATA[Susan Barber Lindquist]]></dc:creator>
-		<pubDate>Fri, 27 Dec 2024 14:45:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[diverse representation]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397827</guid>
+		<dc:creator><!--[CDATA[Susan Barber Lindquist]]--></dc:creator>
+		<pubdate>Fri, 27 Dec 2024 14:45:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[diverse representation]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397827</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&amp;#160;tonsil cancer. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&nbsp;tonsil cancer. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-tonsil-cancer-what-is-it-and-how-do-you-prevent-it/">Mayo Clinic Q and A: Tonsil cancer: What is it and how do you prevent it</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg" alt="Dr. Katharine Price talks with man, 3-model of skull, showins tonsil, throat, head and neck cancer" class="wp-image-382313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Katherine Price talks with a patient about head and neck cancer</figcaption></figure></div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-center-align-caption"-->
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg" alt="Dr. Katharine Price talks with man, 3-model of skull, showins tonsil, throat, head and neck cancer" class="wp-image-382313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/02/Dr-Katharine-Price-patient-throat-cancer-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Katherine Price talks with a patient about head and neck cancer</figcaption></figure>
 
 
-<p><strong>DEAR MAYO CLINIC:</strong>&amp;nbsp;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tonsil-cancer/symptoms-causes/syc-20367939">tonsil cancer</a>. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding tube, but he has lost a lot of weight and is fatigued. I'm worried about him. I never heard of tonsil cancer before this. I'd like to help spread awareness.&amp;nbsp;</p>
-
-
-
-<p><strong>ANSWER:</strong>&amp;nbsp;Dealing with a life-threatening illness — for yourself or a loved one — can be devastating.&amp;nbsp;It can help to learn more. Spreading awareness and learning about prevention are so important.&amp;nbsp;</p>
+<p><strong>DEAR MAYO CLINIC:</strong>&nbsp;My brother had lingering hoarseness and a sore throat. When he finally went to the doctor, he was diagnosed with&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tonsil-cancer/symptoms-causes/syc-20367939">tonsil cancer</a>. He's in treatment, but it's been tough. Chemo makes him sick, and radiation is doing a number on his throat and salivary glands, making it hard to eat. He's on a feeding tube, but he has lost a lot of weight and is fatigued. I'm worried about him. I never heard of tonsil cancer before this. I'd like to help spread awareness.&nbsp;</p>
 
 
 
-<p>Tonsil cancer is a type of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/head-and-neck-cancers/symptoms-causes/syc-20354171">head and neck cancer</a>. Head and neck cancers include cancers of the&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tongue-cancer/symptoms-causes/syc-20378428">tongue</a>; the back of the tongue, which you can't see when you look in the mirror; the tonsils; or the&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462">throat</a>, which includes several body parts, such as the larynx or voice box. We also see other rare cancers, including salivary gland cancers and cancers in the sinuses and nose.&amp;nbsp;</p>
+<p><strong>ANSWER:</strong>&nbsp;Dealing with a life-threatening illness — for yourself or a loved one — can be devastating.&nbsp;It can help to learn more. Spreading awareness and learning about prevention are so important.&nbsp;</p>
+
+
+
+<p>Tonsil cancer is a type of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/head-and-neck-cancers/symptoms-causes/syc-20354171">head and neck cancer</a>. Head and neck cancers include cancers of the&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/tongue-cancer/symptoms-causes/syc-20378428">tongue</a>; the back of the tongue, which you can't see when you look in the mirror; the tonsils; or the&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462">throat</a>, which includes several body parts, such as the larynx or voice box. We also see other rare cancers, including salivary gland cancers and cancers in the sinuses and nose.&nbsp;</p>
 
 
 
@@ -837,7 +829,7 @@
 
 
 
-<p>HPV is a virus that almost everybody will get exposed to in their lifetime. The primary mode of transmission is sexual. Most people get exposed in their teenage years or early 20s. The virus typically doesn't cause any symptoms, and there is no treatment. Fortunately, most people's immune system will clear the virus from the body after exposure. However, in approximately 10% of people, the virus is not cleared, and they become chronic carriers of HPV and at risk for cancer development decades later.&amp;nbsp;</p>
+<p>HPV is a virus that almost everybody will get exposed to in their lifetime. The primary mode of transmission is sexual. Most people get exposed in their teenage years or early 20s. The virus typically doesn't cause any symptoms, and there is no treatment. Fortunately, most people's immune system will clear the virus from the body after exposure. However, in approximately 10% of people, the virus is not cleared, and they become chronic carriers of HPV and at risk for cancer development decades later.&nbsp;</p>
 
 
 
@@ -845,7 +837,7 @@
 
 
 
-<p>When somebody is diagnosed with a type of head and neck cancer, we do a lot of testing to see if the cancer has spread into lymph nodes or other parts of the body. That helps us determine treatment.&amp;nbsp;</p>
+<p>When somebody is diagnosed with a type of head and neck cancer, we do a lot of testing to see if the cancer has spread into lymph nodes or other parts of the body. That helps us determine treatment.&nbsp;</p>
 
 
 
@@ -853,7 +845,7 @@
 
 
 
-<p>In 2016, the Food and Drug Administration (FDA) approved immunotherapy to treat advanced head and neck cancer.&amp;nbsp;What's promising for the future is the next generation of immunotherapy that aims to further engage the immune system. Research is ongoing into therapeutic vaccines that try to get the body's immune system to recognize and then fight the cancer.&amp;nbsp;</p>
+<p>In 2016, the Food and Drug Administration (FDA) approved immunotherapy to treat advanced head and neck cancer.&nbsp;What's promising for the future is the next generation of immunotherapy that aims to further engage the immune system. Research is ongoing into therapeutic vaccines that try to get the body's immune system to recognize and then fight the cancer.&nbsp;</p>
 
 
 
@@ -861,7 +853,7 @@
 
 
 
-<p>The&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/hpv-infection/in-depth/hpv-vaccine/art-20047292">HPV vaccine</a>&amp;nbsp;has been available since 2006 in the U.S. It's FDA-approved for males and females ages 9 to 45. For cancer prevention, we know from studies that earlier is better, before sexual activity begins, but we also know there's still benefit over time, even up to age 45.&amp;nbsp;</p>
+<p>The&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/hpv-infection/in-depth/hpv-vaccine/art-20047292">HPV vaccine</a>&nbsp;has been available since 2006 in the U.S. It's FDA-approved for males and females ages 9 to 45. For cancer prevention, we know from studies that earlier is better, before sexual activity begins, but we also know there's still benefit over time, even up to age 45.&nbsp;</p>
 
 
 
@@ -893,25 +885,25 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Man-holds-neck-sore-throat-Getty-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Man-holds-neck-sore-throat-Getty-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverse representation]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverse representation]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Advances in pancreatic cancer screening</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/advances-in-pancreatic-cancer-screening/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/advances-in-pancreatic-cancer-screening/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 14:16:46 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Michael Wallace]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397064</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Thu, 26 Dec 2024 14:16:46 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Michael Wallace]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397064</guid>
 
-					<description><![CDATA[<p>Pancreatic cancer screening has advanced significantly in recent years. There are now research-based guidelines on screening for people at high risk of developing the disease, and researchers are collaborating to develop new screening approaches involving genetic testing and artificial intelligence (AI). "We have high-quality studies from the U.S. and Europe that show screening can detect [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Pancreatic cancer screening has advanced significantly in recent years. There are now research-based guidelines on screening for people at high risk of developing the disease, and researchers are collaborating to develop new screening approaches involving genetic testing and artificial intelligence (AI). "We have high-quality studies from the U.S. and Europe that show screening can detect […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/advances-in-pancreatic-cancer-screening/">Advances in pancreatic cancer screening</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg" alt="Older, middle aged man, beard, Black male sitting on couch, looking at mobile phone" class="wp-image-397066" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg" alt="Older, middle aged man, beard, Black male sitting on couch, looking at mobile phone" class="wp-image-397066" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
 
 
 
@@ -919,7 +911,7 @@
 
 
 
-<p>"We have high-quality studies from the U.S. and Europe that show screening can detect cancer at an earlier stage and that detection leads to better overall outcomes — most notably, improved survival," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/wallace-michael-b-m-d/bio-20569473" target="_blank" rel="noreferrer noopener">Michael Wallace, M.D.</a>, an interventional&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/advanced-endoscopy-center-florida/overview/ovc-20523888" target="_blank" rel="noreferrer noopener">endoscopist</a>&amp;nbsp;at Mayo Clinic Comprehensive Cancer Center.</p>
+<p>"We have high-quality studies from the U.S. and Europe that show screening can detect cancer at an earlier stage and that detection leads to better overall outcomes — most notably, improved survival," says&nbsp;<a href="https://www.mayoclinic.org/biographies/wallace-michael-b-m-d/bio-20569473" target="_blank" rel="noreferrer noopener">Michael Wallace, M.D.</a>, an interventional&nbsp;<a href="https://www.mayoclinic.org/departments-centers/advanced-endoscopy-center-florida/overview/ovc-20523888" target="_blank" rel="noreferrer noopener">endoscopist</a>&nbsp;at Mayo Clinic Comprehensive Cancer Center.</p>
 
 
 
@@ -943,7 +935,7 @@
 
 
 
-<p>Mayo Clinic&amp;nbsp;<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6120785/" target="_blank" rel="noreferrer noopener">research</a>&amp;nbsp;has also shown that a new diagnosis of diabetes accompanied by weight loss can be one of the earliest indicators of pancreatic cancer. "This is different than the more common form of diabetes that is associated with obesity and weight gain. This is diabetes associated with weight loss, particularly in people over the age of 50. Those individuals should speak with their doctor and consider having an evaluation to look at their pancreas, such as imaging or blood tests," says Dr. Wallace.</p>
+<p>Mayo Clinic&nbsp;<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6120785/" target="_blank" rel="noreferrer noopener">research</a>&nbsp;has also shown that a new diagnosis of diabetes accompanied by weight loss can be one of the earliest indicators of pancreatic cancer. "This is different than the more common form of diabetes that is associated with obesity and weight gain. This is diabetes associated with weight loss, particularly in people over the age of 50. Those individuals should speak with their doctor and consider having an evaluation to look at their pancreas, such as imaging or blood tests," says Dr. Wallace.</p>
 
 
 
@@ -951,15 +943,15 @@
 
 
 
-<p>Dr. Wallace says two screening tests are recommended for pancreatic cancer:&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768" target="_blank" rel="noreferrer noopener">MRI</a>&amp;nbsp;and endoscopic&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177" target="_blank" rel="noreferrer noopener">ultrasound</a>.</p>
+<p>Dr. Wallace says two screening tests are recommended for pancreatic cancer:&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768" target="_blank" rel="noreferrer noopener">MRI</a>&nbsp;and endoscopic&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177" target="_blank" rel="noreferrer noopener">ultrasound</a>.</p>
 
 
 
-<p>"Screening should be done in a center that can conduct a high-quality MRI and a procedure called an endoscopic ultrasound," says Dr. Wallace. "That's like the&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/endoscopy/multimedia/endoscopy/img-20007299" target="_blank" rel="noreferrer noopener">endoscopy</a>&amp;nbsp;we do for heartburn or stomach pain, but the endoscope has an ultrasound device on the end of it."</p>
+<p>"Screening should be done in a center that can conduct a high-quality MRI and a procedure called an endoscopic ultrasound," says Dr. Wallace. "That's like the&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/endoscopy/multimedia/endoscopy/img-20007299" target="_blank" rel="noreferrer noopener">endoscopy</a>&nbsp;we do for heartburn or stomach pain, but the endoscope has an ultrasound device on the end of it."</p>
 
 
 
-<p>Because the pancreas sits just behind the stomach, an endoscopic ultrasound allows your doctor to get a precise view of the pancreas. If an area looks concerning, they can use the endoscope to get a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922" target="_blank" rel="noreferrer noopener">biopsy</a>.</p>
+<p>Because the pancreas sits just behind the stomach, an endoscopic ultrasound allows your doctor to get a precise view of the pancreas. If an area looks concerning, they can use the endoscope to get a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922" target="_blank" rel="noreferrer noopener">biopsy</a>.</p>
 
 
 
@@ -979,7 +971,7 @@
 
 
 
-<p>People identified as high risk based on genetic testing make up only about 10% of pancreatic cancer diagnoses. Healthcare professionals often incidentally diagnose the other 90% of pancreatic cancer cases while investigating another issue, such as a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cysts/symptoms-causes/syc-20375993" target="_blank" rel="noreferrer noopener">pancreatic cyst</a>. "A cyst is a small fluid collection. Most cysts are benign, but there is a small subset that can turn malignant," says Dr. Wallace.</p>
+<p>People identified as high risk based on genetic testing make up only about 10% of pancreatic cancer diagnoses. Healthcare professionals often incidentally diagnose the other 90% of pancreatic cancer cases while investigating another issue, such as a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cysts/symptoms-causes/syc-20375993" target="_blank" rel="noreferrer noopener">pancreatic cyst</a>. "A cyst is a small fluid collection. Most cysts are benign, but there is a small subset that can turn malignant," says Dr. Wallace.</p>
 
 
 
@@ -995,7 +987,7 @@
 
 
 
-<p>Dr. Wallace and his colleagues are nearing the end of a five-year study evaluating an AI algorithm designed to help care teams classify high- and low-risk cysts.&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/an-artificial-intelligence-tool-to-improve-pancreatic-cancer-outcomes/" target="_blank" rel="noreferrer noopener">Preliminary findings published in 2019</a>&amp;nbsp;showed the algorithm could read an MRI scan in half a second, compared to 20 to 30 minutes of manual review by a radiologist.&amp;nbsp;"These advances allow us to tell which of these cysts are likely to turn cancerous, and for those individuals, we can remove the cyst before it becomes malignant and prevent the disease," says Dr. Wallace.</p>
+<p>Dr. Wallace and his colleagues are nearing the end of a five-year study evaluating an AI algorithm designed to help care teams classify high- and low-risk cysts.&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/an-artificial-intelligence-tool-to-improve-pancreatic-cancer-outcomes/" target="_blank" rel="noreferrer noopener">Preliminary findings published in 2019</a>&nbsp;showed the algorithm could read an MRI scan in half a second, compared to 20 to 30 minutes of manual review by a radiologist.&nbsp;"These advances allow us to tell which of these cysts are likely to turn cancerous, and for those individuals, we can remove the cyst before it becomes malignant and prevent the disease," says Dr. Wallace.</p>
 
 
 
@@ -1031,26 +1023,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Mature-woman-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Older-man-looking-at-phone-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Michael Wallace]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Michael Wallace]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Pokémon party at Mayo Clinic Children&amp;#8217;s Center brings joy, lasting memories</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/</link>
+		<title>Pokémon party at Mayo Clinic Children’s Center brings joy, lasting memories</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/
 		
-		<dc:creator><![CDATA[amymittlestadt]]></dc:creator>
-		<pubDate>Tue, 24 Dec 2024 16:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Children's Center]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Arthur Heyer]]></category>
-		<category><![CDATA[Patient Story]]></category>
-		<category><![CDATA[pokemon]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398068</guid>
+		<dc:creator><!--[CDATA[amymittlestadt]]--></dc:creator>
+		<pubdate>Tue, 24 Dec 2024 16:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Children's Center]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Arthur Heyer]]--></category>
+		<category><!--[CDATA[Patient Story]]--></category>
+		<category><!--[CDATA[pokemon]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398068</guid>
 
-					<description><![CDATA[<p>"If you excuse me — I can show you my deck," Arthur says, darting upstairs. Moments later, he returns with a stack of Pokémon cards 5 inches high. "This is Code Breaker," he explains. "It puts two of any card on top of your deck. It's handy." As he shuffles through the stack, explaining each [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children&amp;#8217;s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->"If you excuse me — I can show you my deck," Arthur says, darting upstairs. Moments later, he returns with a stack of Pokémon cards 5 inches high. "This is Code Breaker," he explains. "It puts two of any card on top of your deck. It's handy." As he shuffles through the stack, explaining each […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children’s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="545" height="307" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg" alt="A close-up of Arthur Heyer at his Pokemon party" class="wp-image-398072" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg 545w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 545px) 100vw, 545px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full is-resized"--><img loading="lazy" decoding="async" width="545" height="307" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg" alt="A close-up of Arthur Heyer at his Pokemon party" class="wp-image-398072" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg 545w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 545px) 100vw, 545px">
 
 
 
@@ -1102,7 +1094,7 @@
 
 
 
-<p>"I started making little packs to hand out to kids so I could shrink down my bulk collection," recalls Pike. One day, as Arthur passed through, Pike offered him a deck of cards, which he gladly accepted. "I learned what he was facing and asked if I could visit him." &amp;nbsp;</p>
+<p>"I started making little packs to hand out to kids so I could shrink down my bulk collection," recalls Pike. One day, as Arthur passed through, Pike offered him a deck of cards, which he gladly accepted. "I learned what he was facing and asked if I could visit him." &nbsp;</p>
 
 
 
@@ -1119,19 +1111,19 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398076" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398076" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398076" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398076" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0123-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398077" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg" alt="Arthur Heyer with James Miller at Arthur's Pokemon party" class="wp-image-398077" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398077" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg" alt="Arthur Heyer with James Miller at Arthur's Pokemon party" class="wp-image-398077" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0214-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398075" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg" alt="Arthur Heyer with Kevin Pike at Arthur's Pokemon party" class="wp-image-398075" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398075" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg" alt="Arthur Heyer with Kevin Pike at Arthur's Pokemon party" class="wp-image-398075" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0089-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398074" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398074" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="534" data-id="398074" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg" alt="Arthur Heyer, family and staff at his Pokemon party" class="wp-image-398074" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/WF4980902_0026-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 </figure>
 
 
@@ -1174,7 +1166,7 @@
 
 
 
-<p>During the Pokémon party, Arthur was the heart and soul of the event. Beaming excitedly, he handed out cards, plushies, coins and toys to his hospital friends — the pediatric patients, his nurses and care providers, including those from the PICU. Even those who don't play Pokémon had fun collecting the cards they thought were the cutest. &amp;nbsp;&amp;nbsp;</p>
+<p>During the Pokémon party, Arthur was the heart and soul of the event. Beaming excitedly, he handed out cards, plushies, coins and toys to his hospital friends — the pediatric patients, his nurses and care providers, including those from the PICU. Even those who don't play Pokémon had fun collecting the cards they thought were the cutest. &nbsp;&nbsp;</p>
 
 
 
@@ -1186,7 +1178,7 @@
 
 
 
-<p>Arthur’s family appreciates how supportive people have been and wants to share that kindness with others even after Arthur's journey is complete — and the connections they fostered through Artrhur’s journey will help ensure that the joy of Pokémon will be shared with other patients for years to come. &amp;nbsp;</p>
+<p>Arthur’s family appreciates how supportive people have been and wants to share that kindness with others even after Arthur's journey is complete — and the connections they fostered through Artrhur’s journey will help ensure that the joy of Pokémon will be shared with other patients for years to come. &nbsp;</p>
 
 
 
@@ -1215,33 +1207,33 @@
 
 
 <p><em>At Mayo Clinic Children's Center, over 50,000 children and adolescents from the U.S. and around the world receive exceptional care each year. Our world-class pediatric experts inspire hope and provide healing for even the most complex cases in over 70 clinical and surgical departments. Scientists and researchers in the Children's Research Center pioneer groundbreaking treatment options to help children live longer, healthier lives.</em></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children&amp;#8217;s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/pokemon-party-at-mayo-clinic-childrens-center-brings-joy-lasting-memories/">Pokémon party at Mayo Clinic Children’s Center brings joy, lasting memories</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Arthur-Heyer-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Arthur Heyer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Patient Story]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[pokemon]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Arthur Heyer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Patient Story]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[pokemon]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>An army of support</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/an-army-of-support/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/an-army-of-support/
 		
-		<dc:creator><![CDATA[Joel Streed]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 22:08:48 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Children's Center]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Gabe Downey]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398177</guid>
+		<dc:creator><!--[CDATA[Joel Streed]]--></dc:creator>
+		<pubdate>Fri, 20 Dec 2024 22:08:48 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Children's Center]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Gabe Downey]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398177</guid>
 
-					<description><![CDATA[<p>Approximately 20 active-duty soldiers from the Twin Cities area were in Rochester, Minnesota, for a special mission. They made a visit to Mayo Clinic Children's Center to meet with 5-year-old Gabe Downey. Gabe is battling rhabdomyosarcoma, a rare type of cancer often found in soft tissue. Diagnosed in April, Gabe has been receiving weekly chemotherapy [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Approximately 20 active-duty soldiers from the Twin Cities area were in Rochester, Minnesota, for a special mission. They made a visit to Mayo Clinic Children's Center to meet with 5-year-old Gabe Downey. Gabe is battling rhabdomyosarcoma, a rare type of cancer often found in soft tissue. Diagnosed in April, Gabe has been receiving weekly chemotherapy […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/an-army-of-support/">An army of support</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg" alt="" class="wp-image-398243" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg" alt="" class="wp-image-398243" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -1257,7 +1249,7 @@
 
 
 
-<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/A-special-visit-for-Gabe.mp4"></video></figure>
+<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/A-special-visit-for-Gabe.mp4"></video></figure>
 
 
 
@@ -1285,6 +1277,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Gabe-meets-soldiers-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Gabe Downey]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Gabe Downey]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
