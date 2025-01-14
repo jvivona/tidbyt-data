@@ -13,7 +13,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastBuildDate>Tue, 14 Jan 2025 16:29:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 20:04:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,6 +21,122 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>Mayo Clinic accelerates personalized medicine through foundation models with Microsoft Research and Cerebras Systems</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-accelerates-personalized-medicine-through-foundation-models-with-microsoft-research-and-cerebras-systems/</link>
+		
+		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 17:30:00 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Cerebras]]></category>
+		<category><![CDATA[chest X-ray]]></category>
+		<category><![CDATA[Dr. Matthew Callstrom]]></category>
+		<category><![CDATA[foundation model]]></category>
+		<category><![CDATA[gen AI]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[genomic foundation model]]></category>
+		<category><![CDATA[Genomics]]></category>
+		<category><![CDATA[human gemone]]></category>
+		<category><![CDATA[Mayo Clinic Platform]]></category>
+		<category><![CDATA[Microsoft Research]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[personalized medicine]]></category>
+		<category><![CDATA[radiology]]></category>
+		<category><![CDATA[Rheumatoid Arthritis]]></category>
+		<category><![CDATA[Rochester news releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398951</guid>
+
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic today unveiled separate groundbreaking collaborations with Microsoft Research and with Cerebras Systems in the field of generative artificial intelligence (AI), designed to personalize patient care, significantly accelerate diagnostic time and improve accuracy. Announced during the 43rd Annual J.P. Morgan Healthcare Conference, the projects focus on developing and testing foundation models [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-accelerates-personalized-medicine-through-foundation-models-with-microsoft-research-and-cerebras-systems/">Mayo Clinic accelerates personalized medicine through foundation models with Microsoft Research and Cerebras Systems</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="602" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776.jpg" alt="Deoxyribonucleic acid (DNA) profile graphics are reflected from a computer screen into a person's eyeglasses, in a dark room" class="wp-image-398961" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776-300x226.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776-768x578.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> today unveiled separate groundbreaking collaborations with <a href="https://www.microsoft.com/en-us/research/?msockid=27380b1436646fc81ab6184f374f6e7d" target="_blank" rel="noreferrer noopener">Microsoft Research</a> and with <a href="https://cerebras.ai/" target="_blank" rel="noreferrer noopener">Cerebras Systems</a> in the field of generative artificial intelligence (AI), designed to personalize patient care, significantly accelerate diagnostic time and improve accuracy.</p>
+
+
+
+<p>Announced during the 43<sup>rd</sup> Annual J.P. Morgan Healthcare Conference, the projects focus on developing and testing foundation models customized for various applications, leveraging the power of multimodal radiology images and data (including CT scans and MRIs) with Microsoft Research and genomic sequencing data with Cerebras. The innovations have the potential to transform how clinicians approach diagnosis and treatment, ultimately leading to better patient outcomes.&amp;nbsp;</p>
+
+
+
+<p>Foundation AI models are large, pre-trained models capable of adapting to and carrying out many tasks with minimal extra training. They learn from massive datasets, acquiring general knowledge that can be used across diverse applications. This adaptability makes them efficient and versatile building blocks for numerous AI systems.</p>
+
+
+
+<h2 class="wp-block-heading">Mayo Clinic and Microsoft Research advance AI for chest X-rays</h2>
+
+
+
+<p>Mayo Clinic and Microsoft Research are collaboratively developing foundation models that integrate text and images. For this use case, Mayo and Microsoft Research are working together to explore the use of generative AI in radiology using Microsoft Research’s AI technology and Mayo Clinic’s X-ray data.</p>
+
+
+
+<p>"Multimodal foundation models hold immense promise in tackling significant roadblocks across the radiology ecosystem. The innovations we’re creating with Microsoft Research will help unlock valuable insights for the future of medical imaging to improve how radiologists work and how patients are cared for," says <a href="https://www.mayo.edu/research/faculty/callstrom-matthew-r-m-d-ph-d/bio-00085927" target="_blank" rel="noreferrer noopener">Matthew Callstrom, M.D. Ph.D.</a>, chair of Mayo Clinic Radiology in the Midwest and medical director for Generative AI and Strategy. "Focusing on chest X-ray reports, Mayo's clinical teams and Microsoft researchers will collaborate to advance the state-of-the-art in multimodal AI radiology, helping bring innovation to real-world application faster and at scale, which is key to making exemplary healthcare more accessible."&amp;nbsp;</p>
+
+
+
+<p>Empowering clinicians with instant access to the information they need is at the heart of this research project. Mayo Clinic aims to develop a model that can automatically generate reports, evaluate tube and line placement in chest X-rays, and detect changes from prior images. This proof-of-concept model seeks to improve clinician workflow and patient care by providing a more efficient and comprehensive analysis of radiographic images.</p>
+
+
+
+<p>"This collaboration is a crucial step towards our mutual goal of developing generative AI that improves patient outcomes and the clinician experience," says Jonathan Carlson, Ph.D., managing director, Health Futures at Microsoft Research. "The fusion of Microsoft's <a href="https://www.nature.com/articles/s42256-024-00965-w">recognized research innovations</a> in biomedical AI and Mayo Clinic's radiology excellence will empower clinicians with the tools they need to deliver more precise and accessible care and <a href="https://www.microsoft.com/en-us/industry/blog/healthcare/2024/10/10/unlocking-next-generation-ai-capabilities-with-healthcare-ai-models/">furthers Microsoft’s commitment</a> to bringing the power of emerging AI to clinical researchers worldwide."</p>
+
+
+
+<h2 class="wp-block-heading">Mayo Clinic and Cerebras create a world-leading genomic foundation model</h2>
+
+
+
+<p>Mayo Clinic and Cerebras have created a genomic foundation model that combines publicly available human reference genome data that represents an ideal version of the human genome, with Mayo's comprehensive patient exome data and the power of its <a href="https://www.mayoclinicplatform.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Platform</a>. Exome data focuses on the protein-coding region of the genome where several disease-causing mutations take place. Cerebras's high-powered computing and generative AI capabilities make it possible to train and develop the model at scale, positioning it to be further refined for more specific uses.</p>
+
+
+
+<p>"The genomic foundation model represents a significant advancement in personalized medicine," says Dr. Callstrom. "Its ability to analyze genomic data and compare them in almost real-time with patients with similar traits allows for more precise prediction of disease and treatment response, leading to faster diagnoses and the selection of targeted therapies for patients."</p>
+
+
+
+<p>For example, rheumatoid arthritis (RA) is a debilitating autoimmune disease, and the standard treatment approach often requires trials of different therapies to achieve disease remission. It can take several months to know if a therapy is working. A new genomic model developed by Mayo Clinic and Cerebras offers a potential solution to shorten the time to identify effective treatment and avoid long-term morbidity associated with the untreated disease. Early findings demonstrate high performance against benchmarks and show early promise in identifying patient response to therapy. As more patient data is added, the model's predictive power is expected to increase, leading to faster, more effective personalized treatment for RA patients. &amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>"Mayo’s genomic foundation model sets a new bar for genomic models, excelling not only in standard tasks like predicting functional and regulatory properties of DNA but also enabling discoveries of complex correlations between genetic variants and medical conditions," says Natalia Vassilieva, Field CTO at Cerebras Systems. "Unlike current approaches focused on single-variant associations, this model enables the discovery of connections where collections of variants contribute to a particular condition."</p>
+
+
+
+<p>###</p>
+
+
+
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+
+
+
+<p><strong>Media contact:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Terri Malloy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-accelerates-personalized-medicine-through-foundation-models-with-microsoft-research-and-cerebras-systems/">Mayo Clinic accelerates personalized medicine through foundation models with Microsoft Research and Cerebras Systems</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776_1x1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776_16x9.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[artificial intelligence]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cerebras]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[chest X-ray]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Callstrom]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[foundation model]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[gen AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[generative AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[genomic foundation model]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Genomics]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[human gemone]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Platform]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Microsoft Research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[personalized medicine]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[radiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Rheumatoid Arthritis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Rochester news releases]]></mayoclinic:mctag>	</item>
+		<item>
 		<title>8 common health conditions midlife women face</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/</link>
 		
@@ -43,7 +159,7 @@
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/">8 common health conditions midlife women face</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg" alt="Photo of group of diverse women" class="wp-image-398650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg" alt="Photo of group of diverse women" class="wp-image-398650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 
 
 
@@ -186,7 +302,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidhttpsyoutubeTVqLoobmvG0"  title="Mayo Clinic Minute - How personalized vaccines target cancer tumors" width="500" height="281" src="https://www.youtube.com/embed/TVqLoobmvG0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeTVqLoobmvG0"  title="Mayo Clinic Minute - How personalized vaccines target cancer tumors" width="500" height="281" src="https://www.youtube.com/embed/TVqLoobmvG0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -1133,98 +1249,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1388164028-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1388164028-16x9-1.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Vesna Garovic]]></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mayo Clinic&amp;#8217;s AI tool offers a new way to visualize disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-ai-tool-offers-a-new-way-to-visualize-disease/</link>
-		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 12:35:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Research]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398017</guid>
-
-					<description><![CDATA[<p>Mayo Clinic researchers have pioneered an artificial intelligence (AI) tool, called OmicsFootPrint, that helps convert vast amounts of complex biological data into two-dimensional circular images.&amp;#160;&amp;#160; Omics is the study of genes, proteins and other molecular data to help uncover how the body functions and how diseases develop. By mapping this data, the OmicsFootPrint may provide [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-ai-tool-offers-a-new-way-to-visualize-disease/">Mayo Clinic&amp;#8217;s AI tool offers a new way to visualize disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-OMICSFOOTPRINT15-1024x576.png" alt="" class="wp-image-398019" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-OMICSFOOTPRINT15-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-OMICSFOOTPRINT15-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-OMICSFOOTPRINT15-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-OMICSFOOTPRINT15-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-OMICSFOOTPRINT15.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Left: A circular OmicsFootPrint visualization shows genetic and molecular changes, with chromosomes in the outer ring and gene activity changes inside — red for increased activity, green for reduced. Right: A grid of OmicsFootPrints summarizes multi-omics data for nearly 700 cancer patients, with each circle representing a unique molecular profile.</em>&amp;nbsp;</figcaption></figure>
-
-
-
-<p>Mayo Clinic researchers have pioneered an artificial intelligence (AI) tool, called OmicsFootPrint, that helps convert vast amounts of complex biological data into two-dimensional circular images.&amp;nbsp;&amp;nbsp;</p>
-
-
-
-<p>Omics is the study of genes, proteins and other molecular data to help uncover how the body functions and how diseases develop. By mapping this data, the OmicsFootPrint may provide clinicians and researchers with a new way to visualize patterns in diseases, such as cancer and neurological disorders, that can help guide personalized therapies. It may also provide an intuitive way to explore disease mechanisms and interactions.&amp;nbsp;</p>
-
-
-
-<p>The details of the tool are published in a new <a href="https://pubmed.ncbi.nlm.nih.gov/39445795/" target="_blank" rel="noreferrer noopener">study</a> in&amp;nbsp;Nucleic Acids Research.&amp;nbsp;&amp;nbsp;</p>
-
-
-
-<p>"Data becomes most powerful when you can see the story it's telling," says Krishna Rani Kalari, Ph.D., lead author of the study and associate professor of biomedical informatics at <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank" rel="noreferrer noopener">Mayo Clinic's Center for Individualized Medicine.</a> "The OmicsFootPrint could open doors to discoveries we haven't been able to achieve before."&amp;nbsp;</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Simplifying complex data</strong>&amp;nbsp;</h2>
-
-
-
-<p>Genes act as the body’s instruction manual, while proteins carry out those instructions to keep cells functioning. Sometimes, changes in these instructions — called mutations — can disrupt this process and lead to disease. The OmicsFootPrint helps make sense of these complexities by turning data — such as gene activity, mutations and protein levels — into colorful, circular maps that offer a clearer picture of what’s happening in the body.&amp;nbsp;</p>
-
-
-
-<p>In their study, the researchers used the OmicsFootPrint to analyze drug response and cancer multi-omics data. The tool distinguished between two types of breast cancer — lobular and ductal carcinomas — with an average accuracy of 87%. When applied to lung cancer, it demonstrated over 95% accuracy in identifying two types: adenocarcinoma and squamous cell carcinoma.&amp;nbsp;</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Small data sets bring big impacts</strong>&amp;nbsp;</h2>
-
-
-
-<p>The study showed that combining several types of molecular data produces more accurate results than using just one type of data.&amp;nbsp;</p>
-
-
-
-<p>The OmicsFootPrint also shows potential in providing meaningful results even with limited datasets. It uses advanced AI methods that learn from existing data and apply that knowledge to new scenarios — a process known as transfer learning. In one example, it helped researchers achieve over 95% accuracy in identifying lung cancer subtypes using less than 20% of the typical data volume.&amp;nbsp;&amp;nbsp;</p>
-
-
-
-<p>"This approach could be beneficial for research even with small sample size or clinical studies," Dr. Kalari says.&amp;nbsp;</p>
-
-
-
-<p>To enhance its accuracy and insights, the OmicsFootPrint framework also uses an advanced method called SHAP (SHapley Additive exPlanations). SHAP highlights the most important markers, genes or proteins that influence the results to help researchers understand the factors driving disease patterns.&amp;nbsp;</p>
-
-
-
-<h2 class="wp-block-heading"><strong>From research to clinical practice</strong>&amp;nbsp;</h2>
-
-
-
-<p>Beyond research, the OmicsFootPrint is designed for clinical use. It compresses large biological datasets into compact images that require just 2% of the original storage space. This could make the images easy to integrate into electronic medical records to guide patient care in the future.&amp;nbsp;</p>
-
-
-
-<p>The research team plans to expand the OmicsFootPrint to study other diseases, including neurological diseases and other complex disorders. They are also working on updates to make the tool even more accurate and flexible, including the ability to find new disease markers and drug targets.&amp;nbsp;</p>
-
-
-
-<p>Review the <a href="https://pubmed.ncbi.nlm.nih.gov/39445795/" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;</p>
-
-
-
-<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-ai-tool-offers-a-new-way-to-visualize-disease/">Mayo Clinic&amp;#8217;s AI tool offers a new way to visualize disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/1x1omicsfootprint.png</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-OMICSFOOTPRINT15.png</mayoclinic:mcimg16x9>
-	</item>
 	</channel>
 </rss> 
