@@ -1,46 +1,38 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
-	<title>Health &amp;amp; Wellness - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/health-and-wellness/</link>
+	<title>Health &amp; Wellness - Mayo Clinic News Network</title>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/health-and-wellness/
 	<description>News Resources</description>
-	<lastBuildDate>Fri, 17 Jan 2025 13:03:11 +0000</lastBuildDate>
+	<lastbuilddate>Fri, 17 Jan 2025 13:03:11 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Mayo Clinic Minute: How to jump-start your workout</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-jump-start-your-workout/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-jump-start-your-workout/
 		
-		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
-		<pubDate>Fri, 17 Jan 2025 16:15:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Mayo Clinic Minute]]></category>
-		<category><![CDATA[Orthopedics/Sports]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Nathan LeBrasseur]]></category>
-		<category><![CDATA[Workout]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=379614</guid>
+		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
+		<pubdate>Fri, 17 Jan 2025 16:15:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[Orthopedics/Sports]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Nathan LeBrasseur]]--></category>
+		<category><!--[CDATA[Workout]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=379614</guid>
 
-					<description><![CDATA[<p>A lot of people resolve to exercise more in the new year. But jump-starting your workout routine can be challenging if you've been sitting on the couch for a while. It can seem like a daunting task. Dr. Nathan LeBrasseur, director of the Robert and Arlene Kogod Center on Aging at Mayo Clinic, says it's [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->A lot of people resolve to exercise more in the new year. But jump-starting your workout routine can be challenging if you've been sitting on the couch for a while. It can seem like a daunting task. Dr. Nathan LeBrasseur, director of the Robert and Arlene Kogod Center on Aging at Mayo Clinic, says it's […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-jump-start-your-workout/">Mayo Clinic Minute: How to jump-start your workout</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>A lot of people resolve to exercise more in the new year. But jump-starting your workout routine can be challenging if you've been sitting on the couch for a while. It can seem like a daunting task.</p>
+										<content:encoded><!--[CDATA[
+<p-->A lot of people resolve to exercise more in the new year. But jump-starting your workout routine can be challenging if you've been sitting on the couch for a while. It can seem like a daunting task.<p></p>
 
 
 
@@ -52,7 +44,7 @@
 
 
 
-<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Mayo-Clinic-Minute-How-to-jump-start-your-workout-CLEAN.mp4"></video></figure>
+<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Mayo-Clinic-Minute-How-to-jump-start-your-workout-CLEAN.mp4"></video></figure>
 
 
 
@@ -68,7 +60,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-1024x576.jpg" alt="a smiling older woman seated on a yoga mat, doing stretches" class="wp-image-256796" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-1024x576.jpg" alt="a smiling older woman seated on a yoga mat, doing stretches" class="wp-image-256796" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/12/a-smiling-older-woman-seated-on-a-yoga-mat-doing-stretches-16X9-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -114,24 +106,24 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/a-young-or-middle-aged-Asian-man-in-a-workout-gym-lifting-weights-and-exercising-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/08/a-smiling-older-woman-in-the-pool-in-a-swimming-or-water-fitness-class-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nathan LeBrasseur]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Workout]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nathan LeBrasseur]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Workout]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Walleye Tank propels Minnesota healthcare entrepreneurs forward</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/walleye-tank-propels-minnesota-healthcare-entrepreneurs-forward/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/walleye-tank-propels-minnesota-healthcare-entrepreneurs-forward/
 		
-		<dc:creator><![CDATA[Kris Schanilec]]></dc:creator>
-		<pubDate>Fri, 17 Jan 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[2024 Walleye Tank]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=399025</guid>
+		<dc:creator><!--[CDATA[Kris Schanilec]]--></dc:creator>
+		<pubdate>Fri, 17 Jan 2025 14:30:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[2024 Walleye Tank]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=399025</guid>
 
-					<description><![CDATA[<p>Excitement filled the auditorium at the Walleye Tank: Ice Fishing Edition, held recently at Mayo Clinic in Rochester, Minnesota. Thirteen teams took the stage to present their healthcare innovations to a panel of judges and an audience attending in person and online. Projects ranged from addressing the needs of patients with rare or chronic diseases [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Excitement filled the auditorium at the Walleye Tank: Ice Fishing Edition, held recently at Mayo Clinic in Rochester, Minnesota. Thirteen teams took the stage to present their healthcare innovations to a panel of judges and an audience attending in person and online. Projects ranged from addressing the needs of patients with rare or chronic diseases […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/walleye-tank-propels-minnesota-healthcare-entrepreneurs-forward/">Walleye Tank propels Minnesota healthcare entrepreneurs forward</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-1024x575.jpg" alt="" class="wp-image-399030" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-1024x575.jpg" alt="" class="wp-image-399030" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -143,7 +135,7 @@
 
 
 
-<p>Each team had two minutes to pitch its innovation, followed by three minutes of Q&amp;amp;A with the judges. Presenters addressed five key questions: Why is it a problem? What is your solution? Why you? Why now? And how is it a business?</p>
+<p>Each team had two minutes to pitch its innovation, followed by three minutes of Q&amp;A with the judges. Presenters addressed five key questions: Why is it a problem? What is your solution? Why you? Why now? And how is it a business?</p>
 
 
 
@@ -155,7 +147,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-1024x576.jpg" alt="" class="wp-image-399028" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The Walleye Tank organizers, left to right: Alisha Peters; Ron Thacker, Ed.D.; Nathan Wiedenman, Ph.D., director of Mayo Clinic Research Innovation; and Bharath Wootla, Ph.D.&amp;nbsp;&amp;nbsp;</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-1024x576.jpg" alt="" class="wp-image-399028" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-Organizers_WF5236388_0383_16x9.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">The Walleye Tank organizers, left to right: Alisha Peters; Ron Thacker, Ed.D.; Nathan Wiedenman, Ph.D., director of Mayo Clinic Research Innovation; and Bharath Wootla, Ph.D.&nbsp;&nbsp;</figcaption></figure>
 
 
 
@@ -221,15 +213,15 @@
 
 
 
-<p>Stefan Madansingh, Ph.D., of <a href="https://businessdevelopment.mayoclinic.org/about/ventures/" target="_blank" rel="noreferrer noopener">Mayo Clinic Ventures</a>, outlined the journey of turning a novel healthcare device,&amp;nbsp;therapy&amp;nbsp;or technology from concept to market ― a process that he said can take years to even decades.</p>
+<p>Stefan Madansingh, Ph.D., of <a href="https://businessdevelopment.mayoclinic.org/about/ventures/" target="_blank" rel="noreferrer noopener">Mayo Clinic Ventures</a>, outlined the journey of turning a novel healthcare device,&nbsp;therapy&nbsp;or technology from concept to market ― a process that he said can take years to even decades.</p>
 
 
 
-<p>"Healthcare startups fundamentally&amp;nbsp;start with the unmet patient needs," Dr. Madansingh explained. However, he emphasized that most innovations fail to bridge the gap between invention and commercialization.</p>
+<p>"Healthcare startups fundamentally&nbsp;start with the unmet patient needs," Dr. Madansingh explained. However, he emphasized that most innovations fail to bridge the gap between invention and commercialization.</p>
 
 
 
-<p>"The technology&amp;nbsp;is almost always only 25% of the solution when you want to actually get it to patients," he said. "Everything we've talked about here ― the IP (intellectual property),&amp;nbsp;the business model, the sales strategy,&amp;nbsp;the fundraising, the leadership ―&amp;nbsp;matter as much or more."</p>
+<p>"The technology&nbsp;is almost always only 25% of the solution when you want to actually get it to patients," he said. "Everything we've talked about here ― the IP (intellectual property),&nbsp;the business model, the sales strategy,&nbsp;the fundraising, the leadership ―&nbsp;matter as much or more."</p>
 
 
 
@@ -249,42 +241,42 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Walleye-Tank-trophies-WF5236388_0223_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[2024 Walleye Tank]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[2024 Walleye Tank]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>In case you missed it: This week&amp;#8217;s Top 5 stories on social media</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-45/</link>
+		<title>In case you missed it: This week’s Top 5 stories on social media</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-45/
 		
-		<dc:creator><![CDATA[Jaynelle Ramon]]></dc:creator>
-		<pubDate>Fri, 17 Jan 2025 13:30:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[In case you missed it]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398991</guid>
+		<dc:creator><!--[CDATA[Jaynelle Ramon]]--></dc:creator>
+		<pubdate>Fri, 17 Jan 2025 13:30:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[In case you missed it]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398991</guid>
 
-					<description><![CDATA[<p>Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Mayo Clinic Minute: How personalized vaccines target cancer tumors Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-45/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Mayo Clinic Minute: How personalized vaccines target cancer tumors Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-45/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="119543" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-1024x683.jpg" alt="Older adult woman with leg pain, sitting on couch" class="wp-image-119543" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"-->
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="119543" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-1024x683.jpg" alt="Older adult woman with leg pain, sitting on couch" class="wp-image-119543" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398797" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-1024x576.png" alt="" class="wp-image-398797" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398797" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-1024x576.png" alt="" class="wp-image-398797" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398889" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-1024x576.jpg" alt="" class="wp-image-398889" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398889" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-1024x576.jpg" alt="" class="wp-image-398889" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398442" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-1024x576.jpg" alt="Dr. Keith Knutson, cancer vaccine lab" class="wp-image-398442" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398442" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-1024x576.jpg" alt="Dr. Keith Knutson, cancer vaccine lab" class="wp-image-398442" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396103" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-1024x576.jpg" alt="Dr. Richard Sharpe looks at breast images from MRI screening" class="wp-image-396103" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-</figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" data-id="396103" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-1024x576.jpg" alt="Dr. Richard Sharpe looks at breast images from MRI screening" class="wp-image-396103" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/Breat-MRI-2-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+
 
 
 
@@ -296,11 +288,11 @@
 
 
 
-<p>Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&amp;nbsp;</p>
+<p>Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&nbsp;</p>
 
 
 
-<p>Dr. Keith Knutson,&amp;nbsp;a cancer vaccine researcher at Mayo Clinic, explains how the development of personalized lung&amp;nbsp;cancer vaccines&amp;nbsp;is giving hope to patients.</p>
+<p>Dr. Keith Knutson,&nbsp;a cancer vaccine researcher at Mayo Clinic, explains how the development of personalized lung&nbsp;cancer vaccines&nbsp;is giving hope to patients.</p>
 
 
 
@@ -316,7 +308,7 @@
 
 
 
-<p>Peripheral artery disease&amp;nbsp;is a common, chronic medical condition that affects circulation in the body due to narrowed arteries. The narrowing of arteries is caused by a buildup of fatty deposits, called plaque, which reduces blood flow from the heart to different regions of the body. This can affect the arms, but most commonly, it is an issue found in the legs.&amp;nbsp;</p>
+<p>Peripheral artery disease&nbsp;is a common, chronic medical condition that affects circulation in the body due to narrowed arteries. The narrowing of arteries is caused by a buildup of fatty deposits, called plaque, which reduces blood flow from the heart to different regions of the body. This can affect the arms, but most commonly, it is an issue found in the legs.&nbsp;</p>
 
 
 
@@ -337,39 +329,39 @@
 
 
 <p>Nilüfer Ertekin-Taner, M.D., Ph.D., a Mayo Clinic neuroscientist, served on the select ad hoc committee that developed the report, which includes prevention and treatment strategies.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-45/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-45/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/web-top-5_01702025-1.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[In case you missed it]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[In case you missed it]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) New year dieting tips for 2025 from a Mayo Clinic expert</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-year-dieting-tips-for-2025-from-a-mayo-clinic-expert/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-year-dieting-tips-for-2025-from-a-mayo-clinic-expert/
 		
-		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
-		<pubDate>Thu, 16 Jan 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[Video]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Donald Hensrud]]></category>
-		<category><![CDATA[Mayo Clinic Diet]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398587</guid>
+		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
+		<pubdate>Thu, 16 Jan 2025 15:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[Video]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Donald Hensrud]]--></category>
+		<category><!--[CDATA[Mayo Clinic Diet]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398587</guid>
 
-					<description><![CDATA[<p>As the new year begins, many people are setting resolutions to eat healthier, stay active and manage their weight through dieting. Dr. Donald Hensrud, a Mayo Clinic physician specializing in nutrition and the editor of "The Mayo Clinic Diet," offers some thoughts on weight management. "Don't set too lofty a goal, and don't focus only [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->As the new year begins, many people are setting resolutions to eat healthier, stay active and manage their weight through dieting. Dr. Donald Hensrud, a Mayo Clinic physician specializing in nutrition and the editor of "The Mayo Clinic Diet," offers some thoughts on weight management. "Don't set too lofty a goal, and don't focus only […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-year-dieting-tips-for-2025-from-a-mayo-clinic-expert/">(VIDEO) New year dieting tips for 2025 from a Mayo Clinic expert</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p></p>
+										<content:encoded><!--[CDATA[
+<p--><p></p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-1024x576.jpg" alt="a smiling, overweight middle-aged woman preparing food in a kitchen, healthy diet, dieting" class="wp-image-97613" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-1024x576.jpg" alt="a smiling, overweight middle-aged woman preparing food in a kitchen, healthy diet, dieting" class="wp-image-97613" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
 
 
 <p></p>
@@ -380,7 +372,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/hensrud-donald-d-m-d-m-s/bio-20053543?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Donald Hensrud</a>, a Mayo Clinic physician specializing in nutrition and the editor of "<a href="https://www.mayoclinic.org/medical-professionals/endocrinology/news/new-third-edition-the-mayo-clinic-diet/mac-20543436" target="_blank" rel="noreferrer noopener">The Mayo Clinic Diet</a>," offers some thoughts on weight management.</p>
+<p><a href="https://www.mayoclinic.org/biographies/hensrud-donald-d-m-d-m-s/bio-20053543?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Donald Hensrud</a>, a Mayo Clinic physician specializing in nutrition and the editor of "<a href="https://www.mayoclinic.org/medical-professionals/endocrinology/news/new-third-edition-the-mayo-clinic-diet/mac-20543436" target="_blank" rel="noreferrer noopener">The Mayo Clinic Diet</a>," offers some thoughts on weight management.</p>
 
 
 
@@ -393,7 +385,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube16jmKYossP4"  title="New Year dieting tips for 2025 from a Mayo Clinic expert" width="500" height="281" src="https://www.youtube.com/embed/16jmKYossP4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube16jmKYossP4" title="New Year dieting tips for 2025 from a Mayo Clinic expert" width="500" height="281" src="https://www.youtube.com/embed/16jmKYossP4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -402,7 +394,7 @@
 
 
 
-<p>Focus on the process of lifestyle changes in diet and physical activity, and that will best help to achieve the outcome of weight los<strong>s.</strong>&amp;nbsp;Start small with changes you can sustain long term. Practical, realistic and enjoyable steps are key. Avoid drastic plans you can't keep up with, like exercising two hours a day, which often leads to burnout.</p>
+<p>Focus on the process of lifestyle changes in diet and physical activity, and that will best help to achieve the outcome of weight los<strong>s.</strong>&nbsp;Start small with changes you can sustain long term. Practical, realistic and enjoyable steps are key. Avoid drastic plans you can't keep up with, like exercising two hours a day, which often leads to burnout.</p>
 
 
 
@@ -410,10 +402,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/07/exercise-workout-food-16x9.jpg" alt="Young woman holding apple at gym, exercise, diet" class="wp-image-94890" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/07/exercise-workout-food-16x9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/07/exercise-workout-food-16x9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/07/exercise-workout-food-16x9.jpg" alt="Young woman holding apple at gym, exercise, diet" class="wp-image-94890" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/07/exercise-workout-food-16x9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/07/exercise-workout-food-16x9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
 
 
-<h2 class="wp-block-heading">Where to start?&amp;nbsp;</h2>
+<h2 class="wp-block-heading">Where to start?&nbsp;</h2>
 
 
 
@@ -425,7 +417,7 @@
 
 
 
-<p>Dr. Hensurd supports the Mayo Clinic Diet, which is available as a&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/new-year-new-goals-new-edition-of-the-mayo-clinic-diet/" target="_blank" rel="noreferrer noopener">book and an online program</a>. The program focuses on sustainable lifestyle changes, including eating more fruits and vegetables, getting regular physical activity, and building healthy habits over time.</p>
+<p>Dr. Hensurd supports the Mayo Clinic Diet, which is available as a&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/new-year-new-goals-new-edition-of-the-mayo-clinic-diet/" target="_blank" rel="noreferrer noopener">book and an online program</a>. The program focuses on sustainable lifestyle changes, including eating more fruits and vegetables, getting regular physical activity, and building healthy habits over time.</p>
 
 
 
@@ -461,25 +453,25 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-1X1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/08/a-smiling-overweight-middle-aged-woman-preparing-food-in-a-kitchen-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Donald Hensrud]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Diet]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Donald Hensrud]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Diet]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q and A: Embracing winter &amp;#8211; Activity ideas for the season</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-embracing-winter-activity-ideas-for-the-season/</link>
+		<title>Mayo Clinic Q and A: Embracing winter – Activity ideas for the season</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-embracing-winter-activity-ideas-for-the-season/
 		
-		<dc:creator><![CDATA[Abby Smith]]></dc:creator>
-		<pubDate>Wed, 15 Jan 2025 13:30:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398877</guid>
+		<dc:creator><!--[CDATA[Abby Smith]]--></dc:creator>
+		<pubdate>Wed, 15 Jan 2025 13:30:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398877</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC: When the holidays end, it's hard to have things to look forward to and find motivation to exercise. How can I stay ahead of the slump and help my family stay active? ANSWER: As winter settles in, shorter days and colder nights can feel dull. But the mystery of winter nights also [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-embracing-winter-activity-ideas-for-the-season/">Mayo Clinic Q and A: Embracing winter &amp;#8211; Activity ideas for the season</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC: When the holidays end, it's hard to have things to look forward to and find motivation to exercise. How can I stay ahead of the slump and help my family stay active? ANSWER: As winter settles in, shorter days and colder nights can feel dull. But the mystery of winter nights also […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-embracing-winter-activity-ideas-for-the-season/">Mayo Clinic Q and A: Embracing winter – Activity ideas for the season</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-16-x-9-1024x576.jpg" alt="couple hiking in the snow with their dog" class="wp-image-81610" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-16-x-9-1024x576.jpg" alt="couple hiking in the snow with their dog" class="wp-image-81610" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -491,7 +483,7 @@
 
 
 
-<p>Dressing appropriately is the key to embracing nighttime winter fun in&amp;nbsp;colder climates&amp;nbsp;based on the activity and weather. This may include layers, a hat and mittens or gloves. Don't forget to check the weather forecast.</p>
+<p>Dressing appropriately is the key to embracing nighttime winter fun in&nbsp;colder climates&nbsp;based on the activity and weather. This may include layers, a hat and mittens or gloves. Don't forget to check the weather forecast.</p>
 
 
 
@@ -552,34 +544,34 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-embracing-winter-activity-ideas-for-the-season/">Mayo Clinic Q and A: Embracing winter &amp;#8211; Activity ideas for the season</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-embracing-winter-activity-ideas-for-the-season/">Mayo Clinic Q and A: Embracing winter – Activity ideas for the season</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/01/couple-hiking-in-winter-snow-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Q and A: &nbsp;Leg pain? It may be your arteries</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-leg-pain-it-may-be-your-arteries/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-leg-pain-it-may-be-your-arteries/
 		
-		<dc:creator><![CDATA[Susan Barber Lindquist]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Fahad Shuja]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397510</guid>
+		<dc:creator><!--[CDATA[Susan Barber Lindquist]]--></dc:creator>
+		<pubdate>Tue, 14 Jan 2025 15:30:00 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Fahad Shuja]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397510</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&nbsp;I'm 52 years old and enjoy long walks with my husband and our dog. I recently started to experience pain in my left calf during our walks. The leg pain goes away when I rest. Because I have a history of high blood pressure, I went to see my primary care physician and [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I'm 52 years old and enjoy long walks with my husband and our dog. I recently started to experience pain in my left calf during our walks. The leg pain goes away when I rest. Because I have a history of high blood pressure, I went to see my primary care physician and […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-leg-pain-it-may-be-your-arteries/">Mayo Clinic Q and A: &nbsp;Leg pain? It may be your arteries</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-1024x576.jpg" alt="a woman, man and dog walking down a snowy path in the woods" class="wp-image-109367" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-1024x576.jpg" alt="a woman, man and dog walking down a snowy path in the woods" class="wp-image-109367" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/12/a-woman-man-and-dog-walking-down-a-snowy-path-in-the-woods-16X9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -591,7 +583,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/peripheral-artery-disease-16-x-9.jpg" alt="Medical illustration of peripheral artery disease" class="wp-image-348220" style="width:690px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/peripheral-artery-disease-16-x-9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/peripheral-artery-disease-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/peripheral-artery-disease-16-x-9.jpg" alt="Medical illustration of peripheral artery disease" class="wp-image-348220" style="width:690px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/peripheral-artery-disease-16-x-9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/peripheral-artery-disease-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
 
 
 <p>The risk of developing peripheral artery disease increases with age, particularly for those over 65 or after 50 if you have certain risk factors. Factors that can contribute to your risk include:</p>
@@ -632,7 +624,7 @@
 
 
 
-<p>There are two stages of peripheral artery disease. The early stage is called&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/claudication/symptoms-causes/syc-20370952">claudication</a>, when people experience pain when walking or engaging in activity. In this stage, the pain begins during exercise and ends with rest. It is usually felt in the calves, thighs and buttocks.&amp;nbsp;</p>
+<p>There are two stages of peripheral artery disease. The early stage is called&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/claudication/symptoms-causes/syc-20370952">claudication</a>, when people experience pain when walking or engaging in activity. In this stage, the pain begins during exercise and ends with rest. It is usually felt in the calves, thighs and buttocks.&nbsp;</p>
 
 
 
@@ -640,11 +632,11 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/diseases-conditions/peripheral-artery-disease/diagnosis-treatment/drc-20350563">Treatment</a>&amp;nbsp;for peripheral artery disease varies depending on its severity. When it's diagnosed early, lifestyle changes and treatment of underlying medical conditions are often enough to manage symptoms. This may mean taking appropriate medications to control high blood pressure and high cholesterol, controlling blood sugar levels if you have diabetes, quitting smoking, eating a healthier diet with fewer fatty and highly processed foods, and regular exercise or engaging in a walking program.&amp;nbsp;</p>
+<p><a href="https://www.mayoclinic.org/diseases-conditions/peripheral-artery-disease/diagnosis-treatment/drc-20350563">Treatment</a>&nbsp;for peripheral artery disease varies depending on its severity. When it's diagnosed early, lifestyle changes and treatment of underlying medical conditions are often enough to manage symptoms. This may mean taking appropriate medications to control high blood pressure and high cholesterol, controlling blood sugar levels if you have diabetes, quitting smoking, eating a healthier diet with fewer fatty and highly processed foods, and regular exercise or engaging in a walking program.&nbsp;</p>
 
 
 
-<p>For more advanced disease, restoration of blood flow is necessary in addition to lifestyle changes. Therefore, the goal of surgery is to restore blood flow and prevent leg amputation.&amp;nbsp;</p>
+<p>For more advanced disease, restoration of blood flow is necessary in addition to lifestyle changes. Therefore, the goal of surgery is to restore blood flow and prevent leg amputation.&nbsp;</p>
 
 
 
@@ -652,15 +644,15 @@
 
 
 
-<p>The more invasive surgical option is bypass surgery. The surgeon creates a path around the blocked artery using either a healthy blood vessel from another part of the body or a synthetic one. One end of the healthy vein is connected to the artery above the blockage, and the other is attached below the blockage so that the blood will detour into the bypass.&amp;nbsp;</p>
+<p>The more invasive surgical option is bypass surgery. The surgeon creates a path around the blocked artery using either a healthy blood vessel from another part of the body or a synthetic one. One end of the healthy vein is connected to the artery above the blockage, and the other is attached below the blockage so that the blood will detour into the bypass.&nbsp;</p>
 
 
 
-<p>When diagnosed with peripheral artery disease, it’s important to&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/vascular-and-endovascular-surgery/overview/ovc-20458819">consult a vascular surgeon</a>&amp;nbsp;to determine the best treatment for you. Vascular surgeons can perform both minimally invasive procedures and complex bypass surgery.&amp;nbsp;</p>
+<p>When diagnosed with peripheral artery disease, it’s important to&nbsp;<a href="https://www.mayoclinic.org/departments-centers/vascular-and-endovascular-surgery/overview/ovc-20458819">consult a vascular surgeon</a>&nbsp;to determine the best treatment for you. Vascular surgeons can perform both minimally invasive procedures and complex bypass surgery.&nbsp;</p>
 
 
 
-<p>By incorporating lifestyle changes and treating any underlying medical conditions early, you can significantly improve your quality of life and prevent progression to more severe stages of disease. Peripheral artery disease is a marker for your overall cardiovascular health, and managing it correctly can lead to a longer, healthier life. —&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/shuja-fahad-m-b-b-s/bio-20323775"><strong><em>Fahad Shuja, M.B.B.S.,</em></strong></a><strong><em>&amp;nbsp;Vascular Surgery, Mayo Clinic, Rochester, Minnesota</em></strong><strong></strong></p>
+<p>By incorporating lifestyle changes and treating any underlying medical conditions early, you can significantly improve your quality of life and prevent progression to more severe stages of disease. Peripheral artery disease is a marker for your overall cardiovascular health, and managing it correctly can lead to a longer, healthier life. —&nbsp;<a href="https://www.mayoclinic.org/biographies/shuja-fahad-m-b-b-s/bio-20323775"><strong><em>Fahad Shuja, M.B.B.S.,</em></strong></a><strong><em>&nbsp;Vascular Surgery, Mayo Clinic, Rochester, Minnesota</em></strong><strong></strong></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-leg-pain-it-may-be-your-arteries/">Mayo Clinic Q and A: &nbsp;Leg pain? It may be your arteries</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -668,31 +660,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_1x1-e1678115582794.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/04/Senior-leg-pain_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Fahad Shuja]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Fahad Shuja]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>8 common health conditions midlife women face</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/
 		
-		<dc:creator><![CDATA[Colette Gallagher]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Healthcare Delivery]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[diverserepresentation]]></category>
-		<category><![CDATA[Dr. Jennifer St. Sauver]]></category>
-		<category><![CDATA[Dr. Stephanie Faubion]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398574</guid>
+		<dc:creator><!--[CDATA[Colette Gallagher]]--></dc:creator>
+		<pubdate>Tue, 14 Jan 2025 14:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Healthcare Delivery]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[diverserepresentation]]--></category>
+		<category><!--[CDATA[Dr. Jennifer St. Sauver]]--></category>
+		<category><!--[CDATA[Dr. Stephanie Faubion]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398574</guid>
 
-					<description><![CDATA[<p>A study published in Menopause provides a comprehensive overview of the most common conditions diagnosed in clinical practice among women in the U.S. Upper Midwest during their critical midlife transition. Overall, eight conditions increased by 45% or more between the ages of 40 and 59, and several conditions were more common in Black women and [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->A study published in Menopause provides a comprehensive overview of the most common conditions diagnosed in clinical practice among women in the U.S. Upper Midwest during their critical midlife transition. Overall, eight conditions increased by 45% or more between the ages of 40 and 59, and several conditions were more common in Black women and […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/">8 common health conditions midlife women face</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg" alt="Photo of group of diverse women" class="wp-image-398650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg" alt="Photo of group of diverse women" class="wp-image-398650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
 
 
 
@@ -704,7 +696,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg" alt="" class="wp-image-398636" style="width:212px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px" /><figcaption class="wp-element-caption">Jennifer St. Sauver, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg" alt="" class="wp-image-398636" style="width:212px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px"><figcaption class="wp-element-caption">Jennifer St. Sauver, Ph.D.</figcaption></figure></div>
 
 
 <p><a href="https://www.mayo.edu/research/faculty/st-sauver-jennifer-ph-d/bio-00027743" target="_blank" rel="noreferrer noopener">Jennifer St. Sauver, Ph.D.</a>, the study's first author and professor of epidemiology at Mayo Clinic, says that the health of women in midlife is understudied, and comprehensive data about women between the ages of 40 and 59 are lacking.</p>
@@ -797,33 +789,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jennifer St. Sauver]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Stephanie Faubion]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jennifer St. Sauver]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Stephanie Faubion]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Reset your eating habits for a new year</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-reset-your-eating-habits-after-the-holiday/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-reset-your-eating-habits-after-the-holiday/
 		
-		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Mayo Clinic Minute]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[#daily]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Andrea Delgado]]></category>
-		<category><![CDATA[Diet]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=378848</guid>
+		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
+		<pubdate>Fri, 10 Jan 2025 16:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[#daily]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Andrea Delgado]]--></category>
+		<category><!--[CDATA[Diet]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=378848</guid>
 
-					<description><![CDATA[<p>It's officially 2025. A new year offers new beginnings and an opportunity to reset your eating habits after the holidays.&amp;#160; Andrea Delgado,&amp;#160;a Mayo Clinic dietitian, says it's best to eliminate what you don't need, including those party food leftovers.&amp;#160; Watch: The Mayo Clinic Minute Journalists: Broadcast-quality video pkg (1:03) is in the downloads&amp;#160;at the end [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->It's officially 2025. A new year offers new beginnings and an opportunity to reset your eating habits after the holidays.&nbsp; Andrea Delgado,&nbsp;a Mayo Clinic dietitian, says it's best to eliminate what you don't need, including those party food leftovers.&nbsp; Watch: The Mayo Clinic Minute Journalists: Broadcast-quality video pkg (1:03) is in the downloads&nbsp;at the end […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-reset-your-eating-habits-after-the-holiday/">Mayo Clinic Minute: Reset your eating habits for a new year</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>It's officially 2025. A new year offers new beginnings and an opportunity to reset your eating habits after the holidays.&amp;nbsp;</p>
+										<content:encoded><!--[CDATA[
+<p-->It's officially 2025. A new year offers new beginnings and an opportunity to reset your eating habits after the holidays.&nbsp;<p></p>
 
 
 
-<p><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-make-healthy-holiday-food-choices/" target="_blank" rel="noreferrer noopener">Andrea Delgado,</a>&amp;nbsp;a Mayo Clinic dietitian, says it's best to eliminate what you don't need, including those party food leftovers.&amp;nbsp;</p>
+<p><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-to-make-healthy-holiday-food-choices/" target="_blank" rel="noreferrer noopener">Andrea Delgado,</a>&nbsp;a Mayo Clinic dietitian, says it's best to eliminate what you don't need, including those party food leftovers.&nbsp;</p>
 
 
 
@@ -831,11 +823,11 @@
 
 
 
-<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-Reset-your-eating-habits-after-the-holiday-CLEAN.mp4"></video></figure>
+<figure class="wp-block-video"><video controls="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/Mayo-Clinic-Minute-Reset-your-eating-habits-after-the-holiday-CLEAN.mp4"></video></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video pkg (1:03) is in the downloads&amp;nbsp;at the end of the post.&amp;nbsp;Please courtesy: "Mayo Clinic News Network."&amp;nbsp;Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/SCRIPT-MCM-Reset-your-eating-habits-after-the-holiday.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video pkg (1:03) is in the downloads&nbsp;at the end of the post.&nbsp;Please courtesy: "Mayo Clinic News Network."&nbsp;Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/SCRIPT-MCM-Reset-your-eating-habits-after-the-holiday.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -847,10 +839,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-1024x576.jpg" alt="an out-of-focus close-up of the inside of a very full and disorganized refrigerator. Eating habits" class="wp-image-177887" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Help reset your eating habits by removing holiday leftovers</figcaption></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-1024x576.jpg" alt="an out-of-focus close-up of the inside of a very full and disorganized refrigerator. Eating habits" class="wp-image-177887" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/11/an-out-of-focus-close-up-of-the-inside-of-a-very-full-and-disorganized-refrigerator-16X9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Help reset your eating habits by removing holiday leftovers</figcaption></figure></div>
 
 
-<p>Either throw leftovers away or slowly eat them in smaller&amp;nbsp;<a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/multimedia/healthy-meals/sls-20076445?s=1">por</a><a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/multimedia/healthy-meals/sls-20076445?s=1" target="_blank" rel="noreferrer noopener">tions</a>.</p>
+<p>Either throw leftovers away or slowly eat them in smaller&nbsp;<a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/multimedia/healthy-meals/sls-20076445?s=1">por</a><a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/multimedia/healthy-meals/sls-20076445?s=1" target="_blank" rel="noreferrer noopener">tions</a>.</p>
 
 
 
@@ -858,7 +850,7 @@
 
 
 
-<p>And pay attention to your food portion sizes.&amp;nbsp;</p>
+<p>And pay attention to your food portion sizes.&nbsp;</p>
 
 
 
@@ -914,42 +906,42 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Salmon-and-roasted-veggies1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Salmon-and-roasted-veggies16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Andrea Delgado]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Diet]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Andrea Delgado]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Diet]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>In case you missed it: This week&amp;#8217;s Top 5 stories on social media</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-44/</link>
+		<title>In case you missed it: This week’s Top 5 stories on social media</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-44/
 		
-		<dc:creator><![CDATA[Jaynelle Ramon]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 13:30:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[In case you missed it]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398766</guid>
+		<dc:creator><!--[CDATA[Jaynelle Ramon]]--></dc:creator>
+		<pubdate>Fri, 10 Jan 2025 13:30:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[In case you missed it]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398766</guid>
 
-					<description><![CDATA[<p>Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Mayo Clinic Minute: Can vitamin C keep the common cold away? Winter is flu and cold season. Will taking in more vitamin C keep you healthier and prevent illness? Dr. Jesse Bracamonte, a Mayo Clinic family physician, [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-44/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Check out a few of the most popular News Network stories on @mayoclinic social media this past week. Mayo Clinic Minute: Can vitamin C keep the common cold away? Winter is flu and cold season. Will taking in more vitamin C keep you healthier and prevent illness? Dr. Jesse Bracamonte, a Mayo Clinic family physician, […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-44/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DElX00WMbpN/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="682" data-id="371382" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg" alt="a middle aged woman with a neutral expression, staring thoughtfully out a window" class="wp-image-371382" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"-->
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DElX00WMbpN/?img_index=1" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="682" data-id="371382" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg" alt="a middle aged woman with a neutral expression, staring thoughtfully out a window" class="wp-image-371382" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.facebook.com/MayoClinic/posts/pfbid02Ny6gjDt7XsTcDTSzX5a5bmRpuPHi6nsyWqdiT1syPG4BmxaXYDuWTUsWecXpu7jal" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398535" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg" alt="A woman sits on a leather couch at home, closing her eyes while gently massaging near her knee." class="wp-image-398535" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.facebook.com/MayoClinic/posts/pfbid02Ny6gjDt7XsTcDTSzX5a5bmRpuPHi6nsyWqdiT1syPG4BmxaXYDuWTUsWecXpu7jal" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" data-id="398535" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg" alt="A woman sits on a leather couch at home, closing her eyes while gently massaging near her knee." class="wp-image-398535" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DEVHiHGtB5p/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="792" height="446" data-id="314423" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1.jpg" alt="closeup of young white or perhaps Asian woman touching her neck near her throat, maybe a goiter, thyroid disease" class="wp-image-314423" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1.jpg 792w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 792px) 100vw, 792px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DEVHiHGtB5p/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="792" height="446" data-id="314423" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1.jpg" alt="closeup of young white or perhaps Asian woman touching her neck near her throat, maybe a goiter, thyroid disease" class="wp-image-314423" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1.jpg 792w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/closeup-of-young-white-or-perhaps-Asian-woman-touching-her-neck-near-her-throat-maybe-a-goiter-thyroid-disease-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 792px) 100vw, 792px"></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.facebook.com/MayoClinic/videos/1263351001589113/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="800" height="450" data-id="218359" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg" alt="a young woman preparing to have molecular breast imaging MBI screening for breast cancer" class="wp-image-218359" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.facebook.com/MayoClinic/videos/1263351001589113/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="800" height="450" data-id="218359" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg" alt="a young woman preparing to have molecular breast imaging MBI screening for breast cancer" class="wp-image-218359" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-16x9-1-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DEXsVW1vZAK/"><img loading="lazy" decoding="async" width="1024" height="683" data-id="380180" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-1024x683.jpg" alt="" class="wp-image-380180" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
-</figure>
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/p/DEXsVW1vZAK/"><img loading="lazy" decoding="async" width="1024" height="683" data-id="380180" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-1024x683.jpg" alt="" class="wp-image-380180" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Vitamin-C-Still-Right-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+
 
 
 
@@ -994,33 +986,33 @@
 
 
 <p>You've been feeling fatigued and have gained some weight. It could be just a sign that you're getting older, but there might be a chance these general symptoms are caused by hypothyroidism.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-44/">In case you missed it: This week&amp;#8217;s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/in-case-you-missed-it-this-weeks-top-5-stories-on-social-media-44/">In case you missed it: This week’s Top 5 stories on social media</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/10/mss_0001420215_Fotor-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/web-top-5_01102025.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[In case you missed it]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[In case you missed it]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Gestational diabetes: What to know during pregnancy</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/gestational-diabetes-what-to-know-during-pregnancy/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/gestational-diabetes-what-to-know-during-pregnancy/
 		
-		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Diversity]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Video]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398108</guid>
+		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
+		<pubdate>Thu, 09 Jan 2025 16:00:00 +0000</pubdate>
+				<category><!--[CDATA[Diversity]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Video]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398108</guid>
 
-					<description><![CDATA[<p>Pregnancy is a time of significant change for a woman's body. Hormones fluctuate, energy levels shift and new challenges arise. One such challenge that some women face is gestational diabetes, a condition where blood sugar levels become elevated during pregnancy. "In pregnancy, many things are changing in a woman's body. Her hormones are changing, and [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Pregnancy is a time of significant change for a woman's body. Hormones fluctuate, energy levels shift and new challenges arise. One such challenge that some women face is gestational diabetes, a condition where blood sugar levels become elevated during pregnancy. "In pregnancy, many things are changing in a woman's body. Her hormones are changing, and […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/gestational-diabetes-what-to-know-during-pregnancy/">Gestational diabetes: What to know during pregnancy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-1024x576.jpg" alt=" A pregnant woman uses a glucometer at home. &nbsp;She's looking at the results. gestational diabetes" class="wp-image-398114" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A pregnant woman uses a glucometer at home to check her blood sugar level.</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-1024x576.jpg" alt=" A pregnant woman uses a glucometer at home. &nbsp;She's looking at the results. gestational diabetes" class="wp-image-398114" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A pregnant woman uses a glucometer at home to check her blood sugar level.</figcaption>
 
 
 
@@ -1037,7 +1029,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubebiOAWixEMdU"  title="Dr. Summer Allen discusses gestational diabetes" width="500" height="281" src="https://www.youtube.com/embed/biOAWixEMdU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubebiOAWixEMdU" title="Dr. Summer Allen discusses gestational diabetes" width="500" height="281" src="https://www.youtube.com/embed/biOAWixEMdU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -1050,7 +1042,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/diseases-conditions/gestational-diabetes/symptoms-causes/syc-20355339?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;cauid=100721">Gestational diabetes</a> happens when the body cannot produce enough insulin to regulate blood sugar levels during pregnancy.</p>
+<p><a href="https://www.mayoclinic.org/diseases-conditions/gestational-diabetes/symptoms-causes/syc-20355339?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;cauid=100721">Gestational diabetes</a> happens when the body cannot produce enough insulin to regulate blood sugar levels during pregnancy.</p>
 
 
 
@@ -1134,7 +1126,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-1024x577.jpg" alt="Pregnant woman, outside, walking, " class="wp-image-389401" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-1024x577.jpg" alt="Pregnant woman, outside, walking, " class="wp-image-389401" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/06/Pregnant-woman-outside-GettyImages-611985254_16x9-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -1154,6 +1146,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Pregnant-woman-glucose-strip-diabetes-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
