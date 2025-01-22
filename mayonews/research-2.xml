@@ -1,48 +1,191 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/research/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Tue, 21 Jan 2025 15:31:43 +0000</lastbuilddate>
+	<lastBuildDate>Tue, 21 Jan 2025 19:42:07 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>Mayo Clinic Q and A: How environmental exposures affect your health</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-how-environmental-exposures-affect-your-health/
+		<title>3D models of uveal melanoma offer hope for improved treatments</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/3d-models-of-uveal-melanoma-offer-hope-for-improved-treatments/</link>
 		
-		<dc:creator><!--[CDATA[Abby Smith]]--></dc:creator>
-		<pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Konstantinos Lazaridis]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397508</guid>
+		<dc:creator><![CDATA[Caitlin Doran]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Translational Science]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Lauren Dalvin]]></category>
+		<category><![CDATA[Dr. Martin Fernandez-Zapico]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=399068</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I'm hearing more about the exposome and the role of the environment on our health. Can you tell me more about how it is being studied? I'm worried about the future when I read about studies that show microplastics and chemicals accumulating in our environment.&nbsp; ANSWER:&nbsp;The&nbsp;Centers for Disease Control and Prevention&nbsp;defines the exposome […]<p></p>
+					<description><![CDATA[<p>Mayo Clinic researchers have developed organoid models to study uveal melanoma, one of the most common types of eye cancer in adults. Their goal is to use these models to better understand how this disease works and develop treatments for unmet patient needs.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/3d-models-of-uveal-melanoma-offer-hope-for-improved-treatments/">3D models of uveal melanoma offer hope for improved treatments</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-1920x1080-1-1024x576.jpg" alt="Illustration of organoids" class="wp-image-399073" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-1920x1080-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-1920x1080-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-1920x1080-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-1920x1080-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-1920x1080-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
+
+
+
+<p>Mayo Clinic researchers have developed <a href="https://pubmed.ncbi.nlm.nih.gov/39601636/" target="_blank" rel="noreferrer noopener">organoid models</a> to study <a href="https://www.mayoclinic.org/diseases-conditions/eye-melanoma/symptoms-causes/syc-20372371" target="_blank" rel="noreferrer noopener">uveal melanoma</a>, one of the most common types of eye cancer in adults. Their goal is to use these models to better understand how this disease works and develop treatments for unmet patient needs.</p>
+
+
+
+<p><a href="https://www.mayo.edu/research/core-resources/stem-cell-organoid-core/overview" target="_blank" rel="noreferrer noopener">Organoids</a> are 3D models grown from patient tissue that accurately reflect a patient's unique genetic and biological characteristics, also known as "avatars." When derived from a patient's cancer tumor, an organoid will behave and respond to treatments outside the body in a lab (in vitro) just like the original tumor would inside the body (in vivo).</p>
+
+
+
+<p>In 50% of patients, uveal melanoma metastasizes, spreading to other parts of the body, leading to a poor prognosis and average survival of less than two years.&amp;nbsp; Unfortunately, <a href="https://www.mayoclinic.org/diseases-conditions/eye-melanoma/diagnosis-treatment/drc-20372376" target="_blank" rel="noreferrer noopener">current treatments</a> for this condition often have limited effectiveness, leaving patients and their doctors with few options.</p>
+
+
+
+<p>"The hope is that these patient-derived organoid models better represent human cancer in the laboratory," says <a href="https://www.mayo.edu/research/faculty/dalvin-lauren-a-m-d/bio-20473890" target="_blank" rel="noreferrer noopener">Lauren Dalvin, M.D.,</a> a <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> ocular oncologist and surgeon-scientist who is one of the lead researchers. "Using these models as a foundation for drug testing will facilitate new treatment discoveries with higher success rates in clinical trials, ultimately translating to improved outcomes for patients with uveal melanoma."</p>
+
+
+
+<h2 class="wp-block-heading">Growing an eye cancer biobank</h2>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" data-id="399075" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dalvin-WF924350_003-1-1024x682.jpg" alt="Headshot of Dr. Dalvin" class="wp-image-399075" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dalvin-WF924350_003-1-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dalvin-WF924350_003-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dalvin-WF924350_003-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dalvin-WF924350_003-1-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dalvin-WF924350_003-1.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Lauren Dalvin, M.D.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" data-id="399076" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Fernandez-Zapico-WF4189204_0095-1024x683.jpg" alt="Headshot of Dr. Fernandez-Zapico" class="wp-image-399076" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Fernandez-Zapico-WF4189204_0095-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Fernandez-Zapico-WF4189204_0095-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Fernandez-Zapico-WF4189204_0095-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Fernandez-Zapico-WF4189204_0095-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Fernandez-Zapico-WF4189204_0095.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Martin Fernandez-Zapico, M.D.</figcaption></figure>
+</figure>
+
+
+
+<p>In the past, the lack of human disease models representing the entire spectrum of uveal melanoma has created a bottleneck, limiting the ability of scientists to identify effective targets for treatment and prevention. Most laboratory studies have drawn from the same set of commercially available cell lines, which are not representative of the disease and often differ in important ways from the original tumors.</p>
+
+
+
+<p>To blast through this bottleneck, a study team led by Dr. Dalvin, in collaboration with <a href="https://www.mayo.edu/research/faculty/fernandez-zapico-martin-e-m-d/bio-00027450" target="_blank" rel="noreferrer noopener">Martin Fernandez-Zapico, M.D.,</a> a cancer biologist with Mayo Clinic Comprehensive Cancer Center, decided to develop a new, uveal melanoma patient-derived organoid biobank. Their goal is to create a research resource representing the real-world variability of this cancer.</p>
+
+
+
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/39601636/" target="_blank" rel="noreferrer noopener">In a paper</a> published in Investigative Ophthalmology &amp;amp; Visual Science, they described the initial development of this biobank. The researchers successfully created organoids derived from Mayo Clinic ocular oncology patients who enrolled in a prospective study involving the collection of tumor tissue for research from July 1, 2019, through July 1, 2024. Their study determined that these organoid models:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Could be generated, retained their stability through many uses and were a renewable living resource capable of being regenerated at need.</li>
+
+
+
+<li>Retained the clinically relevant features of the original tumors, clustered into appropriate molecular groups based on validated prognostic markers and resembled human disease when compared to in vivo animal models.</li>
+
+
+
+<li>Served as suitable human models for drug screening.</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="3634" height="1724" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/240729-Figure-1_edit-1-edited.png" alt="The first image shows histopathological comparisons of uveal melanoma organoids and their tumors of origin under the microscope. 
+
+The second image shows uveal melanoma organoids characterized by immunofluorescence  to demonstrate that both are derived from the same part of the eye. " class="wp-image-399079" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/240729-Figure-1_edit-1-edited.png 3634w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/240729-Figure-1_edit-1-edited-300x142.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/240729-Figure-1_edit-1-edited-1024x486.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/240729-Figure-1_edit-1-edited-768x364.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/240729-Figure-1_edit-1-edited-1536x729.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/240729-Figure-1_edit-1-edited-2048x972.png 2048w" sizes="auto, (max-width: 3634px) 100vw, 3634px" /><figcaption class="wp-element-caption">Images at the left show two uveal melanoma patient-derived organoids side-by-side with corresponding original samples from their primary tumors. Under a microscope, the lab-grown cells look very similar to the original tumor. Importantly, a key feature of the tumor, related to a protein called BAP1, is also consistent.  Images at right show two organoids examined using immunofluorescence to highlight different parts of the cells. The presence of these stains in specific locations within the cells confirms that the lab-grown organoids are derived from melanocytes, which are the cells that produce pigment in the eye. </figcaption></figure>
+
+
+
+<p>Recognizing the immense value of this organoid biobank, the investigators have already begun expanding it to include other research centers. Their goal is to create a resource capable of representing the global epigenomic variability of uveal melanoma. In the future, they hope this biobank will serve as a comprehensive platform for drug screening and other types of lab research on uveal melanoma. This collaborative effort will accelerate research and pave the way for improved treatments and outcomes for patients with this disease.</p>
+
+
+
+<p>Read the <a href="https://pubmed.ncbi.nlm.nih.gov/39601636/" target="_blank" rel="noreferrer noopener">paper</a> to learn more about the study, including funding and disclosures.</p>
+
+
+
+<h2 class="wp-block-heading">Mayo Clinic organoid research across the spectrum of disease</h2>
+
+
+
+<p>Organoids are transforming the landscape of biomedical research. Scientists are using this innovative approach to model diseases, track their progression and identify and characterize potential treatments. Mayo Clinic is at the forefront of organoid research, applying this approach to study a wide range of health conditions including:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Neurodegenerative and neurological disorders, such as <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-create-mini-brains-to-model-lewy-body-dementia-and-pinpoint-treatments/" target="_blank" rel="noreferrer noopener">Lewy body dementia</a>, <a href="https://newsnetwork.mayoclinic.org/discussion/3d-brain-models-advance-alzheimers-disease-research-at-mayo-clinic/" target="_blank" rel="noreferrer noopener">Alzheimer's disease</a>, <a href="https://newsnetwork.mayoclinic.org/discussion/science-saturday-brain-organoids-and-neuropsychiatric-disorders/" target="_blank" rel="noreferrer noopener">autism</a>, <a href="https://newsnetwork.mayoclinic.org/discussion/lab-grown-mini-brains-help-mayo-clinic-scientists-shed-light-on-therapeutic-targets-for-opioid-addiction/" target="_blank" rel="noreferrer noopener">opioid addiction</a> and <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-high-tech-pursuit-of-precision-alcohol-addiction-treatment/" target="_blank" rel="noreferrer noopener">alcohol use disorder</a>.</li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/researchers-map-how-measles-virus-spreads-in-human-brain/" target="_blank" rel="noreferrer noopener">Measles</a> and other infectious diseases.</li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/science-saturday-mimicking-cancer-one-model-at-a-time/" target="_blank" rel="noreferrer noopener">Many types of cancer</a> including <a href="https://newsnetwork.mayoclinic.org/discussion/surgical-innovations-help-personalize-breast-cancer-treatment-improve-quality-of-life/" target="_blank" rel="noreferrer noopener">breast cancer</a>.</li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/growing-mini-organs-to-find-new-treatments-for-complex-disease/" target="_blank" rel="noreferrer noopener">Inflammatory bowel disease</a>.</li>
+</ul>
+
+
+
+<p>The goals of this research extend far beyond its current applications. Mayo Clinic researchers aim to develop organoids representing organs throughout the human body to track disease, screen drugs and regenerate tissues. This approach holds the promise of accelerating research in precision medicine and the search for cures in other areas of biomedical research.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/3d-models-of-uveal-melanoma-offer-hope-for-improved-treatments/">3D models of uveal melanoma offer hope for improved treatments</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-600x600-1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Organoids-1920x1080-1.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Lauren Dalvin]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Martin Fernandez-Zapico]]></mayoclinic:mctag>	</item>
+		<item>
+		<title>Mayo Clinic Q and A: How environmental exposures affect your health</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-how-environmental-exposures-affect-your-health/</link>
+		
+		<dc:creator><![CDATA[Abby Smith]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Konstantinos Lazaridis]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397508</guid>
+
+					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;I'm hearing more about the exposome and the role of the environment on our health. Can you tell me more about how it is being studied? I'm worried about the future when I read about studies that show microplastics and chemicals accumulating in our environment.&amp;#160; ANSWER:&amp;#160;The&amp;#160;Centers for Disease Control and Prevention&amp;#160;defines the exposome [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-how-environmental-exposures-affect-your-health/">Mayo Clinic Q and A: How environmental exposures affect your health</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p--><p></p>
+										<content:encoded><![CDATA[
+<p></p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img fetchpriority="high" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9.jpg" alt="young woman walking in a park" class="wp-image-365395" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9.jpg" alt="young woman walking in a park" class="wp-image-365395" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/young-woman-walking-in-a-park_GettyImages-1447434304_16x9-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure></div>
 
 
-<p><strong>DEAR MAYO CLINIC:</strong>&nbsp;I'm hearing more about the exposome and the role of the environment on our health. Can you tell me more about how it is being studied? I'm worried about the future when I read about studies that show microplastics and chemicals accumulating in our environment.&nbsp;</p>
+<p><strong>DEAR MAYO CLINIC:</strong>&amp;nbsp;I'm hearing more about the exposome and the role of the environment on our health. Can you tell me more about how it is being studied? I'm worried about the future when I read about studies that show microplastics and chemicals accumulating in our environment.&amp;nbsp;</p>
 
 
 
-<p><strong>ANSWER:</strong>&nbsp;The&nbsp;<a href="https://blogs.cdc.gov/genomics/2022/09/06/from-the-genome-to-the-exposome/">Centers for Disease Control and Prevention</a>&nbsp;defines the exposome as the measure of all environmental exposures, from prenatal stages through a person's lifetime, and how those exposures interact with genetic factors to affect health. The term is very inclusive. It includes, for example, diet; pollution; and natural substances, such as radiation. Everyone's exposome is unique.</p>
+<p><strong>ANSWER:</strong>&amp;nbsp;The&amp;nbsp;<a href="https://blogs.cdc.gov/genomics/2022/09/06/from-the-genome-to-the-exposome/">Centers for Disease Control and Prevention</a>&amp;nbsp;defines the exposome as the measure of all environmental exposures, from prenatal stages through a person's lifetime, and how those exposures interact with genetic factors to affect health. The term is very inclusive. It includes, for example, diet; pollution; and natural substances, such as radiation. Everyone's exposome is unique.</p>
 
 
 
@@ -54,28 +197,28 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-1024x576.jpg" alt="Graphic: The exposome is the measure of a person's lifetime of environmental expsures and impact on health.
-" class="wp-image-386729" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-1024x576.jpg" alt="Graphic: The exposome is the measure of a person's lifetime of environmental expsures and impact on health.
+" class="wp-image-386729" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Exposome-16-x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>But given that there are millions of different types of environmental exposures, better and more systematic studies are needed to understand what this means to our health.&nbsp;</p>
+<p>But given that there are millions of different types of environmental exposures, better and more systematic studies are needed to understand what this means to our health.&amp;nbsp;</p>
 
 
 
-<p>As a scientific field, the exposome explores exposures that have an effect on humans biology. For me, as a physician and researcher, I would like to know more about exposures that affect our genes, cells and organs, or, in other words, how exposures affect human biology. Your exposome is the environmental complement to your complete set of DNA, called your genome.&nbsp;</p>
+<p>As a scientific field, the exposome explores exposures that have an effect on humans biology. For me, as a physician and researcher, I would like to know more about exposures that affect our genes, cells and organs, or, in other words, how exposures affect human biology. Your exposome is the environmental complement to your complete set of DNA, called your genome.&amp;nbsp;</p>
 
 
 
-<p>Scientists have more recently realized that only about 15% of most disease risk can be attributed to genetic elements. So we are left with the question: What else contributes to disease? Families, of course, share not only genes but their environment. They live in the same household. And this is how exposome science started, to try to be able to assess environmental exposures.&nbsp;</p>
+<p>Scientists have more recently realized that only about 15% of most disease risk can be attributed to genetic elements. So we are left with the question: What else contributes to disease? Families, of course, share not only genes but their environment. They live in the same household. And this is how exposome science started, to try to be able to assess environmental exposures.&amp;nbsp;</p>
 
 
 
-<p>Over the last roughly 50 years, chemicals have been mass produced by humans. Decades ago, we couldn't measure chemicals in our bloodstream in a scalable and affordable way. So we used questionnaires to ask, "Do you smoke?" "Do you drink?" "Have you been exposed to pesticides?" We were looking for the outcomes of those exposures to human health.&nbsp;</p>
+<p>Over the last roughly 50 years, chemicals have been mass produced by humans. Decades ago, we couldn't measure chemicals in our bloodstream in a scalable and affordable way. So we used questionnaires to ask, "Do you smoke?" "Do you drink?" "Have you been exposed to pesticides?" We were looking for the outcomes of those exposures to human health.&amp;nbsp;</p>
 
 
 
-<p>For example, in my laboratory, we were studying a rare liver disease called&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/primary-sclerosing-cholangitis/symptoms-causes/syc-20355797">primary sclerosing cholangitis</a>, and we asked a decade ago whether patients were exposed to pesticides, as well as other environmental elements. But the questionnaires didn't show a difference between healthy people and those with primary sclerosing cholangitis.&nbsp;</p>
+<p>For example, in my laboratory, we were studying a rare liver disease called&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/primary-sclerosing-cholangitis/symptoms-causes/syc-20355797">primary sclerosing cholangitis</a>, and we asked a decade ago whether patients were exposed to pesticides, as well as other environmental elements. But the questionnaires didn't show a difference between healthy people and those with primary sclerosing cholangitis.&amp;nbsp;</p>
 
 
 
@@ -95,7 +238,7 @@
 
 
 
-<p>Current methodologies enable us to measure the exposome better than before through blood, urine, saliva and hair. I envision that 10 years from now, if not earlier, we will have screens of exposures that we will measure in our bloodstream. That will become part of a person's care at some point in the future and help us guide lifestyle changes, prevention strategies and make diagnosis as well as treatment decisions for patients. —&nbsp;<a href="https://www.mayoclinic.org/biographies/lazaridis-konstantinos-n-m-d/bio-20054459"><strong><em>Konstantinos Lazaridis, M.D.</em></strong></a><strong><em>, Gastroenterology/Hepatology and Center for Individualized Medicine</em></strong></p>
+<p>Current methodologies enable us to measure the exposome better than before through blood, urine, saliva and hair. I envision that 10 years from now, if not earlier, we will have screens of exposures that we will measure in our bloodstream. That will become part of a person's care at some point in the future and help us guide lifestyle changes, prevention strategies and make diagnosis as well as treatment decisions for patients. —&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/lazaridis-konstantinos-n-m-d/bio-20054459"><strong><em>Konstantinos Lazaridis, M.D.</em></strong></a><strong><em>, Gastroenterology/Hepatology and Center for Individualized Medicine</em></strong></p>
 
 
 
@@ -121,26 +264,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-pair-of-hands-holding-a-bright-blue-and-green-globe-world-earth-with-black-universe-in-background-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-pair-of-hands-holding-a-bright-blue-and-green-globe-world-earth-with-black-universe-in-background-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Konstantinos Lazaridis]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Konstantinos Lazaridis]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Skin disease patients show response to targeted treatment</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/skin-disease-patients-show-response-to-targeted-treatment/
+		<link>https://newsnetwork.mayoclinic.org/discussion/skin-disease-patients-show-response-to-targeted-treatment/</link>
 		
-		<dc:creator><!--[CDATA[Colette Gallagher]]--></dc:creator>
-		<pubdate>Thu, 16 Jan 2025 17:15:00 +0000</pubdate>
-				<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Aaron Mangold]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398974</guid>
+		<dc:creator><![CDATA[Colette Gallagher]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 17:15:00 +0000</pubDate>
+				<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Aaron Mangold]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398974</guid>
 
-					<description><!--[CDATA[<p-->Mayo Clinic researchers have identified a targeted therapy that could bring relief to people living with lichen planus, a chronic inflammatory skin condition of the skin, hair, nails, mouth and genitals. They described their findings in a study recently published in the Journal of Clinical Investigation that described their first-in-human, phase 2 clinical trial. The […]<p></p>
+					<description><![CDATA[<p>Mayo Clinic researchers have identified a targeted therapy that could bring relief to people living with lichen planus, a chronic inflammatory skin condition of the skin, hair, nails, mouth and genitals. They described their findings in a study recently published in the Journal of Clinical Investigation that described their first-in-human, phase 2 clinical trial. The [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/skin-disease-patients-show-response-to-targeted-treatment/">Skin disease patients show response to targeted treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-1024x576.jpg" alt="Photo of ankle and leg with skin disease, lichen planus" class="wp-image-399020" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-1024x576.jpg" alt="Photo of ankle and leg with skin disease, lichen planus" class="wp-image-399020" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -164,7 +307,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="819" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-1024x819.jpg" alt="" class="wp-image-398975" style="width:451px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-1024x819.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-300x240.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-768x614.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-1536x1228.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-2048x1637.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="819" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-1024x819.jpg" alt="" class="wp-image-398975" style="width:451px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-1024x819.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-300x240.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-768x614.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-1536x1228.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Skin-disease-2048x1637.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 <p>Janus kinase (JAK) enzymes play a crucial role in the body's inflammatory response. Baricitinib is an oral JAK 1/2 inhibitor that interrupts the signaling pathway of interferon-gamma by blocking these enzymes. This helps reduce inflammation and suppress the overactive immune response that contributes to these conditions.</p>
@@ -175,7 +318,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-853x1024.jpg" alt="" class="wp-image-398980" style="width:202px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px"><figcaption class="wp-element-caption">Aaron Mangold, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-853x1024.jpg" alt="" class="wp-image-398980" style="width:202px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Mangold-Aaron-R._15518477_202101281105-1.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px" /><figcaption class="wp-element-caption">Aaron Mangold, M.D.</figcaption></figure></div>
 
 
 <p>"This research is an important step in connecting the dots in understanding — and treating —autoimmune and inflammatory diseases," says <a href="https://www.mayo.edu/research/faculty/mangold-aaron-r-m-d/bio-20537781" target="_blank" rel="noreferrer noopener">Aaron R. Mangold, M.D.</a>, senior author of the study. "These findings provide a potential new, effective, disease-specific treatment option for lichen planus and therapeutic targets for other inflammatory diseases."</p>
@@ -203,11 +346,11 @@
 
 
 <ul class="wp-block-list">
-<li><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Faccessmedicine.mhmedical.com%2Fcontent.aspx%3Fbookid%3D2570%26sectionid%3D210422573&amp;data=05%7C02%7CGallagher.Colette%40mayo.edu%7C9e2b1a825c7a4a133d4d08dd357392a9%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638725492673915245%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=gLF70RkpBGeau85tJNBRu4d014HxmbjHEEugKQAuyeE%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">Lichen Planus | Fitzpatrick's Dermatology</a></li>
+<li><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Faccessmedicine.mhmedical.com%2Fcontent.aspx%3Fbookid%3D2570%26sectionid%3D210422573&amp;amp;data=05%7C02%7CGallagher.Colette%40mayo.edu%7C9e2b1a825c7a4a133d4d08dd357392a9%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638725492673915245%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=gLF70RkpBGeau85tJNBRu4d014HxmbjHEEugKQAuyeE%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">Lichen Planus | Fitzpatrick's Dermatology</a></li>
 
 
 
-<li><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.incytemi.com%2Fdocument%2FPoster%2FEADV%25202024_Mangold_Phase%25202%2520Rux%2520Cream%2520in%2520Cutaneous%2520LP%2520Study.pdf&amp;data=05%7C02%7CGallagher.Colette%40mayo.edu%7C9e2b1a825c7a4a133d4d08dd357392a9%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638725492674098148%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Flb3bu0qNX9nDA4Pj%2FeTwTDD%2B0FYJVLkFJXpzIvQGe8%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">EADV 2024_Mangold_Phase 2 Rux Cream in Cutaneous </a></li>
+<li><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.incytemi.com%2Fdocument%2FPoster%2FEADV%25202024_Mangold_Phase%25202%2520Rux%2520Cream%2520in%2520Cutaneous%2520LP%2520Study.pdf&amp;amp;data=05%7C02%7CGallagher.Colette%40mayo.edu%7C9e2b1a825c7a4a133d4d08dd357392a9%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638725492674098148%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=Flb3bu0qNX9nDA4Pj%2FeTwTDD%2B0FYJVLkFJXpzIvQGe8%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">EADV 2024_Mangold_Phase 2 Rux Cream in Cutaneous </a></li>
 
 
 
@@ -232,45 +375,45 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/lichen-planus-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Aaron Mangold]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Aaron Mangold]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic accelerates personalized medicine through foundation models with Microsoft Research and Cerebras Systems</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-accelerates-personalized-medicine-through-foundation-models-with-microsoft-research-and-cerebras-systems/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-accelerates-personalized-medicine-through-foundation-models-with-microsoft-research-and-cerebras-systems/</link>
 		
-		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
-		<pubdate>Tue, 14 Jan 2025 17:30:00 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[AI]]--></category>
-		<category><!--[CDATA[artificial intelligence]]--></category>
-		<category><!--[CDATA[Cerebras]]--></category>
-		<category><!--[CDATA[chest X-ray]]--></category>
-		<category><!--[CDATA[Dr. Matthew Callstrom]]--></category>
-		<category><!--[CDATA[foundation model]]--></category>
-		<category><!--[CDATA[gen AI]]--></category>
-		<category><!--[CDATA[generative AI]]--></category>
-		<category><!--[CDATA[genomic foundation model]]--></category>
-		<category><!--[CDATA[Genomics]]--></category>
-		<category><!--[CDATA[human gemone]]--></category>
-		<category><!--[CDATA[Mayo Clinic Platform]]--></category>
-		<category><!--[CDATA[Microsoft Research]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[personalized medicine]]--></category>
-		<category><!--[CDATA[radiology]]--></category>
-		<category><!--[CDATA[Rheumatoid Arthritis]]--></category>
-		<category><!--[CDATA[Rochester news releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398951</guid>
+		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 17:30:00 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Cerebras]]></category>
+		<category><![CDATA[chest X-ray]]></category>
+		<category><![CDATA[Dr. Matthew Callstrom]]></category>
+		<category><![CDATA[foundation model]]></category>
+		<category><![CDATA[gen AI]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[genomic foundation model]]></category>
+		<category><![CDATA[Genomics]]></category>
+		<category><![CDATA[human gemone]]></category>
+		<category><![CDATA[Mayo Clinic Platform]]></category>
+		<category><![CDATA[Microsoft Research]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[personalized medicine]]></category>
+		<category><![CDATA[radiology]]></category>
+		<category><![CDATA[Rheumatoid Arthritis]]></category>
+		<category><![CDATA[Rochester news releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398951</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic today unveiled separate groundbreaking collaborations with Microsoft Research and with Cerebras Systems in the field of generative artificial intelligence (AI), designed to personalize patient care, significantly accelerate diagnostic time and improve accuracy. Announced during the 43rd Annual J.P. Morgan Healthcare Conference, the projects focus on developing and testing foundation models […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic today unveiled separate groundbreaking collaborations with Microsoft Research and with Cerebras Systems in the field of generative artificial intelligence (AI), designed to personalize patient care, significantly accelerate diagnostic time and improve accuracy. Announced during the 43rd Annual J.P. Morgan Healthcare Conference, the projects focus on developing and testing foundation models [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-accelerates-personalized-medicine-through-foundation-models-with-microsoft-research-and-cerebras-systems/">Mayo Clinic accelerates personalized medicine through foundation models with Microsoft Research and Cerebras Systems</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="800" height="602" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776.jpg" alt="Deoxyribonucleic acid (DNA) profile graphics are reflected from a computer screen into a person's eyeglasses, in a dark room" class="wp-image-398961" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776-300x226.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776-768x578.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="602" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776.jpg" alt="Deoxyribonucleic acid (DNA) profile graphics are reflected from a computer screen into a person's eyeglasses, in a dark room" class="wp-image-398961" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776-300x226.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776-768x578.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -278,7 +421,7 @@
 
 
 
-<p>Announced during the 43<sup>rd</sup> Annual J.P. Morgan Healthcare Conference, the projects focus on developing and testing foundation models customized for various applications, leveraging the power of multimodal radiology images and data (including CT scans and MRIs) with Microsoft Research and genomic sequencing data with Cerebras. The innovations have the potential to transform how clinicians approach diagnosis and treatment, ultimately leading to better patient outcomes.&nbsp;</p>
+<p>Announced during the 43<sup>rd</sup> Annual J.P. Morgan Healthcare Conference, the projects focus on developing and testing foundation models customized for various applications, leveraging the power of multimodal radiology images and data (including CT scans and MRIs) with Microsoft Research and genomic sequencing data with Cerebras. The innovations have the potential to transform how clinicians approach diagnosis and treatment, ultimately leading to better patient outcomes.&amp;nbsp;</p>
 
 
 
@@ -294,7 +437,7 @@
 
 
 
-<p>"Multimodal foundation models hold immense promise in tackling significant roadblocks across the radiology ecosystem. The innovations we’re creating with Microsoft Research will help unlock valuable insights for the future of medical imaging to improve how radiologists work and how patients are cared for," says <a href="https://www.mayo.edu/research/faculty/callstrom-matthew-r-m-d-ph-d/bio-00085927" target="_blank" rel="noreferrer noopener">Matthew Callstrom, M.D. Ph.D.</a>, chair of Mayo Clinic Radiology in the Midwest and medical director for Generative AI and Strategy. "Focusing on chest X-ray reports, Mayo's clinical teams and Microsoft researchers will collaborate to advance the state-of-the-art in multimodal AI radiology, helping bring innovation to real-world application faster and at scale, which is key to making exemplary healthcare more accessible."&nbsp;</p>
+<p>"Multimodal foundation models hold immense promise in tackling significant roadblocks across the radiology ecosystem. The innovations we’re creating with Microsoft Research will help unlock valuable insights for the future of medical imaging to improve how radiologists work and how patients are cared for," says <a href="https://www.mayo.edu/research/faculty/callstrom-matthew-r-m-d-ph-d/bio-00085927" target="_blank" rel="noreferrer noopener">Matthew Callstrom, M.D. Ph.D.</a>, chair of Mayo Clinic Radiology in the Midwest and medical director for Generative AI and Strategy. "Focusing on chest X-ray reports, Mayo's clinical teams and Microsoft researchers will collaborate to advance the state-of-the-art in multimodal AI radiology, helping bring innovation to real-world application faster and at scale, which is key to making exemplary healthcare more accessible."&amp;nbsp;</p>
 
 
 
@@ -318,7 +461,7 @@
 
 
 
-<p>For example, rheumatoid arthritis (RA) is a debilitating autoimmune disease, and the standard treatment approach often requires trials of different therapies to achieve disease remission. It can take several months to know if a therapy is working. A new genomic model developed by Mayo Clinic and Cerebras offers a potential solution to shorten the time to identify effective treatment and avoid long-term morbidity associated with the untreated disease. Early findings demonstrate high performance against benchmarks and show early promise in identifying patient response to therapy. As more patient data is added, the model's predictive power is expected to increase, leading to faster, more effective personalized treatment for RA patients. &nbsp;&nbsp;</p>
+<p>For example, rheumatoid arthritis (RA) is a debilitating autoimmune disease, and the standard treatment approach often requires trials of different therapies to achieve disease remission. It can take several months to know if a therapy is working. A new genomic model developed by Mayo Clinic and Cerebras offers a potential solution to shorten the time to identify effective treatment and avoid long-term morbidity associated with the untreated disease. Early findings demonstrate high performance against benchmarks and show early promise in identifying patient response to therapy. As more patient data is added, the model's predictive power is expected to increase, leading to faster, more effective personalized treatment for RA patients. &amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -330,7 +473,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -348,31 +491,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Deoxyribonucleic-acid-DNA-profile-graphics-are-reflected-from-a-computer-screen-into-a-persons-eyeglasses-in-a-dark-room_GettyImages-1150968776_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[AI]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[artificial intelligence]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cerebras]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[chest X-ray]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Callstrom]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[foundation model]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[gen AI]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[generative AI]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[genomic foundation model]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Genomics]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[human gemone]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Platform]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Microsoft Research]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[personalized medicine]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[radiology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Rheumatoid Arthritis]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Rochester news releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[artificial intelligence]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cerebras]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[chest X-ray]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Callstrom]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[foundation model]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[gen AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[generative AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[genomic foundation model]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Genomics]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[human gemone]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Platform]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Microsoft Research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[personalized medicine]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[radiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Rheumatoid Arthritis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Rochester news releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>8 common health conditions midlife women face</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/
+		<link>https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/</link>
 		
-		<dc:creator><!--[CDATA[Colette Gallagher]]--></dc:creator>
-		<pubdate>Tue, 14 Jan 2025 14:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Healthcare Delivery]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverserepresentation]]--></category>
-		<category><!--[CDATA[Dr. Jennifer St. Sauver]]--></category>
-		<category><!--[CDATA[Dr. Stephanie Faubion]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398574</guid>
+		<dc:creator><![CDATA[Colette Gallagher]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Healthcare Delivery]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverserepresentation]]></category>
+		<category><![CDATA[Dr. Jennifer St. Sauver]]></category>
+		<category><![CDATA[Dr. Stephanie Faubion]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398574</guid>
 
-					<description><!--[CDATA[<p-->A study published in Menopause provides a comprehensive overview of the most common conditions diagnosed in clinical practice among women in the U.S. Upper Midwest during their critical midlife transition. Overall, eight conditions increased by 45% or more between the ages of 40 and 59, and several conditions were more common in Black women and […]<p></p>
+					<description><![CDATA[<p>A study published in Menopause provides a comprehensive overview of the most common conditions diagnosed in clinical practice among women in the U.S. Upper Midwest during their critical midlife transition. Overall, eight conditions increased by 45% or more between the ages of 40 and 59, and several conditions were more common in Black women and [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/how-race-ethnicity-and-neighborhood-may-affect-midlife-womens-health/">8 common health conditions midlife women face</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg" alt="Photo of group of diverse women" class="wp-image-398650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg" alt="Photo of group of diverse women" class="wp-image-398650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 
 
 
@@ -384,7 +527,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg" alt="" class="wp-image-398636" style="width:212px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px"><figcaption class="wp-element-caption">Jennifer St. Sauver, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg" alt="" class="wp-image-398636" style="width:212px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Jennifer-St-Sauver-WF4773701_0060-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px" /><figcaption class="wp-element-caption">Jennifer St. Sauver, Ph.D.</figcaption></figure></div>
 
 
 <p><a href="https://www.mayo.edu/research/faculty/st-sauver-jennifer-ph-d/bio-00027743" target="_blank" rel="noreferrer noopener">Jennifer St. Sauver, Ph.D.</a>, the study's first author and professor of epidemiology at Mayo Clinic, says that the health of women in midlife is understudied, and comprehensive data about women between the ages of 40 and 59 are lacking.</p>
@@ -477,33 +620,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-72420363-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jennifer St. Sauver]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Stephanie Faubion]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jennifer St. Sauver]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Stephanie Faubion]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: How personalized vaccines target cancer tumors</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-personalized-vaccines-target-cancer-tumors/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-personalized-vaccines-target-cancer-tumors/</link>
 		
-		<dc:creator><!--[CDATA[Sonya Goins]]--></dc:creator>
-		<pubdate>Mon, 13 Jan 2025 16:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Cancer Research]]--></category>
-		<category><!--[CDATA[cancer vaccine]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Keith Knutson]]--></category>
-		<category><!--[CDATA[Lung Cancer]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<category><!--[CDATA[Vaccine]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398412</guid>
+		<dc:creator><![CDATA[Sonya Goins]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Cancer Research]]></category>
+		<category><![CDATA[cancer vaccine]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Keith Knutson]]></category>
+		<category><![CDATA[Lung Cancer]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<category><![CDATA[Vaccine]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398412</guid>
 
-					<description><!--[CDATA[<p-->Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&nbsp; Dr. Keith Knutson,&nbsp;a cancer vaccine researcher at Mayo Clinic, explains how the development of personalized […]<p></p>
+					<description><![CDATA[<p>Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&amp;#160; Dr. Keith Knutson,&nbsp;a cancer vaccine researcher at Mayo Clinic, explains how the development of personalized [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-personalized-vaccines-target-cancer-tumors/">Mayo Clinic Minute: How personalized vaccines target cancer tumors</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&nbsp;<p></p>
+										<content:encoded><![CDATA[
+<p>Vaccines are helpful in protecting against the flu and COVID-19, but could they also play a role in the fight against cancer? Imagine a future where every cancer treatment is personalized to each patient, precisely targeting their unique cancer cells.&amp;nbsp;</p>
 
 
 
@@ -516,7 +659,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeTVqLoobmvG0" title="Mayo Clinic Minute - How personalized vaccines target cancer tumors" width="500" height="281" src="https://www.youtube.com/embed/TVqLoobmvG0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeTVqLoobmvG0"  title="Mayo Clinic Minute - How personalized vaccines target cancer tumors" width="500" height="281" src="https://www.youtube.com/embed/TVqLoobmvG0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -537,7 +680,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg" alt="Dr. Keith Knutson, cancer vaccine lab" class="wp-image-398440" style="width:690px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg" alt="Dr. Keith Knutson, cancer vaccine lab" class="wp-image-398440" style="width:690px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-1-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 <p>The process involves analyzing cancer cells to create a one-of-a-kind vaccine.</p>
@@ -590,29 +733,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Cancer-Vaccine-2-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer Research]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[cancer vaccine]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Keith Knutson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Lung Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Vaccine]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer Research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[cancer vaccine]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Keith Knutson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Lung Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Vaccine]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic contributes to national Alzheimer’s disease research priorities in new report</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-contributes-to-national-alzheimers-disease-research-priorities-in-new-report/
+		<title>Mayo Clinic contributes to national Alzheimer&amp;#8217;s disease research priorities in new report</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-contributes-to-national-alzheimers-disease-research-priorities-in-new-report/</link>
 		
-		<dc:creator><!--[CDATA[Lynda De Widt]]--></dc:creator>
-		<pubdate>Mon, 13 Jan 2025 14:00:00 +0000</pubdate>
-				<category><!--[CDATA[Aging]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Nilufer Ertekin-Taner]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398885</guid>
+		<dc:creator><![CDATA[Lynda De Widt]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Aging]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Nilufer Ertekin-Taner]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398885</guid>
 
-					<description><!--[CDATA[<p-->Experts make recommendations for federal funding of research projects over the next 10 years Alzheimer's disease affects nearly seven million Americans over the age of 65, or 1 in 9 people in this age group, according to the Alzheimer's Association. Symptoms such as memory loss, trouble concentrating and performing familiar tasks, and personality changes start […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-contributes-to-national-alzheimers-disease-research-priorities-in-new-report/">Mayo Clinic contributes to national Alzheimer’s disease research priorities in new report</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>Experts make recommendations for federal funding of research projects over the next 10 years Alzheimer's disease affects nearly seven million Americans over the age of 65, or 1 in 9 people in this age group, according to the Alzheimer's Association. Symptoms such as memory loss, trouble concentrating and performing familiar tasks, and personality changes start [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-contributes-to-national-alzheimers-disease-research-priorities-in-new-report/">Mayo Clinic contributes to national Alzheimer&amp;#8217;s disease research priorities in new report</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<h2 class="wp-block-heading"--><strong><em>Experts make recommendations for federal funding of research projects over the next 10 years</em></strong>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"><strong><em>Experts make recommendations for federal funding of research projects over the next 10 years</em></strong></h2>
 
 
 
@@ -624,7 +767,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Taner1-WF531935_0015.jpg" alt="portrait of Dr. Nilufer Taner" class="wp-image-362465" style="width:253px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Taner1-WF531935_0015.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Taner1-WF531935_0015-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px"><figcaption class="wp-element-caption">Nilüfer Ertekin-Taner, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Taner1-WF531935_0015.jpg" alt="portrait of Dr. Nilufer Taner" class="wp-image-362465" style="width:253px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Taner1-WF531935_0015.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Taner1-WF531935_0015-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Nilüfer Ertekin-Taner, M.D., Ph.D.</figcaption></figure></div>
 
 
 <p>"We need cutting-edge treatments to help improve the lives of patients who are suffering from debilitating symptoms of dementia and prevention for those at risk," says <a href="https://www.mayo.edu/research/faculty/ertekin-taner-nilufer-m-d-ph-d/bio-00027318" target="_blank" rel="noreferrer noopener">Nilüfer Ertekin-Taner, M.D., Ph.D.</a>, chair of the <a href="https://www.mayo.edu/research/departments-divisions/department-neuroscience-florida/overview" target="_blank" rel="noreferrer noopener">Department of Neuroscience</a> at Mayo Clinic and leader of the <a href="https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview" target="_blank" rel="noreferrer noopener">Genetics of Alzheimer's Disease and Endophenotypes Laboratory</a> at Mayo Clinic's campus in Florida. "Neurodegenerative diseases not only affect patients but also the friends and family who care for them."</p>
@@ -694,48 +837,48 @@
 
 
 <p><strong>Note: Dr. Ertekin-Taner will participate in a <a href="https://www.nationalacademies.org/event/44277_01-2025_research-priorities-for-preventing-and-treating-alzheimers-disease-and-related-dementias-report-release-webinar" target="_blank" rel="noreferrer noopener">webinar</a> on Jan. 15 with other committee members to discuss the report.</strong></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-contributes-to-national-alzheimers-disease-research-priorities-in-new-report/">Mayo Clinic contributes to national Alzheimer’s disease research priorities in new report</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-contributes-to-national-alzheimers-disease-research-priorities-in-new-report/">Mayo Clinic contributes to national Alzheimer&amp;#8217;s disease research priorities in new report</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dementia-GettyImages-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nilufer Ertekin-Taner]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nilufer Ertekin-Taner]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic launches Mayo Clinic Digital Pathology to modernize pathology, speed medical breakthroughs</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-mayo-clinic-digital-pathology-to-modernize-pathology-speed-medical-breakthroughs/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-mayo-clinic-digital-pathology-to-modernize-pathology-speed-medical-breakthroughs/</link>
 		
-		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
-		<pubdate>Mon, 13 Jan 2025 12:00:00 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Mayo Clinic Laboratories]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[AI]]--></category>
-		<category><!--[CDATA[Aignostics]]--></category>
-		<category><!--[CDATA[artificial intelligence]]--></category>
-		<category><!--[CDATA[Dr. Matthew Callstrom]]--></category>
-		<category><!--[CDATA[individualized medicine]]--></category>
-		<category><!--[CDATA[J.P. Morgan Healthcare Conference]]--></category>
-		<category><!--[CDATA[Jim Rogers]]--></category>
-		<category><!--[CDATA[Mayo Clinic Digital Pathology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Platform]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[NVIDIA]]--></category>
-		<category><!--[CDATA[pathology]]--></category>
-		<category><!--[CDATA[personalized medicine]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398906</guid>
+		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Mayo Clinic Laboratories]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Aignostics]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Dr. Matthew Callstrom]]></category>
+		<category><![CDATA[individualized medicine]]></category>
+		<category><![CDATA[J.P. Morgan Healthcare Conference]]></category>
+		<category><![CDATA[Jim Rogers]]></category>
+		<category><![CDATA[Mayo Clinic Digital Pathology]]></category>
+		<category><![CDATA[Mayo Clinic Platform]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[pathology]]></category>
+		<category><![CDATA[personalized medicine]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398906</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Against the backdrop of the 43rd Annual J.P. Morgan Healthcare Conference, Mayo Clinic announced the formation of Mayo Clinic Digital Pathology, designed on a platform architecture to boldly unlock the power of its extensive archive of digital slides to revolutionize pathology and accelerate medical breakthroughs. Mayo Clinic's expertise, de-identified clinical data, and […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Against the backdrop of the 43rd Annual J.P. Morgan Healthcare Conference, Mayo Clinic announced the formation of Mayo Clinic Digital Pathology, designed on a platform architecture to boldly unlock the power of its extensive archive of digital slides to revolutionize pathology and accelerate medical breakthroughs. Mayo Clinic's expertise, de-identified clinical data, and [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-mayo-clinic-digital-pathology-to-modernize-pathology-speed-medical-breakthroughs/">Mayo Clinic launches Mayo Clinic Digital Pathology to modernize pathology, speed medical breakthroughs</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="800" height="600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315.jpg" alt="" class="wp-image-398899" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315-768x576.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315.jpg" alt="" class="wp-image-398899" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315-768x576.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -763,11 +906,11 @@
 
 
 
-<p>In less than two months, Mayo Clinic and Aignostics developed a leading foundation model built on 1.2 million deidentified slides from Mayo Clinic and Charité – Universitätsmedizin Berlin, findings of which were published in a <a href="https://arxiv.org/abs/2501.05409" target="_blank" rel="noreferrer noopener">paper</a> on Jan. 9. Current efforts include developing and deploying new solutions enabled by this model. Future plans are focused on building new models, including one being trained on 5 million slides. &nbsp;&nbsp;</p>
+<p>In less than two months, Mayo Clinic and Aignostics developed a leading foundation model built on 1.2 million deidentified slides from Mayo Clinic and Charité – Universitätsmedizin Berlin, findings of which were published in a <a href="https://arxiv.org/abs/2501.05409" target="_blank" rel="noreferrer noopener">paper</a> on Jan. 9. Current efforts include developing and deploying new solutions enabled by this model. Future plans are focused on building new models, including one being trained on 5 million slides. &amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The NVIDIA collaboration will create a first-in-class infrastructure for building and deploying foundation models to accelerate generative AI advances in pathology and beyond. With NVIDIA's healthcare-specific full stack computing architecture for artificial intelligence, <a href="https://www.nvidia.com/en-us/clara/" target="_blank" rel="noreferrer noopener">NVIDIA Clara</a>, Mayo Clinic is building models that will open new frontiers in medicine and lay the foundation for more personalized patient experiences.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>The NVIDIA collaboration will create a first-in-class infrastructure for building and deploying foundation models to accelerate generative AI advances in pathology and beyond. With NVIDIA's healthcare-specific full stack computing architecture for artificial intelligence, <a href="https://www.nvidia.com/en-us/clara/" target="_blank" rel="noreferrer noopener">NVIDIA Clara</a>, Mayo Clinic is building models that will open new frontiers in medicine and lay the foundation for more personalized patient experiences.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;</p>
 
 
 
@@ -801,26 +944,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WF4739820_0315_16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[AI]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Aignostics]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[artificial intelligence]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Callstrom]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[individualized medicine]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[J.P. Morgan Healthcare Conference]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Jim Rogers]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Digital Pathology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Laboratories]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Platform]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[NVIDIA]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[pathology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[personalized medicine]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Aignostics]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[artificial intelligence]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Callstrom]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[individualized medicine]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[J.P. Morgan Healthcare Conference]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Jim Rogers]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Digital Pathology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Laboratories]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Platform]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[NVIDIA]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[pathology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[personalized medicine]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic research may bring change to women’s wrestling policies</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-may-bring-change-to-womens-wrestling-policies/
+		<title>Mayo Clinic research may bring change to women&amp;#8217;s wrestling policies</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-may-bring-change-to-womens-wrestling-policies/</link>
 		
-		<dc:creator><!--[CDATA[Katie Helwig]]--></dc:creator>
-		<pubdate>Fri, 10 Jan 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Orthopedics/Sports]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Andrew Jagim]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398450</guid>
+		<dc:creator><![CDATA[Katie Helwig]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Orthopedics/Sports]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Andrew Jagim]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398450</guid>
 
-					<description><!--[CDATA[<p-->In 2020, the National Collegiate Athletics Association (NCAA) approved women's wrestling as an emerging sport. Since then, athletes, coaches and other leaders have recognized that its policies need to differ from those of men's wrestling. Wrestling is a sport that divides competitors into weight classes or weight categories; how much athletes weigh at the time […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-may-bring-change-to-womens-wrestling-policies/">Mayo Clinic research may bring change to women’s wrestling policies</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>In 2020, the National Collegiate Athletics Association (NCAA) approved women's wrestling as an emerging sport. Since then, athletes, coaches and other leaders have recognized that its policies need to differ from those of men's wrestling. Wrestling is a sport that divides competitors into weight classes or weight categories; how much athletes weigh at the time [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-may-bring-change-to-womens-wrestling-policies/">Mayo Clinic research may bring change to women&amp;#8217;s wrestling policies</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-1024x575.jpg" alt="" class="wp-image-398453" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9.jpg 1500w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Minnesota high school wrestler Abby Gindele of the Annandale/Maple Lake Lightning. Photo courtesy of Mary Christen.<br></figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-1024x575.jpg" alt="" class="wp-image-398453" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9.jpg 1500w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Minnesota high school wrestler Abby Gindele of the Annandale/Maple Lake Lightning. Photo courtesy of Mary Christen.<br></figcaption></figure>
 
 
 
@@ -852,7 +995,7 @@
 
 
 
-<p>Values calculated during the preseason weight certification are established to discourage excessive weight cutting and frequent weight cycling throughout the season. Previously, a body fat percentage threshold of 12% was used for female wrestlers, which meant that a wrestler could reduce their weight to a point that would equate to a body fat percentage of 12%.&nbsp;<a href="https://www.tandfonline.com/doi/full/10.1080/15502783.2024.2304561#d1e537" target="_blank" rel="noreferrer noopener">Our work</a>, however, has identified that 95% of current female wrestlers have a body fat percentage above 17%, which indicates that not a lot of female wrestlers are engaging in excessive weight cutting to achieve the lower body fat percentage of 12%. Our work on this topic has helped provide evidence to the National Collegiate Athletics Association to encourage revision of their policies and adopt a new threshold of 17% for collegiate wrestlers. In the spring of 2025, I will be presenting our research to the&nbsp;<a href="https://www.nfhs.org/" target="_blank" rel="noreferrer noopener">National Federation of State High School Associations</a>&nbsp;and recommending a threshold of 19% for high school wrestlers.</p>
+<p>Values calculated during the preseason weight certification are established to discourage excessive weight cutting and frequent weight cycling throughout the season. Previously, a body fat percentage threshold of 12% was used for female wrestlers, which meant that a wrestler could reduce their weight to a point that would equate to a body fat percentage of 12%.&amp;nbsp;<a href="https://www.tandfonline.com/doi/full/10.1080/15502783.2024.2304561#d1e537" target="_blank" rel="noreferrer noopener">Our work</a>, however, has identified that 95% of current female wrestlers have a body fat percentage above 17%, which indicates that not a lot of female wrestlers are engaging in excessive weight cutting to achieve the lower body fat percentage of 12%. Our work on this topic has helped provide evidence to the National Collegiate Athletics Association to encourage revision of their policies and adopt a new threshold of 17% for collegiate wrestlers. In the spring of 2025, I will be presenting our research to the&amp;nbsp;<a href="https://www.nfhs.org/" target="_blank" rel="noreferrer noopener">National Federation of State High School Associations</a>&amp;nbsp;and recommending a threshold of 19% for high school wrestlers.</p>
 
 
 
@@ -887,36 +1030,36 @@
 
 
 <p>From a wrestling-specific perspective, it's important to find the optimal weight and body fat percentage that allows the wrestler to feel their best, reduces the pressure of having to frequently cut weight throughout the season, and allows them to eat a healthy diet that provides the essential nutrients that their bodies require.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-may-bring-change-to-womens-wrestling-policies/">Mayo Clinic research may bring change to women’s wrestling policies</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-may-bring-change-to-womens-wrestling-policies/">Mayo Clinic research may bring change to women&amp;#8217;s wrestling policies</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Wrestler_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Andrew Jagim]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Andrew Jagim]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Vaginal microbiome may predict post-surgery urinary tract infections&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/vaginal-microbiome-may-predict-postoperative-urinary-tract-infections/
+		<link>https://newsnetwork.mayoclinic.org/discussion/vaginal-microbiome-may-predict-postoperative-urinary-tract-infections/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Thu, 09 Jan 2025 12:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. John Occhino]]--></category>
-		<category><!--[CDATA[Dr. Marina R. Walther-Antonio]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398550</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. John Occhino]]></category>
+		<category><![CDATA[Dr. Marina R. Walther-Antonio]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398550</guid>
 
-					<description><!--[CDATA[<p-->Each year, many women undergo surgery for pelvic organ prolapse, a condition where weakened muscles and tissues allow organs like the bladder or uterus to shift and press against the vaginal wall. This typically results in feelings of tissue bulging from the vagina, pelvic pressure or urinary issues. While the surgical procedure often alleviates symptoms, […]<p></p>
+					<description><![CDATA[<p>Each year, many women undergo surgery for pelvic organ prolapse, a condition where weakened muscles and tissues allow organs like the bladder or uterus to shift and press against the vaginal wall. This typically results in feelings of tissue bulging from the vagina, pelvic pressure or urinary issues. While the surgical procedure often alleviates symptoms, [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/vaginal-microbiome-may-predict-postoperative-urinary-tract-infections/">Vaginal microbiome may predict post-surgery urinary tract infections&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<div class="wp-block-cover is-light has-black-color has-text-color has-link-color wp-elements-93c60ba537573698c850eeedec35292a"--><span aria-hidden="true" class="wp-block-cover__background has-white-background-color has-background-dim"></span><video class="wp-block-cover__video-background intrinsic-ignore" autoplay="" muted="" loop="" playsinline="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1293799839-1.mp4" style="object-position:65% 38%" data-object-fit="cover" data-object-position="65% 38%"></video><div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+										<content:encoded><![CDATA[
+<div class="wp-block-cover is-light has-black-color has-text-color has-link-color wp-elements-93c60ba537573698c850eeedec35292a"><span aria-hidden="true" class="wp-block-cover__background has-white-background-color has-background-dim"></span><video class="wp-block-cover__video-background intrinsic-ignore" autoplay muted loop playsinline src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1293799839-1.mp4" style="object-position:65% 38%" data-object-fit="cover" data-object-position="65% 38%"></video><div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
 <p class="has-text-align-center has-medium-font-size"><strong>A new Mayo Clinic study links specific microbial patterns to urinary tract infection risk following pelvic organ prolapse surgery</strong></p>
-</div>
+</div></div>
 
 
 
@@ -928,7 +1071,7 @@
 
 
 
-<p>While the surgical procedure often alleviates symptoms, many women experience a common post-surgical complication: <a href="https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447">urinary tract infections</a>. &nbsp;</p>
+<p>While the surgical procedure often alleviates symptoms, many women experience a common post-surgical complication: <a href="https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447">urinary tract infections</a>. &amp;nbsp;</p>
 
 
 
@@ -936,7 +1079,7 @@
 
 
 
-<p>Their <a href="https://link.springer.com/article/10.1038/s41598-024-78809-1?utm_source=rct_congratemailt&amp;utm_medium=email&amp;utm_campaign=oa_20241122&amp;utm_content=10.1038%2Fs41598-024-78809-1" target="_blank" rel="noreferrer noopener">study</a> reveals that specific patterns in the vaginal microbiome — a community of microorganisms, including bacteria, fungi and viruses — could serve as early indicators of urinary tract infection risk.&nbsp;Their findings are published in Nature Scientific Reports.</p>
+<p>Their <a href="https://link.springer.com/article/10.1038/s41598-024-78809-1?utm_source=rct_congratemailt&amp;amp;utm_medium=email&amp;amp;utm_campaign=oa_20241122&amp;amp;utm_content=10.1038%2Fs41598-024-78809-1" target="_blank" rel="noreferrer noopener">study</a> reveals that specific patterns in the vaginal microbiome — a community of microorganisms, including bacteria, fungi and viruses — could serve as early indicators of urinary tract infection risk.&nbsp;Their findings are published in Nature Scientific Reports.</p>
 
 
 
@@ -944,25 +1087,25 @@
 
 
 
-<p>Their findings show that women with lower levels of the protective bacterial species <em>Lactobacillus</em> were more likely to develop urinary tract infections following pelvic organ prolapse surgery. In addition, they found that higher levels of <em>Prevotella</em> and <em>Gardnerella</em> — bacteria linked to inflammation and infection — are also associated with an increased risk of postoperative complications.&nbsp;</p>
+<p>Their findings show that women with lower levels of the protective bacterial species <em>Lactobacillus</em> were more likely to develop urinary tract infections following pelvic organ prolapse surgery. In addition, they found that higher levels of <em>Prevotella</em> and <em>Gardnerella</em> — bacteria linked to inflammation and infection — are also associated with an increased risk of postoperative complications.&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-1024x576.png" alt="" class="wp-image-398566" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong><em>Lactobacillus</em>, shown in this illustration, is a protective bacterial species. The study found that lower levels in the vaginal microbiome are linked to a higher risk of urinary tract infections after pelvic organ prolapse surgery.<br><br></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-1024x576.png" alt="" class="wp-image-398566" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9Lactobacillus.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>Lactobacillus</em>, shown in this illustration, is a protective bacterial species. The study found that lower levels in the vaginal microbiome are linked to a higher risk of urinary tract infections after pelvic organ prolapse surgery.<br><br></strong></figcaption></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-1024x576.png" alt="" class="wp-image-398564" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong><em>Prevotella</em> and <em>Gardnerella</em> bacteria, shown in this illustration, are associated with inflammation and infection. The study found that higher levels in the vaginal microbiome are linked to a greater risk of urinary tract infections after pelvic organ prolapse surgery.</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-1024x576.png" alt="" class="wp-image-398564" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-Prevotella-bacteria.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>Prevotella</em> and <em>Gardnerella</em> bacteria, shown in this illustration, are associated with inflammation and infection. The study found that higher levels in the vaginal microbiome are linked to a greater risk of urinary tract infections after pelvic organ prolapse surgery.</strong></figcaption></figure>
 </div>
 </div>
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide" />
 
 
 
@@ -970,17 +1113,17 @@
 
 
 
-<p>The research also provides insights on how surgery itself impacts the microbiome. Samples taken after surgery showed notable disruptions to both the vaginal and urinary microbiomes. These changes included lower microbial diversity, which can leave the body more vulnerable to infection.&nbsp;&nbsp;</p>
+<p>The research also provides insights on how surgery itself impacts the microbiome. Samples taken after surgery showed notable disruptions to both the vaginal and urinary microbiomes. These changes included lower microbial diversity, which can leave the body more vulnerable to infection.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The reasons for the changes are likely multifactorial and may include preoperative antibiotic administration, vaginal cleansing prior to surgery and surgery itself.&nbsp;</p>
+<p>The reasons for the changes are likely multifactorial and may include preoperative antibiotic administration, vaginal cleansing prior to surgery and surgery itself.&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full has-custom-border is-style-default" style="margin-top:0;margin-bottom:0"><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2.jpg" alt="" class="wp-image-398707" style="border-style:none;border-width:0px;border-radius:0px" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image size-full has-custom-border is-style-default" style="margin-top:0;margin-bottom:0"><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2.jpg" alt="" class="wp-image-398707" style="border-style:none;border-width:0px;border-radius:0px" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/WALTHER-ANTONIO2-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
 </div>
 
 
@@ -1000,29 +1143,29 @@
 
 
 
-<p>"Our ability to detect these microbiome patterns provides a potential opportunity to personalize treatment strategies and improve outcomes," says Dr. Walther-Antonio, a microbiome researcher at Microbiomics Program at <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine">Mayo Clinic's Center for Individualized Medicine</a>. Dr. Walther-Antonio also conducts research in the Departments of Surgery and Obstetrics and Gynecology, as well as the Mayo Clinic Comprehensive Cancer Center.&nbsp;</p>
+<p>"Our ability to detect these microbiome patterns provides a potential opportunity to personalize treatment strategies and improve outcomes," says Dr. Walther-Antonio, a microbiome researcher at Microbiomics Program at <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine">Mayo Clinic's Center for Individualized Medicine</a>. Dr. Walther-Antonio also conducts research in the Departments of Surgery and Obstetrics and Gynecology, as well as the Mayo Clinic Comprehensive Cancer Center.&amp;nbsp;</p>
 
 
 
-<p>Dr. Walther-Antonio's collaboration with Dr. Occhino bridges a gap between cutting-edge research and clinical practice.&nbsp;</p>
+<p>Dr. Walther-Antonio's collaboration with Dr. Occhino bridges a gap between cutting-edge research and clinical practice.&amp;nbsp;</p>
 
 
 
-<p>"Understanding the microbiome's role in post-surgical infections gives us a unique opportunity to possibly prevent these complications altogether," says Dr. Occhino, a Mayo Clinic urogynecologic surgeon. Dr. Occhino specializes in treating pelvic floor disorders, including conditions like pelvic organ prolapse and urinary incontinence.&nbsp;&nbsp;</p>
+<p>"Understanding the microbiome's role in post-surgical infections gives us a unique opportunity to possibly prevent these complications altogether," says Dr. Occhino, a Mayo Clinic urogynecologic surgeon. Dr. Occhino specializes in treating pelvic floor disorders, including conditions like pelvic organ prolapse and urinary incontinence.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Turning microbiome data into action</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Turning microbiome data into action</strong>&amp;nbsp;</h2>
 
 
 
-<p>The study analyzed microbiome samples from postmenopausal women undergoing a vaginal hysterectomy with pelvic reconstruction. Researchers collected samples using vaginal swabs or urine collection at five stages, including before surgery, immediately after and during recovery. Advanced sequencing techniques were used to map the genetic material of the microbes and identify changes in the microbial communities.&nbsp;</p>
+<p>The study analyzed microbiome samples from postmenopausal women undergoing a vaginal hysterectomy with pelvic reconstruction. Researchers collected samples using vaginal swabs or urine collection at five stages, including before surgery, immediately after and during recovery. Advanced sequencing techniques were used to map the genetic material of the microbes and identify changes in the microbial communities.&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-medium is-resized has-custom-border is-style-rounded" style="margin-top:0;margin-bottom:0"><img loading="lazy" decoding="async" width="300" height="252" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/OCCHINO-300x252.jpg" alt="" class="wp-image-398711" style="border-radius:0px;width:325px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/OCCHINO-300x252.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/OCCHINO.jpg 533w" sizes="auto, (max-width: 300px) 100vw, 300px"></figure>
+<figure class="wp-block-image size-medium is-resized has-custom-border is-style-rounded" style="margin-top:0;margin-bottom:0"><img loading="lazy" decoding="async" width="300" height="252" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/OCCHINO-300x252.jpg" alt="" class="wp-image-398711" style="border-radius:0px;width:325px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/OCCHINO-300x252.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/OCCHINO.jpg 533w" sizes="auto, (max-width: 300px) 100vw, 300px" /></figure>
 </div>
 
 
@@ -1038,7 +1181,7 @@
 
 
 
-<p>Dr. Walther-Antonio and Dr. Occhino plan to expand their research to include larger and more diverse patient groups. This effort aims to confirm their findings and explore interventions. This could include using probiotics to restore microbial balance before surgery or adjusting surgical timing for at-risk patients.&nbsp;</p>
+<p>Dr. Walther-Antonio and Dr. Occhino plan to expand their research to include larger and more diverse patient groups. This effort aims to confirm their findings and explore interventions. This could include using probiotics to restore microbial balance before surgery or adjusting surgical timing for at-risk patients.&amp;nbsp;</p>
 
 
 
@@ -1046,11 +1189,11 @@
 
 
 
-<p>Dr. Walther-Antonio's expertise in microbiome research extends beyond surgical outcomes. Her work also focuses on specific microbial communities associated with gynecologic cancers, including<a href="https://newsnetwork.mayoclinic.org/discussion/science-saturday-uterine-microbe-found-to-have-disease-causing-behavior-in-endometrial-cancer/"> endometrial </a>and <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-link-ovarian-cancer-to-bacteria-colonization-in-microbiome/">ovarian cancers</a>. She has also investigated how these microbes may contribute to disease progression and influence treatment responses. These discoveries have driven the <a href="https://newsnetwork.mayoclinic.org/discussion/5-23-mayo-scientists-explore-swabs-for-early-endometrial-ovarian-cancer-detection/" target="_blank" rel="noreferrer noopener">development of noninvasive swab tests</a> designed for earlier detection to improve outcomes.&nbsp;</p>
+<p>Dr. Walther-Antonio's expertise in microbiome research extends beyond surgical outcomes. Her work also focuses on specific microbial communities associated with gynecologic cancers, including<a href="https://newsnetwork.mayoclinic.org/discussion/science-saturday-uterine-microbe-found-to-have-disease-causing-behavior-in-endometrial-cancer/"> endometrial </a>and <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-link-ovarian-cancer-to-bacteria-colonization-in-microbiome/">ovarian cancers</a>. She has also investigated how these microbes may contribute to disease progression and influence treatment responses. These discoveries have driven the <a href="https://newsnetwork.mayoclinic.org/discussion/5-23-mayo-scientists-explore-swabs-for-early-endometrial-ovarian-cancer-detection/" target="_blank" rel="noreferrer noopener">development of noninvasive swab tests</a> designed for earlier detection to improve outcomes.&amp;nbsp;</p>
 
 
 
-<p>Review the <a href="https://link.springer.com/article/10.1038/s41598-024-78809-1?utm_source=rct_congratemailt&amp;utm_medium=email&amp;utm_campaign=oa_20241122&amp;utm_content=10.1038%2Fs41598-024-78809-1" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&nbsp;&nbsp;&nbsp;</p>
+<p>Review the <a href="https://link.springer.com/article/10.1038/s41598-024-78809-1?utm_source=rct_congratemailt&amp;amp;utm_medium=email&amp;amp;utm_campaign=oa_20241122&amp;amp;utm_content=10.1038%2Fs41598-024-78809-1" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -1066,94 +1209,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/1x1bacteria3.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/16x9-bacteria3.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. John Occhino]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Marina R. Walther-Antonio]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Researchers resolve uncertainty in BRCA2 testing, improving cancer risk assessment and patient care</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/researchers-resolve-uncertainty-in-brca2-testing-improving-cancer-risk-assessment-and-patient-care/
-		
-		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
-		<pubdate>Wed, 08 Jan 2025 16:01:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398641</guid>
-
-					<description><!--[CDATA[<p-->Findings will help identify patients with breast, ovarian, pancreatic or prostate cancer who may benefit from targeted therapies ROCHESTER, Minn. — Findings from a multi-institutional, international study led by researchers from the Mayo Clinic Comprehensive Cancer Center have significantly advanced the understanding of genetic alterations in the BRCA2 gene, a key player in hereditary cancer […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-resolve-uncertainty-in-brca2-testing-improving-cancer-risk-assessment-and-patient-care/">Researchers resolve uncertainty in BRCA2 testing, improving cancer risk assessment and patient care</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg" alt="a middle aged woman with a neutral expression, staring thoughtfully out a window" class="wp-image-371382" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/GettyImages-1319763211.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
-
-
-
-<p><em>Findings will help identify patients with breast, ovarian, pancreatic or prostate cancer who may benefit from targeted therapies </em></p>
-
-
-
-<p>ROCHESTER, Minn. — Findings from a multi-institutional, international study led by researchers from the <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> have significantly advanced the understanding of genetic alterations in the BRCA2 gene, a key player in hereditary cancer risk. The researchers completed a comprehensive functional assessment of all possible variants within the crucial DNA-binding domain of BRCA2, resulting in the clinical classification of 91% of variants of uncertain significance (VUS) in this part of the gene. This finding dramatically improves the accuracy of genetic testing and will allow healthcare professionals to offer more precise risk assessments and personalized treatment plans for people carrying these variants.</p>
-
-
-
-<p>The study, published in <a href="https://www.nature.com/articles/s41586-024-08388-8" target="_blank" rel="noreferrer noopener">Nature</a>, utilized CRISPR-Cas9 gene-editing technology to analyze the functional impact of almost 7,000 BRCA2 variants, definitively identifying those that increase cancer risk and those that do not. This new information will eliminate much of the uncertainty surrounding VUS, allowing for more informed decisions regarding cancer screening, preventive measures and treatment strategies.</p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906-240x300.jpg" alt="Dr. Fergus Couch" class="wp-image-398743" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Couch-Fergus-J._12923222_20220906.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption"><sup>Fergus Couch, Ph.D.</sup></figcaption></figure></div>
-
-
-<p>"This research is a major advancement in understanding the role of many BRCA2 variants in cancer predisposition," says <a href="https://www.mayo.edu/research/faculty/couch-fergus-j-ph-d/bio-00027515" target="_blank" rel="noreferrer noopener">Fergus Couch, Ph.D.</a>, the Zbigniew and Anna M. Scheller Professor of Medical Research at Mayo Clinic. "Until now, patients who carried VUS often worried if they would develop cancer, but now with the classification of these variants, we can provide a clearer picture of cancer risk and tailor both prevention strategies as well as breast cancer treatment accordingly."</p>
-
-
-
-<p>The findings have immediate implications for genetic testing laboratories and healthcare professionals, aiding them in offering more precise and personalized care to patients with VUS. Many people with VUS may be notified about the reclassification of their VUS as the ClinVar BRCA1/2 expert panel and testing laboratories use the new information in testing reports and updates.&nbsp; In addition, this new insight will aid in identifying patients with <a href="https://www.mayoclinic.org/tests-procedures/brca-gene-test/about/pac-20384815" target="_blank" rel="noreferrer noopener">breast, ovarian</a>, <a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cancer/diagnosis-treatment/drc-20355427#:~:text=The%20connection%20between%20breast%20cancer%20and%20pancreatic%20cancer,to%20see%20if%20there%20is%20a%20mutation%20present." target="_blank" rel="noreferrer noopener">pancreatic</a> or <a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/symptoms-causes/syc-20353087" target="_blank" rel="noreferrer noopener">prostate cancer</a> who might benefit from targeted therapies such as PARP inhibitors.</p>
-
-
-
-<p>&nbsp;"We now have a catalog of every possible VUS in this part of BRCA2 that can be used to guide clinical care," says Dr. Couch.</p>
-
-
-
-<p>The researchers say that this research lays the groundwork for future studies characterizing and classifying all BRCA2 variants across diverse populations and cancer types, improving risk assessment for everyone.</p>
-
-
-
-<p>The study involved collaborators at Ambry Genetics Inc., Duke University, H. Lee Moffitt Cancer Center, the University of Pennsylvania and several contributing studies from the CARRIERS consortium. The study was supported by funding from the National Cancer Institute, Mayo Clinic Breast Cancer SPORE (P50 CA116201) and R35 Outstanding Investigator Programs, the Mayo Clinic Comprehensive Cancer Center, and the Breast Cancer Research Foundation.</p>
-
-
-
-<p>For a full list of funding, disclosures and contributing authors, see the <a href="https://www.nature.com/articles/s41586-024-08388-8" target="_blank" rel="noreferrer noopener">paper</a>.</p>
-
-
-
-<p>###</p>
-
-
-
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
-
-
-
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
-
-
-
-<p><strong>Media contact:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Kelley Luckstein, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-resolve-uncertainty-in-brca2-testing-improving-cancer-risk-assessment-and-patient-care/">Researchers resolve uncertainty in BRCA2 testing, improving cancer risk assessment and patient care</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/a-middle-aged-woman-with-a-neutral-expression-staring-thoughtfully-out-a-window-1X1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/07/a-middle-aged-woman-with-a-neutral-expression-staring-thoughtfully-out-a-window-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. John Occhino]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Marina R. Walther-Antonio]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
