@@ -1,50 +1,580 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/research/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Tue, 25 Mar 2025 20:39:58 +0000</lastbuilddate>
+	<lastBuildDate>Wed, 02 Apr 2025 17:30:46 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
-		<title>Advancing medicine one lab test at a time</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/advancing-medicine-one-lab-test-at-a-time/
+		<title>(VIDEO) When seizures don&amp;#8217;t stop: The battle against drug-resistant epilepsy</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-when-seizures-dont-stop-the-battle-against-drug-resistant-epilepsy/</link>
 		
-		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
-		<pubdate>Wed, 26 Mar 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Akhilesh Pandey]]--></category>
-		<category><!--[CDATA[Dr. Eric Hsi]]--></category>
-		<category><!--[CDATA[Dr. Seul Kee Byeon]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401106</guid>
+		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 17:30:44 +0000</pubDate>
+				<category><![CDATA[Aging]]></category>
+		<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Biotherapeutics]]></category>
+		<category><![CDATA[Clinical Trials]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Healthcare Delivery]]></category>
+		<category><![CDATA[Mayo Clinic Health System]]></category>
+		<category><![CDATA[Mayo Clinic Laboratories]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Research Patient Stories]]></category>
+		<category><![CDATA[Science Saturday]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#biomedical research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[brain]]></category>
+		<category><![CDATA[brain health]]></category>
+		<category><![CDATA[deep brain stimulation for epilepsy]]></category>
+		<category><![CDATA[epilepsy and pregnancy]]></category>
+		<category><![CDATA[Epilepsy seizures]]></category>
+		<category><![CDATA[Epilepsy Treatment]]></category>
+		<category><![CDATA[Marty Velasco Hames]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<category><![CDATA[neurodegenerative disease]]></category>
+		<category><![CDATA[regenerative]]></category>
+		<category><![CDATA[regenerative biotherapeutics]]></category>
+		<category><![CDATA[regenerative cell therapy]]></category>
+		<category><![CDATA[Seizure]]></category>
+		<category><![CDATA[stem cell]]></category>
+		<category><![CDATA[stem cell research]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401236</guid>
 
-					<description><!--[CDATA[<p-->Mayo Clinic develops new diagnostic tests to find and treat a variety of diseases and disorders.<p></p>
+					<description><![CDATA[<p>For Anthony Maita, 'Buddy' is not just any other dog. "He's the best thing that's ever happened to me," says Anthony. It's no wonder, considering Buddy was right by Anthony's side during one of the most challenging times of his life — when Anthony began having epileptic seizures. Watch: When seizures don't stop: Anthony's battle [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-when-seizures-dont-stop-the-battle-against-drug-resistant-epilepsy/">(VIDEO) When seizures don&amp;#8217;t stop: The battle against drug-resistant epilepsy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="647" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/IMG_1137-2-1024x647.jpg" alt="" class="wp-image-401325" style="aspect-ratio:16/9;object-fit:cover" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/IMG_1137-2-1024x647.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/IMG_1137-2-300x190.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/IMG_1137-2-768x485.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/IMG_1137-2-1536x971.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/IMG_1137-2-2048x1295.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Anthony Maita and his dog Buddy</strong></figcaption></figure>
+
+
+
+<p>For Anthony Maita, 'Buddy' is not just any other dog.</p>
+
+
+
+<p>"He's the best thing that's ever happened to me," says Anthony.</p>
+
+
+
+<p>It's no wonder, considering Buddy was right by Anthony's side during one of the most challenging times of his life — when Anthony began having <a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093" target="_blank" rel="noreferrer noopener">epileptic</a><a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093"> </a><a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093" target="_blank" rel="noreferrer noopener">seizures</a>.</p>
+
+
+
+<p><strong>Watch: <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvOBcjk9JKfM&amp;amp;data=05%7C02%7CHames.Marty%40mayo.edu%7C92c1f60e18b04a8c495308dd6b1cd7a4%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638784493794077133%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=H2qulyXJIxQ%2FUSXea1gFs0EFlMWRwQfHMRmqLMH%2BseQ%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">When seizures don't stop: Anthony's battle against drug-resistant epilepsy</a></strong></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="fluidEmbed"><iframe id="videoidvOBcjk9JKfM"  title="When seizures don&amp;#039;t stop: Anthony&amp;#039;s battle against drug-resistant epilepsy" width="500" height="281" src="https://www.youtube.com/embed/vOBcjk9JKfM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p><strong>Journalists: Broadcast-quality video (2:38) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Video-script_When-the-seizures-dont-stop-Anthonys-battle-against-drug-resistant-epilepsy-FINAL-3.24.25.pdf" target="_blank" rel="noreferrer noopener">script</a><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/COLT-FORD-VIDEO-SCRIPT-____PDF.pdf">.</a></strong></p>
+
+
+
+<p>"I started having the seizures, noticeable seizures, and from there, it just started getting worse and worse," recalls Anthony.</p>
+
+
+
+<p>It began after Anthony graduated from high school. He was making plans for his future and looking forward to attending college. That's when the seizures began.</p>
+
+
+
+<p>Initially, the seizures were mild but quickly became more severe. "The experience (seizure) is like a loss of time, like a blank spot in your memory — like you're waking up without any recollection of what happened," says Anthony.</p>
+
+
+
+<p>"The seizures were several times a week. His lips would be blue. His mouth would be blue," says Patricia Maita, Anthony's mother. "It so hard to see your child go through that and feel so helpless."</p>
+
+
+
+<p>Doctors tried to manage Anthony's seizures with medication, but nothing worked. Eventually Anthony was diagnosed with drug-resistant epilepsy, or DRE.</p>
+
+
+
+<p>In search of hope, Anthony's family turned to&amp;nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/arizona">Mayo </a><a href="https://www.mayoclinic.org/patient-visitor-guide/arizona" target="_blank" rel="noreferrer noopener">Clinic</a><a href="https://www.mayoclinic.org/patient-visitor-guide/arizona"> </a><a href="https://www.mayoclinic.org/patient-visitor-guide/arizona" target="_blank" rel="noreferrer noopener">in</a><a href="https://www.mayoclinic.org/patient-visitor-guide/arizona"> Arizona</a>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="636" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Parker-in-FU-with-Anthony-1024x636.jpg" alt="" class="wp-image-401334" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Parker-in-FU-with-Anthony-1024x636.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Parker-in-FU-with-Anthony-300x186.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Parker-in-FU-with-Anthony-768x477.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Parker-in-FU-with-Anthony-1536x954.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Parker-in-FU-with-Anthony-2048x1273.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Anthony during assesment with neurosurgeon Dr. Jonathon J. Parker at Mayo Clinic in Arizona </strong></figcaption></figure>
+
+
+
+<p>"Up to a third of patients who develop epilepsy during their life will become resistant to medication," explains&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/parker-jonathon-j-m-d-ph-d/bio-20537491">Jonathon J. Parker, M.D., </a><a href="https://www.mayoclinic.org/biographies/parker-jonathon-j-m-d-ph-d/bio-20537491" target="_blank" rel="noreferrer noopener">Ph.D</a><a href="https://www.mayoclinic.org/biographies/parker-jonathon-j-m-d-ph-d/bio-20537491">.</a>, a neurosurgeon at Mayo Clinic who specializes in treating the most serious and complex cases of epilepsy, including DRE.</p>
+
+
+
+<p>"These patients have tried at least two medications, and they're still having seizures. At that point, we know the chances of seizure freedom unfortunately become very low, and that's when we start looking at other options," says Dr. Parker.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>A battle for millions worldwide</strong></h2>
+
+
+
+<p>Anthony is one of approximately 50 million people worldwide diagnosed with epilepsy. It is one of the most common&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/neurology/sections/specialty-groups/orc-20117078" target="_blank" rel="noreferrer noopener">neurological disorders</a>&amp;nbsp;globally. It is characterized by recurrent unprovoked&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/seizure/symptoms-causes/syc-20365711" target="_blank" rel="noreferrer noopener">seizures</a>&amp;nbsp;caused by abnormal&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875#:~:text=EEG%20brain%20activity,-An%20EEG%20records&amp;amp;text=This%20may%20help%20diagnose%20brain,that%20attach%20to%20the%20scalp." target="_blank" rel="noreferrer noopener">electrical activity in the brain</a>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/GettyImages-2174722204-1024x683.jpg" alt="" class="wp-image-401517" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/GettyImages-2174722204-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/GettyImages-2174722204-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/GettyImages-2174722204-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/GettyImages-2174722204-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/GettyImages-2174722204-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Approximately 15 million people worldwide are diagnosed with drug-resistant epilepsy</strong></figcaption></figure>
+
+
+
+<p>Of those diagnosed with epilepsy, approximately 30%, or 15 million people, are considered medication-resistant. Uncontrolled seizures often rob many people of their ability to live and function independently.</p>
+
+
+
+<p>While it is rare, seizures can lead to sudden unexplained death in epilepsy, or SUDEP. "We know that more frequent seizures mean the patient is at higher risk of SUDEP, so that's why we are very aggressive about treating epilepsy with all the tools we have available," says Dr. Parker.</p>
+
+
+
+<p>Current treatment options for patients with DRE include surgical procedures such as&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/epilepsy-surgery/about/pac-20393981" target="_blank" rel="noreferrer noopener">brain resection</a>&amp;nbsp;to remove a portion of the brain tissue responsible for generating seizures. A less invasive procedure involves&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/epilepsy-surgery/about/pac-20393981" target="_blank" rel="noreferrer noopener">laser ablation</a>&amp;nbsp;therapy that pinpoints and destroys abnormal brain tissue. While often effective, these surgical approaches carry the risk of possible side effects, such as memory impairment, motor deficits and speech difficulties.&amp;nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="880" height="499" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Deep-brain-stimulation-animation-1.jpg" alt="" class="wp-image-401523" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Deep-brain-stimulation-animation-1.jpg 880w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Deep-brain-stimulation-animation-1-300x170.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Deep-brain-stimulation-animation-1-768x435.jpg 768w" sizes="auto, (max-width: 880px) 100vw, 880px" /></figure>
+
+
+
+<p><a href="https://www.mayoclinic.org/tests-procedures/deep-brain-stimulation/about/pac-20384562" target="_blank" rel="noreferrer noopener">Neuromodulation</a>&amp;nbsp;is another surgical approach that uses electrical or magnetic stimulation to interrupt abnormal neural activity without removing brain tissue.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Unlocking new hope for patients</strong></h2>
+
+
+
+<p>Now, a growing number of scientists across the globe are part of an innovative trend in research, investigating novel ways to treat DRE. It involves the use of&amp;nbsp;<ins><a href="https://www.mayo.edu/research/centers-programs/center-regenerative-biotherapeutics/about/overview" target="_blank" rel="noreferrer noopener">regenerative medicine</a></ins>&amp;nbsp;as a "reparative" approach to help the brain heal.&amp;nbsp;</p>
+
+
+
+<p>Dr. Parker is the lead investigator of the first-in-human clinical trial at Mayo Clinic which studies the use of implanted specialized inhibitory brain cells as a potential reparative treatment for DRE.&amp;nbsp;Dr. Parker's clinical trial is underway in Arizona.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="569" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Jonathon-Parker-during-brain-cell-implant-procedure-as-part-of-clinical-trial-for-drug-resistant-epilepsy-1024x569.jpg" alt="" class="wp-image-401529" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Jonathon-Parker-during-brain-cell-implant-procedure-as-part-of-clinical-trial-for-drug-resistant-epilepsy-1024x569.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Jonathon-Parker-during-brain-cell-implant-procedure-as-part-of-clinical-trial-for-drug-resistant-epilepsy-300x167.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Jonathon-Parker-during-brain-cell-implant-procedure-as-part-of-clinical-trial-for-drug-resistant-epilepsy-768x427.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Jonathon-Parker-during-brain-cell-implant-procedure-as-part-of-clinical-trial-for-drug-resistant-epilepsy-1536x854.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Jonathon-Parker-during-brain-cell-implant-procedure-as-part-of-clinical-trial-for-drug-resistant-epilepsy-2048x1138.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Dr. Parker and team during brain cell implant procedure at Mayo Clinic in Arizona</strong></figcaption></figure>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>"<strong>This is an exciting time for regenerative medicine and the potential it may have for millions of people who suffer from the debilitating side effects of drug-resistant epilepsy</strong>."</p><cite>Dr. Jonathon J. Parker, neurosurgeon and clinical trial lead investigator</cite></blockquote></figure>
+
+
+
+<p>Mayo Clinic in Arizona&amp;nbsp;is one of 29 sites nationwide participating in the inhibitory brain cell implant clinical trial for patients with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093" target="_blank" rel="noreferrer noopener">focal epilepsy</a>, where seizures originate in a specific region of the brain.&amp;nbsp;</p>
+
+
+
+<p>Anthony became Mayo Clinic's first patient to undergo the investigational brain cell implant.&amp;nbsp;</p>
+
+
+
+<p>"We use a very minimally invasive technique where we inject the inhibitory cells through a pencil eraser-sized incision in the back of the head. Our hope is that, over time, these cells become part of the brain and help repair the neural circuitry, and reduce or prevent seizures without the side effects," says Dr. Parker. The cells are implanted in a one-time, single-dose procedure.</p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/ANIMATION-BRAIN-CELL-IMPLANT.mov"></video></figure>
+
+
+
+<p></p>
+
+
+
+<p>"Honestly, it was pretty easy," says Anthony. "I had no trouble with it." Anthony was discharged from the hospital the next day.</p>
+
+
+
+<p>Doctors say it is still too early to determine whether the brain cell implant was effective, but they are hopeful. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Amy-Crepeau-Epilepsy-brain-cell-clinical-trial-2-1024x576.jpg" alt="" class="wp-image-401418" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Amy-Crepeau-Epilepsy-brain-cell-clinical-trial-2-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Amy-Crepeau-Epilepsy-brain-cell-clinical-trial-2-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Amy-Crepeau-Epilepsy-brain-cell-clinical-trial-2-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Amy-Crepeau-Epilepsy-brain-cell-clinical-trial-2-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Amy-Crepeau-Epilepsy-brain-cell-clinical-trial-2.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Dr. Amy Z. Crepeau and Anthony after brain cell implant at Mayo Clinic</strong></figcaption></figure>
+
+
+
+<p>"Anthony has been doing great since the procedure," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/crepeau-amy-z-m-d/bio-20087246" target="_blank" rel="noreferrer noopener">Dr. Amy Z. Crepeau</a>, a neurologist at Mayo Clinic. "We have a great deal of optimism in regard to the potential of this brain cell therapy. Developing a safe and effective, minimally invasive treatment that does not carry the possible negative side effects could be a game changer in treating patients with DRE and improving their quality of life."</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Tabitha's life-long struggle to control seizures</strong></h2>
+
+
+
+<p>Tabitha Wilson lives in fear, never knowing when or where the next seizure will strike.</p>
+
+
+
+<p>The Florida resident was diagnosed with epilepsy at the age of 2. She was placed on medication that adequately managed her seizures — until the week before her high school graduation.&amp;nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-age-two-1024x768.jpg" alt="" class="wp-image-401243" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-age-two-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-age-two-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-age-two-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-age-two-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-age-two.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Tabitha was diagnosed with epilepsy at the age of 2     Photo courtesy: Tabitha Wilson</strong></figcaption></figure>
+
+
+
+<p>"I was 17 years old sitting in history class when the seizure happened," recalls Tabitha. "They had to load me up in an ambulance in front of the whole school."</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p><strong>"It was traumatizing. Something I will never forget."</strong></p><cite>Tabitha Wilson describing her seizure during class in high school</cite></blockquote></figure>
+
+
+
+<p>Tabitha tried new types of medications, but the seizures only got worse.</p>
+
+
+
+<p>"I fell down a flight of stairs, burned myself while cooking. I've completely blacked out and don't know where I am or who you are," says Tabitha. She was eventually diagnosed with drug-resistant epilepsy.</p>
+
+
+
+<p>Tabitha underwent three brain surgeries to treat her DRE. Still, the seizures continued.</p>
+
+
+
+<p>"I'll have good days and bad days. Some days, I'll have two, three, four seizures, back-to-back," says Tabitha.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="826" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-high-school-graduation-826x1024.jpg" alt="Tabitha Wilson, drug-resistant epilepsy patient, FL" class="wp-image-401244" style="aspect-ratio:3/4;object-fit:cover;width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-high-school-graduation-826x1024.jpg 826w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-high-school-graduation-242x300.jpg 242w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-high-school-graduation-768x952.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-high-school-graduation-1239x1536.jpg 1239w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Tabitha-Wilson-high-school-graduation.jpg 1652w" sizes="auto, (max-width: 826px) 100vw, 826px" /><figcaption class="wp-element-caption"><strong>Despite the sudden return of her seizures just a week earlier, Tabitha walked proudly with her high school graduation class                       </strong><br><strong>Photo courtesy: Tabitha Wilson</strong></figcaption></figure>
+
+
+
+<p>Her uncontrolled seizures have robbed Tabitha of the ability to live independently. "I can't drive. I can't cook. I can't go swimming alone. I can't take a bath, only a shower and if someone is home with me,"&amp;nbsp;says Tabitha.</p>
+
+
+
+<p><strong>Watch: Tabitha Wilson shares what it's like to live with drug-resistant epilepsy.</strong></p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Tabitha-Wilson-–-There-are-good-days-and-bad-days-.mp4"></video></figure>
+
+
+
+<p></p>
+
+
+
+<p>Tabitha turned to&amp;nbsp;<ins><a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a></ins>&amp;nbsp;where she learned about a clinical trial also investigating the potential of regenerative medicine as a possible treatment for DRE.</p>
+
+
+
+<p><a href="https://www.mayoclinic.org/biographies/grewal-sanjeet-s-m-d/bio-20489678" target="_blank" rel="noreferrer noopener">Dr. Sanjeet S. Grewal</a>,&amp;nbsp;<ins><a href="https://www.mayoclinic.org/departments-centers/neurosurgery/home/orc-20117096?customer_id=919-955-2329&amp;amp;mc_id=google&amp;amp;campaign=8927988164&amp;amp;geo=9030072&amp;amp;kw=mayo%20clinic%20neurosurgeon&amp;amp;ad=458309235783&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=111165104590&amp;amp;extension=&amp;amp;target=kwd-18349754609&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=9199552329&amp;amp;invsrc=arizona&amp;amp;placementsite=arizona&amp;amp;gad_source=1&amp;amp;gclid=Cj0KCQjwna6_BhCbARIsALId2Z1hFCGt5q0WMZ007mKjlKcnx5AcejuARWz8YcWAb0PexNrUHvz-1CoaAhAfEALw_wcB">director of </a><a href="https://www.mayoclinic.org/departments-centers/neurosurgery/home/orc-20117096?customer_id=919-955-2329&amp;amp;mc_id=google&amp;amp;campaign=8927988164&amp;amp;geo=9030072&amp;amp;kw=mayo%20clinic%20neurosurgeon&amp;amp;ad=458309235783&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=111165104590&amp;amp;extension=&amp;amp;target=kwd-18349754609&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=9199552329&amp;amp;invsrc=arizona&amp;amp;placementsite=arizona&amp;amp;gad_source=1&amp;amp;gclid=Cj0KCQjwna6_BhCbARIsALId2Z1hFCGt5q0WMZ007mKjlKcnx5AcejuARWz8YcWAb0PexNrUHvz-1CoaAhAfEALw_wcB" target="_blank" rel="noreferrer noopener">stereotactic and functional neurosurgery</a><a href="https://www.mayoclinic.org/departments-centers/neurosurgery/home/orc-20117096?customer_id=919-955-2329&amp;amp;mc_id=google&amp;amp;campaign=8927988164&amp;amp;geo=9030072&amp;amp;kw=mayo%20clinic%20neurosurgeon&amp;amp;ad=458309235783&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=111165104590&amp;amp;extension=&amp;amp;target=kwd-18349754609&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=9199552329&amp;amp;invsrc=arizona&amp;amp;placementsite=arizona&amp;amp;gad_source=1&amp;amp;gclid=Cj0KCQjwna6_BhCbARIsALId2Z1hFCGt5q0WMZ007mKjlKcnx5AcejuARWz8YcWAb0PexNrUHvz-1CoaAhAfEALw_wcB"> at Mayo Clinic</a></ins>, is leading a team of researchers studying the use of implanted&amp;nbsp;<ins><a href="https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/in-depth/stem-cells/art-20048117" target="_blank" rel="noreferrer noopener">stem </a><a href="https://www.mayoclinic.org/medical-professionals/neurology-neurosurgery/news/study-finds-stem-cell-therapy-is-safe-and-may-benefit-people-with-spinal-cord-injuries/mac-20567444" target="_blank" rel="noreferrer noopener">cells</a></ins>&amp;nbsp;in conjunction with deep brain stimulation for patients like Tabitha.</p>
+
+
+
+<p><a href="https://www.mayoclinic.org/tests-procedures/deep-brain-stimulation/care-at-mayo-clinic/pcc-20384564" target="_blank" rel="noreferrer noopener">Deep brain stimulation</a> is one of the most recent FDA-approved methods of neuromodulation therapy for epilepsy.&amp;nbsp;Studies show that patients who undergo deep brain stimulation experience median seizure reduction up to 70% after five years. However, Dr. Grewal says it is uncommon for patients to become seizure-free.&amp;nbsp;</p>
+
+
+
+<p>"Unfortunately, neuromodulation doesn't give us the seizure freedom we want, and that's why we are trying to combine deep brain stimulation with stem cell therapy to see if we can increase the efficacy of neuromodulation," he says.&amp;nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="774" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Sanjeet-Grewal-i-brain-surgery-1-1024x774.jpg" alt="" class="wp-image-401549" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Sanjeet-Grewal-i-brain-surgery-1-1024x774.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Sanjeet-Grewal-i-brain-surgery-1-300x227.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Sanjeet-Grewal-i-brain-surgery-1-768x580.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Sanjeet-Grewal-i-brain-surgery-1.jpg 1284w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Dr. Alfredo Quinones-Hinojosa (left), Dr. Sanjeet S. Grewal (right) and team performing stem cell implant  at Mayo Clinic in Florida    Photo courtesy: Dr. Loizos Michaelides</strong></figcaption></figure>
+
+
+
+<p>Tabitha became the first patient to undergo the investigational treatment. Dr. Grewal says she is also the first person in the world to undergo surgery for deep brain stimulation and receive stem cell therapy in the&amp;nbsp;<ins><a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/in-depth/brain/art-20546821" target="_blank" rel="noreferrer noopener">thalamus</a></ins>&amp;nbsp;in her brain as a potential treatment for DRE.&amp;nbsp;</p>
+
+
+
+<p><strong>Watch: Dr. Sanjeet Grewal, neurosurgeon, explains how Mayo researchers are leading a new trend in research for treating patients with drug-resistant epilepsy<a href="https://www.youtube.com/watch?v=w0nSaehvrbE">.</a></strong></p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Sanjeet-Grewal-M.D.-–-There-are-parts-of-the-brain-that-are-dysfunctional-–-lets-fix-it.mp4"></video></figure>
+
+
+
+<p></p>
+
+
+
+<p>The clinical trial involves the use of mesenchymal stem cells, a type of adult stem cell that has anti-inflammatory properties. MSCs may also support tissue repair and healing. Further scientific research is needed to confirm their therapeutic potential in the field of regenerative medicine.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p><strong>"There are some patients whose seizures are just much harder to treat with the technology we have today. Our hope is that by adding stem cells and their regenerative potential, we can increase treatment success."</strong></p><cite>Dr. Sanjeet Grewal, Neurosurgeon and Clinical trial lead investigator</cite></blockquote></figure>
+
+
+
+<p>The MSCs used in the clinical trial are derived from fat tissue and created at&amp;nbsp;the&amp;nbsp;<a href="https://www.mayo.edu/research/florida" target="_blank" rel="noreferrer noopener">Human Cell Therapy Laboratory</a>&amp;nbsp;at Mayo Clinic in Jacksonville, Florida under the leadership of <a href="https://www.mayoclinic.org/biographies/zubair-abba-c-m-d-ph-d/bio-20054536" target="_blank" rel="noreferrer noopener">Abba Zubair, M.D., Ph.D.</a>, a pioneer in cell therapy.</p>
+
+
+
+<p>Dr. Zubair's research teams have developed a cost-effective method of producing MSCs for use in potential treatments for conditions such as&amp;nbsp;<a href="https://www.mayoclinic.org/medical-professionals/neurology-neurosurgery/news/groundbreaking-studies-of-regenerative-medicine-treatment-for-intracerebral-hemorrhage/mac-20552299" target="_blank" rel="noreferrer noopener">stroke</a>. </p>
+
+
+
+<p><a href="https://newsnetwork.mayoclinic.org/discussion/space-a-new-frontier-for-exploring-stem-cell-therapy/" target="_blank" rel="noreferrer noopener">Dr. Zubair has also led innovative research, including sending stem cells to the International Space Station to investigate how microgravity impacts their growth. </a></p>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Dr._Zubair_in_lab_2017_1504453_3696200_0018R.jpg" alt="" class="wp-image-380366 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Dr._Zubair_in_lab_2017_1504453_3696200_0018R.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/01/Dr._Zubair_in_lab_2017_1504453_3696200_0018R-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-pullquote"><blockquote><p><strong>"My mission is to discover ways to address problems that patients have been struggling with and find a solution for them. </strong><br><strong>I believe the future is bright. "</strong></p><cite>Dr. Abba Zubair, Pioneer in Cell therapy, Mayo Clinic in Florida</cite></blockquote></figure>
+</div></div>
+
+
+
+<p>Dr. Zubair has several research projects scheduled to launch into space in 2025.</p>
+
+
+
+<p>"MSCs are what we call multipotent, meaning they can differentiate into different cell types based on where they're placed. If they are placed near blood vessels, they can become blood vessel types. If they're placed by heart cells, they can become heart cell types," explains Dr. Grewal. </p>
+
+
+
+<p>The hope is the MSCs eventually become neural or brain cell types and interact in the part of the brain where the seizures occur. "It's called paracrine signaling, where they're releasing signals to the brain tissue around them and interacting in a way to try to repair that tissue."</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p><strong>"I'm willing to try everything and anything to get some sort of control over these seizures because I've been living with this for so long."</strong></p><cite>Tabitha Wilson, Clinical Trial participant</cite></blockquote></figure>
+
+
+
+<p>Since undergoing the procedure, there has been an improvement in Tabitha's seizure management. However, Dr. Grewal says it is too early to know whether this is due to the deep brain stimulation, stem cells or both.&amp;nbsp;</p>
+
+
+
+<p>Drs. Grewal and Parker say there is still a long road ahead to determine whether these cell therapies are proven safe and effective for patients with DRE. But they agree each day brings them one step closer to a potential treatment or cure for patients like Tabitha and Anthony.</p>
+
+
+
+<p>"We've thought about this for generations, we just didn't have these technologies to enable it. Now we do," says Dr. Grewal. "So, whether it's wound healing,&amp;nbsp;<a href="https://www.mayoclinic.org/medical-professionals/neurology-neurosurgery/news/deep-learning-fuels-neurodegenerative-disease-research/mac-20545173" target="_blank" rel="noreferrer noopener">neurodegeneration</a>, epilepsy or&amp;nbsp;stroke, there are so many different studies going on investigating the potential of regenerative or reparative therapies."</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<h2 class="wp-block-heading">Related articles</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-lead-transformative-shift-toward-neurorestorative-treatment-strategies-for-most-severe-forms-of-epilepsy/">Mayo Clinic researchers lead transformative shift toward neurorestorative treatment strategies for most severe forms of epilepsy</a></li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/tag/epilepsy-treatment/">Epilepsy Treatment</a></li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/tag/minimally-invasive-epilepsy-treatment/">Minimally invasive epilepsy treatment</a></li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-demystifying-epilepsy/">Mayo Clinic Minute: Demystifying epilepsy</a></li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/tag/epilepsy-surgery/">Epilepsy Surgery</a></li>
+
+
+
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/laser-ablation-surgery-helps-treat-young-mans-epilepsy/">Laser ablation surgery helps treat young man’s epilepsy</a></li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-when-seizures-dont-stop-the-battle-against-drug-resistant-epilepsy/">(VIDEO) When seizures don&amp;#8217;t stop: The battle against drug-resistant epilepsy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Epilepsy-brain-waves_1x1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/IMG_1137-2.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[#biomedical research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[brain]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[brain health]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[deep brain stimulation for epilepsy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[epilepsy and pregnancy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Epilepsy seizures]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Epilepsy Treatment]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Marty Velasco Hames]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[neurodegenerative disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[regenerative]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[regenerative biotherapeutics]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[regenerative cell therapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Seizure]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[stem cell]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[stem cell research]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1292254104-150x150.jpg</mayoclinic:mcthumb >	</item>
+		<item>
+		<title>Mayo Clinic researchers lead transformative shift toward neurorestorative treatment strategies for most severe forms of epilepsy</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-lead-transformative-shift-toward-neurorestorative-treatment-strategies-for-most-severe-forms-of-epilepsy/</link>
+		
+		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 15:36:10 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[Florida News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401472</guid>
+
+					<description><![CDATA[<p>Mayo Clinic&amp;#160;is taking epilepsy research in a bold new direction, exploring treatment approaches to help patients living with the most severe and difficult-to-treat forms of&amp;#160;epilepsy. About 50 million people worldwide are impacted by epilepsy. Approximately 30% of patients, or about 15 million people, suffer with drug-resistant epilepsy (DRE). While some patients experience only a few&amp;#160;seizures&amp;#160;per [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-lead-transformative-shift-toward-neurorestorative-treatment-strategies-for-most-severe-forms-of-epilepsy/">Mayo Clinic researchers lead transformative shift toward neurorestorative treatment strategies for most severe forms of epilepsy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_16x9-1024x576.jpg" alt="" class="wp-image-401651" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_16x9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is taking epilepsy research in a bold new direction, exploring treatment approaches to help patients living with the most severe and difficult-to-treat forms of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093" target="_blank" rel="noreferrer noopener">epilepsy</a>. About 50 million people worldwide are impacted by epilepsy. Approximately 30% of patients, or about 15 million people, suffer with drug-resistant epilepsy (DRE). While some patients experience only a few&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/seizure/symptoms-causes/syc-20365711" target="_blank" rel="noreferrer noopener">seizures</a>&amp;nbsp;per month, others may endure hundreds each day — ranging from episodes that are mild to life-threatening.&amp;nbsp;</p>
+
+
+
+<p>Current treatment options for patients with DRE include surgical procedures such as&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/epilepsy-surgery/about/pac-20393981" target="_blank" rel="noreferrer noopener">brain resection</a>&amp;nbsp;to remove a portion of the brain tissue responsible for generating seizures. A less invasive procedure involves&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/epilepsy-surgery/about/pac-20393981" target="_blank" rel="noreferrer noopener">laser ablation</a>&amp;nbsp;therapy that pinpoints and destroys abnormal brain tissue. While often effective, these surgical approaches carry the risk of possible side effects, such as memory impairment, motor deficits and speech difficulties.&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/deep-brain-stimulation/about/pac-20384562" target="_blank" rel="noreferrer noopener">Neuromodulation</a>&amp;nbsp;is another surgical approach that uses electrical or magnetic stimulation to interrupt abnormal neural activity without removing brain tissue.</p>
+
+
+
+<p>Now, a growing number of scientists across the globe are part of an innovative trend in&amp;nbsp;<a href="https://www.mayo.edu/research" target="_blank" rel="noreferrer noopener">research</a>&amp;nbsp;investigating novel ways to DRE. It involves the use of regenerative medicine as a "reparative" approach to help the brain heal.&amp;nbsp;</p>
+
+
+
+<p>Neurosurgeon&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/parker-jonathon-j-m-d-ph-d/bio-20537491" target="_blank" rel="noreferrer noopener">Jonathon J. Parker, M.D., Ph.D.</a>, is the lead investigator of the first-in-human clinical trial at Mayo Clinic studying the use of implanted specialized inhibitory brain cells as a potential reparative treatment for DRE. The clinical trial is underway at <a href="https://www.mayoclinic.org/patient-visitor-guide/arizona" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>.</p>
+
+
+
+<p>"This is an exciting time for&amp;nbsp;<a href="https://www.mayo.edu/research/centers-programs/center-regenerative-biotherapeutics/about/overview" target="_blank" rel="noreferrer noopener">regenerative medicine</a>&amp;nbsp;and the potential it may have for millions of people who suffer from the debilitating side effects of DRE," says Dr. Parker. "We use a very minimally invasive technique where we inject the inhibitory cells through a pencil eraser-sized incision in the back of the head. Our hope is that, over time, these cells become part of the brain and help repair the neural circuitry, and reduce or prevent seizures without the side effects," says Dr. Parker.</p>
+
+
+
+<p>Mayo Clinic in Arizona&amp;nbsp;is one of 29 sites nationwide participating in the inhibitory brain cell implant clinical trial for patients with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093" target="_blank" rel="noreferrer noopener">focal epilepsy</a>, where seizures originate in a specific region of the brain.&amp;nbsp;</p>
+
+
+
+<p>Arizona resident Anthony Maita was the first person at Mayo Clinic to participate in the clinical trial. He underwent the one-time, single-dose procedure and was discharged from the hospital the next day. "I had no trouble with it," says Anthony. "My biggest hope is that, one day, I don't have to deal with this. My other biggest hope is that other people won't have to either."</p>
+
+
+
+<p>It is still too early to determine whether the brain cell implant was effective for Anthony. Doctors are monitoring his progress closely. "Anthony has been doing great since the procedure," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/crepeau-amy-z-m-d/bio-20087246" target="_blank" rel="noreferrer noopener">Amy Crepeau, M.D.</a>, neurologist at Mayo Clinic. "We have a great deal of optimism in regard to the potential of this brain cell therapy. Developing a safe and effective, minimally invasive treatment that does not carry the possible negative side effects could be a game changer in treating patients with DRE and improving their quality of life."</p>
+
+
+
+<p>Another clinical trial is underway at&amp;nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a>&amp;nbsp;investigating the potential of regenerative medicine as a reparative treatment for DRE. Researchers are exploring the use of implanted stem cells in conjunction with neuromodulation.</p>
+
+
+
+<p>One of the most recent FDA-approved methods of neuromodulation therapy for epilepsy is&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/deep-brain-stimulation/about/pac-20384562" target="_blank" rel="noreferrer noopener">deep brain stimulation</a>. While patients who undergo deep brain stimulation experience median seizure reduction up to 70% after five years, it is uncommon for patients to become seizure-free.&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/grewal-sanjeet-s-m-d/bio-20489678" target="_blank" rel="noreferrer noopener">Sanjeet Grewal, M.D.</a>, director of&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/epilepsy-subspecialty-group/overview/ovc-20441647" target="_blank" rel="noreferrer noopener">stereotactic and functional neurosurgery</a>&amp;nbsp;at Mayo Clinic, is hoping to change that. "Unfortunately, neuromodulation doesn't give us the seizure freedom we want, and that's why we are trying to combine deep brain stimulation with stem cell therapy to see if we can increase the efficacy of neuromodulation," says Dr. Grewal.&amp;nbsp;</p>
+
+
+
+<p>Dr. Grewal is the lead investigator of the clinical trial which involves the use of implanted adipose-derived mesenchymal stem cells (MSCs) as an adjunct to deep brain stimulation for DRE patients. MSCs are a special type of adult stem cell with anti-inflammatory properties that may also have potential for healing. </p>
+
+
+
+<p>Many, like Dr. Grewal, hope MSCs will serve a pivotal role in the future of regenerative medicine to treat conditions like epilepsy. "There are some patients whose seizures are just much harder to treat with the technology we have today. Our hope is that by adding stem cells and their regenerative potential, we can increase treatment success," says Dr. Grewal.</p>
+
+
+
+<p>The clinical trial is using MSCs derived from fat tissue and produced at the <a href="https://www.mayo.edu/research/florida" target="_blank" rel="noreferrer noopener">Human Cell Therapy Laboratory</a> at Mayo Clinic in Florida under the leadership of <a href="https://www.mayoclinic.org/biographies/zubair-abba-c-m-d-ph-d/bio-20054536" target="_blank" rel="noreferrer noopener">Abba Zubair, M.D., Ph.D.</a> His research teams have developed a cost-effective method of producing MSCs for use in potential treatments for conditions such as stroke and osteoporosis. "My mission is to discover ways to address problems that patients have been struggling with and find a solution for them. I want to give them hope," says Dr. Zubair. "I truly believe the future is bright."</p>
+
+
+
+<p>"MSCs are what we call multipotent, meaning they can differentiate into different cell types based on where they're placed. If they are placed near blood vessels, they can become blood vessel types. If they're placed by heart cells, they can become heart cell types," explains Dr. Grewal. It is hoped the MSCs in Dr. Grewal's clinical trial will become neural or brain cell types and interact in the part of the brain where seizures occur. "It's called paracrine signaling, where they're releasing signals to the brain tissue around them and interacting in a way to try to repair that tissue."</p>
+
+
+
+<p>Tabitha Wilson began having seizures at the age of 2. The Florida resident says her seizures were well controlled until her mid-20s when her medication stopped working. Tabitha tried numerous other medications and underwent three&amp;nbsp;<a href="https://careinfo.mayoclinic.org/epilepsy-mn" target="_blank" rel="noreferrer noopener">brain surgeries</a>, none of which provided the relief she needed.</p>
+
+
+
+<p>"There are days when I'll have two, three or four seizures, back-to-back," says Tabitha. "I fell down a flight of stairs. I've burned myself while cooking. I've completely blacked out and don’t know where I am." Like many people who have epilepsy, Tabitha says uncontrolled seizures have robbed her ability to live independently. "I can't drive, can't cook or swim alone. I can't take a bath, only a shower and someone has to be in the house," says Tabitha.</p>
+
+
+
+<p>Tabitha became the first person to participate in the Florida clinical trial. Dr. Grewal says she is also the first person in the world to undergo surgery for deep brain stimulation and receive stem cell therapy in the&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/in-depth/brain/art-20546821#:~:text=The%20inner%20brain&amp;amp;text=The%20thalamus%20acts%20as%20a,The%20hypothalamus%20controls%20emotions." target="_blank" rel="noreferrer noopener">thalamus</a>&amp;nbsp;in her brain as a potential treatment for DRE. "I'm willing to try everything and anything to get some sort of control over these seizures because I've been living with this for so long," says Tabitha. "I hope to be a mother someday."</p>
+
+
+
+<p>Since the surgery, Dr. Grewal says there has been an improvement in Tabitha's seizure management. However, he says it is too early to know whether this is due to the deep brain stimulation, stem cells or both.&amp;nbsp;</p>
+
+
+
+<p>Drs. Grewal and Parker say there is a long road ahead to determine whether these cell therapies are proven safe and effective for patients with DRE. But they agree each day brings them one step closer to a potential treatment or even a cure for patients like Tabitha and Anthony. </p>
+
+
+
+<p>"We've thought about this for generations, we just didn't have these technologies to enable it. Now we do," says Dr. Grewal. "So, whether it's wound healing, <a href="https://www.mayoclinic.org/medical-professionals/neurology-neurosurgery/news/deep-learning-fuels-neurodegenerative-disease-research/mac-20545173" target="_blank" rel="noreferrer noopener">neurodegeneration</a>, epilepsy or&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113" target="_blank" rel="noreferrer noopener">stroke</a>, there are so many different studies going on investigating the potential of regenerative or reparative therapies."</p>
+
+
+
+<p>Press kit, including b-roll, photos and interviews, available&amp;nbsp;<a href="https://mcmedia.mayo.edu/Share/68h1m74402l2n2318g0t7841208cj2s7" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>###</p>
+
+
+
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+
+
+
+<p><strong>Media contact</strong>: </p>
+
+
+
+<ul class="wp-block-list">
+<li>Marty Hames, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-lead-transformative-shift-toward-neurorestorative-treatment-strategies-for-most-severe-forms-of-epilepsy/">Mayo Clinic researchers lead transformative shift toward neurorestorative treatment strategies for most severe forms of epilepsy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_1x1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/AZ-Clinical-Trial-Animation-image_16x9.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+		<item>
+		<title>Advancing medicine one lab test at a time</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/advancing-medicine-one-lab-test-at-a-time/</link>
+		
+		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Akhilesh Pandey]]></category>
+		<category><![CDATA[Dr. Eric Hsi]]></category>
+		<category><![CDATA[Dr. Seul Kee Byeon]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401106</guid>
+
+					<description><![CDATA[<p>Mayo Clinic develops new diagnostic tests to find and treat a variety of diseases and disorders.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/advancing-medicine-one-lab-test-at-a-time/">Advancing medicine one lab test at a time</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Conveyor-Belt-16x9-1.mp4" playsinline=""></video><figcaption class="wp-element-caption">Credit: Mayo Clinic Laboratories</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Conveyor-Belt-16x9-1.mp4" playsinline></video><figcaption class="wp-element-caption">Credit: Mayo Clinic Laboratories</figcaption></figure>
 
 
 
-<p><br>Mayo Clinic operates one of the largest clinical laboratories in the world. More than 87,000 samples pass through the labs from Mayo Clinic patients and Mayo Clinic Laboratories' clients per day. At <a href="https://www.mayocliniclabs.com/" target="_blank" rel="noreferrer noopener">Mayo Clinic Laboratories</a> and the <a href="https://www.mayoclinic.org/departments-centers/laboratory-medicine-pathology/overview" target="_blank" rel="noreferrer noopener">Department of Laboratory Medicine and Pathology</a> (DLMP), these thousands of samples are tested for a large swath of molecules that can signal disease. Additionally, Mayo Clinic physicians and researchers develop new diagnostic tests every year. The innovation and capability to improve medicine fuels the work of clinical pathologist <a href="https://www.mayo.edu/research/faculty/pandey-akhilesh-m-d-ph-d/bio-20488636" target="_blank" rel="noreferrer noopener">Akhilesh Pandey, M.D., Ph.D.</a>&nbsp;</p>
+<p><br>Mayo Clinic operates one of the largest clinical laboratories in the world. More than 87,000 samples pass through the labs from Mayo Clinic patients and Mayo Clinic Laboratories' clients per day. At <a href="https://www.mayocliniclabs.com/" target="_blank" rel="noreferrer noopener">Mayo Clinic Laboratories</a> and the <a href="https://www.mayoclinic.org/departments-centers/laboratory-medicine-pathology/overview" target="_blank" rel="noreferrer noopener">Department of Laboratory Medicine and Pathology</a> (DLMP), these thousands of samples are tested for a large swath of molecules that can signal disease. Additionally, Mayo Clinic physicians and researchers develop new diagnostic tests every year. The innovation and capability to improve medicine fuels the work of clinical pathologist <a href="https://www.mayo.edu/research/faculty/pandey-akhilesh-m-d-ph-d/bio-20488636" target="_blank" rel="noreferrer noopener">Akhilesh Pandey, M.D., Ph.D.</a>&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-1024x682.jpg" alt="" class="wp-image-401108" style="width:306px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Akhilesh Pandey, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-1024x682.jpg" alt="" class="wp-image-401108" style="width:306px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF1541970_0055.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Akhilesh Pandey, M.D., Ph.D.</figcaption></figure></div>
 
 
-<p>"The fact that we, as researchers, can find a new biomarker associated with a disease, develop a test to find it sooner and implement it into clinical practice, places Mayo Clinic at the forefront of the medicine of the future," he says.&nbsp;&nbsp;</p>
+<p>"The fact that we, as researchers, can find a new biomarker associated with a disease, develop a test to find it sooner and implement it into clinical practice, places Mayo Clinic at the forefront of the medicine of the future," he says.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -64,7 +594,7 @@
 
 
 
-<h2 class="wp-block-heading"><strong>Research and Practice</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Research and Practice</strong>&amp;nbsp;</h2>
 
 
 
@@ -72,7 +602,7 @@
 
 
 
-<p>Most tests for sphingolipidosis can only screen for one specific form of the disorder at a time, targeting about 10 molecules, which makes the process laborious and time-consuming for both clinicians and patients.&nbsp;</p>
+<p>Most tests for sphingolipidosis can only screen for one specific form of the disorder at a time, targeting about 10 molecules, which makes the process laborious and time-consuming for both clinicians and patients.&amp;nbsp;</p>
 
 
 
@@ -80,18 +610,18 @@
 
 
 
-<p>The result: a single assay that can test for 47 different molecules linked to many kinds of sphingolipidosis, offering more efficient diagnostic testing. &nbsp;</p>
+<p>The result: a single assay that can test for 47 different molecules linked to many kinds of sphingolipidosis, offering more efficient diagnostic testing. &amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-819x1024.jpg" alt="" class="wp-image-401110" style="width:200px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916.jpg 900w" sizes="(max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Seul Kee Byeon, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-819x1024.jpg" alt="" class="wp-image-401110" style="width:200px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Byeon-Seul-Kee_21123128_20240916.jpg 900w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Seul Kee Byeon, Ph.D.</figcaption></figure></div>
 
 
 <p>"It's a huge gain, especially for clinicians who may suspect a patient has a rare and serious genetic condition but may not know where in the pathway the problem lies," says Dr. Byeon, who is the lead author on a <a href="https://pubmed.ncbi.nlm.nih.gov/39206579/" target="_blank" rel="noreferrer noopener">study reporting the findings</a> in the journal Clinical Chemistry.</p>
 
 
 
-<p>This new test is still in development but will be rolled out for use in the near future at Mayo Clinic Laboratories. Dr. Byeon is also working on the next iteration of this assay, which would target hundreds of lipids.&nbsp;</p>
+<p>This new test is still in development but will be rolled out for use in the near future at Mayo Clinic Laboratories. Dr. Byeon is also working on the next iteration of this assay, which would target hundreds of lipids.&amp;nbsp;</p>
 
 
 
@@ -99,19 +629,19 @@
 
 
 
-<p>Dr. Pandey's research teams in the <a href="https://www.mayo.edu/research/labs/systems-biology-translational-medicine/overview" target="_blank" rel="noreferrer noopener">Systems Biology and Translational Medicine Laboratory</a> and the <a href="https://news.mayocliniclabs.com/2021/07/12/a-sandbox-for-innovation-the-advanced-diagnostic-laboratory/" target="_blank" rel="noreferrer noopener">Advanced Diagnostics Laboratory</a> use a sensitive but versatile technique called mass spectrometry to detect, identify and quantify molecules in lab samples, which can come from blood, tissue or other specimens.<br><br>In addition, Dr. Pandey's team conducts research using <a href="https://pubmed.ncbi.nlm.nih.gov/37395315/" target="_blank" rel="noreferrer noopener">single-cell proteomics</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/39950635/" target="_blank" rel="noreferrer noopener">single-cell lipidomics</a>, which can uncover what proteins and lipids, respectively, are present in individual cells. They also apply a rapidly evolving approach called <a href="https://newsnetwork.mayoclinic.org/discussion/spatial-biology-puts-potential-disease-targets-in-their-place/" target="_blank" rel="noreferrer noopener">spatial biology</a> to map where various molecules are in a specific tissue.&nbsp;</p>
+<p>Dr. Pandey's research teams in the <a href="https://www.mayo.edu/research/labs/systems-biology-translational-medicine/overview" target="_blank" rel="noreferrer noopener">Systems Biology and Translational Medicine Laboratory</a> and the <a href="https://news.mayocliniclabs.com/2021/07/12/a-sandbox-for-innovation-the-advanced-diagnostic-laboratory/" target="_blank" rel="noreferrer noopener">Advanced Diagnostics Laboratory</a> use a sensitive but versatile technique called mass spectrometry to detect, identify and quantify molecules in lab samples, which can come from blood, tissue or other specimens.<br><br>In addition, Dr. Pandey's team conducts research using <a href="https://pubmed.ncbi.nlm.nih.gov/37395315/" target="_blank" rel="noreferrer noopener">single-cell proteomics</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/39950635/" target="_blank" rel="noreferrer noopener">single-cell lipidomics</a>, which can uncover what proteins and lipids, respectively, are present in individual cells. They also apply a rapidly evolving approach called <a href="https://newsnetwork.mayoclinic.org/discussion/spatial-biology-puts-potential-disease-targets-in-their-place/" target="_blank" rel="noreferrer noopener">spatial biology</a> to map where various molecules are in a specific tissue.&amp;nbsp;</p>
 
 
 
-<p>The information gleaned from these analytical techniques can lead to the discovery of biomarkers for a variety of conditions, from genetic disorders to cancer.&nbsp;</p>
+<p>The information gleaned from these analytical techniques can lead to the discovery of biomarkers for a variety of conditions, from genetic disorders to cancer.&amp;nbsp;</p>
 
 
 
-<p>"We want to find the next generation of biomarkers and we have the technology to do it," he says.&nbsp;</p>
+<p>"We want to find the next generation of biomarkers and we have the technology to do it," he says.&amp;nbsp;</p>
 
 
 
-<p>Dr. Pandey's multidisciplinary research team has several other notable projects underway aimed at advancing diagnosis and treatment for a variety of diseases and disorders including:&nbsp;</p>
+<p>Dr. Pandey's multidisciplinary research team has several other notable projects underway aimed at advancing diagnosis and treatment for a variety of diseases and disorders including:&amp;nbsp;</p>
 
 
 
@@ -124,7 +654,7 @@
 
 
 
-<li><a href="https://insight.jci.org/articles/view/172509/pdf" target="_blank" rel="noreferrer noopener">Inherited metabolic disorders</a>: Adapting a blood-based test that detects genetic defects in a complex chemical process known as glycosylation so that it can be used to detect metabolic changes associated with cancer.&nbsp;<br></li>
+<li><a href="https://insight.jci.org/articles/view/172509/pdf" target="_blank" rel="noreferrer noopener">Inherited metabolic disorders</a>: Adapting a blood-based test that detects genetic defects in a complex chemical process known as glycosylation so that it can be used to detect metabolic changes associated with cancer.&amp;nbsp;<br></li>
 </ul>
 
 
@@ -141,28 +671,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Specimen_Cart1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Specimen_Cart16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Akhilesh Pandey]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eric Hsi]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Seul Kee Byeon]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Akhilesh Pandey]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eric Hsi]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Seul Kee Byeon]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Autosomal Dominant Polycystic Kidney Disease: Early intervention and lifestyle crucial</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/autosomal-dominant-polycystic-kidney-disease-early-intervention-and-lifestyle-crucial/
+		<link>https://newsnetwork.mayoclinic.org/discussion/autosomal-dominant-polycystic-kidney-disease-early-intervention-and-lifestyle-crucial/</link>
 		
-		<dc:creator><!--[CDATA[Colette Gallagher]]--></dc:creator>
-		<pubdate>Mon, 24 Mar 2025 17:23:25 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Fouad Chebib]]--></category>
-		<category><!--[CDATA[Dr. Neera Dahl]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401188</guid>
+		<dc:creator><![CDATA[Colette Gallagher]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 17:23:25 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Fouad Chebib]]></category>
+		<category><![CDATA[Dr. Neera Dahl]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401188</guid>
 
-					<description><!--[CDATA[<p-->Mayo Clinic researchers provide practical guidance to slow Autosomal Dominant Polycystic Kidney Disease progression.<p></p>
+					<description><![CDATA[<p>Mayo Clinic researchers provide practical guidance to slow Autosomal Dominant Polycystic Kidney Disease progression.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/autosomal-dominant-polycystic-kidney-disease-early-intervention-and-lifestyle-crucial/">Autosomal Dominant Polycystic Kidney Disease: Early intervention and lifestyle crucial</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Polycystic-Kidney-Disease.mp4" playsinline=""></video>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Polycystic-Kidney-Disease.mp4" playsinline></video></figure>
 
 
 
@@ -174,7 +704,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-1024x683.jpg" alt="Photo of Fouad Chebib, M.D." class="wp-image-401212" style="width:381px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Fouad Chebib, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-1024x683.jpg" alt="Photo of Fouad Chebib, M.D." class="wp-image-401212" style="width:381px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/WF2382400_0006-1-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Fouad Chebib, M.D.</figcaption></figure></div>
 
 
 <p>"This is a vital resource for healthcare providers to stay informed about the latest diagnostic tools and treatment strategies to enhance patient care," says <a href="https://www.mayo.edu/research/faculty/chebib-fouad-t-m-d/bio-20434759" target="_blank" rel="noreferrer noopener">Fouad Chebib, M.D.</a>, a Mayo Clinic nephrologist and first author of the review. "It covers how the disease disrupts the normal functioning of the body, signs and symptoms of the disease, diagnosis, treatment and the likely outcome, equipping healthcare providers to manage this complex condition, improving the quality of life through timely, evidence-based care."</p>
@@ -185,7 +715,7 @@
 
 
 
-<p>ADPKD symptoms can vary from person to person. Some people may not have any symptoms, while others may experience high blood pressure, pain in the back or side, blood in the urine, frequent urinary tract infections and kidney stones.&nbsp;</p>
+<p>ADPKD symptoms can vary from person to person. Some people may not have any symptoms, while others may experience high blood pressure, pain in the back or side, blood in the urine, frequent urinary tract infections and kidney stones.&amp;nbsp;</p>
 
 
 
@@ -209,7 +739,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-819x1024.jpg" alt="Photo of Neera Dahl, M.D., Ph.D." class="wp-image-401193" style="width:240px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Neera Dahl, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-819x1024.jpg" alt="Photo of Neera Dahl, M.D., Ph.D." class="wp-image-401193" style="width:240px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dahl-Neera-K._30226695_20230227-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Neera Dahl, M.D., Ph.D.</figcaption></figure></div>
 
 
 <p>"This drug improves care and paves the way for future therapies that enhance the quality of life and delay kidney failure," explains <a href="https://www.mayo.edu/research/faculty/dahl-neera-k-m-d-ph-d/bio-20563449" target="_blank" rel="noreferrer noopener">Neera Dahl, M.D., Ph.D.</a>, Mayo Clinic nephrologist and senior author of the review.</p>
@@ -232,26 +762,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Polycystic-kidney-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Polycystic-kidney-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Fouad Chebib]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Neera Dahl]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Fouad Chebib]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Neera Dahl]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers identify a measurable genetic mutation as a significant predictor of metastasis and survival in pancreatic cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-measurable-genetic-mutation-as-a-significant-predictor-of-metastasis-and-survival-in-pancreatic-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-measurable-genetic-mutation-as-a-significant-predictor-of-metastasis-and-survival-in-pancreatic-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
-		<pubdate>Wed, 19 Mar 2025 16:03:35 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401026</guid>
+		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 16:03:35 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401026</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A new study by Mayo Clinic Comprehensive Cancer Center researchers found that the presence of a specific genetic mutation — KRAS circulating tumor DNA (ctDNA) — strongly indicates a higher risk of cancer spread and worse survival rates for patients with pancreatic ductal adenocarcinoma (PDAC). The mutation was identified using a readily […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A new study by Mayo Clinic Comprehensive Cancer Center researchers found that the presence of a specific genetic mutation — KRAS circulating tumor DNA (ctDNA) — strongly indicates a higher risk of cancer spread and worse survival rates for patients with pancreatic ductal adenocarcinoma (PDAC). The mutation was identified using a readily [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-measurable-genetic-mutation-as-a-significant-predictor-of-metastasis-and-survival-in-pancreatic-cancer/">Mayo Clinic researchers identify a measurable genetic mutation as a significant predictor of metastasis and survival in pancreatic cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-1024x576.png" alt="" class="wp-image-396933" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-1024x576.png" alt="" class="wp-image-396933" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -295,11 +825,11 @@
 
 
 
-<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -317,27 +847,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/1x1-DNA.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/11/16x9-DNA7.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic launches landmark study on rare neurological disease&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-landmark-study-on-rare-neurological-disease/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-landmark-study-on-rare-neurological-disease/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Tue, 18 Mar 2025 10:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Dr. Cousin]]--></category>
-		<category><!--[CDATA[Dr. Dhamija]]--></category>
-		<category><!--[CDATA[neurological diseases]]--></category>
-		<category><!--[CDATA[rare disease]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400938</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Dr. Cousin]]></category>
+		<category><![CDATA[Dr. Dhamija]]></category>
+		<category><![CDATA[neurological diseases]]></category>
+		<category><![CDATA[rare disease]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400938</guid>
 
-					<description><!--[CDATA[<p-->Every rare disease tells a story. Understanding how one unfolds&nbsp;— how it&nbsp;develops and evolves — is often the first step toward treating it. A small genetic error, a malfunctioning cell or a breakdown in a biological process can set disease in motion. But for many rare conditions, the course of progression remains unwritten.&nbsp; A groundbreaking […]<p></p>
+					<description><![CDATA[<p>Every rare disease tells a story. Understanding how one unfolds&amp;#160;— how it&amp;#160;develops and evolves — is often the first step toward treating it. A small genetic error, a malfunctioning cell or a breakdown in a biological process can set disease in motion. But for many rare conditions, the course of progression remains unwritten.&amp;#160; A groundbreaking [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-landmark-study-on-rare-neurological-disease/">Mayo Clinic launches landmark study on rare neurological disease&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1163976807.mp4" playsinline=""></video>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1163976807.mp4" playsinline></video></figure>
 
 
 
@@ -345,15 +875,15 @@
 
 
 
-<p>Every rare disease tells a story. Understanding how one unfolds&nbsp;— how it&nbsp;develops and evolves — is often the first step toward treating it. A small genetic error, a malfunctioning cell or a breakdown in a biological process can set disease in motion. But for many rare conditions, the course of progression remains unwritten.&nbsp;</p>
+<p>Every rare disease tells a story. Understanding how one unfolds&amp;nbsp;— how it&amp;nbsp;develops and evolves — is often the first step toward treating it. A small genetic error, a malfunctioning cell or a breakdown in a biological process can set disease in motion. But for many rare conditions, the course of progression remains unwritten.&amp;nbsp;</p>
 
 
 
-<p>A groundbreaking natural history study led by researchers at <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank" rel="noreferrer noopener">Mayo Clinic's Center for Individualized Medicine</a> and <a href="https://www.mayo.edu/research/departments-divisions/department-clinical-genomics-research/overview" target="_blank" rel="noreferrer noopener">Department of Clinical Genomics</a> aims to change that, advancing research for one rare disease with the potential to benefit many others.&nbsp;</p>
+<p>A groundbreaking natural history study led by researchers at <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank" rel="noreferrer noopener">Mayo Clinic's Center for Individualized Medicine</a> and <a href="https://www.mayo.edu/research/departments-divisions/department-clinical-genomics-research/overview" target="_blank" rel="noreferrer noopener">Department of Clinical Genomics</a> aims to change that, advancing research for one rare disease with the potential to benefit many others.&amp;nbsp;</p>
 
 
 
-<p>At the center of this effort is autosomal dominant leukodystrophy, a rare, hereditary neurodegenerative disorder. It is driven by a single genetic variant that causes an abnormal buildup of a protein. This disrupts nerve cell function and the brain's signaling network. Over time, this damage leads to a slow decline in movement, balance and essential body functions.&nbsp;</p>
+<p>At the center of this effort is autosomal dominant leukodystrophy, a rare, hereditary neurodegenerative disorder. It is driven by a single genetic variant that causes an abnormal buildup of a protein. This disrupts nerve cell function and the brain's signaling network. Over time, this damage leads to a slow decline in movement, balance and essential body functions.&amp;nbsp;</p>
 
 
 
@@ -361,21 +891,21 @@
 
 
 
-<p>This extensive study will track the disease from its earliest stages to advanced progression in patients from around the world. By analyzing patient medical records, brain imaging scans, genetic data, neurological assessments and more, researchers will develop a comprehensive dataset to identify key biological markers in people with the disease.&nbsp;&nbsp;</p>
+<p>This extensive study will track the disease from its earliest stages to advanced progression in patients from around the world. By analyzing patient medical records, brain imaging scans, genetic data, neurological assessments and more, researchers will develop a comprehensive dataset to identify key biological markers in people with the disease.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>These insights will serve as a foundation for future clinical trials.&nbsp;</p>
+<p>These insights will serve as a foundation for future clinical trials.&amp;nbsp;</p>
 
 
 
-<p>"Genetic therapies are increasingly becoming a reality for rare diseases, providing hope of a treatment that can address the root cause of the disease," says <a href="https://www.mayo.edu/research/faculty/cousin-margot-a-ph-d/bio-20503541" target="_blank" rel="noreferrer noopener">Margot Cousin, Ph.D.</a>, the study's lead investigator and director of the Center for Individualized Medicine's N-of-1 Therapeutics program. "We need to have systems in place to study these disorders so we can bring these therapies into clinical practice efficiently."&nbsp;</p>
+<p>"Genetic therapies are increasingly becoming a reality for rare diseases, providing hope of a treatment that can address the root cause of the disease," says <a href="https://www.mayo.edu/research/faculty/cousin-margot-a-ph-d/bio-20503541" target="_blank" rel="noreferrer noopener">Margot Cousin, Ph.D.</a>, the study's lead investigator and director of the Center for Individualized Medicine's N-of-1 Therapeutics program. "We need to have systems in place to study these disorders so we can bring these therapies into clinical practice efficiently."&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="796" height="495" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3.jpg" alt="" class="wp-image-397713" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3.jpg 796w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3-300x187.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3-768x478.jpg 768w" sizes="auto, (max-width: 796px) 100vw, 796px"><figcaption class="wp-element-caption">Margot Cousin, Ph.D.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="796" height="495" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3.jpg" alt="" class="wp-image-397713" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3.jpg 796w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3-300x187.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/margot-cousin3-768x478.jpg 768w" sizes="auto, (max-width: 796px) 100vw, 796px" /><figcaption class="wp-element-caption">Margot Cousin, Ph.D.</figcaption></figure>
 </div>
 
 
@@ -391,15 +921,15 @@
 
 
 
-<p>Autosomal dominant leukodystrophy is classified as an ultra-rare disease, meaning it affects a small number of people worldwide. Fewer than 50 families have been identified, but researchers believe many cases go undiagnosed due to its similarities to other neurological conditions and limited access to genetic testing.&nbsp;&nbsp;</p>
+<p>Autosomal dominant leukodystrophy is classified as an ultra-rare disease, meaning it affects a small number of people worldwide. Fewer than 50 families have been identified, but researchers believe many cases go undiagnosed due to its similarities to other neurological conditions and limited access to genetic testing.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Because it is so rare, most clinicians will never encounter a patient with autosomal dominant leukodystrophy (ADLD). When they do, the disease can be difficult to recognize, as its symptoms resemble other neurological disorders that affect the brain's protective nerve coating. This often leads to misdiagnosis and delays in care.&nbsp;</p>
+<p>Because it is so rare, most clinicians will never encounter a patient with autosomal dominant leukodystrophy (ADLD). When they do, the disease can be difficult to recognize, as its symptoms resemble other neurological disorders that affect the brain's protective nerve coating. This often leads to misdiagnosis and delays in care.&amp;nbsp;</p>
 
 
 
-<p>Further, the type of genetic alteration that causes autosomal dominant leukodystrophy may not be detected using some common genetic testing methodologies, putting even more importance on the clinical recognition of the disease. Researchers emphasize the need to increase awareness of the disease among neurologists to help patients receive an accurate diagnosis sooner.&nbsp;</p>
+<p>Further, the type of genetic alteration that causes autosomal dominant leukodystrophy may not be detected using some common genetic testing methodologies, putting even more importance on the clinical recognition of the disease. Researchers emphasize the need to increase awareness of the disease among neurologists to help patients receive an accurate diagnosis sooner.&amp;nbsp;</p>
 
 
 
@@ -407,17 +937,17 @@
 
 
 
-<p>This natural history study is a collaboration with Children's Hospital of Philadelphia through the <a href="https://theglia.org/" target="_blank" rel="noreferrer noopener">Global Leukodystrophy Initiative</a>. This initiative has extensive expertise and infrastructure needed to capture and analyze data on autosomal dominant leukodystrophy at depth.&nbsp;</p>
+<p>This natural history study is a collaboration with Children's Hospital of Philadelphia through the <a href="https://theglia.org/" target="_blank" rel="noreferrer noopener">Global Leukodystrophy Initiative</a>. This initiative has extensive expertise and infrastructure needed to capture and analyze data on autosomal dominant leukodystrophy at depth.&amp;nbsp;</p>
 
 
 
-<p>Mayo Clinic researchers are working within this collaboration to improve how the disease is studied and to ensure data collection meets the highest clinical research standards. &nbsp;</p>
+<p>Mayo Clinic researchers are working within this collaboration to improve how the disease is studied and to ensure data collection meets the highest clinical research standards. &amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="822" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-1024x822.jpg" alt="" class="wp-image-400982" style="width:347px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-1024x822.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-300x241.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-768x616.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-1536x1233.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-2048x1644.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Radhika Dhamija, M.B.B.S.</figcaption></figure></div></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="822" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-1024x822.jpg" alt="" class="wp-image-400982" style="width:347px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-1024x822.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-300x241.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-768x616.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-1536x1233.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/DR.DHAMIJA2-2048x1644.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Radhika Dhamija, M.B.B.S.</figcaption></figure></div></div>
 
 
 
@@ -432,7 +962,7 @@
 
 
 
-<p>This study is also supported by the <a href="https://adld.center/" target="_blank" rel="noreferrer noopener">ADLD Center</a>, a patient advocacy group, whose mission is to support research on the disease's pathology and therapy. The center provides patients, caregivers and families with essential resources and a strong support network. &nbsp;</p>
+<p>This study is also supported by the <a href="https://adld.center/" target="_blank" rel="noreferrer noopener">ADLD Center</a>, a patient advocacy group, whose mission is to support research on the disease's pathology and therapy. The center provides patients, caregivers and families with essential resources and a strong support network. &amp;nbsp;</p>
 
 
 
@@ -440,11 +970,11 @@
 
 
 
-<p>Alongside this natural history study, Mayo Clinic has established the Autosomal Dominant Leukodystrophy Clinical Care Center, dedicated to diagnosing and managing this disease. The center is led by <a href="https://www.mayo.edu/research/faculty/dhamija-radhika-m-b-b-s/bio-20433231" target="_blank" rel="noreferrer noopener">Radhika Dhamija, M.B.B.S.</a>, a neurologist and medical geneticist in the Mayo Clinic Department of Clinical Genomics. This clinical care center coordinates care across neurology, urology, radiology, genomics and other specialties to provide the highest level of care for patients.&nbsp;</p>
+<p>Alongside this natural history study, Mayo Clinic has established the Autosomal Dominant Leukodystrophy Clinical Care Center, dedicated to diagnosing and managing this disease. The center is led by <a href="https://www.mayo.edu/research/faculty/dhamija-radhika-m-b-b-s/bio-20433231" target="_blank" rel="noreferrer noopener">Radhika Dhamija, M.B.B.S.</a>, a neurologist and medical geneticist in the Mayo Clinic Department of Clinical Genomics. This clinical care center coordinates care across neurology, urology, radiology, genomics and other specialties to provide the highest level of care for patients.&amp;nbsp;</p>
 
 
 
-<p>"We are creating a dedicated clinical and research infrastructure for identifying patients earlier so they can receive the highest level of multidisciplinary care," says Dr. Dhamija. "This is about transforming the future of how we approach rare neurogenetic diseases."&nbsp;</p>
+<p>"We are creating a dedicated clinical and research infrastructure for identifying patients earlier so they can receive the highest level of multidisciplinary care," says Dr. Dhamija. "This is about transforming the future of how we approach rare neurogenetic diseases."&amp;nbsp;</p>
 
 
 
@@ -452,11 +982,11 @@
 
 
 
-<p>Mayo Clinic researchers see this natural history study on autosomal dominant leukodystrophy as a model for accelerating research in other ultra-rare conditions that remain understudied due to small patient populations.&nbsp;</p>
+<p>Mayo Clinic researchers see this natural history study on autosomal dominant leukodystrophy as a model for accelerating research in other ultra-rare conditions that remain understudied due to small patient populations.&amp;nbsp;</p>
 
 
 
-<p>"We're building a framework that brings scientific clarity to diseases that have remained long overlooked," Dr. Cousin says.&nbsp;&nbsp;</p>
+<p>"We're building a framework that brings scientific clarity to diseases that have remained long overlooked," Dr. Cousin says.&amp;nbsp;&amp;nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-landmark-study-on-rare-neurological-disease/">Mayo Clinic launches landmark study on rare neurological disease&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -464,31 +994,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1x1-brainmri.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9-brainmri.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Dr. Cousin]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Dhamija]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[neurological diseases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[rare disease]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Dr. Cousin]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Dhamija]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[neurological diseases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[rare disease]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers identify proteins linked to immunotherapy resistance in metastatic colorectal cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-proteins-linked-to-immunotherapy-resistance-in-metastatic-colorectal-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-proteins-linked-to-immunotherapy-resistance-in-metastatic-colorectal-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
-		<pubdate>Thu, 13 Mar 2025 14:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Frank Sinicrope]]--></category>
-		<category><!--[CDATA[Mayo Clinic Laboratories]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400706</guid>
+		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Frank Sinicrope]]></category>
+		<category><![CDATA[Mayo Clinic Laboratories]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400706</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A discovery by Mayo Clinic researchers may help explain why immunotherapy hasn't been helpful for many patients with metastatic colorectal cancer. In findings published in Clinical Cancer Research, the team identified specific proteins — fibronectin and smooth muscle actin — within colorectal cancer tissues that are associated with resistance to immunotherapy treatment. […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A discovery by Mayo Clinic researchers may help explain why immunotherapy hasn't been helpful for many patients with metastatic colorectal cancer. In findings published in Clinical Cancer Research, the team identified specific proteins — fibronectin and smooth muscle actin — within colorectal cancer tissues that are associated with resistance to immunotherapy treatment. [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-proteins-linked-to-immunotherapy-resistance-in-metastatic-colorectal-cancer/">Mayo Clinic researchers identify proteins linked to immunotherapy resistance in metastatic colorectal cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/fade_immunotherapy_16x9.mp4"></video><figcaption class="wp-element-caption">Immunofluorescent microscopy images of colorectal cancer tissues showing tumor cells and surrounding stroma including immune cells. Credit: Mayo Clinic</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/fade_immunotherapy_16x9.mp4"></video><figcaption class="wp-element-caption">Immunofluorescent microscopy images of colorectal cancer tissues showing tumor cells and surrounding stroma including immune cells. Credit: Mayo Clinic</figcaption></figure>
 
 
 
@@ -508,7 +1038,7 @@
 
 
 
-<p>Dr. Sinicrope compares the spatial tools to an aerial view of a neighborhood where one can see relationships between driveways, houses, yards and neighboring structures. Similarly, this detailed view provides physicians and researchers with critical information about the proteins in and around a patient's cancer, potentially informing the best treatment for the patient.&nbsp;</p>
+<p>Dr. Sinicrope compares the spatial tools to an aerial view of a neighborhood where one can see relationships between driveways, houses, yards and neighboring structures. Similarly, this detailed view provides physicians and researchers with critical information about the proteins in and around a patient's cancer, potentially informing the best treatment for the patient.&amp;nbsp;</p>
 
 
 
@@ -524,7 +1054,7 @@
 
 
 
-<p>The discovery offers a step toward more personalized and effective colorectal cancer treatments. &nbsp;</p>
+<p>The discovery offers a step toward more personalized and effective colorectal cancer treatments. &amp;nbsp;</p>
 
 
 
@@ -532,11 +1062,11 @@
 
 
 
-<p>###&nbsp;</p>
+<p>###&amp;nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;</p>
 
 
 
@@ -544,12 +1074,12 @@
 
 
 
-<p><strong>Media contact:</strong> &nbsp;</p>
+<p><strong>Media contact:</strong> &amp;nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Kelley Luckstein, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a> &nbsp;</li>
+<li>Kelley Luckstein, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a> &amp;nbsp;</li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-proteins-linked-to-immunotherapy-resistance-in-metastatic-colorectal-cancer/">Mayo Clinic researchers identify proteins linked to immunotherapy resistance in metastatic colorectal cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -558,27 +1088,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/colorectal-cancer-tissue1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/colorectal-cancer-tissue16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Frank Sinicrope]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Laboratories]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Frank Sinicrope]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Laboratories]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Spatial biology puts potential disease targets in their place</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/spatial-biology-puts-potential-disease-targets-in-their-place/
+		<link>https://newsnetwork.mayoclinic.org/discussion/spatial-biology-puts-potential-disease-targets-in-their-place/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Wed, 12 Mar 2025 13:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Tamas Ordog]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400621</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Tamas Ordog]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400621</guid>
 
-					<description><!--[CDATA[<p-->Spatial biology is changing the way biomedical research is conducted, spurring advances in health.<p></p>
+					<description><![CDATA[<p>Spatial biology is changing the way biomedical research is conducted, spurring advances in health.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/spatial-biology-puts-potential-disease-targets-in-their-place/">Spatial biology puts potential disease targets in their place</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-1024x576.jpg" alt="Graphical representation of cell types identified in a human postmortem cardiac tissue specimen by spatial transcriptomic profiling. (Image courtesy of Dr. Fatima Ezzeddine and Dr. Esther Lutgens. Analysis by Christy Trussoni, Will Sherman, and Mariam Stein.)" class="wp-image-400729" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Graphical representation of cell types identified in a human postmortem cardiac tissue specimen by spatial transcriptomic profiling. (Image courtesy of Dr. Fatima Ezzeddine and Dr. Esther Lutgens. Analysis by Christy Trussoni, Will Sherman and Mariam Stein.)</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-1024x576.jpg" alt="Graphical representation of cell types identified in a human postmortem cardiac tissue specimen by spatial transcriptomic profiling. (Image courtesy of Dr. Fatima Ezzeddine and Dr. Esther Lutgens. Analysis by Christy Trussoni, Will Sherman, and Mariam Stein.)" class="wp-image-400729" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Graphical representation of cell types identified in a human postmortem cardiac tissue specimen by spatial transcriptomic profiling. (Image courtesy of Dr. Fatima Ezzeddine and Dr. Esther Lutgens. Analysis by Christy Trussoni, Will Sherman and Mariam Stein.)</figcaption></figure>
 
 
 
@@ -586,7 +1116,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/TamasOrdog.jpg" alt="Photo of Tamas Ordog, M.D." class="wp-image-400625" style="width:168px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/TamasOrdog.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/TamasOrdog-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px"><figcaption class="wp-element-caption">Tamas Ordog, M.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/TamasOrdog.jpg" alt="Photo of Tamas Ordog, M.D." class="wp-image-400625" style="width:168px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/TamasOrdog.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/TamasOrdog-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Tamas Ordog, M.D.</figcaption></figure></div>
 
 
 <p>"Spatial biology allows us to study how the local environment influences cellular interactions and behavior," says <a href="https://www.mayo.edu/research/faculty/ordog-tamas-m-d/bio-00095251" target="_blank" rel="noreferrer noopener">Tamas Ordog, M.D.</a>, professor of physiology at Mayo Clinic and director of the <a href="https://intranet.mayo.edu/charlie/spatial-multiomics-core/" target="_blank" rel="noreferrer noopener">Spatial Multiomics Core</a>. "In all honesty, you can hardly find a problem in biology and medicine that is not a spatial problem."</p>
@@ -641,30 +1171,30 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/spatial-biology-heart-tissue16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Tamas Ordog]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tamas Ordog]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Enhancing care for heart failure patients through a data-driven approach</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/enhancing-care-for-heart-failure-patients-through-a-data-driven-approach/
+		<link>https://newsnetwork.mayoclinic.org/discussion/enhancing-care-for-heart-failure-patients-through-a-data-driven-approach/</link>
 		
-		<dc:creator><!--[CDATA[Vincent Jacobbi]]--></dc:creator>
-		<pubdate>Wed, 12 Mar 2025 12:30:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Healthcare Delivery]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Jacob Jentzer]]--></category>
-		<category><!--[CDATA[Kern Center]]--></category>
-		<category><!--[CDATA[Kern Health Care Delivery Scholars]]--></category>
-		<category><!--[CDATA[Shannon Dunlay]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400623</guid>
+		<dc:creator><![CDATA[Vincent Jacobbi]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Healthcare Delivery]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Jacob Jentzer]]></category>
+		<category><![CDATA[Kern Center]]></category>
+		<category><![CDATA[Kern Health Care Delivery Scholars]]></category>
+		<category><![CDATA[Shannon Dunlay]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400623</guid>
 
-					<description><!--[CDATA[<p-->A recent Mayo Clinic study has made a data-driven discovery for patients with heart failure in the intensive care unit. Using machine learning, the researchers identified groups of patients with heart failure with higher and lower risk of mortality based on underlying patterns of laboratory values. "The goal of this study was to explore different […]<p></p>
+					<description><![CDATA[<p>A recent Mayo Clinic study has made a data-driven discovery for patients with heart failure in the intensive care unit. Using machine learning, the researchers identified groups of patients with heart failure with higher and lower risk of mortality based on underlying patterns of laboratory values. "The goal of this study was to explore different [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/enhancing-care-for-heart-failure-patients-through-a-data-driven-approach/">Enhancing care for heart failure patients through a data-driven approach</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"-->
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="443" data-id="400624" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992.jpg" alt="" class="wp-image-400624" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992-300x166.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992-768x425.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
-
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="443" data-id="400624" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992.jpg" alt="" class="wp-image-400624" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992-300x166.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992-768x425.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+</figure>
 
 
 
@@ -684,7 +1214,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Jentzer-Jacob-C.-MD_15028682_201507091049.jpg" alt="" class="wp-image-400632" style="width:237px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Jentzer-Jacob-C.-MD_15028682_201507091049.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Jentzer-Jacob-C.-MD_15028682_201507091049-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px"><figcaption class="wp-element-caption">Jacob Jentzer, M.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Jentzer-Jacob-C.-MD_15028682_201507091049.jpg" alt="" class="wp-image-400632" style="width:237px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Jentzer-Jacob-C.-MD_15028682_201507091049.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Jentzer-Jacob-C.-MD_15028682_201507091049-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px" /><figcaption class="wp-element-caption">Jacob Jentzer, M.D.</figcaption></figure></div>
 
 
 <p>Through the analysis, Dr. Jentzer and his colleagues identified five distinct groups, including patients with evidence of iron deficiency, kidney dysfunction, inflammation and poor blood flow. Each group had unique characteristics and risk profiles. Researchers underscore that by identifying these distinct groups, clinicians can craft treatment plans for each patient's needs and help to enhance outcomes and overall quality of care.</p>
@@ -725,14 +1255,14 @@
 
 
 
-<p>"The phenotypes and subgroups based on patterns of laboratory findings identified in this study have not been described before and could represent different noncardiac organ complications driven by different underlying biologic processes," says Dr. Jentzer. "This may help identify unique targeted therapies in a future study."&nbsp;</p>
+<p>"The phenotypes and subgroups based on patterns of laboratory findings identified in this study have not been described before and could represent different noncardiac organ complications driven by different underlying biologic processes," says Dr. Jentzer. "This may help identify unique targeted therapies in a future study."&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="535" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dunlay-Shannon-M._14329077_202402291143-1.jpg" alt="" class="wp-image-400633" style="width:215px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dunlay-Shannon-M._14329077_202402291143-1.jpg 535w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dunlay-Shannon-M._14329077_202402291143-1-201x300.jpg 201w" sizes="auto, (max-width: 535px) 100vw, 535px"><figcaption class="wp-element-caption">Shannon Dunlay, M.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="535" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dunlay-Shannon-M._14329077_202402291143-1.jpg" alt="" class="wp-image-400633" style="width:215px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dunlay-Shannon-M._14329077_202402291143-1.jpg 535w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dunlay-Shannon-M._14329077_202402291143-1-201x300.jpg 201w" sizes="auto, (max-width: 535px) 100vw, 535px" /><figcaption class="wp-element-caption">Shannon Dunlay, M.D.</figcaption></figure></div>
 
 
-<p>Researchers underscore the influence of the Kern Health Care Delivery Scholars Program on researchers conducting studies such as this that impact the practice and seek to improve healthcare delivery.&nbsp;</p>
+<p>Researchers underscore the influence of the Kern Health Care Delivery Scholars Program on researchers conducting studies such as this that impact the practice and seek to improve healthcare delivery.&amp;nbsp;</p>
 
 
 
@@ -740,7 +1270,7 @@
 
 
 
-<p>Review the&nbsp;<a href="https://onlinelibrary.wiley.com/doi/10.1002/ehf2.15027" target="_blank" rel="noreferrer noopener">study</a>&nbsp;for a complete list of authors, disclosures and funding.</p>
+<p>Review the&amp;nbsp;<a href="https://onlinelibrary.wiley.com/doi/10.1002/ehf2.15027" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;for a complete list of authors, disclosures and funding.</p>
 
 
 
@@ -748,7 +1278,7 @@
 
 
 
-<p>The<a href="https://www.mayo.edu/research/centers-programs/robert-d-patricia-e-kern-center-science-health-care-delivery/education-training" target="_blank" rel="noreferrer noopener">&nbsp;Mayo Clinic Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery&nbsp;</a>collaborates with clinical areas across Mayo to create and evaluate data-driven solutions to transform the experience of health and healthcare for patients, staff and communities. It drives continuous improvement of Mayo Clinic as a learning health system, enabling safe, evidence-based, high-quality care.</p>
+<p>The<a href="https://www.mayo.edu/research/centers-programs/robert-d-patricia-e-kern-center-science-health-care-delivery/education-training" target="_blank" rel="noreferrer noopener">&amp;nbsp;Mayo Clinic Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery&amp;nbsp;</a>collaborates with clinical areas across Mayo to create and evaluate data-driven solutions to transform the experience of health and healthcare for patients, staff and communities. It drives continuous improvement of Mayo Clinic as a learning health system, enabling safe, evidence-based, high-quality care.</p>
 
 
 
@@ -760,33 +1290,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-973136992-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Jacob Jentzer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Kern Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Kern Health Care Delivery Scholars]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Shannon Dunlay]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Jacob Jentzer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Kern Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Kern Health Care Delivery Scholars]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Shannon Dunlay]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers resolve a diagnostic odyssey for mother and son</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-resolve-a-diagnostic-odyssey-for-mother-and-son/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-resolve-a-diagnostic-odyssey-for-mother-and-son/</link>
 		
-		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
-		<pubdate>Tue, 11 Mar 2025 15:51:50 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Amir Sadighi Akha]]--></category>
-		<category><!--[CDATA[Dr. Dan Billadeau]]--></category>
-		<category><!--[CDATA[Dr. Elizabeth Ristagno]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400664</guid>
+		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 15:51:50 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Amir Sadighi Akha]]></category>
+		<category><![CDATA[Dr. Dan Billadeau]]></category>
+		<category><![CDATA[Dr. Elizabeth Ristagno]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400664</guid>
 
-					<description><!--[CDATA[<p-->Researchers revealed what appeared to be two separate health conditions stemmed from a single, shared genetic variant.<p></p>
+					<description><![CDATA[<p>Researchers revealed what appeared to be two separate health conditions stemmed from a single, shared genetic variant.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-resolve-a-diagnostic-odyssey-for-mother-and-son/">Mayo Clinic researchers resolve a diagnostic odyssey for mother and son</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-1024x576.jpg" alt="High angle shot of two unrecognizable scientists working in a lab. Getty Images" class="wp-image-400666" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-1024x576.jpg" alt="High angle shot of two unrecognizable scientists working in a lab. Getty Images" class="wp-image-400666" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 
 
 
-<p>A recent Mayo Clinic <a href="https://www.sciencedirect.com/science/article/pii/S0091674925001228" target="_blank" rel="noreferrer noopener">study</a>&nbsp;sought to understand the connection between a mother and son's health conditions and, along the way, discovered a broader implication for patients suffering from <a href="https://www.mayoclinic.org/diseases-conditions/primary-immunodeficiency/symptoms-causes/syc-20376905" target="_blank" rel="noreferrer noopener">immunodeficiencies</a>.</p>
+<p>A recent Mayo Clinic <a href="https://www.sciencedirect.com/science/article/pii/S0091674925001228" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;sought to understand the connection between a mother and son's health conditions and, along the way, discovered a broader implication for patients suffering from <a href="https://www.mayoclinic.org/diseases-conditions/primary-immunodeficiency/symptoms-causes/syc-20376905" target="_blank" rel="noreferrer noopener">immunodeficiencies</a>.</p>
 
 
 
@@ -806,7 +1336,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1622954_3876543_0055.jpg" alt="Photo of Amir Sadighi Akha, M.D., D.Phil." class="wp-image-400668" style="width:184px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1622954_3876543_0055.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1622954_3876543_0055-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px"><figcaption class="wp-element-caption">Amir Sadighi Akha, M.D., D.Phil.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1622954_3876543_0055.jpg" alt="Photo of Amir Sadighi Akha, M.D., D.Phil." class="wp-image-400668" style="width:184px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1622954_3876543_0055.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1622954_3876543_0055-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Amir Sadighi Akha, M.D., D.Phil.</figcaption></figure></div>
 
 
 <p>"Finding the variant and proving its effect on the patients' immune systems made it clear that their different clinical manifestations had the same underlying biological cause," says Amir Sadighi Akha, M.D., D.Phil., a consultant and laboratory director at the <a href="https://www.mayoclinic.org/departments-centers/laboratory-medicine-pathology/overview" target="_blank" rel="noreferrer noopener">Department of Laboratory Medicine and Pathology at Mayo Clinic</a>, the co-senior author of the study. "In a way, our findings gave their condition a name."</p>
@@ -821,7 +1351,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002.jpg" alt="Photo of Dan Billadeau, Ph.D." class="wp-image-400669" style="width:284px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"><figcaption class="wp-element-caption">Dan Billadeau, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002.jpg" alt="Photo of Dan Billadeau, Ph.D." class="wp-image-400669" style="width:284px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1666036_3927747_0002-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Dan Billadeau, Ph.D.</figcaption></figure></div>
 
 
 <p>"Working on immunodeficiencies is exciting and challenging at the same time, particularly when the disease under study is extremely rare, such as this one," Dr. Billadeau says. "The only way to do it is through concerted efforts by physicians and scientists in different disciplines, as was the case here."</p>
@@ -852,447 +1382,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/GettyImages-1276789642-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Amir Sadighi Akha]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Dan Billadeau]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Elizabeth Ristagno]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mayo Clinic announces transformative $1.9B investment in Arizona</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-announces-transformative-1-9b-investment-in-arizona/
-		
-		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
-		<pubdate>Mon, 03 Mar 2025 15:01:25 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Education]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[Bold Forward]]--></category>
-		<category><!--[CDATA[Bold. Forward. Unbound]]--></category>
-		<category><!--[CDATA[Dr. Gianrico Farrugia]]--></category>
-		<category><!--[CDATA[innovation]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400389</guid>
-
-					<description><!--[CDATA[<p-->Bold. Forward. Unbound. in Arizona will reimagine the healthcare experience for patients and staff and expand clinical space on the Phoenix campus by nearly 60% PHOENIX — Today, Mayo Clinic announced a nearly $1.9 billion investment in the continued transformation of its Phoenix campus as part of its Bold. Forward. strategy to Cure, Connect and […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-announces-transformative-1-9b-investment-in-arizona/">Mayo Clinic announces transformative $1.9B investment in Arizona</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/BFU-Arizona-Render-1024x576.jpg" alt="" class="wp-image-400390" style="aspect-ratio:16/9;object-fit:cover">
-
-
-
-<p class="has-text-align-center"><strong>Bold. Forward. Unbound. in Arizona will reimagine the healthcare experience for patients and staff and expand clinical space on the Phoenix campus by nearly 60%</strong></p>
-
-
-
-<p>PHOENIX — Today, <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> announced a nearly $1.9 billion investment in the continued transformation of its <a href="https://www.mayoclinic.org/patient-visitor-guide/arizona" target="_blank" rel="noreferrer noopener">Phoenix campus</a> as part of its <a href="https://www.linkedin.com/posts/mayo-clinic_boldforwardunbound-activity-7178404334513115137-Kx0y?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABwoiTIBzY17D8a6Q3RNtn4GbvE-QYUZDCE" target="_blank" rel="noreferrer noopener">Bold. Forward.</a> strategy to Cure, Connect and Transform healthcare for the benefit of patients everywhere.</p>
-
-
-
-<p>Bold. Forward. Unbound. in Arizona will enable new innovative care concepts, physical spaces and integrated technologies to create seamless care experiences for patients and a better workplace for staff.</p>
-
-
-
-<p>Mayo’s largest investment in the state, Bold. Forward. Unbound. in Arizona underscores Mayo Clinic's leadership in creating a next-generation healthcare model that scales solutions for more patients when and where they need them. By harnessing the power of innovative technology and integrating physical and digital care, Mayo Clinic aims to deliver more cures, improve patient outcomes and elevate the patient experience.</p>
-
-
-
-<p>"Bold. Forward. Unbound. in Arizona is the final major building block of Bold. Forward. Unbound., our complete reimagining of our physical infrastructure to enable all of Bold. Forward.," says <a href="https://www.mayoclinic.org/biographies/farrugia-gianrico-m-d/bio-20053394" target="_blank" rel="noreferrer noopener">Gianrico Farrugia, M.D.</a>, president and CEO of Mayo Clinic. "Through this work, we are physically and digitally transforming healthcare and blurring the lines between inpatient and outpatient care to support Category-of-One healthcare for our patients, a Category-of-One workplace for our staff and to serve as a blueprint for the world."</p>
-
-
-
-<p>This 1.2-million-square-foot expansion includes the construction of a new procedural building, a four-floor vertical and horizontal expansion of the Mayo Clinic Specialty Building, the integration of leading-edge technology, the addition of 11 new operating rooms and two new patient units supporting 48 additional beds, and an enhanced arrival experience for patients and visitors.</p>
-
-
-
-<p>The plan calls for a two-story, indoor promenade that wraps around the front of the campus, creating cohesion and convenience for patients and visitors as they move from building to building. Another prominent feature in the new design will be the development of care neighborhoods that cluster complementary clinical services for a more intuitive and connected patient experience.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeNeFQ7CoRPY" title="Richard J. Gray, M.D., CEO, Mayo Clinic in Arizona" width="500" height="281" src="https://www.youtube.com/embed/NeFQ7Co_RPY?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-</div></figure>
-
-
-
-<p><strong>Journalists: Broadcast-quality sound bites with Dr. Richard J. Gray, b-roll, photos and design renderings are available in the downloads at the end of the post. Please courtesy: "Mayo Clinic News Network." Name super/CG: Richard J. Gray, M.D., CEO, Mayo Clinic in Arizona</strong></p>
-
-
-
-<p>"This incredible investment will forever change the patient and staff experience in Arizona as Mayo Clinic grows and reinvents its nationally recognized clinical care, research and education," says <a href="https://www.mayoclinic.org/biographies/gray-richard-j-m-d/bio-20053485" target="_blank" rel="noreferrer noopener">Richard J. Gray, M.D.</a>, CEO of Mayo Clinic in Arizona. "Bold. Forward. Unbound. in Arizona will increase clinical space on the Phoenix campus by nearly 60 percent, allowing us to care for more patients than ever before. We look forward to setting new standards for patient care and medical innovation."</p>
-
-
-
-<p>Bold. Forward. Unbound. in Arizona is part of Mayo Clinic’s Bold. Forward. Unbound. physical plan to achieve seamless integration of physical spaces and digital capabilities to meet patients’ unmet and evolving needs across all sites. Projects are underway in <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-board-of-trustees-approves-enabling-projects-for-bold-forward-unbound-in-rochester/" target="_blank" rel="noreferrer noopener">Rochester, Minnesota</a>, and <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-invests-in-major-hospital-expansion-to-enhance-patient-experience/" target="_blank" rel="noreferrer noopener">Jacksonville, Florida</a>, and <a href="https://www.mayoclinichealthsystem.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Health System</a> recently completed projects in <a href="https://www.mayoclinichealthsystem.org/locations/mankato/expansion" target="_blank" rel="noreferrer noopener">Mankato, Minnesota</a>, and <a href="https://www.mayoclinichealthsystem.org/locations/la-crosse/newhospital" target="_blank" rel="noreferrer noopener">La Crosse, Wisconsin</a>. Design for the Arizona expansion begins this year with completion slated for 2031. This endeavor will involve numerous architectural and general contractor firms. An initial design and construction team of <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mccarthy.com%2F&amp;data=05%7C02%7CHames.Marty%40mayo.edu%7C61cbaa79b295424f6b6608dd5a2d90da%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638765873925913734%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=QnA%2FEG8GjiU57xUSpAPd1XancPjiRaLYYxj7G7q2ya0%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">McCarthy</a>, <a href="https://www.gensler.com/" target="_blank" rel="noreferrer noopener">Gensler</a> and <a href="https://www.arup.com/" target="_blank" rel="noreferrer noopener">Arup</a> Group has been formed, and more collaborators will be named in the coming months.</p>
-
-
-
-<p>"The dramatic growth in our metropolitan area, state and region has led to an escalating need for care of patients with complex medical conditions that is difficult to accommodate with our current technology and infrastructure," according to Dr. Gray. "We continue to believe that Arizona is a great place to advance new cures, new collaborations and Mayo's distinctive model of care."</p>
-
-
-
-<p>Media kit, including video, interviews, design renderings, and photos, <strong><a href="https://mcmedia.mayo.edu/Share/n46gov76dm5d7lahytt760hw40827266" target="_blank" rel="noreferrer noopener">available for download here</a></strong>.</p>
-
-
-
-<p>###</p>
-
-
-
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
-
-
-
-<p><strong>Media contact</strong>:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Marty Velasco Hames, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
-</ul>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity">
-
-
-
-<h2 class="wp-block-heading"><strong>Related stories</strong></h2>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://newsnetwork.mayoclinic.org/bold-forward-unbound-in-rochester/" target="_blank" rel="noreferrer noopener">Bold. Forward. Unbound. in Rochester</a></li>
-
-
-
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-board-of-trustees-approves-plans-to-transform-healthcare-improve-experience-for-staff-and-patients-redesign-rochester-campus/" target="_blank" rel="noreferrer noopener">Mayo Clinic Board of Trustees approves plans to transform healthcare, improve experience for staff and patients, redesign Rochester campus</a></li>
-
-
-
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-invests-in-major-hospital-expansion-to-enhance-patient-experience/" target="_blank" rel="noreferrer noopener">Mayo Clinic invests in major hospital expansion to enhance patient experience</a></li>
-
-
-
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-health-systems-new-hospital-in-la-crosse-wisconsin-integrates-innovative-technologies-and-design-to-support-the-overall-care-experience-for-patients-and-staff/" target="_blank" rel="noreferrer noopener">Mayo Clinic Health System’s new hospital in La Crosse, Wisconsin, integrates innovative technologies and design to support the overall care experience for patients and staff</a></li>
-
-
-
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-recognized-as-worlds-best-hospital-by-newsweek-for-the-seventh-straight-year/" target="_blank" rel="noreferrer noopener">Mayo Clinic recognized as ‘World’s Best Hospital’ by Newsweek for the seventh straight year</a></li>
-
-
-
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/10-mayo-clinic-research-advances-in-2024-spanning-stem-cell-therapy-in-space-to-growing-mini-organs/" target="_blank" rel="noreferrer noopener">10 Mayo Clinic research advances in 2024, spanning stem cell therapy in space to growing mini-organs</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-announces-transformative-1-9b-investment-in-arizona/">Mayo Clinic announces transformative $1.9B investment in Arizona</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/BFU-Arizona-Render-e1740990950104_1x1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/BFU-Arizona-Render-e1740990950104_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Bold Forward]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Bold. Forward. Unbound]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gianrico Farrugia]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[innovation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/BFU-Arizona-Render-e1740990950104-150x150.jpg</mayoclinic:mcthumb>	</item>
-		<item>
-		<title>Mayo’s residents and fellows make impact in the hospital and beyond</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayos-residents-and-fellows-make-impact-in-the-hospital-and-beyond/
-		
-		<dc:creator><!--[CDATA[Alexi Gonzalez]]--></dc:creator>
-		<pubdate>Thu, 27 Feb 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Education]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Annie Sadosty]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400288</guid>
-
-					<description><!--[CDATA[<p-->Thank a Resident &amp; Fellow Day is Friday, Feb. 28. Mayo Clinic leaders and community leaders show their support and appreciation for the contributions our residents make.<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayos-residents-and-fellows-make-impact-in-the-hospital-and-beyond/">Mayo’s residents and fellows make impact in the hospital and beyond</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<hr class="wp-block-separator has-alpha-channel-opacity" /-->
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-16x9-1-1024x576.jpg" alt="" class="wp-image-400309" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dakota McNierney, D.O., Pulmonary and Critical Care Resident, greets a patient.</figcaption></figure>
-
-
-
-<p><a id="_msocom_1"></a></p>
-
-
-
-<p>In 1931, Dr. William J. Mayo observed, "Each day, as I go through the hospitals surrounded by younger men [and women], they give me of their dreams and I give them of my experience, and I get the better of the exchange."</p>
-
-
-
-<p>Nearly a century later, these sentiments still ring true. Residents and fellows not only uphold the values of Mayo Clinic but also have an immeasurable influence on patient care, research, education and the communities where they train. As Mayo Clinic marks National Thank a Resident and Fellow Day on Friday, Feb. 28, it recognizes the countless contributions that its residents and fellows make.</p>
-
-
-
-<p>"We extend our heartfelt gratitude to the residents and fellows who have entrusted us with their training. These professionals represent our future workforce," says <a href="https://www.mayoclinic.org/biographies/sadosty-annie-t-m-d/bio-20054407" target="_blank" rel="noreferrer noopener">Annie Sadosty, M.D.</a>, dean of the <a href="https://college.mayo.edu/academics/residencies-and-fellowships/" target="_blank" rel="noreferrer noopener">Mayo Clinic School of Graduate Medical Education (MCGSME)</a>. "Graduate medical education is essential to what we do at Mayo Clinic, and we appreciate the commitment and compassion that our trainees bring to our institution. Every day, but especially today, we want to tell our residents and fellows 'Thank you for all that you do.'"</p>
-
-
-
-<p>MCSGME's residents and fellows don't just make a mark in our hospitals, they deliver the Mayo Model of Care to their local communities and beyond through service learning and volunteering.</p>
-
-
-
-<p>Here is what some local leaders had to say about our residents:</p>
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="3211" height="3209" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited.jpg" alt="" class="wp-image-400311" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited.jpg 3211w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Voeller-cornell2-edited-2048x2048.jpg 2048w" sizes="auto, (max-width: 3211px) 100vw, 3211px"></figure>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p style="font-size:19px"><em>"From the very beginning, The Salvation Army Good Samaritan Health Clinic has been dependent on the volunteer time of residents from Mayo Clinic. Thirty years later, the residents who volunteer at the Good Sam remain essential. They provide care our patients wouldn't be able to access anywhere else. They give both care and compassion to people who are very ill and often very afraid. We are so grateful to the many residents who have volunteered, and who currently volunteer, to make our clinic a place of refuge for thousands in need of healthcare. From our whole team at The Salvation Army, thank you!</em>"</p>
-
-
-
-<p style="font-size:19px">Cornell Voeller, Major, corps officer for business<br>The Salvation Army, Rochester, Minn.</p>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p style="font-size:18px"><em>"The Landing MN would like to express our deepest gratitude for your incredible work and dedication. Witnessing your compassion and commitment to serving Rochester community members experiencing homelessness has been truly inspiring. The empathy and care you show are a testament to the exceptional training you're receiving at Mayo ... and it gives us so much hope for the future of healthcare. We want to especially recognize the advent of the psychiatric support provided by you in our clinic, and the incredible impact made by this novel approach to mental healthcare. Thank you for all that you do; you make a profound difference in the lives of so many.</em>"</p>
-
-
-
-<p style="font-size:18px">Alex Hurlebaus, executive director<br>The Landing MN, Rochester, Minn.</p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/AlexHurlebaus-edited-1024x1024.jpg" alt="" class="wp-image-400318" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/AlexHurlebaus-edited-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/AlexHurlebaus-edited-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/AlexHurlebaus-edited-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/AlexHurlebaus-edited-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/AlexHurlebaus-edited-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/AlexHurlebaus-edited-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="533" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/CesarGonzalez-edited.jpg" alt="" class="wp-image-400314" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/CesarGonzalez-edited.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/CesarGonzalez-edited-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/CesarGonzalez-edited-150x150.jpg 150w" sizes="auto, (max-width: 533px) 100vw, 533px"></figure>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p style="font-size:20px"><em>"Serving our small, rural Minnesota town and its surrounding areas, our Mayo Clinic family medicine residents are the Center Clinic. For 20 years, our residents have provided compassionate and humanizing care to those with minimal resources. They extend Mayo Clinic's mission to those who would otherwise lack access. They inspire hope, promote health and make our community a better place. On this Thank a Resident Day, we celebrate their heart, leadership and commitment."</em></p>
-
-
-
-<p style="font-size:20px">Cesar A. Gonzalez, Ph.D.<br>president, Center Clinic, Rochester, Minn.</p>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p style="font-size:19px"><em>"We would like to extend our sincere gratitude to our amazing Mayo Clinic residents and fellows who give of their time and compassionate services to the patients in our Sulzbacher clinics. The weekly 'Mayo Learners Clinic' is a blessing to Sulzbacher, the vulnerable patients that we serve and to the community at large. If it were not for you, these patients might not receive the treatment that they need and would end up even more ill and in an emergency room or worse. Thank you, Mayo residents and fellows, for your critical partnership, service and empathy. We appreciate you more than you know."</em></p>
-
-
-
-<p style="font-size:19px">Cindy Funkhouser, president and CEO<br>Sulzbacher Center, Jacksonville, Fla.</p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/cindyFunkhouser.jpg" alt="" class="wp-image-400331" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/cindyFunkhouser.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/cindyFunkhouser-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/cindyFunkhouser-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/cindyFunkhouser-768x768.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
-</div>
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/SuzanneTaylor-edited-1024x1024.jpg" alt="" class="wp-image-400334" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/SuzanneTaylor-edited-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/SuzanneTaylor-edited-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/SuzanneTaylor-edited-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/SuzanneTaylor-edited-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/SuzanneTaylor-edited-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/SuzanneTaylor-edited-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p style="font-size:22px"><em>"By adding residents and fellows to our amazing provider team at Volunteers in Medicine we are reaching a new level of care. The residents and fellows add fresh eyes and ideas to our clinic and in turn are mentored by experienced MDs with a wealth of knowledge. Our patients enjoy seeing the residents and fellows and comment on the thoroughness of their visits and compassionate care given. Thank you!"</em></p>
-
-
-
-<p style="font-size:22px">Suzanne Taylor, chief operating officer<br>Volunteers in Medicine, Jacksonville, Fla.</p>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p style="font-size:21px"><em>"We love our Mayo residents! They travel from all over the country to come to Winslow Indian Healthcare and provide care on the Navajo Nation. They are really insanely smart, incredibly diligent and thoughtful and considerate to the culture and socioeconomic considerations of care out here. We love getting to work with them and are always eager to see where they go!"</em></p>
-
-
-
-<p style="font-size:21px">Evan Pulvers, M.D.<br>medical education site director, Winslow Indian Healthcare Center/Dilkon Medical Center, Arizona</p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="3024" height="3024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited.jpg" alt="" class="wp-image-400337" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited.jpg 3024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/EvanPulvers_headshot-edited-2048x2048.jpg 2048w" sizes="auto, (max-width: 3024px) 100vw, 3024px"></figure>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="2065" height="2066" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited.jpg" alt="" class="wp-image-400339" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited.jpg 2065w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Headshot-Dr.-Ellert-edited-2048x2048.jpg 2048w" sizes="auto, (max-width: 2065px) 100vw, 2065px"></figure>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p class="has-medium-font-size"><em>"The providers and staff at Circle the City are grateful for the Mayo residents and their commitment to their rotation at Circle the City.&nbsp; Their engagement and their commitment to work with our staff to serve the most vulnerable in our community is a testament to the type of physician they are striving to be."</em></p>
-
-
-
-<p class="has-medium-font-size">William Ellert, M.D.<br>chief medical officer, Circle the City, Arizona</p>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-
-
-
-<p class="has-medium-font-size"><em>"At the Chippewa Valley Free Clinic, we are so grateful to have the Family Medicine residents working at our clinic!&nbsp; They are thoughtful, compassionate and thorough. They provide an invaluable service to our vulnerable patient population. A heartfelt thank you to all the residents!"</em></p>
-
-
-
-<p class="has-medium-font-size">Lori Whitis, M.D.<br>medical director, Chippewa Valley Free Clinic, Wisconsin</p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="774" height="774" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/LoriWhitis-edited.jpg" alt="" class="wp-image-400341" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/LoriWhitis-edited.jpg 774w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/LoriWhitis-edited-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/LoriWhitis-edited-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/LoriWhitis-edited-768x768.jpg 768w" sizes="auto, (max-width: 774px) 100vw, 774px"></figure>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide">
-
-
-
-<h2 class="wp-block-heading">About Thank a Resident and Fellow Day</h2>
-
-
-
-<p>More than 2,000 residents and fellows are enrolled in 309 specialty programs across Mayo Clinic. In 2018, the Gold Humanism Honor Society dedicated a day of recognition to residents and fellows, encouraging medical students at chapters throughout the nation to show their gratitude and appreciation. Thank a Resident and Fellow Day has since expanded to hundreds of programs around the country. You can view more on the Mayo Clinic <a href="https://college.mayo.edu/academics/residencies-and-fellowships/choosing-mayo-clinic/thank-a-resident-and-fellow-day/" target="_blank" rel="noreferrer noopener">Thank a Resident and Fellow Day web page</a>.</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity">
-
-
-
-<p></p>
-
-
-
-<p><a id="_msocom_2"></a></p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayos-residents-and-fellows-make-impact-in-the-hospital-and-beyond/">Mayo’s residents and fellows make impact in the hospital and beyond</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-1x1-1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Thank-a-resident-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Annie Sadosty]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Amir Sadighi Akha]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Dan Billadeau]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Elizabeth Ristagno]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 

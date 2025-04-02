@@ -1,40 +1,48 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Transplant - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/transplant/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/transplant/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/transplant/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/transplant/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Tue, 01 Apr 2025 15:10:13 +0000</lastbuilddate>
+	<lastBuildDate>Tue, 01 Apr 2025 20:03:41 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
 		<title>Mayo Clinic Minute: Liver transplant for patients with advanced colorectal cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-liver-transplant-for-patients-with-advanced-colorectal-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-liver-transplant-for-patients-with-advanced-colorectal-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Tue, 01 Apr 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Denise Harnois]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400382</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Denise Harnois]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400382</guid>
 
-					<description><!--[CDATA[<p-->Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&nbsp;colorectal cancer&nbsp;has spread beyond the colon, often to the liver. When surgery isn't an option, a&nbsp;liver transplant&nbsp;may be a lifesaving alternative. Mayo Clinic is&nbsp;pioneering&nbsp;this approach, combining expertise in oncology and transplantation to […]<p></p>
+					<description><![CDATA[<p>Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&amp;#160;colorectal cancer&amp;#160;has spread beyond the colon, often to the liver. When surgery isn't an option, a&amp;#160;liver transplant&amp;#160;may be a lifesaving alternative. Mayo Clinic is&amp;#160;pioneering&amp;#160;this approach, combining expertise in oncology and transplantation to [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-liver-transplant-for-patients-with-advanced-colorectal-cancer/">Mayo Clinic Minute: Liver transplant for patients with advanced colorectal cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener">colorectal cancer</a>&nbsp;has spread beyond the colon, often to the liver. When surgery isn't an option, a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842" target="_blank" rel="noreferrer noopener">liver transplant</a>&nbsp;may be a lifesaving alternative. Mayo Clinic is&nbsp;<a href="https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-transplantation-for-patients-with-colorectal-liver-metastases/mac-20576145" target="_blank" rel="noreferrer noopener">pioneering&nbsp;</a>this approach, combining expertise in oncology and transplantation to offer new hope for patients with advanced colorectal cancer.<p></p>
+										<content:encoded><![CDATA[
+<p>Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener">colorectal cancer</a>&amp;nbsp;has spread beyond the colon, often to the liver. When surgery isn't an option, a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842" target="_blank" rel="noreferrer noopener">liver transplant</a>&amp;nbsp;may be a lifesaving alternative. Mayo Clinic is&amp;nbsp;<a href="https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-transplantation-for-patients-with-colorectal-liver-metastases/mac-20576145" target="_blank" rel="noreferrer noopener">pioneering&amp;nbsp;</a>this approach, combining expertise in oncology and transplantation to offer new hope for patients with advanced colorectal cancer.</p>
 
 
 
@@ -47,16 +55,16 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidhttpsyoutubet9CGEdbqigw" title="Mayo Clinic Minute: Liver transplant advanced colorectal cancer" width="500" height="281" src="https://www.youtube.com/embed/t9CGEdbqigw?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe id="videoidhttpsyoutubet9CGEdbqigw"  title="Mayo Clinic Minute: Liver transplant advanced colorectal cancer" width="500" height="281" src="https://www.youtube.com/embed/t9CGEdbqigw?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (1:13) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/FINAL-script-MCM-Liver-transplant-advanced-colorectal-cancer.pdf">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (1:13) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/FINAL-script-MCM-Liver-transplant-advanced-colorectal-cancer.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
-<p>Learning you have advanced colorectal cancer that has spread to the liver can be scary. In some cases, a liver transplant may offer hope, providing better outcomes when other treatments aren't an option.&nbsp;</p>
+<p>Learning you have advanced colorectal cancer that has spread to the liver can be scary. In some cases, a liver transplant may offer hope, providing better outcomes when other treatments aren't an option.&amp;nbsp;</p>
 
 
 
@@ -93,7 +101,7 @@
 
 
 
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">Mayo Clinic Q and A:&nbsp; Understanding</a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener"> </a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">colorectal cancer</a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">Mayo Clinic Q and A:&amp;nbsp; Understanding</a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener"> </a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">colorectal cancer</a></li>
 
 
 
@@ -114,25 +122,25 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/MCF-4000-liver-txp1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/MCF-4000-liver-txp16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Denise Harnois]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Denise Harnois]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Liver transplants offer new hope for colorectal cancer patients with liver metastasis</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/liver-transplants-offer-new-hope-for-colorectal-cancer-patients-with-liver-metastasis/
+		<link>https://newsnetwork.mayoclinic.org/discussion/liver-transplants-offer-new-hope-for-colorectal-cancer-patients-with-liver-metastasis/</link>
 		
-		<dc:creator><!--[CDATA[Heather Carlson Kehren]]--></dc:creator>
-		<pubdate>Tue, 01 Apr 2025 13:30:24 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Florida News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401426</guid>
+		<dc:creator><![CDATA[Heather Carlson Kehren]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 13:30:24 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Florida News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401426</guid>
 
-					<description><!--[CDATA[<p-->JACKSONVILLE, Fla. — Liver transplants are becoming a new treatment option for certain colorectal cancer patients whose cancer has spread to their liver and are ineligible for other surgical options. This innovative approach is providing hope to colorectal cancer patients who otherwise are often faced with a grim prognosis. "Colorectal cancer is the fourth-most-common cancer […]<p></p>
+					<description><![CDATA[<p>JACKSONVILLE, Fla. — Liver transplants are becoming a new treatment option for certain colorectal cancer patients whose cancer has spread to their liver and are ineligible for other surgical options. This innovative approach is providing hope to colorectal cancer patients who otherwise are often faced with a grim prognosis. "Colorectal cancer is the fourth-most-common cancer [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/liver-transplants-offer-new-hope-for-colorectal-cancer-patients-with-liver-metastasis/">Liver transplants offer new hope for colorectal cancer patients with liver metastasis</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img fetchpriority="high" decoding="async" width="853" height="480" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9.jpg" alt="" class="wp-image-401431" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9-768x432.jpg 768w" sizes="(max-width: 853px) 100vw, 853px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="853" height="480" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9.jpg" alt="" class="wp-image-401431" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9-768x432.jpg 768w" sizes="(max-width: 853px) 100vw, 853px" /></figure>
 
 
 
@@ -164,7 +172,7 @@
 
 
 
-<p><strong>Journalists:</strong>&nbsp;<strong>Press kit, including b-roll, photos and interviews available&nbsp;<a href="https://mcmedia.mayo.edu/Share/1u1x48187wl45o6y1ji7ly2c3vy8440n?FR_=1&amp;W=1262&amp;H=779" target="_blank" rel="noreferrer noopener">here</a>. Dr. Denise Harnois and Gary Gonzales are available for interviews. Please contact <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a> to schedule.</strong></p>
+<p><strong>Journalists:</strong>&amp;nbsp;<strong>Press kit, including b-roll, photos and interviews available&amp;nbsp;<a href="https://mcmedia.mayo.edu/Share/1u1x48187wl45o6y1ji7ly2c3vy8440n?FR_=1&amp;amp;W=1262&amp;amp;H=779" target="_blank" rel="noreferrer noopener">here</a>. Dr. Denise Harnois and Gary Gonzales are available for interviews. Please contact <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a> to schedule.</strong></p>
 
 
 
@@ -172,7 +180,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -194,25 +202,25 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Gary-and-Lydia-Gonzales_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Experts bust 5 myths about living kidney donation</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/experts-bust-5-myths-about-living-kidney-donation/
+		<link>https://newsnetwork.mayoclinic.org/discussion/experts-bust-5-myths-about-living-kidney-donation/</link>
 		
-		<dc:creator><!--[CDATA[Heather Carlson Kehren]]--></dc:creator>
-		<pubdate>Mon, 10 Mar 2025 14:15:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Transplant Patient Stories]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400677</guid>
+		<dc:creator><![CDATA[Heather Carlson Kehren]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2025 14:15:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Transplant Patient Stories]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400677</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — More than 90,000 people are on the waiting list for a kidney in the U.S. Unfortunately, less than a third of those waiting for a kidney transplant can expect to get one this year. This comes as rates of chronic kidney disease, which can lead to kidney failure, continue to climb across […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — More than 90,000 people are on the waiting list for a kidney in the U.S. Unfortunately, less than a third of those waiting for a kidney transplant can expect to get one this year. This comes as rates of chronic kidney disease, which can lead to kidney failure, continue to climb across [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/experts-bust-5-myths-about-living-kidney-donation/">Experts bust 5 myths about living kidney donation</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full is-resized"--><img decoding="async" width="640" height="360" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Smiles-side-by-side-16-x-9.jpg" alt="" class="wp-image-400682" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Smiles-side-by-side-16-x-9.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Smiles-side-by-side-16-x-9-300x169.jpg 300w" sizes="(max-width: 640px) 100vw, 640px"><figcaption class="wp-element-caption">Megan Barrowclough donated a kidney to her childhood best friend Regina Bence at Mayo Clinic.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="640" height="360" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Smiles-side-by-side-16-x-9.jpg" alt="" class="wp-image-400682" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Smiles-side-by-side-16-x-9.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Smiles-side-by-side-16-x-9-300x169.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">Megan Barrowclough donated a kidney to her childhood best friend Regina Bence at Mayo Clinic.</figcaption></figure>
 
 
 
@@ -316,7 +324,7 @@
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity">
+<hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
 
@@ -337,24 +345,24 @@
 	</item>
 		<item>
 		<title>Mayo Clinic Minute: What to expect as a living kidney donor</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-to-expect-as-a-living-kidney-donor/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-to-expect-as-a-living-kidney-donor/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Mon, 10 Mar 2025 13:15:00 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Carrie Jadlowiec]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400475</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2025 13:15:00 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Carrie Jadlowiec]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400475</guid>
 
-					<description><!--[CDATA[<p-->For those with kidney failure, the wait for a new kidney can take years. There just are not enough organs from deceased donors to fill the need. Fortunately, a person can live a healthy life with just one kidney, making living-donor kidney&nbsp;transplants&nbsp;an alternative to deceased-donor transplants. This means a healthy kidney is removed from a […]<p></p>
+					<description><![CDATA[<p>For those with kidney failure, the wait for a new kidney can take years. There just are not enough organs from deceased donors to fill the need. Fortunately, a person can live a healthy life with just one kidney, making living-donor kidney&amp;#160;transplants&amp;#160;an alternative to deceased-donor transplants. This means a healthy kidney is removed from a [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-to-expect-as-a-living-kidney-donor/">Mayo Clinic Minute: What to expect as a living kidney donor</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->For those with kidney failure, the wait for a new kidney can take years. There just are not enough organs from deceased donors to fill the need. Fortunately, a person can live a healthy life with just one kidney, making living-donor kidney&nbsp;<a href="https://www.mayoclinic.org/departments-centers/living-donor-transplantation/overview/ovc-20545462">transplants</a>&nbsp;an alternative to deceased-donor transplants. This means a healthy kidney is removed from a donor and placed into a patient whose kidneys are not working properly.<p></p>
+										<content:encoded><![CDATA[
+<p>For those with kidney failure, the wait for a new kidney can take years. There just are not enough organs from deceased donors to fill the need. Fortunately, a person can live a healthy life with just one kidney, making living-donor kidney&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/living-donor-transplantation/overview/ovc-20545462">transplants</a>&amp;nbsp;an alternative to deceased-donor transplants. This means a healthy kidney is removed from a donor and placed into a patient whose kidneys are not working properly.</p>
 
 
 
@@ -367,12 +375,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube81nEFqWdgA" title="Mayo Clinic Minute - What to expect as a living kidney donor" width="500" height="281" src="https://www.youtube.com/embed/_81nEFqWdgA?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube81nEFqWdgA"  title="Mayo Clinic Minute - What to expect as a living kidney donor" width="500" height="281" src="https://www.youtube.com/embed/_81nEFqWdgA?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (:59) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Final-SCRIPT-MCM-What-to-expect-as-a-living-kidney-donor.pdf">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (:59) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Final-SCRIPT-MCM-What-to-expect-as-a-living-kidney-donor.pdf">script</a>.</strong></p>
 
 
 
@@ -388,7 +396,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/kidney-transplant-living-donor-16-x-9.jpg" alt="Medical illustration of living kidney donation" class="wp-image-223198" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/kidney-transplant-living-donor-16-x-9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/kidney-transplant-living-donor-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/kidney-transplant-living-donor-16-x-9.jpg" alt="Medical illustration of living kidney donation" class="wp-image-223198" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/kidney-transplant-living-donor-16-x-9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/11/kidney-transplant-living-donor-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
 
 
 <h2 class="wp-block-heading">Risks </h2>
@@ -437,32 +445,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Carrie Jadlowiec]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Carrie Jadlowiec]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Tomorrow’s Cure: Groundbreaking advancements in larynx transplant</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-groundbreaking-advancements-in-larynx-transplant/
+		<title>Tomorrow&amp;#8217;s Cure: Groundbreaking advancements in larynx transplant</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-groundbreaking-advancements-in-larynx-transplant/</link>
 		
-		<dc:creator><!--[CDATA[Joel Streed]]--></dc:creator>
-		<pubdate>Wed, 05 Feb 2025 12:38:17 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. David Lott]]--></category>
-		<category><!--[CDATA[Dr. Marshall Strome]]--></category>
-		<category><!--[CDATA[Tomorrow's Cure]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=399581</guid>
+		<dc:creator><![CDATA[Joel Streed]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 12:38:17 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. David Lott]]></category>
+		<category><![CDATA[Dr. Marshall Strome]]></category>
+		<category><![CDATA[Tomorrow's Cure]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=399581</guid>
 
-					<description><!--[CDATA[<p-->Researchers are pioneering innovative ways to restore voice to those who have lost it, leveraging advancements in transplant surgery and 3D printing. Discover these groundbreaking developments in the latest episode of Tomorrow's Cure. Dr. David Lott, associate director of Mayo Clinic's Center for Regenerative Biotherapeutics and chair of the Department of Otolaryngology, joins his mentor, […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-groundbreaking-advancements-in-larynx-transplant/">Tomorrow’s Cure: Groundbreaking advancements in larynx transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>Researchers are pioneering innovative ways to restore voice to those who have lost it, leveraging advancements in transplant surgery and 3D printing. Discover these groundbreaking developments in the latest episode of Tomorrow's Cure. Dr. David Lott, associate director of Mayo Clinic's Center for Regenerative Biotherapeutics and chair of the Department of Otolaryngology, joins his mentor, [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-groundbreaking-advancements-in-larynx-transplant/">Tomorrow&amp;#8217;s Cure: Groundbreaking advancements in larynx transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-1024x576.jpg" alt="" class="wp-image-399582" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-1024x576.jpg" alt="" class="wp-image-399582" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>Researchers are pioneering innovative ways to restore voice to those who have lost it, leveraging advancements in transplant surgery and 3D printing. Discover these groundbreaking developments in the latest episode of <a href="https://careinfo.mayoclinic.org/tomorrows-cure-podcast?mc_id=global&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=tcseasontwoepisodethree&amp;utm_campaign=mayoclinic&amp;geo=global&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=190202" target="_blank" rel="noreferrer noopener">Tomorrow's Cure</a>.</p>
+<p>Researchers are pioneering innovative ways to restore voice to those who have lost it, leveraging advancements in transplant surgery and 3D printing. Discover these groundbreaking developments in the latest episode of <a href="https://careinfo.mayoclinic.org/tomorrows-cure-podcast?mc_id=global&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=tcseasontwoepisodethree&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=global&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=190202" target="_blank" rel="noreferrer noopener">Tomorrow's Cure</a>.</p>
 
 
 
@@ -483,7 +491,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoid3hcJjGIDJN4" title="Groundbreaking Advancements in Larynx Transplant | Tomorrow's Cure Season 2 Episode 3" width="500" height="281" src="https://www.youtube.com/embed/3hcJjGIDJN4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoid3hcJjGIDJN4"  title="Groundbreaking Advancements in Larynx Transplant | Tomorrow&amp;#039;s Cure Season 2 Episode 3" width="500" height="281" src="https://www.youtube.com/embed/3hcJjGIDJN4?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -500,7 +508,7 @@
 
 
 
-<p>To learn more about these transformative advancements, listen to the latest episode of <a href="https://careinfo.mayoclinic.org/tomorrows-cure-podcast?mc_id=global&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=tcseasontwoepisodethree&amp;utm_campaign=mayoclinic&amp;geo=global&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=190202" target="_blank" rel="noreferrer noopener">Tomorrow's Cure</a>. The podcast is available on all audio platforms, including Apple Podcasts, Spotify and Amazon Music. Episodes also can be viewed on <a href="https://www.youtube.com/playlist?list=PLSWR1ylG_6JZd7nHPPgpIaoq_iRHgXRoF" target="_blank" rel="noreferrer noopener">Mayo Clinic's&nbsp;YouTube channel</a>.</p>
+<p>To learn more about these transformative advancements, listen to the latest episode of <a href="https://careinfo.mayoclinic.org/tomorrows-cure-podcast?mc_id=global&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=tcseasontwoepisodethree&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=global&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=190202" target="_blank" rel="noreferrer noopener">Tomorrow's Cure</a>. The podcast is available on all audio platforms, including Apple Podcasts, Spotify and Amazon Music. Episodes also can be viewed on <a href="https://www.youtube.com/playlist?list=PLSWR1ylG_6JZd7nHPPgpIaoq_iRHgXRoF" target="_blank" rel="noreferrer noopener">Mayo Clinic's&nbsp;YouTube channel</a>.</p>
 
 
 
@@ -521,41 +529,41 @@
 
 
 <p><a href="https://newsnetwork.mayoclinic.org/discussion/preparing-for-mayos-first-larynx-transplant/">Research prepares for Mayo's first larynx transplant</a></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-groundbreaking-advancements-in-larynx-transplant/">Tomorrow’s Cure: Groundbreaking advancements in larynx transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-groundbreaking-advancements-in-larynx-transplant/">Tomorrow&amp;#8217;s Cure: Groundbreaking advancements in larynx transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_NewsNetwork__1080x1080_.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/MCP-17536_TC_S02E03_LT_YT-Thumbnail__1280x720_.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. David Lott]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Marshall Strome]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Tomorrow's Cure]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. David Lott]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Marshall Strome]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Tomorrow's Cure]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: How alcohol affects your liver</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-alcohol-affects-your-liver/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-alcohol-affects-your-liver/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Thu, 30 Jan 2025 14:08:33 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Andrew Keaveny]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398807</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 14:08:33 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Andrew Keaveny]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398807</guid>
 
-					<description><!--[CDATA[<p-->Excessive alcohol use can harm the body in many ways, including an increase in the risk of various cancers. It damages liver cells, leading to inflammation, scarring and serious conditions such as cirrhosis. Dr. Andrew Keaveny, a Mayo Clinic transplant hepatologist, says heavy drinking also can lead to&nbsp;alcoholic hepatitis, which is becoming more common in&nbsp;younger […]<p></p>
+					<description><![CDATA[<p>Excessive alcohol use can harm the body in many ways, including an increase in the risk of various cancers. It damages liver cells, leading to inflammation, scarring and serious conditions such as cirrhosis. Dr. Andrew Keaveny, a Mayo Clinic transplant hepatologist, says heavy drinking also can lead to&nbsp;alcoholic hepatitis, which is becoming more common in&nbsp;younger [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-how-alcohol-affects-your-liver/">Mayo Clinic Minute: How alcohol affects your liver</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Excessive alcohol use can harm the body in many ways, including an increase in the risk of various cancers. It damages liver cells, leading to inflammation, scarring and serious conditions such as cirrhosis.<p></p>
+										<content:encoded><![CDATA[
+<p>Excessive alcohol use can harm the body in many ways, including an increase in the risk of various cancers. It damages liver cells, leading to inflammation, scarring and serious conditions such as cirrhosis.</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/keaveny-andrew-p-m-d/bio-20054526" target="_blank" rel="noreferrer noopener">Dr. Andrew Keaveny</a>, a Mayo Clinic transplant hepatologist, says heavy drinking also can lead to&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388" target="_blank" rel="noreferrer noopener">alcoholic hepatitis</a>, which is becoming more common in&nbsp;<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828502#:~:text=Of%20most%20concern%2C%20adolescents%20and,increases%20in%20AH%2Drelated%20harms.&amp;text=The%20COVID%2D19%20pandemic%20further,AH%2C%20especially%20in%20young%20females." target="_blank" rel="noreferrer noopener">younger people</a>.</p>
+<p><a href="https://www.mayoclinic.org/biographies/keaveny-andrew-p-m-d/bio-20054526" target="_blank" rel="noreferrer noopener">Dr. Andrew Keaveny</a>, a Mayo Clinic transplant hepatologist, says heavy drinking also can lead to&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388" target="_blank" rel="noreferrer noopener">alcoholic hepatitis</a>, which is becoming more common in&nbsp;<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828502#:~:text=Of%20most%20concern%2C%20adolescents%20and,increases%20in%20AH%2Drelated%20harms.&amp;amp;text=The%20COVID%2D19%20pandemic%20further,AH%2C%20especially%20in%20young%20females." target="_blank" rel="noreferrer noopener">younger people</a>.</p>
 
 
 
@@ -564,16 +572,16 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeR4VyXCoVih8" title="Mayo Clinic Minute - How alcohol affects the liver" width="500" height="281" src="https://www.youtube.com/embed/R4VyXCoVih8?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeR4VyXCoVih8"  title="Mayo Clinic Minute - How alcohol affects the liver" width="500" height="281" src="https://www.youtube.com/embed/R4VyXCoVih8?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (1:09) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the</strong>&nbsp;<strong><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/SCRIPT-MCM-Alcohol-related-liver-disease-1-20.pdf" target="_blank" rel="noreferrer noopener">script</a></strong>.</p>
+<p><strong>Journalists: Broadcast-quality video (1:09) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the</strong>&amp;nbsp;<strong><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/SCRIPT-MCM-Alcohol-related-liver-disease-1-20.pdf" target="_blank" rel="noreferrer noopener">script</a></strong>.</p>
 
 
 
-<p>"Alcohol&nbsp;can cause liver damage. And in some individuals who drink excessively, it can result in significant complications," says Dr. Keaveny.</p>
+<p>"Alcohol&amp;nbsp;can cause liver damage. And in some individuals who drink excessively, it can result in significant complications," says Dr. Keaveny.</p>
 
 
 
@@ -581,11 +589,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-1024x682.jpg" alt="woman holding a glass of whisky, rum, or liquor while resting her head on the bar, focus on the glass of alcohol with her face blurred. Depiction of addiction, alcoholism, depression." class="wp-image-399126" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-1024x682.jpg" alt="woman holding a glass of whisky, rum, or liquor while resting her head on the bar, focus on the glass of alcohol with her face blurred. Depiction of addiction, alcoholism, depression." class="wp-image-399126" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>"There is a condition called acute alcoholic&nbsp;hepatitis,&nbsp;where the alcohol triggers an acute inflammatory process in the liver, and patients can become really quite sick, quite quickly," he says.</p>
+<p>"There is a condition called acute alcoholic&amp;nbsp;hepatitis,&amp;nbsp;where the alcohol triggers an acute inflammatory process in the liver, and patients can become really quite sick, quite quickly," he says.</p>
 
 
 
@@ -593,7 +601,7 @@
 
 
 
-<p>"Some of the more tragic cases of&nbsp;liver&nbsp;disease related to alcohol received now are due to young individuals who consume excessively, or binge alcohol," says Dr. Keaveny.</p>
+<p>"Some of the more tragic cases of&amp;nbsp;liver&amp;nbsp;disease related to alcohol received now are due to young individuals who consume excessively, or binge alcohol," says Dr. Keaveny.</p>
 
 
 
@@ -617,7 +625,7 @@
 
 
 
-<p>Connect with others like you for support and answers to your questions in the&nbsp;<a href="https://connect.mayoclinic.org/group/transplants/?utm_source=mayoclinic.org&amp;utm_medium=referral&amp;utm_campaign=connect_widget" target="_blank" rel="noreferrer noopener">Transplants Support Group</a>&nbsp;on Mayo Clinic Connect, an online patient community.</p>
+<p>Connect with others like you for support and answers to your questions in the&amp;nbsp;<a href="https://connect.mayoclinic.org/group/transplants/?utm_source=mayoclinic.org&amp;amp;utm_medium=referral&amp;amp;utm_campaign=connect_widget" target="_blank" rel="noreferrer noopener">Transplants Support Group</a>&amp;nbsp;on Mayo Clinic Connect, an online patient community.</p>
 
 
 
@@ -629,30 +637,30 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-bar-alcohol-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Andrew Keaveny]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Andrew Keaveny]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Dual procedure combines liver transplant, bariatric surgery</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-dual-procedure-combines-liver-transplant-bariatric-surgery/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-dual-procedure-combines-liver-transplant-bariatric-surgery/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Mon, 27 Jan 2025 16:50:20 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverse representation]]--></category>
-		<category><!--[CDATA[Dr. Julie Heimbach]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398817</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 16:50:20 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverse representation]]></category>
+		<category><![CDATA[Dr. Julie Heimbach]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398817</guid>
 
-					<description><!--[CDATA[<p-->Mayo Clinic surgeons have found that an&nbsp;innovative approach&nbsp;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. Dr. Julie Heimbach, director of the&nbsp;Mayo Clinic Transplant Center&nbsp;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues. […]<p></p>
+					<description><![CDATA[<p>Mayo Clinic surgeons have found that an&nbsp;innovative approach&nbsp;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. Dr. Julie Heimbach, director of the&nbsp;Mayo Clinic Transplant Center&nbsp;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues. [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-dual-procedure-combines-liver-transplant-bariatric-surgery/">Mayo Clinic Minute: Dual procedure combines liver transplant, bariatric surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Mayo Clinic surgeons have found that an&nbsp;<a href="https://medprofvideos.mayoclinic.org/videos/double-impact-pioneering-simultaneous-liver-transplant-and-gastric-sleeve-resection" target="_blank" rel="noreferrer noopener">innovative approach</a>&nbsp;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. <a href="https://www.mayoclinic.org/biographies/heimbach-julie-k-m-d/bio-20054676" target="_blank" rel="noreferrer noopener">Dr. Julie Heimbach</a>, director of the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891" target="_blank" rel="noreferrer noopener">Mayo Clinic Transplant Center</a>&nbsp;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues.<p></p>
+										<content:encoded><![CDATA[
+<p>Mayo Clinic surgeons have found that an&nbsp;<a href="https://medprofvideos.mayoclinic.org/videos/double-impact-pioneering-simultaneous-liver-transplant-and-gastric-sleeve-resection" target="_blank" rel="noreferrer noopener">innovative approach</a>&nbsp;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. <a href="https://www.mayoclinic.org/biographies/heimbach-julie-k-m-d/bio-20054676" target="_blank" rel="noreferrer noopener">Dr. Julie Heimbach</a>, director of the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891" target="_blank" rel="noreferrer noopener">Mayo Clinic Transplant Center</a>&nbsp;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues.</p>
 
 
 
@@ -665,7 +673,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeFX81RhxachU" title="Mayo Clinic Minute - Dual procedure combines liver transplant, bariatric surgery" width="500" height="281" src="https://www.youtube.com/embed/FX81RhxachU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeFX81RhxachU"  title="Mayo Clinic Minute - Dual procedure combines liver transplant, bariatric surgery" width="500" height="281" src="https://www.youtube.com/embed/FX81RhxachU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -690,7 +698,7 @@
 
 
 
-<p>"When a patient develops&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487%20?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">cirrhosis,</a>&nbsp;they can then need a liver transplant," Dr. Heimbach says.</p>
+<p>"When a patient develops&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487%20?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">cirrhosis,</a>&nbsp;they can then need a liver transplant," Dr. Heimbach says.</p>
 
 
 
@@ -698,7 +706,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg" alt="Dr. Julie Heimbach, surgical team, in surgery," class="wp-image-398841" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Julie Heimbach in surgery </figcaption></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg" alt="Dr. Julie Heimbach, surgical team, in surgery," class="wp-image-398841" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Julie Heimbach in surgery </figcaption></figure></div>
 
 
 <p>"We consider both liver transplant and what's called a <a href="https://www.mayoclinic.org/tests-procedures/sleeve-gastrectomy/about/pac-20385183" target="_blank" rel="noreferrer noopener">sleeve gastrectomy,</a> which is a type of weight-loss operation that can be used as a tool to help patients be successful in managing not only their liver disease with a liver transplant, but their obesity with the sleeve gastrectomy," Dr. Heimbach explains.</p>
@@ -721,34 +729,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-team-surgery-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-team-surgery-16-x-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverse representation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Julie Heimbach]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverse representation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Julie Heimbach]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Q and A: Living kidney donation can start a chain reaction</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-living-kidney-donation-can-start-a-chain-reaction/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-living-kidney-donation-can-start-a-chain-reaction/</link>
 		
-		<dc:creator><!--[CDATA[Susan Barber Lindquist]]--></dc:creator>
-		<pubdate>Fri, 24 Jan 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=397700</guid>
+		<dc:creator><![CDATA[Susan Barber Lindquist]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=397700</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I've signed up on my driver's license to be an organ donor if I die. It's important to me. I've also considered being a&nbsp;living kidney donor. I don't personally know someone who needs a kidney, but I've seen billboards and other advertisements from people seeking a kidney donor. Does that have something to […]<p></p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;I've signed up on my driver's license to be an organ donor if I die. It's important to me. I've also considered being a&amp;#160;living kidney donor. I don't personally know someone who needs a kidney, but I've seen billboards and other advertisements from people seeking a kidney donor. Does that have something to [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-living-kidney-donation-can-start-a-chain-reaction/">Mayo Clinic Q and A: Living kidney donation can start a chain reaction</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-1024x576.jpg" alt="Surgeons performing a kidney transplant" class="wp-image-363125" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-1024x576.jpg" alt="Surgeons performing a kidney transplant" class="wp-image-363125" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/Kidney-Transplant-Surgery16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
-<p><strong>DEAR MAYO CLINIC:</strong>&nbsp;I've signed up on my driver's license to be an organ donor if I die. It's important to me. I've also considered being a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/living-donor-kidney-transplant/pyc-20384838">living kidney donor</a>. I don't personally know someone who needs a kidney, but I've seen billboards and other advertisements from people seeking a kidney donor. Does that have something to do with a donor chain? I am not sure how it works. I'm a little scared and not quite ready to commit.&nbsp;</p>
-
-
-
-<p><strong>ANSWER:</strong>&nbsp;First, thank you for considering making a difference in the lives of others with the gift of life through transplant. Participating in your&nbsp;<a href="https://donatelife.net/how-you-can-help/take-action/get-involved-locally/">state donor registry</a>&nbsp;or the&nbsp;<a href="https://donatelife.net/donation/donor-registries/national-donate-life-registry/">National Donate Life Registry</a>&nbsp;helps people make their wishes about organ donation known in case of their death.</p>
+<p><strong>DEAR MAYO CLINIC:</strong>&amp;nbsp;I've signed up on my driver's license to be an organ donor if I die. It's important to me. I've also considered being a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/living-donor-kidney-transplant/pyc-20384838">living kidney donor</a>. I don't personally know someone who needs a kidney, but I've seen billboards and other advertisements from people seeking a kidney donor. Does that have something to do with a donor chain? I am not sure how it works. I'm a little scared and not quite ready to commit.&amp;nbsp;</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/departments-centers/living-donor-transplantation/overview/ovc-20545462">Living-donor transplantation</a>&nbsp;is an option for some organs. For people over 18 born with two functioning kidneys, they can donate one and continue to live a healthy life. An altruistic living-donor kidney transplant chain begins when someone donates a kidney without a specific individual in mind. That can start a chain effect of donors.&nbsp;</p>
+<p><strong>ANSWER:</strong>&amp;nbsp;First, thank you for considering making a difference in the lives of others with the gift of life through transplant. Participating in your&amp;nbsp;<a href="https://donatelife.net/how-you-can-help/take-action/get-involved-locally/">state donor registry</a>&amp;nbsp;or the&amp;nbsp;<a href="https://donatelife.net/donation/donor-registries/national-donate-life-registry/">National Donate Life Registry</a>&amp;nbsp;helps people make their wishes about organ donation known in case of their death.</p>
+
+
+
+<p><a href="https://www.mayoclinic.org/departments-centers/living-donor-transplantation/overview/ovc-20545462">Living-donor transplantation</a>&amp;nbsp;is an option for some organs. For people over 18 born with two functioning kidneys, they can donate one and continue to live a healthy life. An altruistic living-donor kidney transplant chain begins when someone donates a kidney without a specific individual in mind. That can start a chain effect of donors.&amp;nbsp;</p>
 
 
 
@@ -756,7 +764,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-1024x576.jpg" alt="Example of a transplant donor chain" class="wp-image-385229" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Example of a living kidney donor chain</figcaption></figure>
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-1024x576.jpg" alt="Example of a transplant donor chain" class="wp-image-385229" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Donor-2-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Example of a living kidney donor chain</figcaption></figure>
 
 
 
@@ -764,11 +772,11 @@
 
 
 
-<p>There's no limit on the chain. It can occur within one transplant program or at multiple transplant programs. In fact, we've had chains that have involved the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/overview/ovc-20203894">Mayo Clinic Transplant Center</a>&nbsp;at our three campuses in Rochester, Minnesota; Jacksonville, Florida; and Phoenix; as well as at several institutions around the country.</p>
+<p>There's no limit on the chain. It can occur within one transplant program or at multiple transplant programs. In fact, we've had chains that have involved the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/overview/ovc-20203894">Mayo Clinic Transplant Center</a>&amp;nbsp;at our three campuses in Rochester, Minnesota; Jacksonville, Florida; and Phoenix; as well as at several institutions around the country.</p>
 
 
 
-<p><a href="https://www.youtube.com/watch?v=XqsnI_PBKRI&amp;t=3s" target="_blank" rel="noreferrer noopener">Kidney function</a>&nbsp;is necessary to live. These two bean-shaped organs remove waste from the blood by producing urine. They play a role in controlling blood pressure, fluid balance, red blood cell counts and more. Living with one healthy kidney is possible, making&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/living-donor-transplant/about/pac-20384787#:~:text=The%20match%20is%20based%20on,transplant%20center%20policy%20allows%20it." target="_blank" rel="noreferrer noopener">living kidney donation</a>&nbsp;an option.</p>
+<p><a href="https://www.youtube.com/watch?v=XqsnI_PBKRI&amp;amp;t=3s" target="_blank" rel="noreferrer noopener">Kidney function</a>&amp;nbsp;is necessary to live. These two bean-shaped organs remove waste from the blood by producing urine. They play a role in controlling blood pressure, fluid balance, red blood cell counts and more. Living with one healthy kidney is possible, making&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/living-donor-transplant/about/pac-20384787#:~:text=The%20match%20is%20based%20on,transplant%20center%20policy%20allows%20it." target="_blank" rel="noreferrer noopener">living kidney donation</a>&amp;nbsp;an option.</p>
 
 
 
@@ -776,11 +784,11 @@
 
 
 
-<p><a href="https://connect.mayoclinic.org/blog/transplant/tab/resource-36/">Learning more about the living organ donor process</a>&nbsp;often helps calm people's concerns. While any medical procedure has risks, you should know we expect living donors to live a completely normal life after donation with no restrictions in terms of activities or diet. Typically, donors have a short stay in the hospital, about a day or two. The recovery period is six to eight weeks, but donors often feel back to normal within one to two weeks after donation.&nbsp;</p>
+<p><a href="https://connect.mayoclinic.org/blog/transplant/tab/resource-36/">Learning more about the living organ donor process</a>&amp;nbsp;often helps calm people's concerns. While any medical procedure has risks, you should know we expect living donors to live a completely normal life after donation with no restrictions in terms of activities or diet. Typically, donors have a short stay in the hospital, about a day or two. The recovery period is six to eight weeks, but donors often feel back to normal within one to two weeks after donation.&amp;nbsp;</p>
 
 
 
-<p>Potential donors go through an&nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/living-donor-transplantation-evaluation/gnc-20505893">evaluation</a>&nbsp;online with a basic screening and health questionnaire. Then a donor coordinator contacts you to discuss. If you decide to pursue donation and are a potential candidate, further medical evaluation is done.&nbsp;</p>
+<p>Potential donors go through an&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/living-donor-transplantation-evaluation/gnc-20505893">evaluation</a>&amp;nbsp;online with a basic screening and health questionnaire. Then a donor coordinator contacts you to discuss. If you decide to pursue donation and are a potential candidate, further medical evaluation is done.&amp;nbsp;</p>
 
 
 
@@ -788,7 +796,7 @@
 
 
 
-<p>The biggest thing I would say is thank you to all of our donor heroes — the deceased donors and their family members and our living-donor heroes who inspire us to do what we do every day.&nbsp;<strong><em>—&nbsp;</em></strong><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463"><strong><em>Shennen Mao, M.D.</em></strong></a><strong><em>, Transplant Surgery, Mayo Clinic, Jacksonville, Florida</em></strong></p>
+<p>The biggest thing I would say is thank you to all of our donor heroes — the deceased donors and their family members and our living-donor heroes who inspire us to do what we do every day.&amp;nbsp;<strong><em>—&amp;nbsp;</em></strong><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463"><strong><em>Shennen Mao, M.D.</em></strong></a><strong><em>, Transplant Surgery, Mayo Clinic, Jacksonville, Florida</em></strong></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-living-kidney-donation-can-start-a-chain-reaction/">Mayo Clinic Q and A: Living kidney donation can start a chain reaction</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -799,27 +807,27 @@
 	</item>
 		<item>
 		<title>(VIDEO) Who should get screened for cervical cancer, and when?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/who-should-get-screened-for-cervical-cancer-and-when/
+		<link>https://newsnetwork.mayoclinic.org/discussion/who-should-get-screened-for-cervical-cancer-and-when/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Thu, 23 Jan 2025 15:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Diversity]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[diverserepresentation]]--></category>
-		<category><!--[CDATA[Dr. Kathy MacLaughlin]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398558</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[diverserepresentation]]></category>
+		<category><![CDATA[Dr. Kathy MacLaughlin]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398558</guid>
 
-					<description><!--[CDATA[<p-->Editor's note: January is Cervical Cancer Awareness Month. When it comes to healthcare screening, different healthcare guideline organizations may have different recommendations. The same is true for cervical cancer screening. Cervical cancer is almost always caused by a persistent infection with high-risk strains of HPV. Routine screening has dramatically reduced cervical cancer deaths, and regular […]<p></p>
+					<description><![CDATA[<p>Editor's note: January is Cervical Cancer Awareness Month. When it comes to healthcare screening, different healthcare guideline organizations may have different recommendations. The same is true for cervical cancer screening. Cervical cancer is almost always caused by a persistent infection with high-risk strains of HPV. Routine screening has dramatically reduced cervical cancer deaths, and regular [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/who-should-get-screened-for-cervical-cancer-and-when/">(VIDEO) Who should get screened for cervical cancer, and when?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="1000" height="563" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9.jpg" alt="three young women laughing and smiling together" class="wp-image-232440" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9.jpg 1000w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="563" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9.jpg" alt="three young women laughing and smiling together" class="wp-image-232440" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9.jpg 1000w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -839,7 +847,7 @@
 
 
 
-<p>"They recommend screening for 21- to 65-year-olds, either with a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/pap-smear/about/pac-20394841" target="_blank" rel="noreferrer noopener">Pap smear</a>&nbsp;every three years or, starting at age 30, the Pap/HPV co-test, or the primary&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/hpv-test/about/pac-20394355" target="_blank" rel="noreferrer noopener">HPV test</a>&nbsp;every five years," she says.</p>
+<p>"They recommend screening for 21- to 65-year-olds, either with a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/pap-smear/about/pac-20394841" target="_blank" rel="noreferrer noopener">Pap smear</a>&amp;nbsp;every three years or, starting at age 30, the Pap/HPV co-test, or the primary&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/hpv-test/about/pac-20394355" target="_blank" rel="noreferrer noopener">HPV test</a>&amp;nbsp;every five years," she says.</p>
 
 
 
@@ -852,7 +860,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeZ58PGJPSUUU" title="Dr. Kathy MacLaughlin – Who should be screened for cervical cancer and when?" width="500" height="281" src="https://www.youtube.com/embed/Z58PGJPSUUU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeZ58PGJPSUUU"  title="Dr. Kathy MacLaughlin – Who should be screened for cervical cancer and when?" width="500" height="281" src="https://www.youtube.com/embed/Z58PGJPSUUU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -891,11 +899,11 @@
 
 
 
-<p>"Persistent high-risk human papillomavirus infection, or HPV, is the cause of the majority of cervical cancers. Anyone with a cervix who is sexually active is at risk, particularly if they haven't had the&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-protecting-kids-from-cancer-with-hpv-vaccine/">HPV vaccine series</a>," says Dr. MacLaughlin.</p>
+<p>"Persistent high-risk human papillomavirus infection, or HPV, is the cause of the majority of cervical cancers. Anyone with a cervix who is sexually active is at risk, particularly if they haven't had the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-protecting-kids-from-cancer-with-hpv-vaccine/">HPV vaccine series</a>," says Dr. MacLaughlin.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9-1024x576.jpg" alt="vial of human papillomavirus vaccine" class="wp-image-103619" style="width:652px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9-1024x576.jpg" alt="vial of human papillomavirus vaccine" class="wp-image-103619" style="width:652px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/10/HPV-vaccine-vial-16-x-9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 <p>Along with HPV, other risk factors for cervical cancer include:</p>
@@ -921,15 +929,15 @@
 
 
 <ul class="wp-block-list">
-<li>HPV vaccination is most effective if given to preteens/teens (females and males), but it is routinely recommended for all 9-26-year-olds and available through a shared decision-making discussion with your clinician for 27-45-year-olds (females and males).&nbsp;</li>
+<li>HPV vaccination is most effective if given to preteens/teens (females and males), but it is routinely recommended for all 9-26-year-olds and available through a shared decision-making discussion with your clinician for 27-45-year-olds (females and males).&amp;nbsp;</li>
 
 
 
-<li>Get screened at recommended intervals.&nbsp;</li>
+<li>Get screened at recommended intervals.&amp;nbsp;</li>
 
 
 
-<li>Appropriate management of abnormal screening results.&nbsp;&nbsp;</li>
+<li>Appropriate management of abnormal screening results.&amp;nbsp;&amp;nbsp;</li>
 </ul>
 
 
@@ -938,11 +946,11 @@
 
 
 
-<p>Dr. MacLaughlin says about 85%-90% of people will test negative or not have HPV. They will be advised to have repeat testing in three years — though that could change with future guideline updates to five-year interval screening.&nbsp;</p>
+<p>Dr. MacLaughlin says about 85%-90% of people will test negative or not have HPV. They will be advised to have repeat testing in three years — though that could change with future guideline updates to five-year interval screening.&amp;nbsp;</p>
 
 
 
-<p>However, for those with positive HPV test results, further testing will be needed.&nbsp;<br><br>Different types of high-risk HPV are being screened for, she says.</p>
+<p>However, for those with positive HPV test results, further testing will be needed.&amp;nbsp;<br><br>Different types of high-risk HPV are being screened for, she says.</p>
 
 
 
@@ -950,11 +958,11 @@
 
 
 
-<p>Dr. MacLaughlin explains that if other types of HPV are found on the self-collection test (not HPV 16, not HPV 18), the patient will need to return to the clinic for a Pap test to complete their cervical cancer screening, as that information is necessary to guide the next steps. She says there is a difference from a clinician-collected cervical sample for HPV testing because the lab can add a Pap test to the sample of cervical cells but cannot run a Pap test on vaginal samples. This is expected to happen about 10% of the time.&nbsp;</p>
+<p>Dr. MacLaughlin explains that if other types of HPV are found on the self-collection test (not HPV 16, not HPV 18), the patient will need to return to the clinic for a Pap test to complete their cervical cancer screening, as that information is necessary to guide the next steps. She says there is a difference from a clinician-collected cervical sample for HPV testing because the lab can add a Pap test to the sample of cervical cells but cannot run a Pap test on vaginal samples. This is expected to happen about 10% of the time.&amp;nbsp;</p>
 
 
 
-<p>The U.S. Preventive Services Task Force is updating its&nbsp;<a href="https://www.uspreventiveservicestaskforce.org/uspstf/document/draft-evidence-review/cervical-cancer-screening-adults-adolescents" target="_blank" rel="noreferrer noopener">recommendations</a>. In its draft recommendation statement, it endorses the HPV self-collection option for people aged 30 to 65.</p>
+<p>The U.S. Preventive Services Task Force is updating its&amp;nbsp;<a href="https://www.uspreventiveservicestaskforce.org/uspstf/document/draft-evidence-review/cervical-cancer-screening-adults-adolescents" target="_blank" rel="noreferrer noopener">recommendations</a>. In its draft recommendation statement, it endorses the HPV self-collection option for people aged 30 to 65.</p>
 
 
 
@@ -967,7 +975,7 @@
 
 
 
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-cervical-cancer/"><strong>Mayo Clinic Q&amp;A:</strong> What to know about cervical cancer</a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-cervical-cancer/"><strong>Mayo Clinic Q&amp;amp;A:</strong> What to know about cervical cancer</a></li>
 
 
 
@@ -980,28 +988,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/03/shutterstock_713436487_Fotor-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Kathy MacLaughlin]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Kathy MacLaughlin]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Beckett gets a lifesaving birthday gift</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/beckett-gets-a-lifesaving-birthday-gift/
+		<link>https://newsnetwork.mayoclinic.org/discussion/beckett-gets-a-lifesaving-birthday-gift/</link>
 		
-		<dc:creator><!--[CDATA[amymittlestadt]]--></dc:creator>
-		<pubdate>Fri, 03 Jan 2025 14:30:00 +0000</pubdate>
-				<category><!--[CDATA[Children's Center]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Samar Ibrahim]]--></category>
-		<category><!--[CDATA[Dr. Timucin Taner]]--></category>
-		<category><!--[CDATA[Patient Story]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398047</guid>
+		<dc:creator><![CDATA[amymittlestadt]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Children's Center]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Samar Ibrahim]]></category>
+		<category><![CDATA[Dr. Timucin Taner]]></category>
+		<category><![CDATA[Patient Story]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398047</guid>
 
-					<description><!--[CDATA[<p-->At birth, Beckett Hoggarth Beyer appeared to be a healthy newborn baby boy, growing and changing like a typical infant. But when his aunt — a physician — visited their home near Fargo, North Dakota, she noticed something was not right. Beckett's stools were light in color, and his skin tone was slightly more olive-toned […]<p></p>
+					<description><![CDATA[<p>At birth, Beckett Hoggarth Beyer appeared to be a healthy newborn baby boy, growing and changing like a typical infant. But when his aunt — a physician — visited their home near Fargo, North Dakota, she noticed something was not right. Beckett's stools were light in color, and his skin tone was slightly more olive-toned [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/beckett-gets-a-lifesaving-birthday-gift/">Beckett gets a lifesaving birthday gift</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-1024x577.jpg" alt="" class="wp-image-398054" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-768x433.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1.jpg 1535w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Beckett Hoggarth Beyer</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-1024x577.jpg" alt="" class="wp-image-398054" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1-768x433.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1.jpg 1535w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Beckett Hoggarth Beyer</figcaption></figure>
 
 
 
@@ -1013,7 +1021,7 @@
 
 
 
-<p>To find out more about the cause of Beckett's symptoms, the family traveled to Minneapolis to see a pediatric gastroenterologist. At just eight weeks of age, fearing Beckett had <a href="https://www.mayoclinic.org/white-stool/expert-answers/faq-20058216" target="_blank" rel="noreferrer noopener">biliary atresia</a> — the most common condition associated with his symptoms at this age — they pursued advanced care to investigate the cause of his liver disease.&nbsp;</p>
+<p>To find out more about the cause of Beckett's symptoms, the family traveled to Minneapolis to see a pediatric gastroenterologist. At just eight weeks of age, fearing Beckett had <a href="https://www.mayoclinic.org/white-stool/expert-answers/faq-20058216" target="_blank" rel="noreferrer noopener">biliary atresia</a> — the most common condition associated with his symptoms at this age — they pursued advanced care to investigate the cause of his liver disease.&amp;nbsp;</p>
 
 
 
@@ -1021,7 +1029,7 @@
 
 
 
-<p>After several rounds of genetic testing, they discovered that his liver disease was caused by <a href="https://www.mayoclinic.org/medical-professionals/pediatrics/news/mayo-clinics-pediatric-liver-clinic-provides-exceptional-care-for-patients-requiring-transplant/mac-20506620" target="_blank" rel="noreferrer noopener">Alagille syndrome</a>. This rare genetic disease affected his liver and bile ducts by reducing bile flow out of the liver and causing jaundice, which is the darkening and yellowing of the skin and the whites of the eyes.&nbsp;This bile buildup in the liver damages cells, eventually leading to liver failure.</p>
+<p>After several rounds of genetic testing, they discovered that his liver disease was caused by <a href="https://www.mayoclinic.org/medical-professionals/pediatrics/news/mayo-clinics-pediatric-liver-clinic-provides-exceptional-care-for-patients-requiring-transplant/mac-20506620" target="_blank" rel="noreferrer noopener">Alagille syndrome</a>. This rare genetic disease affected his liver and bile ducts by reducing bile flow out of the liver and causing jaundice, which is the darkening and yellowing of the skin and the whites of the eyes.&amp;nbsp;This bile buildup in the liver damages cells, eventually leading to liver failure.</p>
 
 
 
@@ -1029,7 +1037,7 @@
 
 
 
-<h2 class="wp-block-heading"><strong>Living with liver disease &nbsp;</strong></h2>
+<h2 class="wp-block-heading"><strong>Living with liver disease &amp;nbsp;</strong></h2>
 
 
 
@@ -1041,7 +1049,7 @@
 
 
 
-<p>Given a liver transplant was becoming a likely future necessity, Beckett’s family wanted the best for their son — so they sought the medical expertise of Mayo Clinic.&nbsp;</p>
+<p>Given a liver transplant was becoming a likely future necessity, Beckett’s family wanted the best for their son — so they sought the medical expertise of Mayo Clinic.&amp;nbsp;</p>
 
 
 
@@ -1093,7 +1101,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-1024x575.jpg" alt="" class="wp-image-398058" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1.jpg 1778w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Beckett in the hospital before his transplant</figcaption></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-1024x575.jpg" alt="" class="wp-image-398058" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-before-transplant-with-team-16x9-1.jpg 1778w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Beckett in the hospital before his transplant</figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><strong>Out with the old, in with the new</strong></h2>
@@ -1136,7 +1144,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-1024x576.jpg" alt="" class="wp-image-398051" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1.jpg 1536w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Beckett following his transplant</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-1024x576.jpg" alt="" class="wp-image-398051" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-after-transplant-16x9-1.jpg 1536w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Beckett following his transplant</figcaption></figure>
 
 
 
@@ -1168,6 +1176,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/12/Beckett-Beyer-in-sidexside-Original-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Samar Ibrahim]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Timucin Taner]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Patient Story]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Samar Ibrahim]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Timucin Taner]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Patient Story]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
