@@ -1,0 +1,15 @@
+<rss>
+  <channel>
+    <title>Example Feed</title>
+    <item>
+      <title>First Article</title>
+      <link>https://example.com/1</link>
+      <description>This is the first article</description>
+    </item>
+    <item>
+      <title>Second Article</title>
+      <link>https://example.com/2</link>
+      <description>This is the second article</description>
+    </item>
+  </channel>
+</rss>
