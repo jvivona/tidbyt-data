@@ -879,10 +879,6 @@
             "year": 1945
         },
         {
-            "text": "Carl Appel, österreichischer Architekt",
-            "year": 1944
-        },
-        {
             "text": "Robert Hanssen, US-amerikanischer Mitarbeiter des FBI, Spion für die Sowjetunion und Russland",
             "year": 1944
         },
@@ -1149,6 +1145,10 @@
         {
             "text": "Max Waldmeier, Schweizer Astronom und Sonnenforscher",
             "year": 1912
+        },
+        {
+            "text": "Carl Appel, österreichischer Architekt",
+            "year": 1911
         },
         {
             "text": "Wilhelm Banse, deutscher Politiker, MdB",
@@ -2577,28 +2577,28 @@
             "title": "Geschichte heute (Wikipedia)"
         },
         "events": [
-            29,
-            2,
-            8,
+            22,
+            40,
+            30,
+            57,
+            11,
             31,
-            5,
             21,
-            38,
-            10,
-            41,
-            11
+            50,
+            52,
+            7
         ],
         "births": [
-            128,
-            102,
-            19,
-            197
+            105,
+            36,
+            133,
+            128
         ],
         "deaths": [
-            111,
-            170,
-            4,
-            55
+            122,
+            96,
+            87,
+            120
         ]
     }
 }
