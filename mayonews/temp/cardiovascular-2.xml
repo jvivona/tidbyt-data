@@ -1,113 +1,105 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Cardiovascular - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/cardiovascular-2/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/cardiovascular-2/
 	<description>News Resources</description>
-	<lastBuildDate>Tue, 29 Apr 2025 19:20:36 +0000</lastBuildDate>
+	<lastbuilddate>Tue, 29 Apr 2025 19:20:36 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.8</generator>
 	<item>
 		<title>AI-ECG tools can help clinicians identify heart issues early in women planning to have children&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/
 		
-		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 18:15:00 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[AI Stethoscope]]></category>
-		<category><![CDATA[AI-ECG]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Cardiology]]></category>
-		<category><![CDATA[Cardiomyopathy]]></category>
-		<category><![CDATA[Dr. Anja Kinaszczuk]]></category>
-		<category><![CDATA[Dr. Demilade Adedinsewo]]></category>
-		<category><![CDATA[echocardiogram]]></category>
-		<category><![CDATA[Eko stethoscope]]></category>
-		<category><![CDATA[Electrocardiogram]]></category>
-		<category><![CDATA[Heart]]></category>
-		<category><![CDATA[heart and pregnancy]]></category>
-		<category><![CDATA[Heart Disease]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[prenatal care]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402404</guid>
+		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
+		<pubdate>Tue, 29 Apr 2025 18:15:00 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[AI Stethoscope]]--></category>
+		<category><!--[CDATA[AI-ECG]]--></category>
+		<category><!--[CDATA[artificial intelligence]]--></category>
+		<category><!--[CDATA[Cardiology]]--></category>
+		<category><!--[CDATA[Cardiomyopathy]]--></category>
+		<category><!--[CDATA[Dr. Anja Kinaszczuk]]--></category>
+		<category><!--[CDATA[Dr. Demilade Adedinsewo]]--></category>
+		<category><!--[CDATA[echocardiogram]]--></category>
+		<category><!--[CDATA[Eko stethoscope]]--></category>
+		<category><!--[CDATA[Electrocardiogram]]--></category>
+		<category><!--[CDATA[Heart]]--></category>
+		<category><!--[CDATA[heart and pregnancy]]--></category>
+		<category><!--[CDATA[Heart Disease]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[prenatal care]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402404</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. Mayo Clinic researchers, led by Anja [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. Mayo Clinic researchers, led by Anja […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/">AI-ECG tools can help clinicians identify heart issues early in women planning to have children&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg" alt="Dr. Demilade Adedinsewo and nurse review electrocardiogram (EKG) results on a monitor while the patient is lying down." class="wp-image-402445" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full"--><img fetchpriority="high" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg" alt="Dr. Demilade Adedinsewo and nurse review electrocardiogram (EKG) results on a monitor while the patient is lying down." class="wp-image-402445" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
 
 
 
-<p>ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers, led by <a href="https://www.mayoclinic.org/biographies/kinaszczuk-anja-m-d-o/bio-20490717" target="_blank" rel="noreferrer noopener">Anja Kinaszczuk, D.O.</a>, and <a href="https://www.mayo.edu/research/faculty/adedinsewo-demilade-a-m-b-ch-b/bio-20507418" target="_blank" rel="noreferrer noopener">Demilade Adedinsewo, M.D.</a>, tested artificial intelligence (AI) tools, using recordings from an <a href="https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983" target="_blank" rel="noreferrer noopener">electrocardiogram (ECG)</a> and a digital stethoscope, to find unknown heart problems in women of childbearing age seen in primary care.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+<p>ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers, led by <a href="https://www.mayoclinic.org/biographies/kinaszczuk-anja-m-d-o/bio-20490717" target="_blank" rel="noreferrer noopener">Anja Kinaszczuk, D.O.</a>, and <a href="https://www.mayo.edu/research/faculty/adedinsewo-demilade-a-m-b-ch-b/bio-20507418" target="_blank" rel="noreferrer noopener">Demilade Adedinsewo, M.D.</a>, tested artificial intelligence (AI) tools, using recordings from an <a href="https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983" target="_blank" rel="noreferrer noopener">electrocardiogram (ECG)</a> and a digital stethoscope, to find unknown heart problems in women of childbearing age seen in primary care.&nbsp;&nbsp;&nbsp;</p>
 
 
 
-<p><a href="https://doi.org/10.1370/afm.230627" target="_blank" rel="noreferrer noopener">Study findings</a> published in the Annals of Family Medicine show high diagnostic performance of these technologies to detect <a href="https://www.mayoclinic.org/tests-procedures/ekg/expert-answers/ejection-fraction/faq-20058286" target="_blank" rel="noreferrer noopener">left ventricular ejection fraction</a> below 50%, indicating heart muscle weakness. These tools were tested on two groups of women aged 18 to 49.&amp;nbsp;&amp;nbsp;</p>
+<p><a href="https://doi.org/10.1370/afm.230627" target="_blank" rel="noreferrer noopener">Study findings</a> published in the Annals of Family Medicine show high diagnostic performance of these technologies to detect <a href="https://www.mayoclinic.org/tests-procedures/ekg/expert-answers/ejection-fraction/faq-20058286" target="_blank" rel="noreferrer noopener">left ventricular ejection fraction</a> below 50%, indicating heart muscle weakness. These tools were tested on two groups of women aged 18 to 49.&nbsp;&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Group 1: 100 women already scheduled for an <a href="https://www.mayoclinic.org/tests-procedures/echocardiogram/about/pac-20393856" target="_blank" rel="noreferrer noopener">echocardiogram</a> (the best test to evaluate heart muscle function). They also had a standard clinical ECG and digital stethoscope recording of the heart’s electrical activity and heart sounds.&amp;nbsp;&amp;nbsp;</li>
+<li>Group 1: 100 women already scheduled for an <a href="https://www.mayoclinic.org/tests-procedures/echocardiogram/about/pac-20393856" target="_blank" rel="noreferrer noopener">echocardiogram</a> (the best test to evaluate heart muscle function). They also had a standard clinical ECG and digital stethoscope recording of the heart’s electrical activity and heart sounds.&nbsp;&nbsp;</li>
 </ul>
 
 
 
 <ul class="wp-block-list">
-<li>Group 2: 100 women seen for routine primary care visits to see how often the AI tools would find heart problems.&amp;nbsp;&amp;nbsp;&amp;nbsp;</li>
+<li>Group 2: 100 women seen for routine primary care visits to see how often the AI tools would find heart problems.&nbsp;&nbsp;&nbsp;</li>
 </ul>
 
 
 
-<p>The AI-ECG demonstrated an area under the curve (AUC) of .94 while the AI digital stethoscope, Eko DUO, achieved an even higher AUC of 0.98, indicating strong diagnostic accuracy. In the second cohort, the prevalence of positive AI screening results was 1% for the AI-ECG and 3.2% for the AI-stethoscope.&amp;nbsp;</p>
+<p>The AI-ECG demonstrated an area under the curve (AUC) of .94 while the AI digital stethoscope, Eko DUO, achieved an even higher AUC of 0.98, indicating strong diagnostic accuracy. In the second cohort, the prevalence of positive AI screening results was 1% for the AI-ECG and 3.2% for the AI-stethoscope.&nbsp;</p>
 
 
 
-<p>"Statistically, nearly half of pregnancies in this country are unplanned, and approximately 1% to 2% of women may have heart problems they don't know about. Our research findings suggest that these AI tools could be used to screen women before pregnancy, allowing for improved pregnancy planning and risk stratification, early treatment, and better health outcomes which addresses a critical gap in current maternal care," says Dr. Adedinsewo, a cardiologist and senior author of the study.&amp;nbsp;&amp;nbsp;</p>
+<p>"Statistically, nearly half of pregnancies in this country are unplanned, and approximately 1% to 2% of women may have heart problems they don't know about. Our research findings suggest that these AI tools could be used to screen women before pregnancy, allowing for improved pregnancy planning and risk stratification, early treatment, and better health outcomes which addresses a critical gap in current maternal care," says Dr. Adedinsewo, a cardiologist and senior author of the study.&nbsp;&nbsp;</p>
 
 
 
-<p>This research builds upon earlier published studies, including a <a href="https://pubmed.ncbi.nlm.nih.gov/38989045/" target="_blank" rel="noreferrer noopener">pilot prospective study</a> evaluating AI digital tools to detect pregnancy-related cardiomyopathy among obstetric patients in the U.S. and a <a href="https://www.nature.com/articles/s41591-024-03243-9" target="_blank" rel="noreferrer noopener">pragmatic randomized clinical trial</a> of women in Nigeria who were pregnant or had recently given birth. Collectively, this research highlights the potential of AI to modernize cardiovascular screening, enabling earlier identification and management of heart muscle weakness in women of reproductive age. Further research is underway to explore the potential of using these technologies to screen for heart weakness in broader populations.&amp;nbsp;&amp;nbsp;</p>
+<p>This research builds upon earlier published studies, including a <a href="https://pubmed.ncbi.nlm.nih.gov/38989045/" target="_blank" rel="noreferrer noopener">pilot prospective study</a> evaluating AI digital tools to detect pregnancy-related cardiomyopathy among obstetric patients in the U.S. and a <a href="https://www.nature.com/articles/s41591-024-03243-9" target="_blank" rel="noreferrer noopener">pragmatic randomized clinical trial</a> of women in Nigeria who were pregnant or had recently given birth. Collectively, this research highlights the potential of AI to modernize cardiovascular screening, enabling earlier identification and management of heart muscle weakness in women of reproductive age. Further research is underway to explore the potential of using these technologies to screen for heart weakness in broader populations.&nbsp;&nbsp;</p>
 
 
 
-<p>Mayo Clinic has licensed the underlying technology to EKO Health for its digital stethoscope with embedded ECG electrodes and to Anumana for the 12-lead ECG. Mayo Clinic and some study authors have a financial interest in this technology. Mayo Clinic will use any revenue it receives to support its not-for-profit mission in patient care, education and research.&amp;nbsp;</p>
+<p>Mayo Clinic has licensed the underlying technology to EKO Health for its digital stethoscope with embedded ECG electrodes and to Anumana for the 12-lead ECG. Mayo Clinic and some study authors have a financial interest in this technology. Mayo Clinic will use any revenue it receives to support its not-for-profit mission in patient care, education and research.&nbsp;</p>
 
 
 
-<p>###&amp;nbsp;</p>
+<p>###&nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;&amp;nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;&nbsp;</p>
 
 
 
-<p><strong>Media contact:</strong>&amp;nbsp;</p>
+<p><strong>Media contact:</strong>&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Terri Malloy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&amp;nbsp;</li>
+<li>Terri Malloy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/">AI-ECG tools can help clinicians identify heart issues early in women planning to have children&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -116,27 +108,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-1x1-1.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-16x9-1.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[AI Stethoscope]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[AI-ECG]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[artificial intelligence]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiomyopathy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Anja Kinaszczuk]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Demilade Adedinsewo]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[echocardiogram]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Eko stethoscope]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Electrocardiogram]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart and pregnancy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[prenatal care]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[AI Stethoscope]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[AI-ECG]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[artificial intelligence]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiomyopathy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Anja Kinaszczuk]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Demilade Adedinsewo]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[echocardiogram]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Eko stethoscope]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Electrocardiogram]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart and pregnancy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[prenatal care]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Double-transplant patient marks 5-year anniversary with thriving health</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/double-transplant-patient-marks-5-year-anniversary-with-thriving-health/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/double-transplant-patient-marks-5-year-anniversary-with-thriving-health/
 		
-		<dc:creator><![CDATA[Tia R. Ford]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 12:54:51 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Transplant]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Roderick Baptiste]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402147</guid>
+		<dc:creator><!--[CDATA[Tia R. Ford]]--></dc:creator>
+		<pubdate>Fri, 25 Apr 2025 12:54:51 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Transplant]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Roderick Baptiste]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402147</guid>
 
-					<description><![CDATA[<p>Hailing from the historic town of Natchitoches, Louisiana, Roderick Baptiste has spent the last 17 years in Columbus, Georgia. His journey, marked by unexpected health challenges, began to unfold when he moved to Georgia in 2008. During a routine visit to his local primary care physician, an underlying heart issue and high blood pressure were [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Hailing from the historic town of Natchitoches, Louisiana, Roderick Baptiste has spent the last 17 years in Columbus, Georgia. His journey, marked by unexpected health challenges, began to unfold when he moved to Georgia in 2008. During a routine visit to his local primary care physician, an underlying heart issue and high blood pressure were […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/double-transplant-patient-marks-5-year-anniversary-with-thriving-health/">Double-transplant patient marks 5-year anniversary with thriving health</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-1024x576.jpg" alt="Roderick Baptiste marks 5 yeras post a double-transplant and his health is thriving" class="wp-image-402152" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Roderick Baptiste</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-1024x576.jpg" alt="Roderick Baptiste marks 5 yeras post a double-transplant and his health is thriving" class="wp-image-402152" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Roderick Baptiste</figcaption>
 
 
 
@@ -148,7 +140,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="alignright size-medium"><img decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-300x300.jpg" alt="" class="wp-image-402160" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1.jpg 810w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Roderick and Ronita Baptiste</figcaption></figure></div>
+<figure class="alignright size-medium"><img decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-300x300.jpg" alt="" class="wp-image-402160" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste1-1x1-1.jpg 810w" sizes="(max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Roderick and Ronita Baptiste</figcaption></figure></div>
 
 
 <p>For several years, Roderick made efforts to manage his condition. "I was treated and was being sustained with changes in medications and many prayers," says Roderick. "In August of 2014, my cardiologist referred me to <a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a>, and this began my Mayo Clinic experience." At that time, his heart function had declined to a mere 10% ejection fraction, a measurement of the heart’s ability to pump oxygen-rich blood to the body.</p>
@@ -163,7 +155,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-300x300.jpg" alt="Roderick Baptiste in the hospital following his transplant" class="wp-image-402157" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-768x769.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1.jpg 1080w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Roderick Baptiste in the hospital following his transplant</figcaption></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-300x300.jpg" alt="Roderick Baptiste in the hospital following his transplant" class="wp-image-402157" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1-768x769.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-in-hospital-bed-with-heart-pillow-1x1-1.jpg 1080w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Roderick Baptiste in the hospital following his transplant</figcaption></figure></div>
 
 
 <p>Life took a slower pace in 2014 as daily activities became increasingly challenging. "Walking, talking, and normal, day-to-day routines slowly became more and more difficult to manage on my own," says Roderick. By August 2019, he had entered total kidney failure and required dialysis. Despite being listed for a heart and kidney transplant in December 2014, the wait extended for five long years, filled with monthly travels to Mayo Clinic for testing and assessments. Spring of 2019 brought multiple hospital admissions, and by December, his health had significantly deteriorated. In January 2020, Mayo Clinic admitted Roderick as an inpatient until a transplant could be performed. After a 23-day wait, he received a new heart and kidney on Feb. 22, 2020.</p>
@@ -178,7 +170,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="810" height="810" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1.jpg" alt="Roderick and Ronita Baptiste. Roderick had a double-transplant" class="wp-image-402155" style="width:810px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1.jpg 810w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1-768x768.jpg 768w" sizes="auto, (max-width: 810px) 100vw, 810px" /><figcaption class="wp-element-caption">Roderick and Ronita Baptiste</figcaption></figure></div>
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="810" height="810" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1.jpg" alt="Roderick and Ronita Baptiste. Roderick had a double-transplant" class="wp-image-402155" style="width:810px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1.jpg 810w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-and-Ronita-Baptiste2-1x1-1-768x768.jpg 768w" sizes="auto, (max-width: 810px) 100vw, 810px"><figcaption class="wp-element-caption">Roderick and Ronita Baptiste</figcaption></figure></div>
 
 
 <h2 class="wp-block-heading"><strong>Living his best life</strong> </h2>
@@ -197,26 +189,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Roderick-Baptiste-In-hospital-bed-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiovascular]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Roderick Baptiste]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiovascular]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Roderick Baptiste]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Q and A: Is intermittent fasting a helpful practice or health risk?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-is-intermittent-fasting-a-helpful-practice-or-health-risk/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-is-intermittent-fasting-a-helpful-practice-or-health-risk/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 13:02:13 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Francisco López Jiménez]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=399889</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Tue, 15 Apr 2025 13:02:13 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Francisco López Jiménez]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=399889</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&nbsp;My friend swears by intermittent fasting since her recent weight loss. I know it works for some people, but is it actually healthy?&nbsp;&nbsp;ANSWER:&nbsp;Although it may appear to be a new trend,&nbsp;intermittent fasting&nbsp;has been popular for over 1,500 years. While we know that it works for some people to lose weight, the reality is [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;My friend swears by intermittent fasting since her recent weight loss. I know it works for some people, but is it actually healthy?&nbsp;&nbsp;ANSWER:&nbsp;Although it may appear to be a new trend,&nbsp;intermittent fasting&nbsp;has been popular for over 1,500 years. While we know that it works for some people to lose weight, the reality is […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-is-intermittent-fasting-a-helpful-practice-or-health-risk/">Mayo Clinic Q and A: Is intermittent fasting a helpful practice or health risk?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-1024x576.jpg" alt="Alarm clock with cuterly hands representing intermittent fasting " class="wp-image-399969" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-1024x576.jpg" alt="Alarm clock with cuterly hands representing intermittent fasting " class="wp-image-399969" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -228,32 +220,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cutlery-hands-fasting-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Alarm-clock-cuterly-hands-fasting-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Francisco López Jiménez]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Francisco López Jiménez]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Heart disease: Why African American women need to take their hearts to heart</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/heart-disease-why-african-american-women-need-to-take-their-hearts-to-heart/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/heart-disease-why-african-american-women-need-to-take-their-hearts-to-heart/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 14:14:25 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Diversity]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Health System]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[diverse representation]]></category>
-		<category><![CDATA[Dr. Monique Freund]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=399154</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Thu, 10 Apr 2025 14:14:25 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Diversity]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Health System]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[diverse representation]]--></category>
+		<category><!--[CDATA[Dr. Monique Freund]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=399154</guid>
 
-					<description><![CDATA[<p>Heart disease is the No. 1 cause of death in women in the U.S. African American women have an even higher risk of dying from heart disease ― and at a younger age ― than white women, according to the&amp;#160;National Heart, Lung and Blood Institute. Each year, more African American women die from heart disease [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Heart disease is the No. 1 cause of death in women in the U.S. African American women have an even higher risk of dying from heart disease ― and at a younger age ― than white women, according to the&nbsp;National Heart, Lung and Blood Institute. Each year, more African American women die from heart disease […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/heart-disease-why-african-american-women-need-to-take-their-hearts-to-heart/">Heart disease: Why African American women need to take their hearts to heart</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-1024x576.jpg" alt="Portrait of an woman standing outdoors, older, African American/Black woman, dread locks, wearing jean jacket" class="wp-image-399186" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-1024x576.jpg" alt="Portrait of an woman standing outdoors, older, African American/Black woman, dread locks, wearing jean jacket" class="wp-image-399186" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-heart-disease/">Heart disease</a> is the No. 1 cause of death in women in the U.S. African American women have an even higher risk of dying from heart disease ― and at a younger age ― than white women, according to the&amp;nbsp;<a href="https://www.nhlbi.nih.gov/" target="_blank" rel="noreferrer noopener">National Heart, Lung and Blood Institute</a>. Each year, more African American women die from heart disease than breast cancer, lung cancer and strokes — combined.</p>
+<p><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-heart-disease/">Heart disease</a> is the No. 1 cause of death in women in the U.S. African American women have an even higher risk of dying from heart disease ― and at a younger age ― than white women, according to the&nbsp;<a href="https://www.nhlbi.nih.gov/" target="_blank" rel="noreferrer noopener">National Heart, Lung and Blood Institute</a>. Each year, more African American women die from heart disease than breast cancer, lung cancer and strokes — combined.</p>
 
 
 
@@ -266,11 +258,11 @@
 
 
 <ul class="wp-block-list">
-<li>Having the highest rates of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410" target="_blank" rel="noreferrer noopener">high blood pressure</a>, or hypertension, among non-Hispanic Black women.</li>
+<li>Having the highest rates of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410" target="_blank" rel="noreferrer noopener">high blood pressure</a>, or hypertension, among non-Hispanic Black women.</li>
 
 
 
-<li>Having the highest rates of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742" target="_blank" rel="noreferrer noopener">obesity</a>&amp;nbsp;among non-Hispanic Black and Hispanic women.</li>
+<li>Having the highest rates of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742" target="_blank" rel="noreferrer noopener">obesity</a>&nbsp;among non-Hispanic Black and Hispanic women.</li>
 
 
 
@@ -286,15 +278,15 @@
 
 
 
-<li>Developing&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439" target="_blank" rel="noreferrer noopener">polycystic ovary syndrome</a>.</li>
+<li>Developing&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439" target="_blank" rel="noreferrer noopener">polycystic ovary syndrome</a>.</li>
 
 
 
-<li>Developing&amp;nbsp;disorders related to <a href="https://newsnetwork.mayoclinic.org/discussion/high-blood-pressure-in-pregnancy-a-risk-factor-for-early-heart-disease/">high blood pressur</a>e&amp;nbsp;during pregnancy.</li>
+<li>Developing&nbsp;disorders related to <a href="https://newsnetwork.mayoclinic.org/discussion/high-blood-pressure-in-pregnancy-a-risk-factor-for-early-heart-disease/">high blood pressur</a>e&nbsp;during pregnancy.</li>
 
 
 
-<li>Developing&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/gestational-diabetes-what-to-know-during-pregnancy/">gestational diabetes</a>.</li>
+<li>Developing&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/gestational-diabetes-what-to-know-during-pregnancy/">gestational diabetes</a>.</li>
 
 
 
@@ -311,7 +303,7 @@
 
 
 
-<p>Another step toward making a healthy heart a priority is to follow the&amp;nbsp;<a href="https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8" target="_blank" rel="noreferrer noopener">American Heart Association's "Life's Essential 8"</a>&amp;nbsp;lifestyle changes:</p>
+<p>Another step toward making a healthy heart a priority is to follow the&nbsp;<a href="https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8" target="_blank" rel="noreferrer noopener">American Heart Association's "Life's Essential 8"</a>&nbsp;lifestyle changes:</p>
 
 
 
@@ -349,7 +341,7 @@
 
 
 
-<p>Campaigns, such as&amp;nbsp;<a rel="noreferrer noopener" href="https://www.goredforwomen.org/en/" target="_blank">Go Red for Women</a>, also help raise awareness about heart disease in women, risks and how-tos for healthy living.</p>
+<p>Campaigns, such as&nbsp;<a rel="noreferrer noopener" href="https://www.goredforwomen.org/en/" target="_blank">Go Red for Women</a>, also help raise awareness about heart disease in women, risks and how-tos for healthy living.</p>
 
 
 
@@ -377,36 +369,36 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Woman-portrait-outdoors-Getty-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverse representation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Monique Freund]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverse representation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Monique Freund]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Hockey exec wins faceoff against heart issue</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-hockey-exec-wins-faceoff-against-heart-issue/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-hockey-exec-wins-faceoff-against-heart-issue/
 		
-		<dc:creator><![CDATA[Jason Howland]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Cardiology Patient Stories]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Surgery]]></category>
-		<category><![CDATA[Chicago Blackhawks]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Allison Cabalka]]></category>
-		<category><![CDATA[Dr. Jason Anderson]]></category>
-		<category><![CDATA[heart surgery]]></category>
-		<category><![CDATA[Interventional Cardiology]]></category>
-		<category><![CDATA[Jason Howland]]></category>
-		<category><![CDATA[Kyle Davidson]]></category>
-		<category><![CDATA[Newsapp]]></category>
-		<category><![CDATA[pulmonary valve]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<category><![CDATA[transcatheter pulmonary valve replacement]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401672</guid>
+		<dc:creator><!--[CDATA[Jason Howland]]--></dc:creator>
+		<pubdate>Wed, 09 Apr 2025 14:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cardiology Patient Stories]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Surgery]]--></category>
+		<category><!--[CDATA[Chicago Blackhawks]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Allison Cabalka]]--></category>
+		<category><!--[CDATA[Dr. Jason Anderson]]--></category>
+		<category><!--[CDATA[heart surgery]]--></category>
+		<category><!--[CDATA[Interventional Cardiology]]--></category>
+		<category><!--[CDATA[Jason Howland]]--></category>
+		<category><!--[CDATA[Kyle Davidson]]--></category>
+		<category><!--[CDATA[Newsapp]]--></category>
+		<category><!--[CDATA[pulmonary valve]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<category><!--[CDATA[transcatheter pulmonary valve replacement]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401672</guid>
 
-					<description><![CDATA[<p>A general manager of a professional sports team is a job that inherently comes with a high amount of stress, difficulty and demand — making important decisions that affect the future of a franchise. But recently at Mayo Clinic, Chicago Blackhawks GM Kyle Davidson made a crucial choice about his personal health that affects his [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->A general manager of a professional sports team is a job that inherently comes with a high amount of stress, difficulty and demand — making important decisions that affect the future of a franchise. But recently at Mayo Clinic, Chicago Blackhawks GM Kyle Davidson made a crucial choice about his personal health that affects his […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-hockey-exec-wins-faceoff-against-heart-issue/">(VIDEO) Hockey exec wins faceoff against heart issue</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-1024x576.jpg" alt="" class="wp-image-401831" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Jason Anderson discussing the new valve with Kyle Davidson</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-1024x576.jpg" alt="" class="wp-image-401831" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson2-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Jason Anderson discussing the new valve with Kyle Davidson</figcaption>
 
 
 
@@ -414,7 +406,7 @@
 
 
 
-<p>But recently at Mayo Clinic, Chicago Blackhawks GM Kyle Davidson made a crucial choice about his personal health that affects his own future — undergo another <a href="https://www.mayoclinic.org/departments-centers/cardiovascular-surgery/sections/overview/ovc-20123422?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">open-heart surgery</a> or have a less invasive procedure to repair his heart.</p>
+<p>But recently at Mayo Clinic, Chicago Blackhawks GM Kyle Davidson made a crucial choice about his personal health that affects his own future — undergo another <a href="https://www.mayoclinic.org/departments-centers/cardiovascular-surgery/sections/overview/ovc-20123422?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">open-heart surgery</a> or have a less invasive procedure to repair his heart.</p>
 
 
 
@@ -423,12 +415,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidAVGKw5caxDiHSfq"  title="Hockey exec wins faceoff against heart issue" width="500" height="281" src="https://www.youtube.com/embed/ey_viorhEfY?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidAVGKw5caxDiHSfq" title="Hockey exec wins faceoff against heart issue" width="500" height="281" src="https://www.youtube.com/embed/ey_viorhEfY?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video pkg (4:08) is in the downloads&amp;nbsp;at the end of the post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Hockey-exec-wins-faceoff-against-heart-issue_SCRIPT-FINAL.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video pkg (4:08) is in the downloads&nbsp;at the end of the post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Hockey-exec-wins-faceoff-against-heart-issue_SCRIPT-FINAL.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -436,11 +428,11 @@
 
 
 
-<p>"I was born with <a href="https://www.mayoclinic.org/diseases-conditions/tetralogy-of-fallot/symptoms-causes/syc-20353477?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">tetralogy of Fallot</a>. It's a <a href="https://www.mayoclinic.org/diseases-conditions/congenital-heart-defects-children/symptoms-causes/syc-20350074?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">congenital heart defect</a>. I needed two open-heart surgeries right around when I was a year old," Kyle says.</p>
+<p>"I was born with <a href="https://www.mayoclinic.org/diseases-conditions/tetralogy-of-fallot/symptoms-causes/syc-20353477?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">tetralogy of Fallot</a>. It's a <a href="https://www.mayoclinic.org/diseases-conditions/congenital-heart-defects-children/symptoms-causes/syc-20350074?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">congenital heart defect</a>. I needed two open-heart surgeries right around when I was a year old," Kyle says.</p>
 
 
 
-<p>Five years ago, at the age of 31, Kyle had another open-heart surgery to place a new <a href="https://www.mayoclinic.org/tests-procedures/pulmonary-valve-repair-pulmonary-valve-replacement/about/pac-20385090?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">pulmonary valve</a> inside his heart.</p>
+<p>Five years ago, at the age of 31, Kyle had another open-heart surgery to place a new <a href="https://www.mayoclinic.org/tests-procedures/pulmonary-valve-repair-pulmonary-valve-replacement/about/pac-20385090?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">pulmonary valve</a> inside his heart.</p>
 
 
 
@@ -464,14 +456,14 @@
 
 
 
-<p>"He was noticing a limitation in his ability to exercise to his peak potential. And when we hear a limitation for exercise tolerance, to me, that is a big red flag," says <a href="https://www.mayoclinic.org/biographies/anderson-jason-h-m-d/bio-20415337?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Jason Anderson</a>, an interventional <a href="https://www.mayoclinic.org/departments-centers/cardiovascular-medicine/sections/specialty-groups/orc-20122387?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">cardiologist</a> at Mayo Clinic. "His valve was regurgitant, meaning he would send the blood forward. Part of the blood would come backward, and part would go forward. So every heartbeat, he's having some wasted flow that he's trying to keep up with. So your body compensates for that by trying to go faster and beat harder."</p>
+<p>"He was noticing a limitation in his ability to exercise to his peak potential. And when we hear a limitation for exercise tolerance, to me, that is a big red flag," says <a href="https://www.mayoclinic.org/biographies/anderson-jason-h-m-d/bio-20415337?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Jason Anderson</a>, an interventional <a href="https://www.mayoclinic.org/departments-centers/cardiovascular-medicine/sections/specialty-groups/orc-20122387?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">cardiologist</a> at Mayo Clinic. "His valve was regurgitant, meaning he would send the blood forward. Part of the blood would come backward, and part would go forward. So every heartbeat, he's having some wasted flow that he's trying to keep up with. So your body compensates for that by trying to go faster and beat harder."</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-300x300.jpg" alt="" class="wp-image-401830" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-768x767.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1.jpg 1081w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Kyles new valve</figcaption></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-300x300.jpg" alt="" class="wp-image-401830" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1-768x767.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-Valve-1x1-1.jpg 1081w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Kyles new valve</figcaption></figure></div>
 
 
-<p>A replacement pulmonary valve is needed. There are two options: another open-heart surgery or a less invasive <a href="https://www.mayoclinic.org/tests-procedures/pulmonary-valve-repair-pulmonary-valve-replacement/care-at-mayo-clinic/pcc-20385092?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">transcatheter procedure</a>.</p>
+<p>A replacement pulmonary valve is needed. There are two options: another open-heart surgery or a less invasive <a href="https://www.mayoclinic.org/tests-procedures/pulmonary-valve-repair-pulmonary-valve-replacement/care-at-mayo-clinic/pcc-20385092?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">transcatheter procedure</a>.</p>
 
 
 
@@ -487,7 +479,7 @@
 
 
 
-<p>"The procedure is basically to give him a new valve within his existing, surgically placed valve. We do that through a catheter method, where you place equipment into the heart. We work through a large tube that goes through the vein in his leg," says <a href="https://www.mayoclinic.org/biographies/cabalka-allison-m-d/bio-20053223?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Allison Cabalka</a>, an interventional cardiologist at Mayo Clinic.</p>
+<p>"The procedure is basically to give him a new valve within his existing, surgically placed valve. We do that through a catheter method, where you place equipment into the heart. We work through a large tube that goes through the vein in his leg," says <a href="https://www.mayoclinic.org/biographies/cabalka-allison-m-d/bio-20053223?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Allison Cabalka</a>, an interventional cardiologist at Mayo Clinic.</p>
 
 
 
@@ -503,7 +495,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-1024x576.jpg" alt="Dr. Allison Bavalka and Dr. Jason Anderson in surgery, working on a heart." class="wp-image-401832" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Cabalka and Dr. Anderson in surgery</figcaption></figure>
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-1024x576.jpg" alt="Dr. Allison Bavalka and Dr. Jason Anderson in surgery, working on a heart." class="wp-image-401832" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr-Anderson-and-Dr-Cabalka16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Cabalka and Dr. Anderson in surgery</figcaption></figure>
 
 
 
@@ -531,31 +523,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kyle-Davidson-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Cardiovascular]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Chicago Blackhawks]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Allison Cabalka]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jason Anderson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart surgery]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Interventional Cardiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Jason Howland]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Kyle Davidson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[pulmonary valve]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[transcatheter pulmonary valve replacement]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Cardiovascular]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Chicago Blackhawks]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Allison Cabalka]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jason Anderson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart surgery]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Interventional Cardiology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Jason Howland]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Kyle Davidson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[pulmonary valve]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[transcatheter pulmonary valve replacement]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Q and A: Active work stations because sitting all day is bad for your health</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-active-work-stations-because-sitting-all-day-is-bad-for-your-health/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-active-work-stations-because-sitting-all-day-is-bad-for-your-health/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 15:35:06 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Health &amp; Wellness]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Franciso Lopez-Jimenez]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=399898</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Thu, 20 Mar 2025 15:35:06 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Health & Wellness]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Franciso Lopez-Jimenez]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=399898</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;One of the biggest things I have missed since my office went remote is going on walks with my coworkers throughout the day. With so many added responsibilities at work, I can hardly find time to leave my desk. How is all this sitting affecting me? How can I find a balance? ANSWER:&nbsp;We [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;One of the biggest things I have missed since my office went remote is going on walks with my coworkers throughout the day. With so many added responsibilities at work, I can hardly find time to leave my desk. How is all this sitting affecting me? How can I find a balance? ANSWER:&nbsp;We […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-active-work-stations-because-sitting-all-day-is-bad-for-your-health/">Mayo Clinic Q and A: Active work stations because sitting all day is bad for your health</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-1024x576.jpg" alt="back of woman rubbing neck while walking on treadmill at desk, active workstation" class="wp-image-387808" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-1024x576.jpg" alt="back of woman rubbing neck while walking on treadmill at desk, active workstation" class="wp-image-387808" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-treadmill-desk-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p><strong>DEAR MAYO CLINIC:</strong>&amp;nbsp;One of the biggest things I have missed since my office went remote is going on walks with my coworkers throughout the day. With so many added responsibilities at work, I can hardly find time to leave my desk. How is all this sitting affecting me? How can I find a balance?</p>
+<p><strong>DEAR MAYO CLINIC:</strong>&nbsp;One of the biggest things I have missed since my office went remote is going on walks with my coworkers throughout the day. With so many added responsibilities at work, I can hardly find time to leave my desk. How is all this sitting affecting me? How can I find a balance?</p>
 
 
 
@@ -575,7 +567,7 @@
 
 
 
-<p>While "activity snacking" is an affordable way to implement movement into your daily routine, you don't need a lot of money or a big investment to switch up your office furniture. There are some adapters out there that you put on top of your desk to raise or lower your monitor or laptop computer, allowing you to stand. Some people get creative and use a stack of books or other existing items. The bottom line is that everyone should feel motivated to redesign their home offices in order to be active longer throughout the day. This leaves us with less room for excuses. And, if you have days where you’re stuck going into the office, you still have options. Consider taking the stairs instead of the elevator.&amp;nbsp;<em>—&amp;nbsp;</em><a href="https://www.mayoclinic.org/biographies/lopez-jimenez-francisco-m-d-m-s/bio-20053705?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener"><strong>Francisco Lopez-Jimenez, M.D.,</strong></a><strong><em>&amp;nbsp;Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota.</em></strong></p>
+<p>While "activity snacking" is an affordable way to implement movement into your daily routine, you don't need a lot of money or a big investment to switch up your office furniture. There are some adapters out there that you put on top of your desk to raise or lower your monitor or laptop computer, allowing you to stand. Some people get creative and use a stack of books or other existing items. The bottom line is that everyone should feel motivated to redesign their home offices in order to be active longer throughout the day. This leaves us with less room for excuses. And, if you have days where you’re stuck going into the office, you still have options. Consider taking the stairs instead of the elevator.&nbsp;<em>—&nbsp;</em><a href="https://www.mayoclinic.org/biographies/lopez-jimenez-francisco-m-d-m-s/bio-20053705?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener"><strong>Francisco Lopez-Jimenez, M.D.,</strong></a><strong><em>&nbsp;Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota.</em></strong></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-active-work-stations-because-sitting-all-day-is-bad-for-your-health/">Mayo Clinic Q and A: Active work stations because sitting all day is bad for your health</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -583,26 +575,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-man-bike-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Active-workstation-man-desk-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Franciso Lopez-Jimenez]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Franciso Lopez-Jimenez]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>&amp;#8216;I died twice that day&amp;#8217;: Country rap superstar Colt Ford on surviving a near-fatal heart attack</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/i-died-twice-that-day-country-rap-superstar-colt-ford-on-surviving-a-near-fatal-heart-attack/</link>
+		<title>‘I died twice that day’: Country rap superstar Colt Ford on surviving a near-fatal heart attack</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/i-died-twice-that-day-country-rap-superstar-colt-ford-on-surviving-a-near-fatal-heart-attack/
 		
-		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 18:56:58 +0000</pubDate>
-				<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Colt Ford]]></category>
-		<category><![CDATA[Dr. Kwan Lee]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400874</guid>
+		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
+		<pubdate>Tue, 11 Mar 2025 18:56:58 +0000</pubdate>
+				<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Colt Ford]]--></category>
+		<category><!--[CDATA[Dr. Kwan Lee]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400874</guid>
 
-					<description><![CDATA[<p>Phoenix — Heart disease is the leading cause of death worldwide. One of the most common types of cardiovascular disease is a heart attack. In the United States alone, it is estimated that every 40 seconds, someone has a heart attack. One of those people is country rap music artist Colt Ford. "I couldn't have [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/i-died-twice-that-day-country-rap-superstar-colt-ford-on-surviving-a-near-fatal-heart-attack/">&amp;#8216;I died twice that day&amp;#8217;: Country rap superstar Colt Ford on surviving a near-fatal heart attack</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Phoenix — Heart disease is the leading cause of death worldwide. One of the most common types of cardiovascular disease is a heart attack. In the United States alone, it is estimated that every 40 seconds, someone has a heart attack. One of those people is country rap music artist Colt Ford. "I couldn't have […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/i-died-twice-that-day-country-rap-superstar-colt-ford-on-surviving-a-near-fatal-heart-attack/">‘I died twice that day’: Country rap superstar Colt Ford on surviving a near-fatal heart attack</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-1024x576.jpg" alt="" class="wp-image-400875" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-1024x576.jpg" alt="" class="wp-image-400875" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -661,46 +653,46 @@
 
 
 <p><a href="https://mcmedia.mayo.edu/Share/6fxf3l164a67tc5b1w7nukgk472344lv" target="_blank" rel="noreferrer noopener">Media kit including interviews, video and photos available for download here.</a></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/i-died-twice-that-day-country-rap-superstar-colt-ford-on-surviving-a-near-fatal-heart-attack/">&amp;#8216;I died twice that day&amp;#8217;: Country rap superstar Colt Ford on surviving a near-fatal heart attack</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/i-died-twice-that-day-country-rap-superstar-colt-ford-on-surviving-a-near-fatal-heart-attack/">‘I died twice that day’: Country rap superstar Colt Ford on surviving a near-fatal heart attack</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr-Lee-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Colt Ford]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Kwan Lee]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Colt Ford]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Kwan Lee]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Country rap musician Colt Ford shares his personal story of surviving a near-fatal heart attack</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-country-rap-musician-colt-ford-shares-his-personal-story-of-surviving-a-near-fatal-heart-attack/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-country-rap-musician-colt-ford-shares-his-personal-story-of-surviving-a-near-fatal-heart-attack/
 		
-		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 16:45:00 +0000</pubDate>
-				<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Cardiology Patient Stories]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[Video]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Heart]]></category>
-		<category><![CDATA[heart attack]]></category>
-		<category><![CDATA[heart attack prevention]]></category>
-		<category><![CDATA[Heart attack risk]]></category>
-		<category><![CDATA[heart attack symptoms]]></category>
-		<category><![CDATA[heart attacks]]></category>
-		<category><![CDATA[Heart Health]]></category>
-		<category><![CDATA[Heart heath]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Patient Story]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400725</guid>
+		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
+		<pubdate>Tue, 11 Mar 2025 16:45:00 +0000</pubdate>
+				<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Cardiology Patient Stories]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[Video]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Heart]]--></category>
+		<category><!--[CDATA[heart attack]]--></category>
+		<category><!--[CDATA[heart attack prevention]]--></category>
+		<category><!--[CDATA[Heart attack risk]]--></category>
+		<category><!--[CDATA[heart attack symptoms]]--></category>
+		<category><!--[CDATA[heart attacks]]--></category>
+		<category><!--[CDATA[Heart Health]]--></category>
+		<category><!--[CDATA[Heart heath]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Patient Story]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400725</guid>
 
-					<description><![CDATA[<p>It was the evening of April 4, 2024 on a concert stage in Gilbert, Arizona. Colt Ford and his band were performing their signature blend of country, rap and hip-hop music. It was a sold-out crowd. Colt was feeling at the top of his game, and the concert was shaping up to be one of [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->It was the evening of April 4, 2024 on a concert stage in Gilbert, Arizona. Colt Ford and his band were performing their signature blend of country, rap and hip-hop music. It was a sold-out crowd. Colt was feeling at the top of his game, and the concert was shaping up to be one of […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-country-rap-musician-colt-ford-shares-his-personal-story-of-surviving-a-near-fatal-heart-attack/">(VIDEO) Country rap musician Colt Ford shares his personal story of surviving a near-fatal heart attack</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-1024x576.jpg" alt="" class="wp-image-400810" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Colt Ford at Mayo Clinic</strong> <strong>nine months after a heart attack that nearly claimed his life</strong></figcaption></figure></div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-1024x576.jpg" alt="" class="wp-image-400810" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Colt Ford at Mayo Clinic</strong> <strong>nine months after a heart attack that nearly claimed his life</strong></figcaption></figure>
 
 
 <p>It was the evening of April 4, 2024 on a concert stage in Gilbert, Arizona.</p>
@@ -715,17 +707,17 @@
 
 
 
-<p><strong><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fqu-BOmQCESU&amp;amp;data=05%7C02%7CHames.Marty%40mayo.edu%7C80cd6fd357da4e8fd13008dd600eb86b%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638772338510757534%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=9KAvduGZvvivpc1AEjTFWBOa2393ZAMV%2FtfR0BGjyPA%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">Watch Colt Ford's story of survival</a></strong></p>
+<p><strong><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fqu-BOmQCESU&amp;data=05%7C02%7CHames.Marty%40mayo.edu%7C80cd6fd357da4e8fd13008dd600eb86b%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638772338510757534%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=9KAvduGZvvivpc1AEjTFWBOa2393ZAMV%2FtfR0BGjyPA%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">Watch Colt Ford's story of survival</a></strong></p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubequBOmQCESU"  title="Country rap musician Colt Ford shares his personal story of surviving a near-fatal heart attack" width="500" height="281" src="https://www.youtube.com/embed/qu-BOmQCESU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubequBOmQCESU" title="Country rap musician Colt Ford shares his personal story of surviving a near-fatal heart attack" width="500" height="281" src="https://www.youtube.com/embed/qu-BOmQCESU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (3:52) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-video-script-final____.pdf" target="_blank" rel="noreferrer noopener">script</a><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/COLT-FORD-VIDEO-SCRIPT-____PDF.pdf">.</a></strong></p>
+<p><strong>Journalists: Broadcast-quality video (3:52) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-video-script-final____.pdf" target="_blank" rel="noreferrer noopener">script</a><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/COLT-FORD-VIDEO-SCRIPT-____PDF.pdf">.</a></strong></p>
 
 
 
@@ -741,7 +733,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-768x1024.jpg" alt="" class="wp-image-400731" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption"><strong>Colt Ford at Mayo Clinic in Phoenix, AZ </strong>                                              <strong>Photo courtesy: Colt Ford</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-768x1024.jpg" alt="" class="wp-image-400731" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><figcaption class="wp-element-caption"><strong>Colt Ford at Mayo Clinic in Phoenix, AZ </strong>                                              <strong>Photo courtesy: Colt Ford</strong></figcaption></figure>
 
 
 
@@ -761,7 +753,7 @@
 
 
 
-<p>Colt went into&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/sudden-cardiac-arrest/symptoms-causes/syc-20350634" target="_blank" rel="noreferrer noopener">cardiac </a><a href="https://www.mayoclinic.org/diseases-conditions/sudden-cardiac-arrest/symptoms-causes/syc-20350634">arrest</a>&amp;nbsp;twice. He was revived with electric shocks from a <a href="https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/in-depth/automated-external-defibrillators/art-20043909" target="_blank" rel="noreferrer noopener">defibrillator</a>&amp;nbsp;to restart his heart in both instances. "He would simply not have survived in most parts of the world that don't have access to such a high level of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cardiogenic-shock/symptoms-causes/syc-20366739" target="_blank" rel="noreferrer noopener">cardiogenic shock care</a>. Most people do not survive globally," says <a href="https://www.mayoclinic.org/biographies/lee-kwan-s-m-b-b-ch-m-d/bio-20541747" target="_blank" rel="noreferrer noopener">Dr. Kwan Lee,</a> interventional cardiologist at&amp;nbsp;<a href="https://www.mayoclinic.org/">Mayo</a><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener"> </a><a href="https://www.mayoclinic.org/">Clinic</a>. Lee is part of the multidisciplinary team overseeing Colt's care at Mayo Clinic. Colt also underwent a 10-hour surgery and, for a time, was placed in a medically induced coma.</p>
+<p>Colt went into&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/sudden-cardiac-arrest/symptoms-causes/syc-20350634" target="_blank" rel="noreferrer noopener">cardiac </a><a href="https://www.mayoclinic.org/diseases-conditions/sudden-cardiac-arrest/symptoms-causes/syc-20350634">arrest</a>&nbsp;twice. He was revived with electric shocks from a <a href="https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/in-depth/automated-external-defibrillators/art-20043909" target="_blank" rel="noreferrer noopener">defibrillator</a>&nbsp;to restart his heart in both instances. "He would simply not have survived in most parts of the world that don't have access to such a high level of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cardiogenic-shock/symptoms-causes/syc-20366739" target="_blank" rel="noreferrer noopener">cardiogenic shock care</a>. Most people do not survive globally," says <a href="https://www.mayoclinic.org/biographies/lee-kwan-s-m-b-b-ch-m-d/bio-20541747" target="_blank" rel="noreferrer noopener">Dr. Kwan Lee,</a> interventional cardiologist at&nbsp;<a href="https://www.mayoclinic.org/">Mayo</a><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener"> </a><a href="https://www.mayoclinic.org/">Clinic</a>. Lee is part of the multidisciplinary team overseeing Colt's care at Mayo Clinic. Colt also underwent a 10-hour surgery and, for a time, was placed in a medically induced coma.</p>
 
 
 
@@ -769,18 +761,18 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-1024x1024.jpg" alt="a graphic of the human chest in blue, orange and red, illustrating heart disease" class="wp-image-347465" style="aspect-ratio:4/3;object-fit:cover" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-1024x1024.jpg" alt="a graphic of the human chest in blue, orange and red, illustrating heart disease" class="wp-image-347465" style="aspect-ratio:4/3;object-fit:cover" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/08/a-graphic-of-the-human-chest-in-blue-orange-and-red-illustrating-heart-disease-1X1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
 
 
 <p></p>
 
 
 
-<p><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">Heart disease</a>&amp;nbsp;is the leading cause of death worldwide. One of the most common types of&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">cardiovascular</a><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118"> disease</a>&amp;nbsp;is a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106" target="_blank" rel="noreferrer noopener">heart attack</a>. In the United States alone, it is estimated that every 40 seconds, someone has a heart attack.</p>
+<p><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">Heart disease</a>&nbsp;is the leading cause of death worldwide. One of the most common types of&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">cardiovascular</a><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118"> disease</a>&nbsp;is a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106" target="_blank" rel="noreferrer noopener">heart attack</a>. In the United States alone, it is estimated that every 40 seconds, someone has a heart attack.</p>
 
 
 
-<p>Doctors often warn about the signs and symptoms of a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106" target="_blank" rel="noreferrer noopener">heart attack</a>,&amp;nbsp;such as&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838" target="_blank" rel="noreferrer noopener">chest pain or pressure</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890" target="_blank" rel="noreferrer noopener">shortness of breath</a>,&amp;nbsp;and&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106" target="_blank" rel="noreferrer noopener">fatigue</a>. However, roughly 21% of heart attacks in the U.S. occur with minimal or even no symptoms, according to the American Heart Association. These&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/expert-answers/silent-heart-attack/faq-20057777" target="_blank" rel="noreferrer noopener">"silent" heart attacks</a>&amp;nbsp;are known as&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/myocardial-ischemia/symptoms-causes/syc-20375417" target="_blank" rel="noreferrer noopener">silent ischemia</a>&amp;nbsp;or <a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/expert-answers/silent-heart-attack/faq-20057777" target="_blank" rel="noreferrer noopener">silent myocardial infarction</a>.</p>
+<p>Doctors often warn about the signs and symptoms of a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106" target="_blank" rel="noreferrer noopener">heart attack</a>,&nbsp;such as&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838" target="_blank" rel="noreferrer noopener">chest pain or pressure</a>,&nbsp;<a href="https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890" target="_blank" rel="noreferrer noopener">shortness of breath</a>,&nbsp;and&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106" target="_blank" rel="noreferrer noopener">fatigue</a>. However, roughly 21% of heart attacks in the U.S. occur with minimal or even no symptoms, according to the American Heart Association. These&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/expert-answers/silent-heart-attack/faq-20057777" target="_blank" rel="noreferrer noopener">"silent" heart attacks</a>&nbsp;are known as&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/myocardial-ischemia/symptoms-causes/syc-20375417" target="_blank" rel="noreferrer noopener">silent ischemia</a>&nbsp;or <a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/expert-answers/silent-heart-attack/faq-20057777" target="_blank" rel="noreferrer noopener">silent myocardial infarction</a>.</p>
 
 
 
@@ -788,19 +780,19 @@
 
 
 
-<p>"This is the unfortunate nature of heart attacks. It is possible to have tests which don't show&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613" target="_blank" rel="noreferrer noopener">blockages</a>, but the nature of blockages is that they can behave unpredictably and suddenly occur," says Dr. Lee. "Despite our best efforts, on a populational level, heart attacks can still occur in patients out of the blue."</p>
+<p>"This is the unfortunate nature of heart attacks. It is possible to have tests which don't show&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613" target="_blank" rel="noreferrer noopener">blockages</a>, but the nature of blockages is that they can behave unpredictably and suddenly occur," says Dr. Lee. "Despite our best efforts, on a populational level, heart attacks can still occur in patients out of the blue."</p>
 
 
 
-<p>Nearly nine months after his heart attack, test results at Mayo Clinic indicate Colt is making excellent progress.&amp;nbsp;<a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/basics/fitness-basics/hlv-20049447" target="_blank" rel="noreferrer noopener">Exercise</a>&amp;nbsp;combined with a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-healthy-diet/art-20046702" target="_blank" rel="noreferrer noopener">heart-healthy diet</a>&amp;nbsp;has helped him shed 60 pounds. "I'm about back to being in my college shape," says Colt, who played on the golf team for the University of Georgia before his singing career took off.</p>
+<p>Nearly nine months after his heart attack, test results at Mayo Clinic indicate Colt is making excellent progress.&nbsp;<a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/basics/fitness-basics/hlv-20049447" target="_blank" rel="noreferrer noopener">Exercise</a>&nbsp;combined with a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-healthy-diet/art-20046702" target="_blank" rel="noreferrer noopener">heart-healthy diet</a>&nbsp;has helped him shed 60 pounds. "I'm about back to being in my college shape," says Colt, who played on the golf team for the University of Georgia before his singing career took off.</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="881" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-1024x881.jpg" alt="" class="wp-image-400733" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-1024x881.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-300x258.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-768x661.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-1536x1322.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-2048x1762.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Colt and his cardiologist, Dr. Kwan Lee at Mayo Clinic</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="881" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-1024x881.jpg" alt="" class="wp-image-400733" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-1024x881.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-300x258.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-768x661.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-1536x1322.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-and-Dr.-Lee-2048x1762.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Colt and his cardiologist, Dr. Kwan Lee at Mayo Clinic</strong></figcaption></figure>
 
 
 
-<p>While his physical health improves, Colt admits the health scare has left him battling&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961" target="_blank" rel="noreferrer noopener">anxiety</a>&amp;nbsp;and&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021" target="_blank" rel="noreferrer noopener">panic attacks</a>. "For me to say I'm having anxiety and panic attacks, that's even hard for me to say because I ain't scared of nothing," Colt says. "But I'm having to deal with that and share my feelings and all that kind of stuff. So, if you're feeling something, advocate for yourself. Don't just tough it out. Tell somebody."</p>
+<p>While his physical health improves, Colt admits the health scare has left him battling&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961" target="_blank" rel="noreferrer noopener">anxiety</a>&nbsp;and&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021" target="_blank" rel="noreferrer noopener">panic attacks</a>. "For me to say I'm having anxiety and panic attacks, that's even hard for me to say because I ain't scared of nothing," Colt says. "But I'm having to deal with that and share my feelings and all that kind of stuff. So, if you're feeling something, advocate for yourself. Don't just tough it out. Tell somebody."</p>
 
 
 
@@ -824,10 +816,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1024" height="903" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image.png" alt="This image has an empty alt attribute; its file name is Screenshot-Colt-Ford-new-headshot-1024x903.png" class="wp-image-400788" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image-300x265.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image-768x677.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Photo courtesy: Colt Ford</strong></figcaption></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1024" height="903" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image.png" alt="This image has an empty alt attribute; its file name is Screenshot-Colt-Ford-new-headshot-1024x903.png" class="wp-image-400788" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image-300x265.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/image-768x677.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Photo courtesy: Colt Ford</strong></figcaption></figure></div>
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity">
 
 
 
@@ -836,7 +828,7 @@
 
 
 <ul class="wp-block-list">
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/spotlight-on-early-detection-of-3-heart-diseases-using-ecg-ai/">Spotlight on early detection of 3 heart diseases using ECG-AI&amp;nbsp;</a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/spotlight-on-early-detection-of-3-heart-diseases-using-ecg-ai/">Spotlight on early detection of 3 heart diseases using ECG-AI&nbsp;</a></li>
 
 
 
@@ -857,34 +849,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-in-hospital_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Colt-Ford-medium-shot-at-Mayo-Clinic-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart attack]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart attack prevention]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart attack risk]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart attack symptoms]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart attacks]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Health]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart heath]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Patient Story]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/heart-waves-150x150.jpg</mayoclinic:mcthumb >	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart attack]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart attack prevention]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart attack risk]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart attack symptoms]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart attacks]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Health]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart heath]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Patient Story]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/12/heart-waves-150x150.jpg</mayoclinic:mcthumb>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Tips for better sleep</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-tips-for-better-sleep-2/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-tips-for-better-sleep-2/
 		
-		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
-		<pubDate>Fri, 07 Mar 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Minute]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[diverserepresentation]]></category>
-		<category><![CDATA[Dr. Virend Somers]]></category>
-		<category><![CDATA[Sleep]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=394826</guid>
+		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
+		<pubdate>Fri, 07 Mar 2025 16:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[diverserepresentation]]--></category>
+		<category><!--[CDATA[Dr. Virend Somers]]--></category>
+		<category><!--[CDATA[Sleep]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=394826</guid>
 
-					<description><![CDATA[<p>Daylight Saving Time begins March 9 when clocks spring an hour forward early Sunday morning. No matter if you need five hours of sleep or eight, the key is getting good, refreshing rest. According to&amp;#160;Dr. Virend Somers, a cardiologist who specializes in sleep disorders, how much sleep a person needs varies from person to person. [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Daylight Saving Time begins March 9 when clocks spring an hour forward early Sunday morning. No matter if you need five hours of sleep or eight, the key is getting good, refreshing rest. According to&nbsp;Dr. Virend Somers, a cardiologist who specializes in sleep disorders, how much sleep a person needs varies from person to person. […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-tips-for-better-sleep-2/">Mayo Clinic Minute: Tips for better sleep</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>Daylight Saving Time begins March 9 when clocks spring an hour forward early Sunday morning.</p>
+										<content:encoded><!--[CDATA[
+<p-->Daylight Saving Time begins March 9 when clocks spring an hour forward early Sunday morning.<p></p>
 
 
 
-<p>No matter if you need five hours of sleep or eight, the key is getting good, refreshing rest. According to&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/somers-virend-m-d-ph-d/bio-20054093?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Virend Somers</a>, a cardiologist who specializes in sleep disorders, how much sleep a person needs varies from person to person. However, there are some simple tips that everyone can use to get&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-5-ways-to-get-better-sleep/">better sleep.</a></p>
+<p>No matter if you need five hours of sleep or eight, the key is getting good, refreshing rest. According to&nbsp;<a href="https://www.mayoclinic.org/biographies/somers-virend-m-d-ph-d/bio-20054093?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Virend Somers</a>, a cardiologist who specializes in sleep disorders, how much sleep a person needs varies from person to person. However, there are some simple tips that everyone can use to get&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-5-ways-to-get-better-sleep/">better sleep.</a></p>
 
 
 
@@ -893,12 +885,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubefjVAmmFmxU"  title="Mayo Clinic Minute - Tips for better sleep" width="500" height="281" src="https://www.youtube.com/embed/fjVA_mmFmxU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubefjVAmmFmxU" title="Mayo Clinic Minute - Tips for better sleep" width="500" height="281" src="https://www.youtube.com/embed/fjVA_mmFmxU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
 
-<p><strong><strong>Journalists: Broadcast-quality video (1:02) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/SCRIPT.-MCM-Tips-for-better-sleep-VD-edits.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></strong></p>
+<p><strong><strong>Journalists: Broadcast-quality video (1:02) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/10/SCRIPT.-MCM-Tips-for-better-sleep-VD-edits.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></strong></p>
 
 
 
@@ -906,7 +898,7 @@
 
 
 
-<p>He says to consider the quality of sleep, not the quantity. He offers these&amp;nbsp;<a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379">ideas&amp;nbsp;</a>to help you have good sleep hygiene.</p>
+<p>He says to consider the quality of sleep, not the quantity. He offers these&nbsp;<a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379">ideas&nbsp;</a>to help you have good sleep hygiene.</p>
 
 
 
@@ -918,7 +910,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-1024x576.jpg" alt="a white woman sleeping peacefully in bed in a darkened room, with a soft light falling across her face" class="wp-image-364301" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9.jpg 1500w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-1024x576.jpg" alt="a white woman sleeping peacefully in bed in a darkened room, with a soft light falling across her face" class="wp-image-364301" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/04/a-white-woman-sleeping-peacefully-in-bed-in-a-darkened-room-with-a-soft-light-falling-across-her-face-16X9.jpg 1500w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -926,7 +918,7 @@
 
 
 
-<p>"Avoid bright lights, avoid looking at your phones because light from there can affect your&amp;nbsp;<a href="https://www.mayoclinic.org/drugs-supplements-melatonin/art-20363071">melatonin</a>," Dr. Somers says. That's the hormone that regulates sleep.</p>
+<p>"Avoid bright lights, avoid looking at your phones because light from there can affect your&nbsp;<a href="https://www.mayoclinic.org/drugs-supplements-melatonin/art-20363071">melatonin</a>," Dr. Somers says. That's the hormone that regulates sleep.</p>
 
 
 
@@ -960,32 +952,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/01/peaceful-man-sleeping-in-bed-at-home.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2015/12/peaceful-man-sleeping-in-bed-at-home-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverserepresentation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Virend Somers]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Sleep]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverserepresentation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Virend Somers]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Sleep]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Hypertension and cardiovascular disease in the Black community</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-hypertension-and-cardiovascular-disease-in-the-black-community/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-hypertension-and-cardiovascular-disease-in-the-black-community/
 		
-		<dc:creator><![CDATA[Joel Streed]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Diversity]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Minute]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[American Heart Month]]></category>
-		<category><![CDATA[Cardiology]]></category>
-		<category><![CDATA[cardiovascular disease]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. LaPrincess Brewer]]></category>
-		<category><![CDATA[Heart Disease]]></category>
-		<category><![CDATA[high blood pressure]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=380239</guid>
+		<dc:creator><!--[CDATA[Joel Streed]]--></dc:creator>
+		<pubdate>Fri, 28 Feb 2025 16:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Diversity]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[American Heart Month]]--></category>
+		<category><!--[CDATA[Cardiology]]--></category>
+		<category><!--[CDATA[cardiovascular disease]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. LaPrincess Brewer]]--></category>
+		<category><!--[CDATA[Heart Disease]]--></category>
+		<category><!--[CDATA[high blood pressure]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=380239</guid>
 
-					<description><![CDATA[<p>February is American Heart Month. Cardiovascular disease is the leading cause of death in the U.S. African Americans are significantly affected by heart disease, resulting in higher mortality rates compared to white Americans. One of the reasons for the disparity is the high hypertension rates in the Black community. Hypertension, also known as high blood [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->February is American Heart Month. Cardiovascular disease is the leading cause of death in the U.S. African Americans are significantly affected by heart disease, resulting in higher mortality rates compared to white Americans. One of the reasons for the disparity is the high hypertension rates in the Black community. Hypertension, also known as high blood […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-hypertension-and-cardiovascular-disease-in-the-black-community/">Mayo Clinic Minute: Hypertension and cardiovascular disease in the Black community</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>February is American Heart Month. Cardiovascular disease is the leading cause of death in the U.S. African Americans are significantly affected by <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">heart disease</a>, resulting in higher mortality rates compared to white Americans.</p>
+										<content:encoded><!--[CDATA[
+<p-->February is American Heart Month. Cardiovascular disease is the leading cause of death in the U.S. African Americans are significantly affected by <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">heart disease</a>, resulting in higher mortality rates compared to white Americans.<p></p>
 
 
 
@@ -993,7 +985,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/brewer-laprincess-c-m-d-m-p-h/bio-20415346?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. LaPrincess Brewer</a>, a Mayo Clinic cardiologist, discusses cardiovascular disease and reversing the disturbing trend.</p>
+<p><a href="https://www.mayoclinic.org/biographies/brewer-laprincess-c-m-d-m-p-h/bio-20415346?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. LaPrincess Brewer</a>, a Mayo Clinic cardiologist, discusses cardiovascular disease and reversing the disturbing trend.</p>
 
 
 
@@ -1002,7 +994,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubehf13p9yn2Nk"  title="Mayo Clinic Minute - Hypertension and heart disease in the Black community" width="500" height="281" src="https://www.youtube.com/embed/hf13p9yn2Nk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubehf13p9yn2Nk" title="Mayo Clinic Minute - Hypertension and heart disease in the Black community" width="500" height="281" src="https://www.youtube.com/embed/hf13p9yn2Nk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -1019,7 +1011,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-1024x576.jpg" alt="an African-American middle-aged couple holding hands and walking, exercising on the beach" class="wp-image-113252" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-1024x576.jpg" alt="an African-American middle-aged couple holding hands and walking, exercising on the beach" class="wp-image-113252" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/an-African-American-middle-aged-couple-holding-hands-and-walking-exercising-on-the-beach-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -1057,6 +1049,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Senior-woman-looking-out-window1x1.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/Senior-woman-looking-out-window16x9.jpeg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[American Heart Month]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiovascular]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[cardiovascular disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. LaPrincess Brewer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[high blood pressure]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[American Heart Month]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiovascular]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[cardiovascular disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. LaPrincess Brewer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[high blood pressure]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
