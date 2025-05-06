@@ -333,7 +333,7 @@
             "year": 1104
         },
         {
-            "text": "Um 14:26 Uhr (UT) beginnt der Venustransit und endet um 21:32 Uhr (UT).",
+            "text": "Um 14:26 Uhr (UTC) beginnt ein Venustransit und endet um 21:32 Uhr (UTC).",
             "year": -1642
         }
     ],
@@ -2737,28 +2737,28 @@
             "title": "Geschichte heute (Wikipedia)"
         },
         "events": [
-            83,
-            61,
+            38,
+            3,
+            39,
+            23,
+            2,
+            24,
+            7,
             51,
-            45,
-            21,
-            56,
-            80,
-            22,
-            65,
-            4
+            54,
+            44
         ],
         "births": [
-            244,
-            197,
-            69,
-            102
+            86,
+            59,
+            98,
+            191
         ],
         "deaths": [
-            142,
-            117,
-            61,
-            139
+            11,
+            152,
+            55,
+            91
         ]
     }
 }
