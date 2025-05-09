@@ -1,38 +1,46 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Cancer - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/cancer/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Fri, 02 May 2025 12:01:50 +0000</lastbuilddate>
+	<lastBuildDate>Fri, 02 May 2025 12:01:50 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 	<item>
 		<title>Clinical trials: A significant part of cancer care</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/clinical-trials-a-significant-part-of-cancer-care/
+		<link>https://newsnetwork.mayoclinic.org/discussion/clinical-trials-a-significant-part-of-cancer-care/</link>
 		
-		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
-		<pubdate>Fri, 02 May 2025 12:01:49 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Clinical Trials]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Translational Science]]--></category>
-		<category><!--[CDATA[Dr. Geoffrey Johnson]]--></category>
-		<category><!--[CDATA[Dr. Judy Boughey]]--></category>
-		<category><!--[CDATA[Dr. Matthew Block]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=388025</guid>
+		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 12:01:49 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Clinical Trials]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Translational Science]]></category>
+		<category><![CDATA[Dr. Geoffrey Johnson]]></category>
+		<category><![CDATA[Dr. Judy Boughey]]></category>
+		<category><![CDATA[Dr. Matthew Block]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=388025</guid>
 
-					<description><!--[CDATA[<p-->Editor's note:&nbsp;May is National Cancer Research Month, and May 20 is Clinical Trials Day. A cancer diagnosis is an emotional experience. Learning that you have cancer can create feelings of hopelessness, fear and sadness. This is especially true if your cancer is advanced or available treatments are unable to stop or slow its growth. "Often, […]<p></p>
+					<description><![CDATA[<p>Editor's note:&nbsp;May is National Cancer Research Month, and May 20 is Clinical Trials Day. A cancer diagnosis is an emotional experience. Learning that you have cancer can create feelings of hopelessness, fear and sadness. This is especially true if your cancer is advanced or available treatments are unable to stop or slow its growth. "Often, [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/clinical-trials-a-significant-part-of-cancer-care/">Clinical trials: A significant part of cancer care</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img fetchpriority="high" decoding="async" width="936" height="526" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg" alt="" class="wp-image-388034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg 936w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-768x432.jpg 768w" sizes="(max-width: 936px) 100vw, 936px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="936" height="526" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg" alt="" class="wp-image-388034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg 936w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-768x432.jpg 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
 
 
 
@@ -44,7 +52,7 @@
 
 
 
-<p>"Often, when patients are diagnosed with&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588" target="_blank" rel="noreferrer noopener">cancer</a>, they feel hopeless and scared. Clinical trials are one way patients can be proactive. They can make a choice in how their care is going to be," says&nbsp;<a href="https://www.mayo.edu/research/faculty/block-matthew-s-m-d-ph-d/bio-00027434" target="_blank" rel="noreferrer noopener">Matthew Block, M.D., Ph.D.</a>, a Mayo Clinic medical oncologist.</p>
+<p>"Often, when patients are diagnosed with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588" target="_blank" rel="noreferrer noopener">cancer</a>, they feel hopeless and scared. Clinical trials are one way patients can be proactive. They can make a choice in how their care is going to be," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/block-matthew-s-m-d-ph-d/bio-00027434" target="_blank" rel="noreferrer noopener">Matthew Block, M.D., Ph.D.</a>, a Mayo Clinic medical oncologist.</p>
 
 
 
@@ -56,7 +64,7 @@
 
 
 
-<p>You will receive cancer treatment if you participate in a clinical trial. "I think one common misperception about clinical trials is that if you enter a clinical trial, you may not get treatment (receive a placebo). And that's actually very much not true. Most clinical trials are looking at one treatment compared to another treatment," says&nbsp;<a href="https://www.mayo.edu/research/faculty/boughey-judy-c-m-d/bio-00027350" target="_blank" rel="noreferrer noopener">Judy C. Boughey, M.D.</a>, a Mayo Clinic surgical oncologist, chair of Breast and Melanoma Surgical Oncology at Mayo Clinic in Rochester, Minnesota, and chair of the Mayo Clinic Comprehensive Cancer Center Breast Cancer Disease Group.</p>
+<p>You will receive cancer treatment if you participate in a clinical trial. "I think one common misperception about clinical trials is that if you enter a clinical trial, you may not get treatment (receive a placebo). And that's actually very much not true. Most clinical trials are looking at one treatment compared to another treatment," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/boughey-judy-c-m-d/bio-00027350" target="_blank" rel="noreferrer noopener">Judy C. Boughey, M.D.</a>, a Mayo Clinic surgical oncologist, chair of Breast and Melanoma Surgical Oncology at Mayo Clinic in Rochester, Minnesota, and chair of the Mayo Clinic Comprehensive Cancer Center Breast Cancer Disease Group.</p>
 
 
 
@@ -66,12 +74,12 @@
 
 
 
-<p><strong>Watch this&nbsp;<a href="https://youtu.be/laXwkIUrBRI?si=IuoFOQpYaNDjEcMV" target="_blank" rel="noreferrer noopener">video</a>&nbsp;to hear the experiences of people who have participated in cancer clinical trials and to hear Drs. Block, Johnson and Boughey discuss the importance of clinical trials in cancer care:</strong></p>
+<p><strong>Watch this&amp;nbsp;<a href="https://youtu.be/laXwkIUrBRI?si=IuoFOQpYaNDjEcMV" target="_blank" rel="noreferrer noopener">video</a>&amp;nbsp;to hear the experiences of people who have participated in cancer clinical trials and to hear Drs. Block, Johnson and Boughey discuss the importance of clinical trials in cancer care:</strong></p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidlaXwkIUrBRI" title="Enhancing Cancer Care through Clinical Trials at Mayo Clinic" width="500" height="281" src="https://www.youtube.com/embed/laXwkIUrBRI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe id="videoidlaXwkIUrBRI"  title="Enhancing Cancer Care through Clinical Trials at Mayo Clinic" width="500" height="281" src="https://www.youtube.com/embed/laXwkIUrBRI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -106,7 +114,7 @@
 
 
 
-<p>Participating in a clinical trial is an important decision with potential risks and benefits. Explore these&nbsp;<a href="https://www.cancer.gov/research/participate/clinical-trials/facts" target="_blank" rel="noreferrer noopener">FAQ</a>&nbsp;about cancer clinical trials, and ask your care team if a clinical trial might be right for you.</p>
+<p>Participating in a clinical trial is an important decision with potential risks and benefits. Explore these&amp;nbsp;<a href="https://www.cancer.gov/research/participate/clinical-trials/facts" target="_blank" rel="noreferrer noopener">FAQ</a>&amp;nbsp;about cancer clinical trials, and ask your care team if a clinical trial might be right for you.</p>
 
 
 
@@ -118,28 +126,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Cancer-Clinical-Trials-1x1WF2727318_0018.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Dr. Geoffrey Johnson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Judy Boughey]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Block]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Dr. Geoffrey Johnson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Judy Boughey]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Block]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Outdoorsman celebrates year in remission after treatment for throat cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/outdoorsman-celebrates-year-in-remission-after-treatment-for-throat-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/outdoorsman-celebrates-year-in-remission-after-treatment-for-throat-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
-		<pubdate>Thu, 24 Apr 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Yujie Zhoa]]--></category>
-		<category><!--[CDATA[Head and Neck Cancer]]--></category>
-		<category><!--[CDATA[Throat Cancer]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401988</guid>
+		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Yujie Zhoa]]></category>
+		<category><![CDATA[Head and Neck Cancer]]></category>
+		<category><![CDATA[Throat Cancer]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401988</guid>
 
-					<description><!--[CDATA[<p-->Scott Spaulding's relationship with Mayo Clinic in Florida started before he learned he had throat cancer. He'd been coming to the campus for liver issues and was impressed with the care he received. "They were responsive, they were on time, they had so many resources available, including the latest technologies and equipment," Scott says. "It […]<p></p>
+					<description><![CDATA[<p>Scott Spaulding's relationship with Mayo Clinic in Florida started before he learned he had throat cancer. He'd been coming to the campus for liver issues and was impressed with the care he received. "They were responsive, they were on time, they had so many resources available, including the latest technologies and equipment," Scott says. "It [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/outdoorsman-celebrates-year-in-remission-after-treatment-for-throat-cancer/">Outdoorsman celebrates year in remission after treatment for throat cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-1024x576.jpg" alt="Headshot of patient, Scott Spaulding" class="wp-image-402251" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Scott Spaulding celebrates year in remission after treatement for throat cancer</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-1024x576.jpg" alt="Headshot of patient, Scott Spaulding" class="wp-image-402251" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Scott Spaulding celebrates year in remission after treatement for throat cancer</figcaption></figure>
 
 
 
@@ -159,7 +167,7 @@
 
 
 
-<p>Because it was his "second time through with cancer," Scott wanted to make sure he did his homework. He met with the hospital where he was originally treated, another cancer center, and&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&nbsp;to hear their plans for how they would attack his disease.</p>
+<p>Because it was his "second time through with cancer," Scott wanted to make sure he did his homework. He met with the hospital where he was originally treated, another cancer center, and&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&amp;nbsp;to hear their plans for how they would attack his disease.</p>
 
 
 
@@ -167,10 +175,10 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--300x300.jpg" alt="&nbsp;Dr. Yujie Zhao, an oncologist at Mayo Clinic Comprehensive Cancer Center&nbsp;who specializes in head and neck cancer" class="wp-image-402244" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1-.jpg 1188w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Dr. Yujie Zhao</figcaption></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--300x300.jpg" alt="&nbsp;Dr. Yujie Zhao, an oncologist at Mayo Clinic Comprehensive Cancer Center&nbsp;who specializes in head and neck cancer" class="wp-image-402244" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1--768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Dr.-Yujie-Zhao-1-x-1-.jpg 1188w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Dr. Yujie Zhao</figcaption></figure></div>
 
 
-<p>In Scott's opinion,&nbsp;<a href="https://www.mayoclinic.org/biographies/zhao-yujie-m-d-ph-d/bio-20471618" target="_blank" rel="noreferrer noopener">Dr. Yujie Zhao</a>, an oncologist at Mayo Clinic Comprehensive Cancer Center&nbsp;who specializes in head and neck cancer, presented the best case.</p>
+<p>In Scott's opinion,&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/zhao-yujie-m-d-ph-d/bio-20471618" target="_blank" rel="noreferrer noopener">Dr. Yujie Zhao</a>, an oncologist at Mayo Clinic Comprehensive Cancer Center&amp;nbsp;who specializes in head and neck cancer, presented the best case.</p>
 
 
 
@@ -202,7 +210,7 @@
 
 
 
-<p>After completing his treatments, Scott has been in remission from cancer for about a year.&nbsp;</p>
+<p>After completing his treatments, Scott has been in remission from cancer for about a year.&amp;nbsp;</p>
 
 
 
@@ -210,7 +218,7 @@
 
 
 
-<p>Recently, Scott resumed some activities he enjoys, like golfing and fishing.&nbsp;</p>
+<p>Recently, Scott resumed some activities he enjoys, like golfing and fishing.&amp;nbsp;</p>
 
 
 
@@ -218,11 +226,11 @@
 
 
 
-<p>The high point throughout the journey, Scott says, is how much help and support he has received from Mayo Clinic.&nbsp;</p>
+<p>The high point throughout the journey, Scott says, is how much help and support he has received from Mayo Clinic.&amp;nbsp;</p>
 
 
 
-<p>"The resources you have available to you, the fact that they're all in one place is so helpful," he says. "I still have an issue with a chronic cough. A lot of times, you get scarring in your throat from radiation therapy. So they're trying to figure out whether it's nasal drainage getting trapped in my throat because of the scar tissue or allergies or sleep apnea. They're very thorough. They're evaluating everything.&nbsp;</p>
+<p>"The resources you have available to you, the fact that they're all in one place is so helpful," he says. "I still have an issue with a chronic cough. A lot of times, you get scarring in your throat from radiation therapy. So they're trying to figure out whether it's nasal drainage getting trapped in my throat because of the scar tissue or allergies or sleep apnea. They're very thorough. They're evaluating everything.&amp;nbsp;</p>
 
 
 
@@ -238,26 +246,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-Spaulding-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Scott-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Yujie Zhoa]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Head and Neck Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Throat Cancer]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Yujie Zhoa]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Head and Neck Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Throat Cancer]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Smoldering multiple myeloma: What it is, how it progresses and the latest research</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/smoldering-multiple-myeloma-what-it-is-how-it-progresses-and-the-latest-research/
+		<link>https://newsnetwork.mayoclinic.org/discussion/smoldering-multiple-myeloma-what-it-is-how-it-progresses-and-the-latest-research/</link>
 		
-		<dc:creator><!--[CDATA[Jessica Saenz]]--></dc:creator>
-		<pubdate>Tue, 22 Apr 2025 15:32:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Rafael Fonseca]]--></category>
-		<category><!--[CDATA[Dr. Vincent Rajkumar]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402204</guid>
+		<dc:creator><![CDATA[Jessica Saenz]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 15:32:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Rafael Fonseca]]></category>
+		<category><![CDATA[Dr. Vincent Rajkumar]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402204</guid>
 
-					<description><!--[CDATA[<p-->Multiple myeloma is a type of blood cancer caused by a buildup of abnormal plasma cells in the bone marrow. As the abnormal plasma cells accumulate, they crowd out healthy cells and cause symptoms such as bone pain and tiredness. In 1980, Drs. Robert Kyle and Philip Greipp, Mayo Clinic hematologists,&nbsp;coined the term&nbsp;"smoldering multiple myeloma" […]<p></p>
+					<description><![CDATA[<p>Multiple myeloma is a type of blood cancer caused by a buildup of abnormal plasma cells in the bone marrow. As the abnormal plasma cells accumulate, they crowd out healthy cells and cause symptoms such as bone pain and tiredness. In 1980, Drs. Robert Kyle and Philip Greipp, Mayo Clinic hematologists,&amp;#160;coined the term&amp;#160;"smoldering multiple myeloma" [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/smoldering-multiple-myeloma-what-it-is-how-it-progresses-and-the-latest-research/">Smoldering multiple myeloma: What it is, how it progresses and the latest research</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full is-resized"--><img loading="lazy" decoding="async" width="656" height="369" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0-1.jpg" alt="microscopic slide of a myeloma cell" class="wp-image-237929" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0-1.jpg 656w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0-1-300x169.jpg 300w" sizes="auto, (max-width: 656px) 100vw, 656px"><figcaption class="wp-element-caption">Microscopic slide of a myeloma cell</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="656" height="369" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0-1.jpg" alt="microscopic slide of a myeloma cell" class="wp-image-237929" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0-1.jpg 656w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0-1-300x169.jpg 300w" sizes="auto, (max-width: 656px) 100vw, 656px" /><figcaption class="wp-element-caption">Microscopic slide of a myeloma cell</figcaption></figure>
 
 
 
@@ -265,15 +273,15 @@
 
 
 
-<p>In 1980, Drs. Robert Kyle and Philip Greipp, Mayo Clinic hematologists,&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/7374679/" target="_blank" rel="noreferrer noopener">coined the term</a>&nbsp;"smoldering multiple myeloma" to describe an accumulation of abnormal plasma cells in the bone marrow without any symptoms. Hematologists now know this condition usually has all the biological features of cancer and is associated with a high risk of progression to multiple myeloma.</p>
+<p>In 1980, Drs. Robert Kyle and Philip Greipp, Mayo Clinic hematologists,&amp;nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/7374679/" target="_blank" rel="noreferrer noopener">coined the term</a>&amp;nbsp;"smoldering multiple myeloma" to describe an accumulation of abnormal plasma cells in the bone marrow without any symptoms. Hematologists now know this condition usually has all the biological features of cancer and is associated with a high risk of progression to multiple myeloma.</p>
 
 
 
-<p>Cancer researchers have since been investigating how, why and when smoldering multiple myeloma (SMM) progresses to active&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/multiple-myeloma/symptoms-causes/syc-20353378" target="_blank" rel="noreferrer noopener">multiple myeloma</a>&nbsp;and what can be done to delay progression.&nbsp;</p>
+<p>Cancer researchers have since been investigating how, why and when smoldering multiple myeloma (SMM) progresses to active&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/multiple-myeloma/symptoms-causes/syc-20353378" target="_blank" rel="noreferrer noopener">multiple myeloma</a>&amp;nbsp;and what can be done to delay progression.&amp;nbsp;</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/rajkumar-s-vincent-m-d/bio-20053931" target="_blank" rel="noreferrer noopener">Dr. S. Vincent Rajkumar</a> and&nbsp;<a href="https://www.mayoclinic.org/biographies/fonseca-rafael-m-d/bio-20053425" target="_blank" rel="noreferrer noopener">Dr. Rafael Fonseca</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&nbsp;hematologists, explain what SMM is and how treating it could delay or prevent multiple myeloma.</p>
+<p><a href="https://www.mayoclinic.org/biographies/rajkumar-s-vincent-m-d/bio-20053931" target="_blank" rel="noreferrer noopener">Dr. S. Vincent Rajkumar</a> and&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/fonseca-rafael-m-d/bio-20053425" target="_blank" rel="noreferrer noopener">Dr. Rafael Fonseca</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&amp;nbsp;hematologists, explain what SMM is and how treating it could delay or prevent multiple myeloma.</p>
 
 
 
@@ -281,7 +289,7 @@
 
 
 
-<p>The first phase of abnormal plasma cells building up in the bone marrow without causing symptoms or complications is a benign (noncancerous) condition called&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/mgus/symptoms-causes/syc-20352362" target="_blank" rel="noreferrer noopener">monoclonal gammopathy of undetermined significance (MGUS)</a>. Approximately&nbsp;<a href="https://www.myeloma.org/what-are-mgus-smm-mm" target="_blank" rel="noreferrer noopener">10% of people</a>&nbsp;diagnosed with MGUS will develop multiple myeloma in their lifetime.</p>
+<p>The first phase of abnormal plasma cells building up in the bone marrow without causing symptoms or complications is a benign (noncancerous) condition called&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/mgus/symptoms-causes/syc-20352362" target="_blank" rel="noreferrer noopener">monoclonal gammopathy of undetermined significance (MGUS)</a>. Approximately&amp;nbsp;<a href="https://www.myeloma.org/what-are-mgus-smm-mm" target="_blank" rel="noreferrer noopener">10% of people</a>&amp;nbsp;diagnosed with MGUS will develop multiple myeloma in their lifetime.</p>
 
 
 
@@ -289,7 +297,7 @@
 
 
 
-<p>"Multiple myeloma is a malignancy (cancer) often associated with symptoms such as&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360" target="_blank" rel="noreferrer noopener">anemia</a>,&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/hypercalcemia/symptoms-causes/syc-20355523" target="_blank" rel="noreferrer noopener">hypercalcemia</a>&nbsp;and&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521" target="_blank" rel="noreferrer noopener">renal</a>&nbsp;(kidney) failure. Smoldering multiple myeloma has many features of malignancy, but it is asymptomatic, so people don't know they have it," says Dr. Rajkumar, the Edward W. and Betty Knight Scripps-Edward C. Rosenow III, M.D., Professor of Medicine.</p>
+<p>"Multiple myeloma is a malignancy (cancer) often associated with symptoms such as&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360" target="_blank" rel="noreferrer noopener">anemia</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/hypercalcemia/symptoms-causes/syc-20355523" target="_blank" rel="noreferrer noopener">hypercalcemia</a>&amp;nbsp;and&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521" target="_blank" rel="noreferrer noopener">renal</a>&amp;nbsp;(kidney) failure. Smoldering multiple myeloma has many features of malignancy, but it is asymptomatic, so people don't know they have it," says Dr. Rajkumar, the Edward W. and Betty Knight Scripps-Edward C. Rosenow III, M.D., Professor of Medicine.</p>
 
 
 
@@ -341,7 +349,7 @@
 
 
 
-<p>Active surveillance is currently the standard of care for SMM. However, Dr. Rajkumar recently led a clinical trial to investigate whether&nbsp;<a href="https://cancerblog.mayoclinic.org/2025/01/15/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/">treating patients with high-risk SMM</a>&nbsp;could slow its progression.</p>
+<p>Active surveillance is currently the standard of care for SMM. However, Dr. Rajkumar recently led a clinical trial to investigate whether&amp;nbsp;<a href="https://cancerblog.mayoclinic.org/2025/01/15/research-shows-new-treatment-could-delay-cancer-progression-in-patients-with-high-risk-smoldering-multiple-myeloma/">treating patients with high-risk SMM</a>&amp;nbsp;could slow its progression.</p>
 
 
 
@@ -349,7 +357,7 @@
 
 
 
-<p>Study&nbsp;<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2409029" target="_blank" rel="noreferrer noopener">results</a>&nbsp;published in December 2024 showed promise toward a path to treat SMM. "The trial involved 390 patients with high-risk SMM. Half of the patients had careful active monitoring. The other half received&nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/daratumumab-intravenous-route/description/drg-20165230" target="_blank" rel="noreferrer noopener">daratumumab</a>, a drug used to treat active multiple myeloma. The trial found that early intervention using daratumumab, which was given for three years, delayed progression to active myeloma and prolonged overall survival," says Dr. Rajkumar.</p>
+<p>Study&amp;nbsp;<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2409029" target="_blank" rel="noreferrer noopener">results</a>&amp;nbsp;published in December 2024 showed promise toward a path to treat SMM. "The trial involved 390 patients with high-risk SMM. Half of the patients had careful active monitoring. The other half received&amp;nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/daratumumab-intravenous-route/description/drg-20165230" target="_blank" rel="noreferrer noopener">daratumumab</a>, a drug used to treat active multiple myeloma. The trial found that early intervention using daratumumab, which was given for three years, delayed progression to active myeloma and prolonged overall survival," says Dr. Rajkumar.</p>
 
 
 
@@ -357,7 +365,7 @@
 
 
 
-<p>"While there is still some debate about how to select these patients, I have no doubt this will be the future of timely intervention. Ideally, we'll be able to treat patients before they have to suffer from complications of the disease," says Dr. Fonseca. "It is because of rigorous&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/cancer-care/about-cancer-clinical-trials" target="_blank" rel="noreferrer noopener">clinical trials</a>&nbsp;like Dr. Rajkumar's that we can start envisioning a brighter future for people with myeloma."</p>
+<p>"While there is still some debate about how to select these patients, I have no doubt this will be the future of timely intervention. Ideally, we'll be able to treat patients before they have to suffer from complications of the disease," says Dr. Fonseca. "It is because of rigorous&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/cancer-care/about-cancer-clinical-trials" target="_blank" rel="noreferrer noopener">clinical trials</a>&amp;nbsp;like Dr. Rajkumar's that we can start envisioning a brighter future for people with myeloma."</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/smoldering-multiple-myeloma-what-it-is-how-it-progresses-and-the-latest-research/">Smoldering multiple myeloma: What it is, how it progresses and the latest research</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -365,28 +373,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0_Fotor-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/656x369-myeloma-cell-3656056-001-0-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Rafael Fonseca]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Vincent Rajkumar]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Rafael Fonseca]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Vincent Rajkumar]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>New lymphoma therapy helps couple continue their love story</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-lymphoma-therapy-helps-couple-continue-their-love-story/
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-lymphoma-therapy-helps-couple-continue-their-love-story/</link>
 		
-		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
-		<pubdate>Fri, 18 Apr 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[CAR-T cell therapy]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Madiha Iqbal]]--></category>
-		<category><!--[CDATA[lymphoma]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401920</guid>
+		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[CAR-T cell therapy]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Madiha Iqbal]]></category>
+		<category><![CDATA[lymphoma]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401920</guid>
 
-					<description><!--[CDATA[<p-->When an aggressive lymphoma threatened to derail a couple's happily ever after, the Mayo Clinic Comprehensive Cancer Center helped them find a future. Joanne McDonnell likens her longtime romance with her husband, Paul, to that of June Carter and Johnny Cash. The two have known each other since they were kids — specifically, third grade […]<p></p>
+					<description><![CDATA[<p>When an aggressive lymphoma threatened to derail a couple's happily ever after, the Mayo Clinic Comprehensive Cancer Center helped them find a future. Joanne McDonnell likens her longtime romance with her husband, Paul, to that of June Carter and Johnny Cash. The two have known each other since they were kids — specifically, third grade [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-lymphoma-therapy-helps-couple-continue-their-love-story/">New lymphoma therapy helps couple continue their love story</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-1024x576.jpg" alt="Photo of Joane and Paul McDonnel. He learns his cancer is in remission. Lymphoma" class="wp-image-401994" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Joanne and Paul McDonnell at the Mayo Clinic park in Florida</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-1024x576.jpg" alt="Photo of Joane and Paul McDonnel. He learns his cancer is in remission. Lymphoma" class="wp-image-401994" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Joanne and Paul McDonnell at the Mayo Clinic park in Florida</figcaption></figure>
 
 
 
@@ -394,11 +402,11 @@
 
 
 
-<p>Joanne McDonnell likens her longtime romance with her husband, Paul, to that of June Carter and Johnny Cash. The two have known each other since they were kids — specifically, third grade for Joanne and fifth for Paul. "She was my best friend's little sister," Paul explains.&nbsp;</p>
+<p>Joanne McDonnell likens her longtime romance with her husband, Paul, to that of June Carter and Johnny Cash. The two have known each other since they were kids — specifically, third grade for Joanne and fifth for Paul. "She was my best friend's little sister," Paul explains.&amp;nbsp;</p>
 
 
 
-<p>So, two years ago, when doctors told Joanne there wasn't anything else they could do for Paul's&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/non-hodgkins-lymphoma/symptoms-causes/syc-20375680" target="_blank" rel="noreferrer noopener">diffuse large B-cell lymphoma</a>&nbsp;— an aggressive form of blood cancer — Joanne refused to believe their story was over.</p>
+<p>So, two years ago, when doctors told Joanne there wasn't anything else they could do for Paul's&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/non-hodgkins-lymphoma/symptoms-causes/syc-20375680" target="_blank" rel="noreferrer noopener">diffuse large B-cell lymphoma</a>&amp;nbsp;— an aggressive form of blood cancer — Joanne refused to believe their story was over.</p>
 
 
 
@@ -406,7 +414,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile is-style-center-align-caption"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="546" height="721" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Paul-McDonnell-learns-he-is-in-remission.jpeg" alt="Photo of Paul McDonnel. He learns his cancer is in remission. Lymphoma" class="wp-image-401998 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Paul-McDonnell-learns-he-is-in-remission.jpeg 546w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Paul-McDonnell-learns-he-is-in-remission-227x300.jpeg 227w" sizes="auto, (max-width: 546px) 100vw, 546px"></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile is-style-center-align-caption"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="546" height="721" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Paul-McDonnell-learns-he-is-in-remission.jpeg" alt="Photo of Paul McDonnel. He learns his cancer is in remission. Lymphoma" class="wp-image-401998 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Paul-McDonnell-learns-he-is-in-remission.jpeg 546w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Paul-McDonnell-learns-he-is-in-remission-227x300.jpeg 227w" sizes="auto, (max-width: 546px) 100vw, 546px" /></figure><div class="wp-block-media-text__content">
 <p><em>Paul McDonnell learns his cancer is in remission.</em></p>
 </div></div>
 
@@ -416,7 +424,7 @@
 
 
 
-<p>Instead, Joanne, a retired human resources specialist for the Department of Defense, spent the next several months relying on two sources she'd come to trust: research and&nbsp;<a href="https://www.mayoclinic.org/biographies/iqbal-madiha-m-b-b-s-m-d/bio-20502236" target="_blank" rel="noreferrer noopener">Dr. Madiha Iqbal</a>, Paul's hematologist and oncologist at the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&nbsp;in Jacksonville, Florida.</p>
+<p>Instead, Joanne, a retired human resources specialist for the Department of Defense, spent the next several months relying on two sources she'd come to trust: research and&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/iqbal-madiha-m-b-b-s-m-d/bio-20502236" target="_blank" rel="noreferrer noopener">Dr. Madiha Iqbal</a>, Paul's hematologist and oncologist at the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&amp;nbsp;in Jacksonville, Florida.</p>
 
 
 
@@ -428,18 +436,18 @@
 
 
 
-<p>Initially, Paul underwent six months of chemotherapy-based treatments, but they weren't working well, so Paul's doctor, who knew Dr. Iqbal, referred him to her. Paul's doctor hoped that Dr. Iqbal, who specializes in bone marrow transplant and a form of&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/what-is-cancer-immunotherapy/" target="_blank" rel="noreferrer noopener">immunotherapy</a>&nbsp;called&nbsp;<a href="https://www.mayoclinic.org/departments-centers/car-t-cell-therapy-program/sections/gnc-20405215" target="_blank" rel="noreferrer noopener">chimeric antigen receptor (CAR)-T cell therapy</a>, might be able to help.</p>
+<p>Initially, Paul underwent six months of chemotherapy-based treatments, but they weren't working well, so Paul's doctor, who knew Dr. Iqbal, referred him to her. Paul's doctor hoped that Dr. Iqbal, who specializes in bone marrow transplant and a form of&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/what-is-cancer-immunotherapy/" target="_blank" rel="noreferrer noopener">immunotherapy</a>&amp;nbsp;called&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/car-t-cell-therapy-program/sections/gnc-20405215" target="_blank" rel="noreferrer noopener">chimeric antigen receptor (CAR)-T cell therapy</a>, might be able to help.</p>
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-1024x1024.jpg" alt="Madiha Iqbal, MBBS, MD" class="wp-image-402006" style="width:244px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2.jpg 2031w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Madiha Iqbal, MBBS, MD</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-1024x1024.jpg" alt="Madiha Iqbal, MBBS, MD" class="wp-image-402006" style="width:244px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Madiha-Iqbal-MBBS-MD-1-x-1-2.jpg 2031w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Madiha Iqbal, MBBS, MD</figcaption></figure></div>
 
 
-<p>Dr. Iqbal first considered a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/about/pac-20384854" target="_blank" rel="noreferrer noopener">bone marrow transplant</a>&nbsp;for Paul. Bone marrow transplant, also called stem cell transplant, involves replacing a patient's damaged bone marrow with healthy cells. However, Dr. Iqbal said she and her team became a "little hesitant about the transplant" when they started to encounter obstacles with the process. Paul's body wasn’t producing enough stem cells to use for a transplant and his bone marrow was showing signs of damage from the chemotherapy treatments he'd received.&nbsp;</p>
+<p>Dr. Iqbal first considered a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/about/pac-20384854" target="_blank" rel="noreferrer noopener">bone marrow transplant</a>&amp;nbsp;for Paul. Bone marrow transplant, also called stem cell transplant, involves replacing a patient's damaged bone marrow with healthy cells. However, Dr. Iqbal said she and her team became a "little hesitant about the transplant" when they started to encounter obstacles with the process. Paul's body wasn’t producing enough stem cells to use for a transplant and his bone marrow was showing signs of damage from the chemotherapy treatments he'd received.&amp;nbsp;</p>
 
 
 
-<p>"These hurdles derailed the plans we had for him," Dr. Iqbal says.&nbsp;</p>
+<p>"These hurdles derailed the plans we had for him," Dr. Iqbal says.&amp;nbsp;</p>
 
 
 
@@ -463,14 +471,14 @@
 
 
 <div class="wp-block-image is-style-left-align-caption">
-<figure class="aligncenter size-full"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-car-t-cell-therapy/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="500" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/06/1656300_3910345-004-0_500x300-1.jpg" alt="In CAR-T cell therapy, scientists isolate T cells from the bloodstream of a person with a certain kind of cancer. Then, they genetically engineer the T cells to display a &quot;lock&quot; on their cell membrane that will recognize a protein &quot;key&quot; on a cancer cell. Then the modified T cells are multiplied in the lab and infused back into the patient. There, they begin to recognize and destroy cancer cells." class="wp-image-310454" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/06/1656300_3910345-004-0_500x300-1.jpg 500w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/06/1656300_3910345-004-0_500x300-1-300x180.jpg 300w" sizes="auto, (max-width: 500px) 100vw, 500px"></a><figcaption class="wp-element-caption">In CAR-T cell therapy, scientists isolate T cells from the bloodstream of a person with a certain kind of cancer. Then, they genetically engineer the T cells to display a "lock" on their cell membrane that will recognize a protein "key" on a cancer cell. Then the modified T cells are multiplied in the lab and infused back into the patient. There, they begin to recognize and destroy cancer cells.</figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-car-t-cell-therapy/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="500" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/06/1656300_3910345-004-0_500x300-1.jpg" alt="In CAR-T cell therapy, scientists isolate T cells from the bloodstream of a person with a certain kind of cancer. Then, they genetically engineer the T cells to display a &amp;quot;lock&amp;quot; on their cell membrane that will recognize a protein &amp;quot;key&amp;quot; on a cancer cell. Then the modified T cells are multiplied in the lab and infused back into the patient. There, they begin to recognize and destroy cancer cells." class="wp-image-310454" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/06/1656300_3910345-004-0_500x300-1.jpg 500w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/06/1656300_3910345-004-0_500x300-1-300x180.jpg 300w" sizes="auto, (max-width: 500px) 100vw, 500px" /></a><figcaption class="wp-element-caption">In CAR-T cell therapy, scientists isolate T cells from the bloodstream of a person with a certain kind of cancer. Then, they genetically engineer the T cells to display a "lock" on their cell membrane that will recognize a protein "key" on a cancer cell. Then the modified T cells are multiplied in the lab and infused back into the patient. There, they begin to recognize and destroy cancer cells.</figcaption></figure></div>
 
 
-<p>Dr. Iqbal started the process for Paul to receive CAR-T cell therapy. Then she faced a major hurdle: Paul's cancer had metastasized, or spread, and a tumor had grown so big it had penetrated his bowel and ruptured it. Paul was admitted to the hospital in critically ill condition — too sick for CAR-T cell therapy, and too sick to even undergo surgery to repair his bowel.&nbsp;</p>
+<p>Dr. Iqbal started the process for Paul to receive CAR-T cell therapy. Then she faced a major hurdle: Paul's cancer had metastasized, or spread, and a tumor had grown so big it had penetrated his bowel and ruptured it. Paul was admitted to the hospital in critically ill condition — too sick for CAR-T cell therapy, and too sick to even undergo surgery to repair his bowel.&amp;nbsp;</p>
 
 
 
-<p>Instead, doctors placed a tube into his bowel for drainage and placed him on total parenteral nutrition, meaning he had to have all his nutrition delivered directly into his bloodstream.&nbsp;&nbsp;</p>
+<p>Instead, doctors placed a tube into his bowel for drainage and placed him on total parenteral nutrition, meaning he had to have all his nutrition delivered directly into his bloodstream.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -478,7 +486,7 @@
 
 
 
-<p>After talking with Joanne and Paul, Dr. Iqbal decided to pursue a treatment course that would help get Paul's disease under control so they could try CAR-T.&nbsp;&nbsp;</p>
+<p>After talking with Joanne and Paul, Dr. Iqbal decided to pursue a treatment course that would help get Paul's disease under control so they could try CAR-T.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -490,7 +498,7 @@
 
 
 
-<p>Dr. Iqbal prescribed two rounds of chemotherapy to get Paul's disease under control. Soon afterward, he began to feel better. His tumor had also shrunk enough that Dr. Iqbal's team was able to collect his cells, and, about a month later, infuse them back into his body to target and kill cancer cells.&nbsp;</p>
+<p>Dr. Iqbal prescribed two rounds of chemotherapy to get Paul's disease under control. Soon afterward, he began to feel better. His tumor had also shrunk enough that Dr. Iqbal's team was able to collect his cells, and, about a month later, infuse them back into his body to target and kill cancer cells.&amp;nbsp;</p>
 
 
 
@@ -518,43 +526,43 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Joanne-and-Paul-McDonnell-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[CAR-T cell therapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Madiha Iqbal]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[lymphoma]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[CAR-T cell therapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Madiha Iqbal]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[lymphoma]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Why more liver donors are needed</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-why-more-liver-donors-are-needed/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-why-more-liver-donors-are-needed/</link>
 		
-		<dc:creator><!--[CDATA[Jason Howland]]--></dc:creator>
-		<pubdate>Mon, 07 Apr 2025 14:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Bashar Aqel]]--></category>
-		<category><!--[CDATA[liver]]--></category>
-		<category><!--[CDATA[Liver Disease]]--></category>
-		<category><!--[CDATA[liver donor]]--></category>
-		<category><!--[CDATA[Liver Transplant]]--></category>
-		<category><!--[CDATA[Newsapp]]--></category>
-		<category><!--[CDATA[Organ Donation]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=337018</guid>
+		<dc:creator><![CDATA[Jason Howland]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Bashar Aqel]]></category>
+		<category><![CDATA[liver]]></category>
+		<category><![CDATA[Liver Disease]]></category>
+		<category><![CDATA[liver donor]]></category>
+		<category><![CDATA[Liver Transplant]]></category>
+		<category><![CDATA[Newsapp]]></category>
+		<category><![CDATA[Organ Donation]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=337018</guid>
 
-					<description><!--[CDATA[<p-->April is National Donate Life Month. It's observed to help raise awareness about the importance of organ donation. In the U.S., it’s estimated that 4.5 million adults are diagnosed with chronic liver disease. It develops over time and may be caused by a number of conditions including, hepatitis, genetics, alcohol overuse or cancer. Chronic liver […]<p></p>
+					<description><![CDATA[<p>April is National Donate Life Month. It's observed to help raise awareness about the importance of organ donation. In the U.S., it’s estimated that 4.5 million adults are diagnosed with chronic liver disease. It develops over time and may be caused by a number of conditions including, hepatitis, genetics, alcohol overuse or cancer. Chronic liver [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-why-more-liver-donors-are-needed/">(VIDEO) Why more liver donors are needed</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->April is National Donate Life Month. It's observed to help raise awareness about the importance of organ donation.<p></p>
+										<content:encoded><![CDATA[
+<p>April is National Donate Life Month. It's observed to help raise awareness about the importance of organ donation.</p>
 
 
 
-<p>In the U.S., it’s estimated that <a href="https://www.cdc.gov/nchs/fastats/liver-disease.htm" target="_blank" rel="noreferrer noopener">4.5 million</a> adults are diagnosed with chronic liver disease. It develops over time and may be caused by a number of conditions including, <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/hepatitis-b/symptoms-causes/syc-20366802?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/hepatitis-b/symptoms-causes/syc-20366802?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">hepatitis</a>, genetics, <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;cauid=100721&amp;_ga=2.263233932.18050210.1617034136-26305255.1611325201?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;cauid=100721&amp;_ga=2.263233932.18050210.1617034136-26305255.1611325201?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">alcohol overuse</a> or <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">cancer</a>.  Chronic <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">liver disease </a>is different than <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/acute-liver-failure/symptoms-causes/syc-20352863?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/acute-liver-failure/symptoms-causes/syc-20352863?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">acute liver disease</a>, which can come on quickly and may be the result of an injury or a virus. </p>
+<p>In the U.S., it’s estimated that <a href="https://www.cdc.gov/nchs/fastats/liver-disease.htm" target="_blank" rel="noreferrer noopener">4.5 million</a> adults are diagnosed with chronic liver disease. It develops over time and may be caused by a number of conditions including, <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/hepatitis-b/symptoms-causes/syc-20366802?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/hepatitis-b/symptoms-causes/syc-20366802?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">hepatitis</a>, genetics, <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;cauid=100721&amp;amp;_ga=2.263233932.18050210.1617034136-26305255.1611325201?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;cauid=100721&amp;amp;_ga=2.263233932.18050210.1617034136-26305255.1611325201?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">alcohol overuse</a> or <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">cancer</a>.  Chronic <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">liver disease </a>is different than <a data-type="URL" data-id="https://www.mayoclinic.org/diseases-conditions/acute-liver-failure/symptoms-causes/syc-20352863?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" href="https://www.mayoclinic.org/diseases-conditions/acute-liver-failure/symptoms-causes/syc-20352863?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">acute liver disease</a>, which can come on quickly and may be the result of an injury or a virus. </p>
 
 
 
-<p>Regardless of the cause, <a data-type="URL" data-id="https://www.mayoclinic.org/biographies/aqel-bashar-a-m-d/bio-20055093?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" href="https://www.mayoclinic.org/biographies/aqel-bashar-a-m-d/bio-20055093?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Bashar Aqel</a>, a Mayo Clinic transplant hepatologist, says when the liver can no longer function, a life-saving <a data-type="URL" data-id="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">transplant</a> may be needed. </p>
+<p>Regardless of the cause, <a data-type="URL" data-id="https://www.mayoclinic.org/biographies/aqel-bashar-a-m-d/bio-20055093?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" href="https://www.mayoclinic.org/biographies/aqel-bashar-a-m-d/bio-20055093?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Bashar Aqel</a>, a Mayo Clinic transplant hepatologist, says when the liver can no longer function, a life-saving <a data-type="URL" data-id="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">transplant</a> may be needed. </p>
 
 
 
@@ -563,12 +571,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeWBlByZWzNCM" title="Mayo Clinic Minute: Why more liver donors are needed" width="500" height="281" src="https://www.youtube.com/embed/WBlByZWzNCM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeWBlByZWzNCM"  title="Mayo Clinic Minute: Why more liver donors are needed" width="500" height="281" src="https://www.youtube.com/embed/WBlByZWzNCM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong><strong>Journalists: Broadcast-quality video (1:17) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/SCRIPT-MCM-Why-more-liver-donors-are-needed.pdf">script</a>.</strong></strong></p>
+<p><strong><strong>Journalists: Broadcast-quality video (1:17) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/SCRIPT-MCM-Why-more-liver-donors-are-needed.pdf">script</a>.</strong></strong></p>
 
 
 
@@ -580,7 +588,7 @@
 
 
 
-<p>When patients become a candidate for a <a rel="noreferrer noopener" href="https://www.mayoclinic.org/departments-centers/liver-transplant/home/orc-20211818?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" data-type="URL" data-id="https://www.mayoclinic.org/departments-centers/liver-transplant/home/orc-20211818?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank">liver transplant</a><a rel="noreferrer noopener" href="https://www.mayoclinic.org/departments-centers/liver-transplant/home/orc-20211818" target="_blank">,</a> they are added to a waitlist. Unfortunately, there are more people waiting for a liver than there are available organs.</p>
+<p>When patients become a candidate for a <a rel="noreferrer noopener" href="https://www.mayoclinic.org/departments-centers/liver-transplant/home/orc-20211818?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" data-type="URL" data-id="https://www.mayoclinic.org/departments-centers/liver-transplant/home/orc-20211818?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank">liver transplant</a><a rel="noreferrer noopener" href="https://www.mayoclinic.org/departments-centers/liver-transplant/home/orc-20211818" target="_blank">,</a> they are added to a waitlist. Unfortunately, there are more people waiting for a liver than there are available organs.</p>
 
 
 
@@ -588,7 +596,7 @@
 
 
 
-<p>Another option is a <a rel="noreferrer noopener" href="https://www.mayoclinic.org/tests-procedures/living-donor-transplant/about/pac-20384787?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" data-type="URL" data-id="https://www.mayoclinic.org/tests-procedures/living-donor-transplant/about/pac-20384787?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank">living liver transplant</a>. It's a major surgery where a person donates two-thirds of his or her liver. Donors needs to go through an extensive evaluation to make sure they can donate safely.</p>
+<p>Another option is a <a rel="noreferrer noopener" href="https://www.mayoclinic.org/tests-procedures/living-donor-transplant/about/pac-20384787?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" data-type="URL" data-id="https://www.mayoclinic.org/tests-procedures/living-donor-transplant/about/pac-20384787?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank">living liver transplant</a>. It's a major surgery where a person donates two-thirds of his or her liver. Donors needs to go through an extensive evaluation to make sure they can donate safely.</p>
 
 
 
@@ -596,7 +604,7 @@
 
 
 
-<p>Being a <a href="https://www.mayoclinic.org/departments-centers/transplant-center/living-donor-transplantation-evaluation/gnc-20505893?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" data-type="URL" data-id="https://www.mayoclinic.org/departments-centers/transplant-center/living-donor-transplantation-evaluation/gnc-20505893?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">living organ donor</a> may not be an option for everyone, but there are ways to people can sign up to be an organ donor. It can be as easy as checking a box on your driver's license.</p>
+<p>Being a <a href="https://www.mayoclinic.org/departments-centers/transplant-center/living-donor-transplantation-evaluation/gnc-20505893?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" data-type="URL" data-id="https://www.mayoclinic.org/departments-centers/transplant-center/living-donor-transplantation-evaluation/gnc-20505893?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">living organ donor</a> may not be an option for everyone, but there are ways to people can sign up to be an organ donor. It can be as easy as checking a box on your driver's license.</p>
 
 
 
@@ -604,11 +612,11 @@
 
 
 
-<hr class="wp-block-separator has-css-opacity">
+<hr class="wp-block-separator has-css-opacity" />
 
 
 
-<p><strong>For the safety of its patients, staff and visitors, Mayo Clinic has strict masking policies in place.&nbsp;Anyone shown without a mask was either recorded prior to COVID-19 or recorded in a nonpatient care area where social distancing and other safety protocols were followed.</strong></p>
+<p><strong>For the safety of its patients, staff and visitors, Mayo Clinic has strict masking policies in place.&amp;nbsp;Anyone shown without a mask was either recorded prior to COVID-19 or recorded in a nonpatient care area where social distancing and other safety protocols were followed.</strong></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-why-more-liver-donors-are-needed/">(VIDEO) Why more liver donors are needed</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -616,27 +624,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/X-ray-of-a-persons-abdomen-and-a-radiologist-physician-pointing-toward-the-liver-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/X-ray-of-a-persons-abdomen-and-a-radiologist-physician-pointing-toward-the-liver-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Bashar Aqel]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[liver]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[liver donor]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Transplant]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Organ Donation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Bashar Aqel]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[liver]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Liver Disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[liver donor]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Liver Transplant]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Organ Donation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Your abdominal core: Expert shares tips for protecting a part of the body you may not think about&nbsp;&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/your-abdominal-core-expert-shares-tips-for-protecting-a-part-of-the-body-you-may-not-think-about/
+		<link>https://newsnetwork.mayoclinic.org/discussion/your-abdominal-core-expert-shares-tips-for-protecting-a-part-of-the-body-you-may-not-think-about/</link>
 		
-		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
-		<pubdate>Thu, 03 Apr 2025 15:02:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Surgery]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401366</guid>
+		<dc:creator><![CDATA[Sharon Theimer]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 15:02:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Surgery]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401366</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minnesota — It is a large part of the body that lies deep inside, out of sight and perhaps out of mind: your abdominal core. A new and rapidly developing area of medicine focuses on abdominal core health, including how people can incorporate it into a healthy lifestyle and how to address complex medical […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minnesota — It is a large part of the body that lies deep inside, out of sight and perhaps out of mind: your abdominal core. A new and rapidly developing area of medicine focuses on abdominal core health, including how people can incorporate it into a healthy lifestyle and how to address complex medical [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/your-abdominal-core-expert-shares-tips-for-protecting-a-part-of-the-body-you-may-not-think-about/">Your abdominal core: Expert shares tips for protecting a part of the body you may not think about&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1024x576.jpg" alt="" class="wp-image-401367" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1024x576.jpg" alt="" class="wp-image-401367" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -660,7 +668,7 @@
 
 
 
-<p>Improving abdominal core health involves conscious engagement of the abdominal muscles, "bringing everything in and holding it in," Dr. Horne says.&nbsp;</p>
+<p>Improving abdominal core health involves conscious engagement of the abdominal muscles, "bringing everything in and holding it in," Dr. Horne says.&amp;nbsp;</p>
 
 
 
@@ -722,7 +730,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -740,30 +748,30 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1x1-Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155929.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Liver transplant for patients with advanced colorectal cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-liver-transplant-for-patients-with-advanced-colorectal-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-liver-transplant-for-patients-with-advanced-colorectal-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Tue, 01 Apr 2025 15:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Denise Harnois]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=400382</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Denise Harnois]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=400382</guid>
 
-					<description><!--[CDATA[<p-->Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&nbsp;colorectal cancer&nbsp;has spread beyond the colon, often to the liver. When surgery isn't an option, a&nbsp;liver transplant&nbsp;may be a lifesaving alternative. Mayo Clinic is&nbsp;pioneering&nbsp;this approach, combining expertise in oncology and transplantation to […]<p></p>
+					<description><![CDATA[<p>Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&amp;#160;colorectal cancer&amp;#160;has spread beyond the colon, often to the liver. When surgery isn't an option, a&amp;#160;liver transplant&amp;#160;may be a lifesaving alternative. Mayo Clinic is&amp;#160;pioneering&amp;#160;this approach, combining expertise in oncology and transplantation to [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-liver-transplant-for-patients-with-advanced-colorectal-cancer/">Mayo Clinic Minute: Liver transplant for patients with advanced colorectal cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener">colorectal cancer</a>&nbsp;has spread beyond the colon, often to the liver. When surgery isn't an option, a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842" target="_blank" rel="noreferrer noopener">liver transplant</a>&nbsp;may be a lifesaving alternative. Mayo Clinic is&nbsp;<a href="https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-transplantation-for-patients-with-colorectal-liver-metastases/mac-20576145" target="_blank" rel="noreferrer noopener">pioneering&nbsp;</a>this approach, combining expertise in oncology and transplantation to offer new hope for patients with advanced colorectal cancer.<p></p>
+										<content:encoded><![CDATA[
+<p>Colorectal cancer is the fourth-most-common cancer in the U.S. and the second deadliest. One in 5 patients is diagnosed with metastatic disease, meaning the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener">colorectal cancer</a>&amp;nbsp;has spread beyond the colon, often to the liver. When surgery isn't an option, a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842" target="_blank" rel="noreferrer noopener">liver transplant</a>&amp;nbsp;may be a lifesaving alternative. Mayo Clinic is&amp;nbsp;<a href="https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-transplantation-for-patients-with-colorectal-liver-metastases/mac-20576145" target="_blank" rel="noreferrer noopener">pioneering&amp;nbsp;</a>this approach, combining expertise in oncology and transplantation to offer new hope for patients with advanced colorectal cancer.</p>
 
 
 
@@ -776,7 +784,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubet9CGEdbqigw" title="Mayo Clinic Minute: Liver transplant advanced colorectal cancer" width="500" height="281" src="https://www.youtube.com/embed/t9CGEdbqigw?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubet9CGEdbqigw"  title="Mayo Clinic Minute: Liver transplant advanced colorectal cancer" width="500" height="281" src="https://www.youtube.com/embed/t9CGEdbqigw?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -785,7 +793,7 @@
 
 
 
-<p>Learning you have advanced colorectal cancer that has spread to the liver can be scary. In some cases, a liver transplant may offer hope, providing better outcomes when other treatments aren't an option.&nbsp;</p>
+<p>Learning you have advanced colorectal cancer that has spread to the liver can be scary. In some cases, a liver transplant may offer hope, providing better outcomes when other treatments aren't an option.&amp;nbsp;</p>
 
 
 
@@ -822,7 +830,7 @@
 
 
 
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">Mayo Clinic Q and A:&nbsp; Understanding</a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener"> </a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">colorectal cancer</a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">Mayo Clinic Q and A:&amp;nbsp; Understanding</a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/" target="_blank" rel="noreferrer noopener"> </a><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-understanding-colorectal-cancer/">colorectal cancer</a></li>
 
 
 
@@ -843,27 +851,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/MCF-4000-liver-txp1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/MCF-4000-liver-txp16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Denise Harnois]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Denise Harnois]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Q and A: Colorectal cancer in young adults</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-colorectal-cancer-in-young-adults/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-colorectal-cancer-in-young-adults/</link>
 		
-		<dc:creator><!--[CDATA[Abby Smith]]--></dc:creator>
-		<pubdate>Mon, 31 Mar 2025 13:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Derek Ebner]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401230</guid>
+		<dc:creator><![CDATA[Abby Smith]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Derek Ebner]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401230</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC: A friend was just diagnosed with colorectal cancer. She's only 30. I didn't know young people could get this cancer. Can you tell me more about it? ANSWER: Unfortunately, your friend is among a growing number of adults under 50 who are being diagnosed with colorectal cancer. Many younger adults don't consider […]<p></p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC: A friend was just diagnosed with colorectal cancer. She's only 30. I didn't know young people could get this cancer. Can you tell me more about it? ANSWER: Unfortunately, your friend is among a growing number of adults under 50 who are being diagnosed with colorectal cancer. Many younger adults don't consider [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-colorectal-cancer-in-young-adults/">Mayo Clinic Q and A: Colorectal cancer in young adults</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-1024x576.jpg" alt="a young white adult woman sitting on a couch, smiling and holding hands with a young adult white man" class="wp-image-303196" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-1024x576.jpg" alt="a young white adult woman sitting on a couch, smiling and holding hands with a young adult white man" class="wp-image-303196" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -879,11 +887,11 @@
 
 
 
-<h2 class="wp-block-heading">&nbsp;<strong>What is colorectal cancer?</strong></h2>
+<h2 class="wp-block-heading">&amp;nbsp;<strong>What is colorectal cancer?</strong></h2>
 
 
 
-<p>It's not one type of cancer but two:&nbsp;colon and rectal cancer. The large intestine has several regions. The last part of the large intestine is known as the rectum. The other areas of the large intestine are called the colon. The treatments for cancers of the colon and rectum are different.</p>
+<p>It's not one type of cancer but two:&amp;nbsp;colon and rectal cancer. The large intestine has several regions. The last part of the large intestine is known as the rectum. The other areas of the large intestine are called the colon. The treatments for cancers of the colon and rectum are different.</p>
 
 
 
@@ -900,11 +908,11 @@
 
 
 
-<li>Black race&nbsp;</li>
+<li>Black race&amp;nbsp;</li>
 
 
 
-<li>Low-fiber, high-fat diet&nbsp;</li>
+<li>Low-fiber, high-fat diet&amp;nbsp;</li>
 
 
 
@@ -912,11 +920,11 @@
 
 
 
-<li>Diabetes&nbsp;</li>
+<li>Diabetes&amp;nbsp;</li>
 
 
 
-<li>Obesity&nbsp;</li>
+<li>Obesity&amp;nbsp;</li>
 
 
 
@@ -924,7 +932,7 @@
 
 
 
-<li>Drinking alcohol&nbsp;</li>
+<li>Drinking alcohol&amp;nbsp;</li>
 </ul>
 
 
@@ -938,7 +946,7 @@
 
 
 
-<li>Genetic condition that increases their risk.&nbsp;</li>
+<li>Genetic condition that increases their risk.&amp;nbsp;</li>
 
 
 
@@ -1005,7 +1013,7 @@
 
 
 
-<h2 class="wp-block-heading"><strong>How can I reduce my risk for colorectal cancer?</strong> &nbsp;</h2>
+<h2 class="wp-block-heading"><strong>How can I reduce my risk for colorectal cancer?</strong> &amp;nbsp;</h2>
 
 
 
@@ -1047,27 +1055,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/a-young-white-adult-woman-sitting-on-a-couch-smiling-and-holding-hands-with-a-young-adult-white-man-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Derek Ebner]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Derek Ebner]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>What is cancer immunotherapy?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/what-is-cancer-immunotherapy/
+		<link>https://newsnetwork.mayoclinic.org/discussion/what-is-cancer-immunotherapy/</link>
 		
-		<dc:creator><!--[CDATA[Nicole Ferrara]]--></dc:creator>
-		<pubdate>Fri, 28 Mar 2025 14:30:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Haidong Dong]]--></category>
-		<category><!--[CDATA[Dr. Svetomir Markovic]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401350</guid>
+		<dc:creator><![CDATA[Nicole Ferrara]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Haidong Dong]]></category>
+		<category><![CDATA[Dr. Svetomir Markovic]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401350</guid>
 
-					<description><!--[CDATA[<p-->The body has a built-in defense: the immune system, which consists of white blood cells, lymph system tissues and organs that work together to identify and destroy infections and abnormal cells. However, cancer cells use genetic changes to hide their abnormality or interfere with the immune system's ability to detect and destroy them. Immunotherapy helps […]<p></p>
+					<description><![CDATA[<p>The body has a built-in defense: the immune system, which consists of white blood cells, lymph system tissues and organs that work together to identify and destroy infections and abnormal cells. However, cancer cells use genetic changes to hide their abnormality or interfere with the immune system's ability to detect and destroy them. Immunotherapy helps [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/what-is-cancer-immunotherapy/">What is cancer immunotherapy?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-1024x576.jpg" alt="" class="wp-image-401354" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-1024x576.jpg" alt="" class="wp-image-401354" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1075,11 +1083,11 @@
 
 
 
-<p>"We're working with what the body naturally does but has not done perfectly, as it has allowed cancer to develop. We're trying to reinforce the body's natural defenses," says&nbsp;<a href="https://www.mayo.edu/research/faculty/markovic-svetomir-n-m-d-ph-d/bio-00085174" target="_blank" rel="noreferrer noopener">Svetomir Markovic, M.D., Ph.D.</a>, a&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&nbsp;medical oncologist who researches immunotherapy for&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884" target="_blank" rel="noreferrer noopener">melanoma</a>&nbsp;and&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/non-hodgkins-lymphoma/symptoms-causes/syc-20375680" target="_blank" rel="noreferrer noopener">non-Hodgkin lymphoma</a>.</p>
+<p>"We're working with what the body naturally does but has not done perfectly, as it has allowed cancer to develop. We're trying to reinforce the body's natural defenses," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/markovic-svetomir-n-m-d-ph-d/bio-00085174" target="_blank" rel="noreferrer noopener">Svetomir Markovic, M.D., Ph.D.</a>, a&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&amp;nbsp;medical oncologist who researches immunotherapy for&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884" target="_blank" rel="noreferrer noopener">melanoma</a>&amp;nbsp;and&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/non-hodgkins-lymphoma/symptoms-causes/syc-20375680" target="_blank" rel="noreferrer noopener">non-Hodgkin lymphoma</a>.</p>
 
 
 
-<p>"Immunotherapy leverages the patient's immune system to fight cancer. It activates and pushes it to find the tumors and kill them," says&nbsp;<a href="https://www.mayo.edu/research/faculty/dong-haidong-m-d-ph-d/bio-00027557" target="_blank" rel="noreferrer noopener">Haidong Dong, M.D., Ph.D.</a>, a Mayo Clinic Comprehensive Cancer Center cancer immunologist. "You can use different tools — T cells, vaccines, targeted drugs — but they all use the patient's immune cells to fight their tumors."</p>
+<p>"Immunotherapy leverages the patient's immune system to fight cancer. It activates and pushes it to find the tumors and kill them," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/dong-haidong-m-d-ph-d/bio-00027557" target="_blank" rel="noreferrer noopener">Haidong Dong, M.D., Ph.D.</a>, a Mayo Clinic Comprehensive Cancer Center cancer immunologist. "You can use different tools — T cells, vaccines, targeted drugs — but they all use the patient's immune cells to fight their tumors."</p>
 
 
 
@@ -1099,11 +1107,11 @@
 
 
 
-<p>In 2002, Dr. Dong and his team reported&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/12091876/" target="_blank" rel="noreferrer noopener">their findings</a>, paving the way for the development of new immunotherapy drugs called immune checkpoint inhibitors. In 2014, the Food and Drug Administration approved&nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/pembrolizumab-intravenous-route/description/drg-20122552" target="_blank" rel="noreferrer noopener">pembrolizumab</a>&nbsp;as the first immune checkpoint inhibitor to treat melanoma. Today, pembrolizumab is approved to treat 18 types of cancer.</p>
+<p>In 2002, Dr. Dong and his team reported&amp;nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/12091876/" target="_blank" rel="noreferrer noopener">their findings</a>, paving the way for the development of new immunotherapy drugs called immune checkpoint inhibitors. In 2014, the Food and Drug Administration approved&amp;nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/pembrolizumab-intravenous-route/description/drg-20122552" target="_blank" rel="noreferrer noopener">pembrolizumab</a>&amp;nbsp;as the first immune checkpoint inhibitor to treat melanoma. Today, pembrolizumab is approved to treat 18 types of cancer.</p>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="934" height="621" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016.png" alt="" class="wp-image-401361" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016.png 934w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016-300x199.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016-768x511.png 768w" sizes="auto, (max-width: 934px) 100vw, 934px"><figcaption class="wp-element-caption">Dr. Haidong Dong, photographed in 2016, points to a magnified image of cancer cells surrounded by PD-L1 proteins, which appear as a brown film.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="934" height="621" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016.png" alt="" class="wp-image-401361" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016.png 934w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016-300x199.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/HaidongDong2016-768x511.png 768w" sizes="auto, (max-width: 934px) 100vw, 934px" /><figcaption class="wp-element-caption">Dr. Haidong Dong, photographed in 2016, points to a magnified image of cancer cells surrounded by PD-L1 proteins, which appear as a brown film.</figcaption></figure>
 
 
 
@@ -1137,11 +1145,11 @@
 
 
 
-<p>Immune checkpoint inhibitors are immunotherapy drugs that block checkpoint proteins, such as PD-L1, on cancer cells from binding to their partner proteins on immune cells (T cells). This allows the immune system to destroy cancer cells.&nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/pembrolizumab-intravenous-route/description/drg-20122552" target="_blank" rel="noreferrer noopener">Pembrolizumab</a>&nbsp;is one example of an&nbsp;<a href="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors" target="_blank" rel="noreferrer noopener">immune checkpoint inhibitor</a>.&nbsp;<a href="https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.11057" target="_blank" rel="noreferrer noopener">Eleven immune checkpoint inhibitors</a>&nbsp;have now been approved to treat cancer.</p>
+<p>Immune checkpoint inhibitors are immunotherapy drugs that block checkpoint proteins, such as PD-L1, on cancer cells from binding to their partner proteins on immune cells (T cells). This allows the immune system to destroy cancer cells.&amp;nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/pembrolizumab-intravenous-route/description/drg-20122552" target="_blank" rel="noreferrer noopener">Pembrolizumab</a>&amp;nbsp;is one example of an&amp;nbsp;<a href="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors" target="_blank" rel="noreferrer noopener">immune checkpoint inhibitor</a>.&amp;nbsp;<a href="https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.11057" target="_blank" rel="noreferrer noopener">Eleven immune checkpoint inhibitors</a>&amp;nbsp;have now been approved to treat cancer.</p>
 
 
 
-<p>Most of these drugs are used for advanced cancer or cancer that has spread (metastasized). However, some immune checkpoint inhibitors are now being used in earlier stages of cancer to prevent its spread and recurrence.&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=checkpoint%20inhibitor%2c%20cancer&amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">Clinical trials</a>&nbsp;are also investigating combinations of these drugs with other treatments and new immune checkpoint inhibitors.</p>
+<p>Most of these drugs are used for advanced cancer or cancer that has spread (metastasized). However, some immune checkpoint inhibitors are now being used in earlier stages of cancer to prevent its spread and recurrence.&amp;nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=checkpoint%20inhibitor%2c%20cancer&amp;amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">Clinical trials</a>&amp;nbsp;are also investigating combinations of these drugs with other treatments and new immune checkpoint inhibitors.</p>
 
 
 
@@ -1167,7 +1175,7 @@
 
 
 
-<p>Most oncolytic virus treatments for cancer are still in&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=virotherapy%2c%20cancer&amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trials</a>. A weakened form of herpes simplex virus type 1 given by&nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/talimogene-laherparepvec-injection-route/description/drg-20165223" target="_blank" rel="noreferrer noopener">injection</a>&nbsp;is approved to treat melanoma on the skin or in lymph glands.</p>
+<p>Most oncolytic virus treatments for cancer are still in&amp;nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=virotherapy%2c%20cancer&amp;amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trials</a>. A weakened form of herpes simplex virus type 1 given by&amp;nbsp;<a href="https://www.mayoclinic.org/drugs-supplements/talimogene-laherparepvec-injection-route/description/drg-20165223" target="_blank" rel="noreferrer noopener">injection</a>&amp;nbsp;is approved to treat melanoma on the skin or in lymph glands.</p>
 
 
 
@@ -1193,7 +1201,7 @@
 
 
 
-<p>Personalized cancer vaccines train the immune system to recognize a specific cancer-related protein from a person's tumor. As the immune system learns to recognize the protein, it can fight it. This treatment is still being studied in&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=cancer%2c%20vaccine&amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trials</a>.</p>
+<p>Personalized cancer vaccines train the immune system to recognize a specific cancer-related protein from a person's tumor. As the immune system learns to recognize the protein, it can fight it. This treatment is still being studied in&amp;nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=cancer%2c%20vaccine&amp;amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trials</a>.</p>
 
 
 
@@ -1232,7 +1240,7 @@
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-car-t-cell-therapy/">CAR-T cell therapy</a>:&nbsp;</strong>For this therapy, white blood cells called T cells are removed from a person's blood and genetically modified to produce chimeric antigen receptors. CARs allow T cells to recognize markers on the surface of cancer cells, activating the T cells to kill them. The modified CAR-T cells are then infused into the patient's body to identify and destroy their cancer. The FDA has approved CAR-T cell therapy to treat several types of blood cancer, and&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=CAR-T%20cell%20therapy&amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trials</a>&nbsp;are exploring its use for solid tumor cancers.</li>
+<li><strong><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-car-t-cell-therapy/">CAR-T cell therapy</a>:&nbsp;</strong>For this therapy, white blood cells called T cells are removed from a person's blood and genetically modified to produce chimeric antigen receptors. CARs allow T cells to recognize markers on the surface of cancer cells, activating the T cells to kill them. The modified CAR-T cells are then infused into the patient's body to identify and destroy their cancer. The FDA has approved CAR-T cell therapy to treat several types of blood cancer, and&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=CAR-T%20cell%20therapy&amp;amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trials</a>&nbsp;are exploring its use for solid tumor cancers.</li>
 
 
 
@@ -1293,7 +1301,7 @@
 
 
 
-<p>The FDA has approved&nbsp;<a href="https://www.fda.gov/drugs/spotlight-cder-science/bispecific-antibodies-area-research-and-clinical-applications" target="_blank" rel="noreferrer noopener">seven immunotherapy drugs</a>&nbsp;that use bispecific antibodies to treat cancer.</p>
+<p>The FDA has approved&amp;nbsp;<a href="https://www.fda.gov/drugs/spotlight-cder-science/bispecific-antibodies-area-research-and-clinical-applications" target="_blank" rel="noreferrer noopener">seven immunotherapy drugs</a>&amp;nbsp;that use bispecific antibodies to treat cancer.</p>
 
 
 
@@ -1323,7 +1331,7 @@
 
 
 
-<p>Side effects vary based on the type of immunotherapy. Some can be serious, but most can be managed, treated and resolved. Common&nbsp;<a href="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/side-effects" target="_blank" rel="noreferrer noopener">side effects</a>&nbsp;include redness, itching or blistering of the skin, flu-like symptoms, diarrhea, swelling and weight gain.</p>
+<p>Side effects vary based on the type of immunotherapy. Some can be serious, but most can be managed, treated and resolved. Common&amp;nbsp;<a href="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/side-effects" target="_blank" rel="noreferrer noopener">side effects</a>&amp;nbsp;include redness, itching or blistering of the skin, flu-like symptoms, diarrhea, swelling and weight gain.</p>
 
 
 
@@ -1331,7 +1339,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-1024x577.jpg" alt="" class="wp-image-401360" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Svetomir Markovic, M.D., Ph.D.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-1024x577.jpg" alt="" class="wp-image-401360" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr.-Markovic-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Svetomir Markovic, M.D., Ph.D.</figcaption></figure>
 
 
 
@@ -1361,7 +1369,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-1024x576.jpg" alt="" class="wp-image-401358" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Haidong Dong, M.D., Ph.D.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-1024x576.jpg" alt="" class="wp-image-401358" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-1536x865.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Dr-Dong-16x9-1-2048x1153.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Haidong Dong, M.D., Ph.D.</figcaption></figure>
 
 
 
@@ -1399,11 +1407,11 @@
 
 
 
-<p>Find a&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=Immunotherapy%20for%20cancer&amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trial</a>&nbsp;at Mayo Clinic.</p>
+<p>Find a&amp;nbsp;<a href="https://www.mayo.edu/research/clinical-trials/search-results?keyword=Immunotherapy%20for%20cancer&amp;amp;studySiteStatusesGrouped=Open/Status%20Unknown" target="_blank" rel="noreferrer noopener">clinical trial</a>&amp;nbsp;at Mayo Clinic.</p>
 
 
 
-<p>Join a&nbsp;<a href="https://connect.mayoclinic.org/groups/" target="_blank" rel="noreferrer noopener">support group</a>&nbsp;on&nbsp;<a href="https://connect.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Connect</a>, an online community moderated by Mayo Clinic for patients and caregivers.</p>
+<p>Join a&amp;nbsp;<a href="https://connect.mayoclinic.org/groups/" target="_blank" rel="noreferrer noopener">support group</a>&amp;nbsp;on&amp;nbsp;<a href="https://connect.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Connect</a>, an online community moderated by Mayo Clinic for patients and caregivers.</p>
 
 
 
@@ -1415,27 +1423,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/Cancer-immunotherapy-GettyImages-1299493514_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Haidong Dong]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Svetomir Markovic]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Haidong Dong]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Svetomir Markovic]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Dr. Eric Moore appointed medical director, International at Mayo Clinic</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/dr-eric-moore-appointed-medical-director-international-at-mayo-clinic/
+		<link>https://newsnetwork.mayoclinic.org/discussion/dr-eric-moore-appointed-medical-director-international-at-mayo-clinic/</link>
 		
-		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
-		<pubdate>Wed, 26 Mar 2025 13:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[International]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Eric Moore]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401261</guid>
+		<dc:creator><![CDATA[Sharon Theimer]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Eric Moore]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=401261</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minnesota — Dr. Eric Moore has been appointed medical director, International at Mayo Clinic. Dr. Moore will begin his new position in April. Dr. Moore exemplifies dedication to patient care and is globally recognized as a leader in his field. He brings more than three decades of experience in clinical care, education and research […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minnesota — Dr. Eric Moore has been appointed medical director, International at Mayo Clinic. Dr. Moore will begin his new position in April. Dr. Moore exemplifies dedication to patient care and is globally recognized as a leader in his field. He brings more than three decades of experience in clinical care, education and research [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/dr-eric-moore-appointed-medical-director-international-at-mayo-clinic/">Dr. Eric Moore appointed medical director, International at Mayo Clinic</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-1024x576.jpg" alt="" class="wp-image-401203" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Eric Moore.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-1024x576.jpg" alt="" class="wp-image-401203" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Eric Moore.</figcaption></figure>
 
 
 
@@ -1447,7 +1455,7 @@
 
 
 
-<p>Dr. Moore is known for advancing care for complex ear, nose and throat conditions and leveraging research expertise to innovate therapies. He is passionate about sharing knowledge and expertise to improve global healthcare. Dr. Moore is a pioneer in <a href="https://www.mayoclinic.org/tests-procedures/transoral-robotic-surgery/about/pac-20384803?gclsrc=aw.ds&amp;&amp;mc_id=bing&amp;campaign=603037367&amp;geo=48792&amp;kw=Transoral%20Robotic%20Surgery&amp;query=mayo%20clinic%20minimally%20invasive%20transoral%20robotic%20surgery&amp;ad=80127097025144&amp;network=Search&amp;sitetarget=o&amp;adgroup=1282031227218436&amp;extension=&amp;target=kwd-80127268790751:loc-71153&amp;matchtype=p&amp;device=c&amp;account=B013932Y&amp;invsrc=cancer&amp;placementsite=enterprise&amp;gclid=aa20cce9b0a419740fa4ab71b3d3345b&amp;msclkid=aa20cce9b0a419740fa4ab71b3d3345b" target="_blank" rel="noreferrer noopener">minimally invasive transoral robotic surgery</a> and has improved outcomes for patients with <a href="https://www.mayoclinic.org/diseases-conditions/hpv-infection/symptoms-causes/syc-20351596" target="_blank" rel="noreferrer noopener">HPV</a>-related cancers and <a href="https://www.mayoclinic.org/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462" target="_blank" rel="noreferrer noopener">oropharyngeal cancers</a>.</p>
+<p>Dr. Moore is known for advancing care for complex ear, nose and throat conditions and leveraging research expertise to innovate therapies. He is passionate about sharing knowledge and expertise to improve global healthcare. Dr. Moore is a pioneer in <a href="https://www.mayoclinic.org/tests-procedures/transoral-robotic-surgery/about/pac-20384803?gclsrc=aw.ds&amp;amp;&amp;amp;mc_id=bing&amp;amp;campaign=603037367&amp;amp;geo=48792&amp;amp;kw=Transoral%20Robotic%20Surgery&amp;amp;query=mayo%20clinic%20minimally%20invasive%20transoral%20robotic%20surgery&amp;amp;ad=80127097025144&amp;amp;network=Search&amp;amp;sitetarget=o&amp;amp;adgroup=1282031227218436&amp;amp;extension=&amp;amp;target=kwd-80127268790751:loc-71153&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=B013932Y&amp;amp;invsrc=cancer&amp;amp;placementsite=enterprise&amp;amp;gclid=aa20cce9b0a419740fa4ab71b3d3345b&amp;amp;msclkid=aa20cce9b0a419740fa4ab71b3d3345b" target="_blank" rel="noreferrer noopener">minimally invasive transoral robotic surgery</a> and has improved outcomes for patients with <a href="https://www.mayoclinic.org/diseases-conditions/hpv-infection/symptoms-causes/syc-20351596" target="_blank" rel="noreferrer noopener">HPV</a>-related cancers and <a href="https://www.mayoclinic.org/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462" target="_blank" rel="noreferrer noopener">oropharyngeal cancers</a>.</p>
 
 
 
@@ -1463,7 +1471,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -1481,6 +1489,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1x1_Dr-Eric-Moore-WF1297085_0156-fotor-2025032483958.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Dr-Eric-Moore-WF1297085_0156-fotor-202503248399.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eric Moore]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eric Moore]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
