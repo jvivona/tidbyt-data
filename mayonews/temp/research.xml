@@ -1,48 +1,40 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/research/
 	<description>News Resources</description>
-	<lastBuildDate>Mon, 19 May 2025 13:46:35 +0000</lastBuildDate>
+	<lastbuilddate>Mon, 19 May 2025 13:46:35 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 	<item>
 		<title>Farmer inspires new potential bladder cancer treatment</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/farmer-inspires-new-potential-bladder-cancer-treatment/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/farmer-inspires-new-potential-bladder-cancer-treatment/
 		
-		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Clinical Trials]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Elisabeth Heath]]></category>
-		<category><![CDATA[Dr. Jacob Orme]]></category>
-		<category><![CDATA[Dr. Paras Shah]]></category>
-		<category><![CDATA[Dr. Stephen Boorjian]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402792</guid>
+		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
+		<pubdate>Mon, 19 May 2025 12:30:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Clinical Trials]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Elisabeth Heath]]--></category>
+		<category><!--[CDATA[Dr. Jacob Orme]]--></category>
+		<category><!--[CDATA[Dr. Paras Shah]]--></category>
+		<category><!--[CDATA[Dr. Stephen Boorjian]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402792</guid>
 
-					<description><![CDATA[<p>Minnesota farmer Craig Smith's bladder cancer treatment has inspired a clinical trial. Learn more at Mayo Clinic. </p>
+					<description><!--[CDATA[<p-->Minnesota farmer Craig Smith's bladder cancer treatment has inspired a clinical trial. Learn more at Mayo Clinic. <p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/farmer-inspires-new-potential-bladder-cancer-treatment/">Farmer inspires new potential bladder cancer treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-1024x576.jpg" alt="Farmer and Mayo patient Craig Smith and red tractor" class="wp-image-402794" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Mayo Clinic patient, farmer Craig Smith</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-1024x576.jpg" alt="Farmer and Mayo patient Craig Smith and red tractor" class="wp-image-402794" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Mayo Clinic patient, farmer Craig Smith</figcaption>
 
 
 
@@ -94,7 +86,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img decoding="async" width="480" height="640" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CSMith-JOrme.jpg" alt="" class="wp-image-402796" style="width:261px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CSMith-JOrme.jpg 480w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CSMith-JOrme-225x300.jpg 225w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption class="wp-element-caption">Craig Smith and Jacob Orme, M.D., Ph.D., at Mayo Clinic in Rochester</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img decoding="async" width="480" height="640" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CSMith-JOrme.jpg" alt="" class="wp-image-402796" style="width:261px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CSMith-JOrme.jpg 480w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CSMith-JOrme-225x300.jpg 225w" sizes="(max-width: 480px) 100vw, 480px"><figcaption class="wp-element-caption">Craig Smith and Jacob Orme, M.D., Ph.D., at Mayo Clinic in Rochester</figcaption></figure></div>
 
 
 <p>Advances in cancer treatment, such as immunotherapy that harnesses the body's immune system to fight cancer and the identification of biomarkers in the blood or urine that show how well a patient is responding to treatment, are helping the physicians select who will benefit most from surgery.</p>
@@ -133,27 +125,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/CraigSmith-tractor16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Elisabeth Heath]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jacob Orme]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Paras Shah]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Stephen Boorjian]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Elisabeth Heath]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jacob Orme]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Paras Shah]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Stephen Boorjian]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic discovery could mean better access to more donor hearts and improved transplant outcomes</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-could-mean-better-access-to-more-donor-hearts-and-improved-transplant-outcomes/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-could-mean-better-access-to-more-donor-hearts-and-improved-transplant-outcomes/
 		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 09:01:00 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Dr. Paul Tang]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402588</guid>
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Mon, 19 May 2025 09:01:00 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Dr. Paul Tang]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402588</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — A new discovery by Mayo Clinic researchers could mean more donor hearts are available for heart transplant, giving more people a second chance at life. In findings published in Nature Cardiovascular Research, a team led by Mayo Clinic cardiac surgeon Paul Tang, M.D., Ph.D., identified a biological process that contributes to donor [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A new discovery by Mayo Clinic researchers could mean more donor hearts are available for heart transplant, giving more people a second chance at life. In findings published in Nature Cardiovascular Research, a team led by Mayo Clinic cardiac surgeon Paul Tang, M.D., Ph.D., identified a biological process that contributes to donor […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-could-mean-better-access-to-more-donor-hearts-and-improved-transplant-outcomes/">Mayo Clinic discovery could mean better access to more donor hearts and improved transplant outcomes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-1024x576.png" alt="" class="wp-image-402593" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-1024x576.png" alt="" class="wp-image-402593" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -165,7 +157,7 @@
 
 
 
-<p>Heart transplantation is the most effective treatment for end-stage heart failure, yet fewer than half of donor hearts are ultimately used. One major reason is the relatively short window for transplanting a donated heart into a patient, due to concerns over low donor heart function that comes from leaving a heart in cold storage too long. &amp;nbsp;</p>
+<p>Heart transplantation is the most effective treatment for end-stage heart failure, yet fewer than half of donor hearts are ultimately used. One major reason is the relatively short window for transplanting a donated heart into a patient, due to concerns over low donor heart function that comes from leaving a heart in cold storage too long. &nbsp;</p>
 
 
 
@@ -197,24 +189,24 @@
 
 
 
-<p>Mayo Clinic collaborated with the University of Michigan on this research. Review the <a href="https://www.nature.com/articles/s44161-025-00653-x" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;</p>
+<p>Mayo Clinic collaborated with the University of Michigan on this research. Review the <a href="https://www.nature.com/articles/s44161-025-00653-x" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&nbsp;</p>
 
 
 
-<p>###&amp;nbsp;</p>
+<p>###&nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;</p>
 
 
 
-<p><strong>Media contact: </strong>&amp;nbsp;</p>
+<p><strong>Media contact: </strong>&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Susan Murphy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&amp;nbsp;</li>
+<li>Susan Murphy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-could-mean-better-access-to-more-donor-hearts-and-improved-transplant-outcomes/">Mayo Clinic discovery could mean better access to more donor hearts and improved transplant outcomes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -223,34 +215,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/1x1.donor-hearts.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/16x9-DONOR-HEART.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Dr. Paul Tang]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Dr. Paul Tang]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Graduate students&amp;#8217; research pushes discoveries toward clinical trials</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/graduate-students-research-pushes-discoveries-toward-clinical-trials/</link>
+		<title>Graduate students’ research pushes discoveries toward clinical trials</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/graduate-students-research-pushes-discoveries-toward-clinical-trials/
 		
-		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 13:30:00 +0000</pubDate>
-				<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Clinical Trials]]></category>
-		<category><![CDATA[Education]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Bart Demaerschalk]]></category>
-		<category><![CDATA[Dr. Bradley Erickson]]></category>
-		<category><![CDATA[Dr. Saad Kendarian]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402606</guid>
+		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
+		<pubdate>Thu, 15 May 2025 13:30:00 +0000</pubdate>
+				<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Clinical Trials]]--></category>
+		<category><!--[CDATA[Education]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Bart Demaerschalk]]--></category>
+		<category><!--[CDATA[Dr. Bradley Erickson]]--></category>
+		<category><!--[CDATA[Dr. Saad Kendarian]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402606</guid>
 
-					<description><![CDATA[<p>Mayo Clinic's biomedical research training environment fosters a certain kind of thinking: How can new knowledge eventually improve the treatment of disease?</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/graduate-students-research-pushes-discoveries-toward-clinical-trials/">Graduate students&amp;#8217; research pushes discoveries toward clinical trials</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Mayo Clinic's biomedical research training environment fosters a certain kind of thinking: How can new knowledge eventually improve the treatment of disease?<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/graduate-students-research-pushes-discoveries-toward-clinical-trials/">Graduate students’ research pushes discoveries toward clinical trials</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>For graduate students aiming to become scientists, Mayo Clinic's biomedical research training environment fosters a certain kind of thinking: How can new knowledge eventually improve the treatment of disease? "As students, we see the integration of research and patient care and what you can learn from both sides of the picture," says Ph.D. candidate Carli Stewart.</p>
+										<content:encoded><!--[CDATA[
+<p-->For graduate students aiming to become scientists, Mayo Clinic's biomedical research training environment fosters a certain kind of thinking: How can new knowledge eventually improve the treatment of disease? "As students, we see the integration of research and patient care and what you can learn from both sides of the picture," says Ph.D. candidate Carli Stewart.<p></p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Stewart-Carli-M._30027020_202008250417.jpg" alt="" class="wp-image-402611" style="width:253px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Stewart-Carli-M._30027020_202008250417.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Stewart-Carli-M._30027020_202008250417-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px" /><figcaption class="wp-element-caption">Carli Stewart</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Stewart-Carli-M._30027020_202008250417.jpg" alt="" class="wp-image-402611" style="width:253px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Stewart-Carli-M._30027020_202008250417.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Stewart-Carli-M._30027020_202008250417-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px"><figcaption class="wp-element-caption">Carli Stewart</figcaption></figure></div>
 
 
 <p>For Stewart, the desire to become a scientist began at home. From a young age, she was aware of her father's diagnosis with cancer and the struggles he faced as his body became resistant to some treatments. Four years ago, when she became a predoctoral student at <a href="https://college.mayo.edu/academics/biomedical-research-training/phd-program" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a>, she chose a research project addressing blood cancers like his.</p>
@@ -293,7 +285,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Sirpilla-Olivia-L._30026831_20241104.jpg" alt="" class="wp-image-402613" style="width:258px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Sirpilla-Olivia-L._30026831_20241104.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Sirpilla-Olivia-L._30026831_20241104-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">Olivia Sirpilla</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Sirpilla-Olivia-L._30026831_20241104.jpg" alt="" class="wp-image-402613" style="width:258px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Sirpilla-Olivia-L._30026831_20241104.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Sirpilla-Olivia-L._30026831_20241104-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px"><figcaption class="wp-element-caption">Olivia Sirpilla</figcaption></figure></div>
 
 
 <p>But for some students, like Olivia Sirpilla, who is graduating in May from Mayo Clinic Graduate School of Biomedical Sciences, a long series of successful experiments in Dr. Kenderian's lab has opened the door to the next stages. Sirpilla's Ph.D. research looked at developing specially engineered stem cells from fat tissue as a treatment to calm the inflammation that occurs in immune diseases.</p>
@@ -308,7 +300,7 @@
 
 
 
-<h2 class="wp-block-heading"><strong>Research that reaches patients' daily lives &amp;nbsp;</strong></h2>
+<h2 class="wp-block-heading"><strong>Research that reaches patients' daily lives &nbsp;</strong></h2>
 
 
 
@@ -316,10 +308,10 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428.jpg" alt="" class="wp-image-402614" style="width:261px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">Stephanie Zawada</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428.jpg" alt="" class="wp-image-402614" style="width:261px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px"><figcaption class="wp-element-caption">Stephanie Zawada</figcaption></figure></div>
 
 
-<p>Her thesis project aimed to help physicians assess people who have experienced a stroke and may be at risk for another. &amp;nbsp;She engaged two Ph.D. mentors who shared their expertise: <a href="https://www.mayo.edu/research/faculty/demaerschalk-bart-m-m-d/bio-20507430" target="_blank" rel="noreferrer noopener">Bart Demaerschalk, M.D.</a>, &amp;nbsp;and &amp;nbsp;<a href="https://www.mayo.edu/research/faculty/erickson-bradley-j-m-d-ph-d/bio-00077505" target="_blank" rel="noreferrer noopener">Bradley Erickson, M.D., Ph.D.</a> Dr. Demaerschalk is a professor of neurology who treats patients with stroke at Mayo Clinic in Arizona and has a longstanding interest in digital health and using telemedicine to reach remote patients, and Dr. Erickson is a professor of radiology who leads artificial intelligence studies at his lab at Mayo Clinic in Minnesota.</p>
+<p>Her thesis project aimed to help physicians assess people who have experienced a stroke and may be at risk for another. &nbsp;She engaged two Ph.D. mentors who shared their expertise: <a href="https://www.mayo.edu/research/faculty/demaerschalk-bart-m-m-d/bio-20507430" target="_blank" rel="noreferrer noopener">Bart Demaerschalk, M.D.</a>, &nbsp;and &nbsp;<a href="https://www.mayo.edu/research/faculty/erickson-bradley-j-m-d-ph-d/bio-00077505" target="_blank" rel="noreferrer noopener">Bradley Erickson, M.D., Ph.D.</a> Dr. Demaerschalk is a professor of neurology who treats patients with stroke at Mayo Clinic in Arizona and has a longstanding interest in digital health and using telemedicine to reach remote patients, and Dr. Erickson is a professor of radiology who leads artificial intelligence studies at his lab at Mayo Clinic in Minnesota.</p>
 
 
 
@@ -331,7 +323,7 @@
 
 
 
-<p>Zawada designed a study that met the requirements of an institutional review board, or IRB, to address regulatory compliance. Aiming to get information from a "real-world" setting — where patients interact with app-based tools and the tools account for the range of daily activities — added logistical and mathematical complexity to the project. She worked with Dr. Demaerschalk and Mayo Clinic hospital-based stroke teams to recruit a cohort of 35 patients who gave consent to be part of the clinical trial. &amp;nbsp;</p>
+<p>Zawada designed a study that met the requirements of an institutional review board, or IRB, to address regulatory compliance. Aiming to get information from a "real-world" setting — where patients interact with app-based tools and the tools account for the range of daily activities — added logistical and mathematical complexity to the project. She worked with Dr. Demaerschalk and Mayo Clinic hospital-based stroke teams to recruit a cohort of 35 patients who gave consent to be part of the clinical trial. &nbsp;</p>
 
 
 
@@ -351,35 +343,35 @@
 
 
 
-<p>&amp;nbsp;</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/graduate-students-research-pushes-discoveries-toward-clinical-trials/">Graduate students&amp;#8217; research pushes discoveries toward clinical trials</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/graduate-students-research-pushes-discoveries-toward-clinical-trials/">Graduate students’ research pushes discoveries toward clinical trials</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Clinical-trials-graduate-students1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Clinical-trials-graduate-students16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Bart Demaerschalk]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Bradley Erickson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Saad Kendarian]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Bart Demaerschalk]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Bradley Erickson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Saad Kendarian]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Construction worker rapidly loses ability to walk &amp;#8211; Mayo Clinic researchers discover the cause</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/construction-worker-rapidly-loses-ability-to-walk-mayo-clinic-researchers-discover-the-cause/</link>
+		<title>Construction worker rapidly loses ability to walk – Mayo Clinic researchers discover the cause</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/construction-worker-rapidly-loses-ability-to-walk-mayo-clinic-researchers-discover-the-cause/
 		
-		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
-		<pubDate>Fri, 09 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Andrew Engel]]></category>
-		<category><![CDATA[Dr. Ashley Santilli]]></category>
-		<category><![CDATA[Dr. Teerin Liewluck]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402631</guid>
+		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
+		<pubdate>Fri, 09 May 2025 13:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Andrew Engel]]--></category>
+		<category><!--[CDATA[Dr. Ashley Santilli]]--></category>
+		<category><!--[CDATA[Dr. Teerin Liewluck]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402631</guid>
 
-					<description><![CDATA[<p>Mayo Clinic researchers have identified a new autoimmune disease of skeletal muscle that can be mistaken for muscular dystrophy. </p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/construction-worker-rapidly-loses-ability-to-walk-mayo-clinic-researchers-discover-the-cause/">Construction worker rapidly loses ability to walk &amp;#8211; Mayo Clinic researchers discover the cause</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Mayo Clinic researchers have identified a new autoimmune disease of skeletal muscle that can be mistaken for muscular dystrophy. <p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/construction-worker-rapidly-loses-ability-to-walk-mayo-clinic-researchers-discover-the-cause/">Construction worker rapidly loses ability to walk – Mayo Clinic researchers discover the cause</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-1024x576.jpg" alt="Photo of José Villalta" class="wp-image-402633" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">José Villalta</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-1024x576.jpg" alt="Photo of José Villalta" class="wp-image-402633" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">José Villalta</figcaption>
 
 
 
@@ -399,7 +391,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-853x1024.jpg" alt="" class="wp-image-402636" style="width:250px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px" /><figcaption class="wp-element-caption">Ashley Santilli, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-853x1024.jpg" alt="" class="wp-image-402636" style="width:250px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Santilli_Ashley_R._MD_20995750_201806200441.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px"><figcaption class="wp-element-caption">Ashley Santilli, M.D.</figcaption></figure></div>
 
 
 <p>At the time, Dr. Santilli was training under <a href="https://www.mayo.edu/research/faculty/liewluck-teerin-m-d/bio-20524561" target="_blank" rel="noreferrer noopener">Teerin Liewluck, M.D.</a>, a neurologist who had trained under the late <a href="https://www.worldmusclesociety.org/news/view/in-memory-of-andrew-engel-a-pioneer-of-neuromuscular-disorders-research" target="_blank" rel="noreferrer noopener">Andrew Engel, M.D.</a>, a pioneer of muscle disease research. Over nearly six decades at Mayo Clinic, Dr. Engel discovered several new neuromuscular disorders and identified the underlying mechanisms of many others.</p>
@@ -426,7 +418,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-819x1024.jpg" alt="" class="wp-image-402637" style="width:243px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Teerin Liewluck, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-819x1024.jpg" alt="" class="wp-image-402637" style="width:243px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Liewluck_Teerin_15093484_20220516-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Teerin Liewluck, M.D.</figcaption></figure></div>
 
 
 <p>Villalta's case gave Dr. Liewluck a sense of déjà vu. He recalled another patient, years earlier, who was <a href="https://pubmed.ncbi.nlm.nih.gov/34617293/" target="_blank" rel="noreferrer noopener">part of a study</a> on a severe form of muscle inflammation. That patient's biopsy also was marked by giant mitochondria. The patient's story was only pieced together later: an adult who developed muscle weakness, but whose illness was complicated by an underlying cancer. Treated by another physician, the patient initially improved with immunotherapy, but ultimately the cancer claimed her life.</p>
@@ -465,7 +457,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-1024x768.jpg" alt="" class="wp-image-402647" style="width:375px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM.jpg 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Patients with immune-mediated megaconial myopathy have enlarged mitochondria in their muscle tissue.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-1024x768.jpg" alt="" class="wp-image-402647" style="width:375px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/IMMM.jpg 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Patients with immune-mediated megaconial myopathy have enlarged mitochondria in their muscle tissue.</figcaption></figure></div>
 
 
 <p>The team turned to the Mayo Clinic Muscle Pathology database to see if they could find other patients with this new disease within recent years. They identified two more patients, who shared the same distinctive features — profound muscle weakness in adulthood, strikingly enlarged mitochondria, inflammatory reaction in muscle tissue and elevated creatine kinase levels. Working in collaboration with an outside institute, they uncovered a third case. Along with Villalta and the case from the prior research study, the count had risen to five. Villalta and the two newer patients, all of whom received immunotherapy, <a href="https://www.neurology.org/doi/10.1212/WNL.0000000000210001" target="_blank" rel="noreferrer noopener">responded well</a> to treatment.</p>
@@ -493,53 +485,53 @@
 
 
 <p>By last spring, Villalta had recovered enough to travel to his home country of El Salvador. His family helped him take a walk on the beach and watched over him as he swam in the ocean. Until recently, it was more than he thought was possible.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/construction-worker-rapidly-loses-ability-to-walk-mayo-clinic-researchers-discover-the-cause/">Construction worker rapidly loses ability to walk &amp;#8211; Mayo Clinic researchers discover the cause</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/construction-worker-rapidly-loses-ability-to-walk-mayo-clinic-researchers-discover-the-cause/">Construction worker rapidly loses ability to walk – Mayo Clinic researchers discover the cause</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Jose-Villalta-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Andrew Engel]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ashley Santilli]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Teerin Liewluck]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Andrew Engel]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ashley Santilli]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Teerin Liewluck]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Advancing the study of Pick&amp;#8217;s disease, rare form of early-onset dementia</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/global-consortium-to-study-picks-disease-rare-form-of-early-onset-dementia/</link>
+		<title>Advancing the study of Pick’s disease, rare form of early-onset dementia</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/global-consortium-to-study-picks-disease-rare-form-of-early-onset-dementia/
 		
-		<dc:creator><![CDATA[Lynda De Widt]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 14:11:00 +0000</pubDate>
-				<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[International]]></category>
-		<category><![CDATA[Neurosciences]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Dr. Owen Ross]]></category>
-		<category><![CDATA[Florida News Releases]]></category>
-		<category><![CDATA[Pick's disease]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=386291</guid>
+		<dc:creator><!--[CDATA[Lynda De Widt]]--></dc:creator>
+		<pubdate>Wed, 07 May 2025 14:11:00 +0000</pubdate>
+				<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[International]]--></category>
+		<category><!--[CDATA[Neurosciences]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Dr. Owen Ross]]--></category>
+		<category><!--[CDATA[Florida News Releases]]--></category>
+		<category><!--[CDATA[Pick's disease]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=386291</guid>
 
-					<description><![CDATA[<p>JACKSONVILLE, Fla. — Pick's disease, a neurodegenerative disease of unknown genetic origin, is a rare type of frontotemporal dementia that affects people under the age of 65. The condition causes changes in personality, behavior and sometimes language impairment. In patients with the disease, tau proteins build up and form abnormal clumps called Pick bodies, which [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/global-consortium-to-study-picks-disease-rare-form-of-early-onset-dementia/">Advancing the study of Pick&amp;#8217;s disease, rare form of early-onset dementia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->JACKSONVILLE, Fla. — Pick's disease, a neurodegenerative disease of unknown genetic origin, is a rare type of frontotemporal dementia that affects people under the age of 65. The condition causes changes in personality, behavior and sometimes language impairment. In patients with the disease, tau proteins build up and form abnormal clumps called Pick bodies, which […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/global-consortium-to-study-picks-disease-rare-form-of-early-onset-dementia/">Advancing the study of Pick’s disease, rare form of early-onset dementia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p></p>
+										<content:encoded><!--[CDATA[
+<p--><p></p>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9.jpg" alt="" class="wp-image-386357" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9.jpg" alt="" class="wp-image-386357" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 
 
 
-<p>JACKSONVILLE, Fla. — <a href="https://www.alzheimers.net/what-is-picks-disease" target="_blank" rel="noreferrer noopener">Pick's disease</a>, a neurodegenerative disease of unknown genetic origin, is a rare type of <a href="https://www.mayoclinic.org/diseases-conditions/frontotemporal-dementia/symptoms-causes/syc-20354737?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">frontotemporal dementia</a> that affects people under the age of 65. The condition causes changes in personality, behavior and sometimes language impairment. In patients with the disease, tau proteins build up and form abnormal clumps called Pick bodies, which restrict nutrients to the brain and cause neurodegeneration. The only way to diagnose the disease is by looking at brain tissue under a microscope after a person dies.</p>
+<p>JACKSONVILLE, Fla. — <a href="https://www.alzheimers.net/what-is-picks-disease" target="_blank" rel="noreferrer noopener">Pick's disease</a>, a neurodegenerative disease of unknown genetic origin, is a rare type of <a href="https://www.mayoclinic.org/diseases-conditions/frontotemporal-dementia/symptoms-causes/syc-20354737?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">frontotemporal dementia</a> that affects people under the age of 65. The condition causes changes in personality, behavior and sometimes language impairment. In patients with the disease, tau proteins build up and form abnormal clumps called Pick bodies, which restrict nutrients to the brain and cause neurodegeneration. The only way to diagnose the disease is by looking at brain tissue under a microscope after a person dies.</p>
 
 
 
-<p>In a new <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.science.org%2Fdoi%2F10.1126%2Fsciadv.adt6105&amp;amp;data=05%7C02%7CDeWidt.Lynda%40mayo.edu%7C2a428ea388424d51e05d08dd8ce47945%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638821635090355711%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=r8QqTZcm3HLUbbyNMzv9qfD49pB4aThHvZYLpRwY%2B5U%3D&amp;amp;reserved=0">study</a>, Mayo Clinic researchers have identified gene expression changes in the brains of people with Pick's disease. Since Pick's disease is a rare neurodegenerative disorder that cannot be diagnosed during life, their findings offer valuable insights that may help guide the development of biomarkers and therapeutic strategies.</p>
+<p>In a new <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.science.org%2Fdoi%2F10.1126%2Fsciadv.adt6105&amp;data=05%7C02%7CDeWidt.Lynda%40mayo.edu%7C2a428ea388424d51e05d08dd8ce47945%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638821635090355711%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=r8QqTZcm3HLUbbyNMzv9qfD49pB4aThHvZYLpRwY%2B5U%3D&amp;reserved=0">study</a>, Mayo Clinic researchers have identified gene expression changes in the brains of people with Pick's disease. Since Pick's disease is a rare neurodegenerative disorder that cannot be diagnosed during life, their findings offer valuable insights that may help guide the development of biomarkers and therapeutic strategies.</p>
 
 
 
-<p>Researchers at Mayo Clinic in Florida, University College London in England and collaborators worldwide have established the Pick's Disease International Consortium to study a specific <em>MAPT </em>gene variation known as <em>MAPT </em>H2 that makes the tau protein and acts as a driver of disease. They investigated a connection between the gene and disease risk, age at onset, and duration of Pick's disease. Their findings are reported in <a href="https://www.sciencedirect.com/science/article/pii/S1474442224000838?utm_campaign=STMJ_219742_AUTH_SERV_PA&amp;amp;utm_medium=email&amp;amp;utm_acid=81527593&amp;amp;SIS_ID=&amp;amp;dgcid=STMJ_219742_AUTH_SERV_PA&amp;amp;CMX_ID=&amp;amp;utm_in=DM467488&amp;amp;utm_source=AC_" target="_blank" rel="noreferrer noopener">The Lancet Neurology</a>.</p>
+<p>Researchers at Mayo Clinic in Florida, University College London in England and collaborators worldwide have established the Pick's Disease International Consortium to study a specific <em>MAPT </em>gene variation known as <em>MAPT </em>H2 that makes the tau protein and acts as a driver of disease. They investigated a connection between the gene and disease risk, age at onset, and duration of Pick's disease. Their findings are reported in <a href="https://www.sciencedirect.com/science/article/pii/S1474442224000838?utm_campaign=STMJ_219742_AUTH_SERV_PA&amp;utm_medium=email&amp;utm_acid=81527593&amp;SIS_ID=&amp;dgcid=STMJ_219742_AUTH_SERV_PA&amp;CMX_ID=&amp;utm_in=DM467488&amp;utm_source=AC_" target="_blank" rel="noreferrer noopener">The Lancet Neurology</a>.</p>
 
 
 
@@ -547,10 +539,10 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Owen-A.-PhD_14413434_201709210752-250x300.jpg" alt="Portrait of Dr. Owen Ross" class="wp-image-386337" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Owen-A.-PhD_14413434_201709210752-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Owen-A.-PhD_14413434_201709210752.jpg 667w" sizes="auto, (max-width: 250px) 100vw, 250px" /><figcaption class="wp-element-caption"><sup>Owen Ross, Ph.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Owen-A.-PhD_14413434_201709210752-250x300.jpg" alt="Portrait of Dr. Owen Ross" class="wp-image-386337" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Owen-A.-PhD_14413434_201709210752-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Owen-A.-PhD_14413434_201709210752.jpg 667w" sizes="auto, (max-width: 250px) 100vw, 250px"><figcaption class="wp-element-caption"><sup>Owen Ross, Ph.D.</sup></figcaption></figure></div>
 
 
-<p>"Our research could have profound implications for the development of therapies for Pick's disease and other related neurodegenerative diseases, including <a href="https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Alzheimer's disease</a> and <a href="https://www.mayoclinic.org/diseases-conditions/progressive-supranuclear-palsy/symptoms-causes/syc-20355659?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">progressive supranuclear palsy</a>," says <a href="https://www.mayo.edu/research/faculty/ross-owen-a-ph-d/bio-00093014" target="_blank" rel="noreferrer noopener">Owen Ross, Ph.D.</a>, a Mayo Clinic neuroscientist and senior author of the paper. The consortium hosts a database of clinical, pathological and demographic information about patients with the disease who donated their brain tissue for science.</p>
+<p>"Our research could have profound implications for the development of therapies for Pick's disease and other related neurodegenerative diseases, including <a href="https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Alzheimer's disease</a> and <a href="https://www.mayoclinic.org/diseases-conditions/progressive-supranuclear-palsy/symptoms-causes/syc-20355659?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">progressive supranuclear palsy</a>," says <a href="https://www.mayo.edu/research/faculty/ross-owen-a-ph-d/bio-00093014" target="_blank" rel="noreferrer noopener">Owen Ross, Ph.D.</a>, a Mayo Clinic neuroscientist and senior author of the paper. The consortium hosts a database of clinical, pathological and demographic information about patients with the disease who donated their brain tissue for science.</p>
 
 
 
@@ -570,7 +562,7 @@
 
 
 
-<p>Funding for this research at Mayo Clinic was supported in part by the National Institutes of Health, the National Institute of Neurological Disorders and Stroke, the State of Florida Ed and Ethel Moore Alzheimer’s Disease Research Program, and Mayo Clinic Alzheimer's Disease Research Center. For a full list of authors, collaborating institutions and disclosures, see the <a href="https://www.sciencedirect.com/science/article/pii/S1474442224000838?utm_campaign=STMJ_219742_AUTH_SERV_PA&amp;amp;utm_medium=email&amp;amp;utm_acid=81527593&amp;amp;SIS_ID=&amp;amp;dgcid=STMJ_219742_AUTH_SERV_PA&amp;amp;CMX_ID=&amp;amp;utm_in=DM467488&amp;amp;utm_source=AC_" target="_blank" rel="noreferrer noopener">paper</a>.</p>
+<p>Funding for this research at Mayo Clinic was supported in part by the National Institutes of Health, the National Institute of Neurological Disorders and Stroke, the State of Florida Ed and Ethel Moore Alzheimer’s Disease Research Program, and Mayo Clinic Alzheimer's Disease Research Center. For a full list of authors, collaborating institutions and disclosures, see the <a href="https://www.sciencedirect.com/science/article/pii/S1474442224000838?utm_campaign=STMJ_219742_AUTH_SERV_PA&amp;utm_medium=email&amp;utm_acid=81527593&amp;SIS_ID=&amp;dgcid=STMJ_219742_AUTH_SERV_PA&amp;CMX_ID=&amp;utm_in=DM467488&amp;utm_source=AC_" target="_blank" rel="noreferrer noopener">paper</a>.</p>
 
 
 
@@ -578,46 +570,46 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
-<p><strong>Media contact:</strong>&amp;nbsp;</p>
+<p><strong>Media contact:</strong>&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
 <li>Tia Ford, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/global-consortium-to-study-picks-disease-rare-form-of-early-onset-dementia/">Advancing the study of Pick&amp;#8217;s disease, rare form of early-onset dementia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/global-consortium-to-study-picks-disease-rare-form-of-early-onset-dementia/">Advancing the study of Pick’s disease, rare form of early-onset dementia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Ross-Lab-1706271_3983114_0015_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Dr. Owen Ross]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Pick's disease]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/pick_bodies_16x9-150x150.jpg</mayoclinic:mcthumb >	</item>
+<mayoclinic:mctag><!--[CDATA[Dr. Owen Ross]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Pick's disease]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/pick_bodies_16x9-150x150.jpg</mayoclinic:mcthumb>	</item>
 		<item>
 		<title>Clinical trials: A significant part of cancer care</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/clinical-trials-a-significant-part-of-cancer-care/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/clinical-trials-a-significant-part-of-cancer-care/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 12:01:49 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Clinical Trials]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Translational Science]]></category>
-		<category><![CDATA[Dr. Geoffrey Johnson]]></category>
-		<category><![CDATA[Dr. Judy Boughey]]></category>
-		<category><![CDATA[Dr. Matthew Block]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=388025</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Fri, 02 May 2025 12:01:49 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Clinical Trials]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Translational Science]]--></category>
+		<category><!--[CDATA[Dr. Geoffrey Johnson]]--></category>
+		<category><!--[CDATA[Dr. Judy Boughey]]--></category>
+		<category><!--[CDATA[Dr. Matthew Block]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=388025</guid>
 
-					<description><![CDATA[<p>Editor's note:&nbsp;May is National Cancer Research Month, and May 20 is Clinical Trials Day. A cancer diagnosis is an emotional experience. Learning that you have cancer can create feelings of hopelessness, fear and sadness. This is especially true if your cancer is advanced or available treatments are unable to stop or slow its growth. "Often, [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Editor's note:&nbsp;May is National Cancer Research Month, and May 20 is Clinical Trials Day. A cancer diagnosis is an emotional experience. Learning that you have cancer can create feelings of hopelessness, fear and sadness. This is especially true if your cancer is advanced or available treatments are unable to stop or slow its growth. "Often, […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/clinical-trials-a-significant-part-of-cancer-care/">Clinical trials: A significant part of cancer care</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="936" height="526" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg" alt="" class="wp-image-388034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg 936w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-768x432.jpg 768w" sizes="auto, (max-width: 936px) 100vw, 936px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="936" height="526" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg" alt="" class="wp-image-388034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg 936w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018-768x432.jpg 768w" sizes="auto, (max-width: 936px) 100vw, 936px">
 
 
 
@@ -629,7 +621,7 @@
 
 
 
-<p>"Often, when patients are diagnosed with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588" target="_blank" rel="noreferrer noopener">cancer</a>, they feel hopeless and scared. Clinical trials are one way patients can be proactive. They can make a choice in how their care is going to be," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/block-matthew-s-m-d-ph-d/bio-00027434" target="_blank" rel="noreferrer noopener">Matthew Block, M.D., Ph.D.</a>, a Mayo Clinic medical oncologist.</p>
+<p>"Often, when patients are diagnosed with&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588" target="_blank" rel="noreferrer noopener">cancer</a>, they feel hopeless and scared. Clinical trials are one way patients can be proactive. They can make a choice in how their care is going to be," says&nbsp;<a href="https://www.mayo.edu/research/faculty/block-matthew-s-m-d-ph-d/bio-00027434" target="_blank" rel="noreferrer noopener">Matthew Block, M.D., Ph.D.</a>, a Mayo Clinic medical oncologist.</p>
 
 
 
@@ -641,7 +633,7 @@
 
 
 
-<p>You will receive cancer treatment if you participate in a clinical trial. "I think one common misperception about clinical trials is that if you enter a clinical trial, you may not get treatment (receive a placebo). And that's actually very much not true. Most clinical trials are looking at one treatment compared to another treatment," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/boughey-judy-c-m-d/bio-00027350" target="_blank" rel="noreferrer noopener">Judy C. Boughey, M.D.</a>, a Mayo Clinic surgical oncologist, chair of Breast and Melanoma Surgical Oncology at Mayo Clinic in Rochester, Minnesota, and chair of the Mayo Clinic Comprehensive Cancer Center Breast Cancer Disease Group.</p>
+<p>You will receive cancer treatment if you participate in a clinical trial. "I think one common misperception about clinical trials is that if you enter a clinical trial, you may not get treatment (receive a placebo). And that's actually very much not true. Most clinical trials are looking at one treatment compared to another treatment," says&nbsp;<a href="https://www.mayo.edu/research/faculty/boughey-judy-c-m-d/bio-00027350" target="_blank" rel="noreferrer noopener">Judy C. Boughey, M.D.</a>, a Mayo Clinic surgical oncologist, chair of Breast and Melanoma Surgical Oncology at Mayo Clinic in Rochester, Minnesota, and chair of the Mayo Clinic Comprehensive Cancer Center Breast Cancer Disease Group.</p>
 
 
 
@@ -651,12 +643,12 @@
 
 
 
-<p><strong>Watch this&amp;nbsp;<a href="https://youtu.be/laXwkIUrBRI?si=IuoFOQpYaNDjEcMV" target="_blank" rel="noreferrer noopener">video</a>&amp;nbsp;to hear the experiences of people who have participated in cancer clinical trials and to hear Drs. Block, Johnson and Boughey discuss the importance of clinical trials in cancer care:</strong></p>
+<p><strong>Watch this&nbsp;<a href="https://youtu.be/laXwkIUrBRI?si=IuoFOQpYaNDjEcMV" target="_blank" rel="noreferrer noopener">video</a>&nbsp;to hear the experiences of people who have participated in cancer clinical trials and to hear Drs. Block, Johnson and Boughey discuss the importance of clinical trials in cancer care:</strong></p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidlaXwkIUrBRI"  title="Enhancing Cancer Care through Clinical Trials at Mayo Clinic" width="500" height="281" src="https://www.youtube.com/embed/laXwkIUrBRI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidlaXwkIUrBRI" title="Enhancing Cancer Care through Clinical Trials at Mayo Clinic" width="500" height="281" src="https://www.youtube.com/embed/laXwkIUrBRI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -691,7 +683,7 @@
 
 
 
-<p>Participating in a clinical trial is an important decision with potential risks and benefits. Explore these&amp;nbsp;<a href="https://www.cancer.gov/research/participate/clinical-trials/facts" target="_blank" rel="noreferrer noopener">FAQ</a>&amp;nbsp;about cancer clinical trials, and ask your care team if a clinical trial might be right for you.</p>
+<p>Participating in a clinical trial is an important decision with potential risks and benefits. Explore these&nbsp;<a href="https://www.cancer.gov/research/participate/clinical-trials/facts" target="_blank" rel="noreferrer noopener">FAQ</a>&nbsp;about cancer clinical trials, and ask your care team if a clinical trial might be right for you.</p>
 
 
 
@@ -703,27 +695,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Cancer-Clinical-Trials-1x1WF2727318_0018.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/2-Cancer-Clinical-Trials-16x9-WF2727318_0018.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Dr. Geoffrey Johnson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Judy Boughey]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Block]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Dr. Geoffrey Johnson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Judy Boughey]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Block]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>New awards aim to make Minnesota a leader in regenerative medicine</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-awards-aim-to-make-minnesota-a-leader-in-regenerative-medicine/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-awards-aim-to-make-minnesota-a-leader-in-regenerative-medicine/
 		
-		<dc:creator><![CDATA[Vincent Jacobbi]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Translational Science]]></category>
-		<category><![CDATA[Regenerative Medicine]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402462</guid>
+		<dc:creator><!--[CDATA[Vincent Jacobbi]]--></dc:creator>
+		<pubdate>Thu, 01 May 2025 15:00:00 +0000</pubdate>
+				<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Translational Science]]--></category>
+		<category><!--[CDATA[Regenerative Medicine]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402462</guid>
 
-					<description><![CDATA[<p>Regenerative Medicine Minnesota has awarded funding to three projects aimed at strengthening Minnesota's capabilities for developing and delivering therapies that replace, restore, rejuvenate or regenerate damaged cells, tissues or organs. Co-led by the University of Minnesota and the Mayo Clinic, Regenerative Medicine Minnesota brings together the state's leading research institutions to accelerate breakthroughs and bring [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Regenerative Medicine Minnesota has awarded funding to three projects aimed at strengthening Minnesota's capabilities for developing and delivering therapies that replace, restore, rejuvenate or regenerate damaged cells, tissues or organs. Co-led by the University of Minnesota and the Mayo Clinic, Regenerative Medicine Minnesota brings together the state's leading research institutions to accelerate breakthroughs and bring […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-awards-aim-to-make-minnesota-a-leader-in-regenerative-medicine/">New awards aim to make Minnesota a leader in regenerative medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="693" height="390" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1.jpg" alt="" class="wp-image-402463" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1.jpg 693w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 693px) 100vw, 693px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="693" height="390" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1.jpg" alt="" class="wp-image-402463" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1.jpg 693w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 693px) 100vw, 693px">
 
 
 
@@ -791,7 +783,7 @@
 
 
 
-<p>Regenerative Medicine Minnesota was established in 2014 by the Minnesota State Legislature to improve the health of Minnesotans by advancing regenerative medicine. This state-wide initiative opens new economic opportunities through commercialization of technologies and leverages the strengths of Minnesota institutions to position the state at the forefront of regenerative medicine. The initiative distributes approximately $4 million in funding statewide every year for research, commercialization, and clinical translation initiatives that improve or increase access to scientifically proven regenerative medicine throughout the state. Learn more at&amp;nbsp;<a href="http://www.regenmedmn.org/" target="_blank" rel="noreferrer noopener">www.regenmedmn.org</a>.</p>
+<p>Regenerative Medicine Minnesota was established in 2014 by the Minnesota State Legislature to improve the health of Minnesotans by advancing regenerative medicine. This state-wide initiative opens new economic opportunities through commercialization of technologies and leverages the strengths of Minnesota institutions to position the state at the forefront of regenerative medicine. The initiative distributes approximately $4 million in funding statewide every year for research, commercialization, and clinical translation initiatives that improve or increase access to scientifically proven regenerative medicine throughout the state. Learn more at&nbsp;<a href="http://www.regenmedmn.org/" target="_blank" rel="noreferrer noopener">www.regenmedmn.org</a>.</p>
 
 
 
@@ -807,26 +799,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/RMM-Logo-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Regenerative Medicine]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Regenerative Medicine]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Study finds long-term health benefits from bariatric surgery and liver transplant</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/study-finds-long-term-health-benefits-from-bariatric-surgery-and-liver-transplant/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/study-finds-long-term-health-benefits-from-bariatric-surgery-and-liver-transplant/
 		
-		<dc:creator><![CDATA[Heather Carlson Kehren]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 13:58:16 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Transplant]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402455</guid>
+		<dc:creator><!--[CDATA[Heather Carlson Kehren]]--></dc:creator>
+		<pubdate>Wed, 30 Apr 2025 13:58:16 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Transplant]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402455</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Simultaneous bariatric surgery and liver transplant for patients who are severely obese is safe and improves long-term health outcomes, according to a recent Mayo Clinic study. This combined approach offers a needed solution for these patients who are often denied a lifesaving liver transplant due to their weight. The 10-year study, published [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Simultaneous bariatric surgery and liver transplant for patients who are severely obese is safe and improves long-term health outcomes, according to a recent Mayo Clinic study. This combined approach offers a needed solution for these patients who are often denied a lifesaving liver transplant due to their weight. The 10-year study, published […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/study-finds-long-term-health-benefits-from-bariatric-surgery-and-liver-transplant/">Study finds long-term health benefits from bariatric surgery and liver transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-1024x576.jpg" alt="" class="wp-image-402465" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-1024x576.jpg" alt="" class="wp-image-402465" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -834,11 +826,11 @@
 
 
 
-<p>The 10-year study, published in the&amp;nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0168827825001394" target="_blank" rel="noreferrer noopener">Journal of Hepatology</a>, compared patients who received only a <a href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842" target="_blank" rel="noreferrer noopener">liver transplant</a> with those who underwent both a liver transplant and <a href="https://www.mayoclinic.org/tests-procedures/bariatric-surgery/about/pac-20394258" target="_blank" rel="noreferrer noopener">bariatric surgery</a>.</p>
+<p>The 10-year study, published in the&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0168827825001394" target="_blank" rel="noreferrer noopener">Journal of Hepatology</a>, compared patients who received only a <a href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842" target="_blank" rel="noreferrer noopener">liver transplant</a> with those who underwent both a liver transplant and <a href="https://www.mayoclinic.org/tests-procedures/bariatric-surgery/about/pac-20394258" target="_blank" rel="noreferrer noopener">bariatric surgery</a>.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Julie-Heimbach_WF4419268_0003-200x300.jpg" alt="" class="wp-image-402469" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Julie-Heimbach_WF4419268_0003-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Julie-Heimbach_WF4419268_0003.jpg 534w" sizes="auto, (max-width: 200px) 100vw, 200px" /><figcaption class="wp-element-caption"><sup>Julie Heimbach, M.D.</sup></figcaption></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Julie-Heimbach_WF4419268_0003-200x300.jpg" alt="" class="wp-image-402469" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Julie-Heimbach_WF4419268_0003-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Julie-Heimbach_WF4419268_0003.jpg 534w" sizes="auto, (max-width: 200px) 100vw, 200px"><figcaption class="wp-element-caption"><sup>Julie Heimbach, M.D.</sup></figcaption></figure></div>
 
 
 <p>The combined approach resulted in sustained weight loss, reduced risk of type 2 diabetes and lower risk of fatty liver disease recurrence. Importantly, the combined procedure posed no additional risks compared to liver transplant alone.</p>
@@ -853,7 +845,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kellogg-Todd-A.-MD_11728213_201710030353-250x300.jpg" alt="" class="wp-image-402470" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kellogg-Todd-A.-MD_11728213_201710030353-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kellogg-Todd-A.-MD_11728213_201710030353.jpg 667w" sizes="auto, (max-width: 250px) 100vw, 250px" /><figcaption class="wp-element-caption"><sup>Todd Kellogg, M.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kellogg-Todd-A.-MD_11728213_201710030353-250x300.jpg" alt="" class="wp-image-402470" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kellogg-Todd-A.-MD_11728213_201710030353-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Kellogg-Todd-A.-MD_11728213_201710030353.jpg 667w" sizes="auto, (max-width: 250px) 100vw, 250px"><figcaption class="wp-element-caption"><sup>Todd Kellogg, M.D.</sup></figcaption></figure></div>
 
 
 <p>The percentage of liver transplant candidates in the U.S. with <a href="https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742" target="_blank" rel="noreferrer noopener">obesity</a> continues to climb, with more than 41% of candidates having a <a href="https://www.mayoclinic.org/diseases-conditions/obesity/in-depth/bmi-calculator/itt-20084938" target="_blank" rel="noreferrer noopener">body mass index</a> above 30 in 2022. Obesity puts people at risk of developing metabolic dysfunction-associated steatotic liver disease, or MASLD, formerly known as <a href="https://www.mayoclinic.org/diseases-conditions/nonalcoholic-fatty-liver-disease/symptoms-causes/syc-20354567" target="_blank" rel="noreferrer noopener">nonalcoholic fatty liver disease</a>. It's a condition where excess fat accumulates in the liver, which can lead to inflammation, scarring and advanced liver disease. Patients with a body mass index of 40 are more likely to be denied a transplant due to their weight.</p>
@@ -876,14 +868,14 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032-300x200.jpg" alt="" class="wp-image-402471" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032-768x513.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption"><sup>Ty Diwan, M.D.</sup></figcaption></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032-300x200.jpg" alt="" class="wp-image-402471" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032-768x513.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Ty-Diwan_WF6137427_0032.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption"><sup>Ty Diwan, M.D.</sup></figcaption></figure></div>
 
 
 <p>Bringing together experts from different medical specialties is essential when treating these patients, says <a href="https://www.mayoclinic.org/biographies/diwan-ty-s-m-d/bio-20507516" target="_blank" rel="noreferrer noopener">Ty Diwan, M.D.</a>, Mayo Clinic transplant surgeon and the study's co-author.</p>
 
 
 
-<p>"This study shows that caring for these complex patients extends beyond the transplant itself," Dr. Diwan says. "Multidisciplinary care is required to maximize patient outcomes, and that is what we see in this data.&amp;nbsp;By bringing together experts in very different fields, we've improved patient care and overall health outcomes."</p>
+<p>"This study shows that caring for these complex patients extends beyond the transplant itself," Dr. Diwan says. "Multidisciplinary care is required to maximize patient outcomes, and that is what we see in this data.&nbsp;By bringing together experts in very different fields, we've improved patient care and overall health outcomes."</p>
 
 
 
@@ -901,7 +893,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -919,34 +911,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-1x1-1.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Heimbach1-16x9-1.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Dual procedure combines liver transplant, bariatric surgery</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-dual-procedure-combines-liver-transplant-bariatric-surgery/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-dual-procedure-combines-liver-transplant-bariatric-surgery/
 		
-		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Minute]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Transplant]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[diverse representation]]></category>
-		<category><![CDATA[Dr. Julie Heimbach]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=398817</guid>
+		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
+		<pubdate>Wed, 30 Apr 2025 12:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Transplant]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[diverse representation]]--></category>
+		<category><!--[CDATA[Dr. Julie Heimbach]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=398817</guid>
 
-					<description><![CDATA[<p>Mayo Clinic surgeons have found that an&amp;#160;innovative approach&amp;#160;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. Dr. Julie Heimbach, director of the&amp;#160;Mayo Clinic Transplant Center&amp;#160;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues. [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Mayo Clinic surgeons have found that an&nbsp;innovative approach&nbsp;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. Dr. Julie Heimbach, director of the&nbsp;Mayo Clinic Transplant Center&nbsp;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues. […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-dual-procedure-combines-liver-transplant-bariatric-surgery/">Mayo Clinic Minute: Dual procedure combines liver transplant, bariatric surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>Mayo Clinic surgeons have found that an&amp;nbsp;<a href="https://medprofvideos.mayoclinic.org/videos/double-impact-pioneering-simultaneous-liver-transplant-and-gastric-sleeve-resection" target="_blank" rel="noreferrer noopener">innovative approach</a>&amp;nbsp;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. <a href="https://www.mayoclinic.org/biographies/heimbach-julie-k-m-d/bio-20054676" target="_blank" rel="noreferrer noopener">Dr. Julie Heimbach</a>, director of the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891" target="_blank" rel="noreferrer noopener">Mayo Clinic Transplant Center</a>&amp;nbsp;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues.</p>
+										<content:encoded><!--[CDATA[
+<p-->Mayo Clinic surgeons have found that an&nbsp;<a href="https://medprofvideos.mayoclinic.org/videos/double-impact-pioneering-simultaneous-liver-transplant-and-gastric-sleeve-resection" target="_blank" rel="noreferrer noopener">innovative approach</a>&nbsp;can help patients with obesity get lifesaving care. Obesity can be a barrier to liver transplant. <a href="https://www.mayoclinic.org/biographies/heimbach-julie-k-m-d/bio-20054676" target="_blank" rel="noreferrer noopener">Dr. Julie Heimbach</a>, director of the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891" target="_blank" rel="noreferrer noopener">Mayo Clinic Transplant Center</a>&nbsp;in Rochester, Minnesota, says that combining gastric sleeve surgery, a type of bariatric surgery with liver transplantation is effective in addressing both health issues.<p></p>
 
 
 
-<p>This&amp;nbsp;<a href="https://www.mayoclinic.org/medical-professionals/digestive-diseases/news/positive-patient-outcomes-associated-with-liver-transplant-plus-sleeve-gastrectomy-combination/mac-20458505" target="_blank" rel="noreferrer noopener">dual procedure</a>&amp;nbsp;is especially helpful for patients with metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as nonalcoholic fatty liver disease. MASLD happens when fat builds up in the liver, often without symptoms. It's mostly caused by obesity — defined as a body mass index (BMI) of 30 or higher. In advanced stages, MASLD can lead to serious liver damage that requires a transplant.</p>
+<p>This&nbsp;<a href="https://www.mayoclinic.org/medical-professionals/digestive-diseases/news/positive-patient-outcomes-associated-with-liver-transplant-plus-sleeve-gastrectomy-combination/mac-20458505" target="_blank" rel="noreferrer noopener">dual procedure</a>&nbsp;is especially helpful for patients with metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as nonalcoholic fatty liver disease. MASLD happens when fat builds up in the liver, often without symptoms. It's mostly caused by obesity — defined as a body mass index (BMI) of 30 or higher. In advanced stages, MASLD can lead to serious liver damage that requires a transplant.</p>
 
 
 
@@ -955,12 +947,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeFX81RhxachU"  title="Mayo Clinic Minute - Dual procedure combines liver transplant, bariatric surgery" width="500" height="281" src="https://www.youtube.com/embed/FX81RhxachU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeFX81RhxachU" title="Mayo Clinic Minute - Dual procedure combines liver transplant, bariatric surgery" width="500" height="281" src="https://www.youtube.com/embed/FX81RhxachU?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (01:09) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the</strong>&amp;nbsp;<strong><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/SCRIPT-MCM-Dual-surgery-for-obesity-and-liver-transplant.pdf" target="_blank" rel="noreferrer noopener">script</a></strong>.</p>
+<p><strong>Journalists: Broadcast-quality video (01:09) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the</strong>&nbsp;<strong><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/SCRIPT-MCM-Dual-surgery-for-obesity-and-liver-transplant.pdf" target="_blank" rel="noreferrer noopener">script</a></strong>.</p>
 
 
 
@@ -980,7 +972,7 @@
 
 
 
-<p>"When a patient develops&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487%20?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">cirrhosis,</a>&amp;nbsp;they can then need a liver transplant," Dr. Heimbach says.</p>
+<p>"When a patient develops&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487%20?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">cirrhosis,</a>&nbsp;they can then need a liver transplant," Dr. Heimbach says.</p>
 
 
 
@@ -988,7 +980,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg" alt="Dr. Julie Heimbach, surgical team, in surgery," class="wp-image-398841" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Julie Heimbach in surgery </figcaption></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg" alt="Dr. Julie Heimbach, surgical team, in surgery," class="wp-image-398841" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-surgery-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Julie Heimbach in surgery </figcaption></figure></div>
 
 
 <p>"We consider both liver transplant and what's called a <a href="https://www.mayoclinic.org/tests-procedures/sleeve-gastrectomy/about/pac-20385183" target="_blank" rel="noreferrer noopener">sleeve gastrectomy,</a> which is a type of weight-loss operation that can be used as a tool to help patients be successful in managing not only their liver disease with a liver transplant, but their obesity with the sleeve gastrectomy," Dr. Heimbach explains.</p>
@@ -1017,95 +1009,95 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-team-surgery-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/Dr-Julie-Heimbach-team-surgery-16-x-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[diverse representation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Julie Heimbach]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[diverse representation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Julie Heimbach]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>AI-ECG tools can help clinicians identify heart issues early in women planning to have children&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/
 		
-		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 18:15:00 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[AI Stethoscope]]></category>
-		<category><![CDATA[AI-ECG]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Cardiology]]></category>
-		<category><![CDATA[Cardiomyopathy]]></category>
-		<category><![CDATA[Dr. Anja Kinaszczuk]]></category>
-		<category><![CDATA[Dr. Demilade Adedinsewo]]></category>
-		<category><![CDATA[echocardiogram]]></category>
-		<category><![CDATA[Eko stethoscope]]></category>
-		<category><![CDATA[Electrocardiogram]]></category>
-		<category><![CDATA[Heart]]></category>
-		<category><![CDATA[heart and pregnancy]]></category>
-		<category><![CDATA[Heart Disease]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[prenatal care]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=402404</guid>
+		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
+		<pubdate>Tue, 29 Apr 2025 18:15:00 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[AI Stethoscope]]--></category>
+		<category><!--[CDATA[AI-ECG]]--></category>
+		<category><!--[CDATA[artificial intelligence]]--></category>
+		<category><!--[CDATA[Cardiology]]--></category>
+		<category><!--[CDATA[Cardiomyopathy]]--></category>
+		<category><!--[CDATA[Dr. Anja Kinaszczuk]]--></category>
+		<category><!--[CDATA[Dr. Demilade Adedinsewo]]--></category>
+		<category><!--[CDATA[echocardiogram]]--></category>
+		<category><!--[CDATA[Eko stethoscope]]--></category>
+		<category><!--[CDATA[Electrocardiogram]]--></category>
+		<category><!--[CDATA[Heart]]--></category>
+		<category><!--[CDATA[heart and pregnancy]]--></category>
+		<category><!--[CDATA[Heart Disease]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[prenatal care]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402404</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. Mayo Clinic researchers, led by Anja [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. Mayo Clinic researchers, led by Anja […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/">AI-ECG tools can help clinicians identify heart issues early in women planning to have children&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg" alt="Dr. Demilade Adedinsewo and nurse review electrocardiogram (EKG) results on a monitor while the patient is lying down." class="wp-image-402445" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg" alt="Dr. Demilade Adedinsewo and nurse review electrocardiogram (EKG) results on a monitor while the patient is lying down." class="wp-image-402445" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px">
 
 
 
-<p>ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers, led by <a href="https://www.mayoclinic.org/biographies/kinaszczuk-anja-m-d-o/bio-20490717" target="_blank" rel="noreferrer noopener">Anja Kinaszczuk, D.O.</a>, and <a href="https://www.mayo.edu/research/faculty/adedinsewo-demilade-a-m-b-ch-b/bio-20507418" target="_blank" rel="noreferrer noopener">Demilade Adedinsewo, M.D.</a>, tested artificial intelligence (AI) tools, using recordings from an <a href="https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983" target="_blank" rel="noreferrer noopener">electrocardiogram (ECG)</a> and a digital stethoscope, to find unknown heart problems in women of childbearing age seen in primary care.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+<p>ROCHESTER, Minn. — Every year, some mothers die after giving birth due to heart problems, and many of these deaths could be prevented. The ability to screen for heart weakness before pregnancy could play a crucial role in identifying women who may need additional care to improve pregnancy outcomes. <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers, led by <a href="https://www.mayoclinic.org/biographies/kinaszczuk-anja-m-d-o/bio-20490717" target="_blank" rel="noreferrer noopener">Anja Kinaszczuk, D.O.</a>, and <a href="https://www.mayo.edu/research/faculty/adedinsewo-demilade-a-m-b-ch-b/bio-20507418" target="_blank" rel="noreferrer noopener">Demilade Adedinsewo, M.D.</a>, tested artificial intelligence (AI) tools, using recordings from an <a href="https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983" target="_blank" rel="noreferrer noopener">electrocardiogram (ECG)</a> and a digital stethoscope, to find unknown heart problems in women of childbearing age seen in primary care.&nbsp;&nbsp;&nbsp;</p>
 
 
 
-<p><a href="https://doi.org/10.1370/afm.230627" target="_blank" rel="noreferrer noopener">Study findings</a> published in the Annals of Family Medicine show high diagnostic performance of these technologies to detect <a href="https://www.mayoclinic.org/tests-procedures/ekg/expert-answers/ejection-fraction/faq-20058286" target="_blank" rel="noreferrer noopener">left ventricular ejection fraction</a> below 50%, indicating heart muscle weakness. These tools were tested on two groups of women aged 18 to 49.&amp;nbsp;&amp;nbsp;</p>
+<p><a href="https://doi.org/10.1370/afm.230627" target="_blank" rel="noreferrer noopener">Study findings</a> published in the Annals of Family Medicine show high diagnostic performance of these technologies to detect <a href="https://www.mayoclinic.org/tests-procedures/ekg/expert-answers/ejection-fraction/faq-20058286" target="_blank" rel="noreferrer noopener">left ventricular ejection fraction</a> below 50%, indicating heart muscle weakness. These tools were tested on two groups of women aged 18 to 49.&nbsp;&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Group 1: 100 women already scheduled for an <a href="https://www.mayoclinic.org/tests-procedures/echocardiogram/about/pac-20393856" target="_blank" rel="noreferrer noopener">echocardiogram</a> (the best test to evaluate heart muscle function). They also had a standard clinical ECG and digital stethoscope recording of the heart’s electrical activity and heart sounds.&amp;nbsp;&amp;nbsp;</li>
+<li>Group 1: 100 women already scheduled for an <a href="https://www.mayoclinic.org/tests-procedures/echocardiogram/about/pac-20393856" target="_blank" rel="noreferrer noopener">echocardiogram</a> (the best test to evaluate heart muscle function). They also had a standard clinical ECG and digital stethoscope recording of the heart’s electrical activity and heart sounds.&nbsp;&nbsp;</li>
 </ul>
 
 
 
 <ul class="wp-block-list">
-<li>Group 2: 100 women seen for routine primary care visits to see how often the AI tools would find heart problems.&amp;nbsp;&amp;nbsp;&amp;nbsp;</li>
+<li>Group 2: 100 women seen for routine primary care visits to see how often the AI tools would find heart problems.&nbsp;&nbsp;&nbsp;</li>
 </ul>
 
 
 
-<p>The AI-ECG demonstrated an area under the curve (AUC) of .94 while the AI digital stethoscope, Eko DUO, achieved an even higher AUC of 0.98, indicating strong diagnostic accuracy. In the second cohort, the prevalence of positive AI screening results was 1% for the AI-ECG and 3.2% for the AI-stethoscope.&amp;nbsp;</p>
+<p>The AI-ECG demonstrated an area under the curve (AUC) of .94 while the AI digital stethoscope, Eko DUO, achieved an even higher AUC of 0.98, indicating strong diagnostic accuracy. In the second cohort, the prevalence of positive AI screening results was 1% for the AI-ECG and 3.2% for the AI-stethoscope.&nbsp;</p>
 
 
 
-<p>"Statistically, nearly half of pregnancies in this country are unplanned, and approximately 1% to 2% of women may have heart problems they don't know about. Our research findings suggest that these AI tools could be used to screen women before pregnancy, allowing for improved pregnancy planning and risk stratification, early treatment, and better health outcomes which addresses a critical gap in current maternal care," says Dr. Adedinsewo, a cardiologist and senior author of the study.&amp;nbsp;&amp;nbsp;</p>
+<p>"Statistically, nearly half of pregnancies in this country are unplanned, and approximately 1% to 2% of women may have heart problems they don't know about. Our research findings suggest that these AI tools could be used to screen women before pregnancy, allowing for improved pregnancy planning and risk stratification, early treatment, and better health outcomes which addresses a critical gap in current maternal care," says Dr. Adedinsewo, a cardiologist and senior author of the study.&nbsp;&nbsp;</p>
 
 
 
-<p>This research builds upon earlier published studies, including a <a href="https://pubmed.ncbi.nlm.nih.gov/38989045/" target="_blank" rel="noreferrer noopener">pilot prospective study</a> evaluating AI digital tools to detect pregnancy-related cardiomyopathy among obstetric patients in the U.S. and a <a href="https://www.nature.com/articles/s41591-024-03243-9" target="_blank" rel="noreferrer noopener">pragmatic randomized clinical trial</a> of women in Nigeria who were pregnant or had recently given birth. Collectively, this research highlights the potential of AI to modernize cardiovascular screening, enabling earlier identification and management of heart muscle weakness in women of reproductive age. Further research is underway to explore the potential of using these technologies to screen for heart weakness in broader populations.&amp;nbsp;&amp;nbsp;</p>
+<p>This research builds upon earlier published studies, including a <a href="https://pubmed.ncbi.nlm.nih.gov/38989045/" target="_blank" rel="noreferrer noopener">pilot prospective study</a> evaluating AI digital tools to detect pregnancy-related cardiomyopathy among obstetric patients in the U.S. and a <a href="https://www.nature.com/articles/s41591-024-03243-9" target="_blank" rel="noreferrer noopener">pragmatic randomized clinical trial</a> of women in Nigeria who were pregnant or had recently given birth. Collectively, this research highlights the potential of AI to modernize cardiovascular screening, enabling earlier identification and management of heart muscle weakness in women of reproductive age. Further research is underway to explore the potential of using these technologies to screen for heart weakness in broader populations.&nbsp;&nbsp;</p>
 
 
 
-<p>Mayo Clinic has licensed the underlying technology to EKO Health for its digital stethoscope with embedded ECG electrodes and to Anumana for the 12-lead ECG. Mayo Clinic and some study authors have a financial interest in this technology. Mayo Clinic will use any revenue it receives to support its not-for-profit mission in patient care, education and research.&amp;nbsp;</p>
+<p>Mayo Clinic has licensed the underlying technology to EKO Health for its digital stethoscope with embedded ECG electrodes and to Anumana for the 12-lead ECG. Mayo Clinic and some study authors have a financial interest in this technology. Mayo Clinic will use any revenue it receives to support its not-for-profit mission in patient care, education and research.&nbsp;</p>
 
 
 
-<p>###&amp;nbsp;</p>
+<p>###&nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;&amp;nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;&nbsp;</p>
 
 
 
-<p><strong>Media contact:</strong>&amp;nbsp;</p>
+<p><strong>Media contact:</strong>&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Terri Malloy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&amp;nbsp;</li>
+<li>Terri Malloy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/ai-ecg-tools-can-help-clinicians-identify-heart-issues-early-in-women-planning-to-have-children/">AI-ECG tools can help clinicians identify heart issues early in women planning to have children&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -1114,6 +1106,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-1x1-1.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Reading-electrocardiogram-results-on-a-monitor_WF3663606_0014-16x9-1.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[AI Stethoscope]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[AI-ECG]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[artificial intelligence]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiomyopathy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Anja Kinaszczuk]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Demilade Adedinsewo]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[echocardiogram]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Eko stethoscope]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Electrocardiogram]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[heart and pregnancy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[prenatal care]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[AI Stethoscope]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[AI-ECG]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[artificial intelligence]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiomyopathy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Anja Kinaszczuk]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Demilade Adedinsewo]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[echocardiogram]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Eko stethoscope]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Electrocardiogram]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[heart and pregnancy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[prenatal care]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
