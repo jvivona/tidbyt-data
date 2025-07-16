@@ -167,24 +167,24 @@
         "current_date": "16. luglio 2025",
         "short_date": "16. lug",
         "language": {
-            "events": "ItalianEvents",
-            "deaths": "ItalianDeaths",
-            "births": "ItalianBirths",
-            "b": "b",
-            "d": "d",
-            "title": "Italian Wikipedia"
+            "events": "Eventi",
+            "deaths": "Morti",
+            "births": "Nascite",
+            "b": "n",
+            "d": "m",
+            "title": "Oggi nella Storia (Wikipedia)"
         },
         "events": [
-            15,
+            11,
+            29,
+            38,
+            16,
+            28,
+            17,
+            6,
+            3,
             31,
-            30,
-            35,
-            36,
-            2,
-            19,
-            12,
-            10,
-            29
+            4
         ],
         "births": [],
         "deaths": []
