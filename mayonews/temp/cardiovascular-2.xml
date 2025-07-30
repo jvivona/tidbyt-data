@@ -5,7 +5,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/" rel="self" type="application/rss+xml">
 	<link>https://newsnetwork.mayoclinic.org/category/cardiovascular-2/
 	<description>News Resources</description>
-	<lastbuilddate>Fri, 25 Jul 2025 14:50:29 +0000</lastbuilddate>
+	<lastbuilddate>Wed, 30 Jul 2025 12:22:23 +0000</lastbuilddate>
 	<language>en-US</language>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
@@ -13,6 +13,114 @@
 	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
+		<title>Mayo Clinic AI tool finds early signs of blood mutations linked to cancer&nbsp;and heart disease</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/
+		
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Wed, 30 Jul 2025 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Eric Klee]]--></category>
+		<category><!--[CDATA[Dr. Shulan Tian]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=403209</guid>
+
+					<description><!--[CDATA[<p-->(Video animation shows blood stem cells dividing and multiplying. Getty Images). Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&nbsp; To better understand this hidden risk, Mayo Clinic researchers have […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/">Mayo Clinic AI tool finds early signs of blood mutations linked to cancer&nbsp;and heart disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-1757724395.mp4" playsinline=""></video>
+
+
+
+<p class="has-text-align-center has-text-color has-link-color wp-elements-0a381724fd8a6321f7f32360329589e7" style="color:#4e526d"><em>(Video animation shows blood stem cells dividing and multiplying. Getty Images).</em></p>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&nbsp;</p>
+
+
+
+<p>To better understand this hidden risk, Mayo Clinic researchers have developed an artificial intelligence (AI) tool to help investigators uncover how it contributes to disease risk and progression. </p>
+
+
+
+<p>In a study <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Facademic.oup.com%2Fgpb%2Fadvance-article%2Fdoi%2F10.1093%2Fgpbjnl%2Fqzaf040%2F8121950&amp;data=05%7C02%7CMurphy.Susan%40mayo.edu%7C05f57239f813422ca87008ddc97a7be3%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638888250101337358%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=EEqrric0Eslg1ajqpP60TW69EXgCPyIzcLJp5GRxa4Q%3D&amp;reserved=0">published</a> in Genomics, Proteomics &amp; Bioinformatics, the tool showed promising results in identifying early signs of this condition, known as <a href="https://www.mayoclinic.org/medical-professionals/cancer/news/clonal-hematopoiesis-clinic-stratifies-risk-for-patients-with-cancer/mac-20543180" target="_blank" rel="noreferrer noopener">clonal hematopoiesis of indeterminate potential</a>, or CHIP.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>When blood cells mutate</strong></h2>
+
+
+
+<p>CHIP starts in the bone marrow, where blood stem cells make the cells that keep organs working, oxygen flowing and the immune system strong. But if one of those cells acquires a mutation in a gene linked to blood cancer, it can multiply abnormally, forming a cluster of mutated cells that gradually expands.&nbsp;</p>
+
+
+
+<p>This can cause CHIP, a condition with no symptoms that researchers link to higher rates of death, especially from heart disease. Because its effects vary, CHIP is hard to track and often goes undetected for years.&nbsp;</p>
+
+
+
+<p>CHIP makes leukemia more than 10 times more likely and raises the risk of heart disease up to four times, even in healthy adults. Finding it earlier could help guide proactive monitoring or preventive care.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>A new tool for early detection</strong>&nbsp;</h2>
+
+
+
+<p>The new tool, called UNISOM — short for UNIfied SOmatic calling and Machine learning — was developed by <a href="https://www.mayo.edu/research/faculty/tian-shulan-ph-d-m-s/bio-20524328" target="_blank" rel="noreferrer noopener">Shulan Tian, Ph.D.</a>, under the leadership of <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.</a>, co-senior author of the study and the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation.&nbsp;&nbsp;</p>
+
+
+
+<p>UNISOM helps clinicians identify CHIP-related mutations in standard genetic datasets, opening new avenues for research and discovery. In the past, that level of detection required more complex and advanced sequencing methods.&nbsp;</p>
+
+
+
+<p>"Detecting disease at its earliest molecular roots is one of the most meaningful advances we can make in medicine," says Dr. Klee. "UNISOM is just one of many examples of how we're translating genomic science into innovative tools that support timely and informed care."&nbsp;</p>
+
+
+
+<p>UNISOM helped researchers detect nearly 80% of CHIP mutations using whole-exome sequencing, which analyzes the protein-coding regions of DNA.&nbsp;&nbsp;</p>
+
+
+
+<p>The team also tested UNISOM on whole-genome sequencing data from the Mayo Clinic Biobank, which captures nearly all of a person's genetic code. In that data, it detected early signs of CHIP, including mutations present in fewer than 5% of blood cells. Standard techniques often miss these small but important changes.</p>
+
+
+
+<p>"We're engineering a path from genomic discovery to clinical decision-making," says Dr. Tian, the co-senior author and a bioinformatician at Mayo Clinic. "It's rewarding to help bring these discoveries closer to clinical care, where they can inform decisions and support more precise treatment."&nbsp;</p>
+
+
+
+<p>Next, the team plans to apply UNISOM to larger and more diverse datasets to support research and expand its use in clinical practice.&nbsp;</p>
+
+
+
+<p>Review the <a href="https://academic.oup.com/gpb/article/23/2/qzaf040/8121950" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/">Mayo Clinic AI tool finds early signs of blood mutations linked to cancer&nbsp;and heart disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-leukemia.png</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9leukemia.png</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eric Klee]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Shulan Tian]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag>	</item>
+		<item>
 		<title>(VIDEO) 13-year-old Ava is home with a new heart, kidney following a 22-month hospital stay&nbsp;</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/draft-7-25-need-images-video-13-year-old-ava-is-home-with-a-new-heart-kidney-following-a-22-month-hospital-stay/
 		
@@ -1043,111 +1151,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Energy-drink-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/07/Energy-drink-16x9-1.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Michael Ackerman]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Springing into action after a sedentary season? Here’s how to protect your heart</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/springing-into-action-after-a-sedentary-season-heres-how-to-protect-your-heart/
-		
-		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
-		<pubdate>Thu, 01 May 2025 13:19:00 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[International]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Gosia Wamil]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=402377</guid>
-
-					<description><!--[CDATA[<p-->Mayo Clinic Healthcare cardiologist shares tips to safely get your blood pumping again LONDON — Around the world, people are starting to engage in outdoor activities after a winter spent largely indoors and perhaps with less physical activity than during more temperate seasons. In other climates, people may be starting an indoor, less-active time. Gosia […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/springing-into-action-after-a-sedentary-season-heres-how-to-protect-your-heart/">Springing into action after a sedentary season? Here’s how to protect your heart</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/16x9-image-Dr-Wamil-expert-alert-GettyImages-1473937655-fotor-20250415145736-1024x576.jpg" alt="" class="wp-image-402378" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/16x9-image-Dr-Wamil-expert-alert-GettyImages-1473937655-fotor-20250415145736-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/16x9-image-Dr-Wamil-expert-alert-GettyImages-1473937655-fotor-20250415145736-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/16x9-image-Dr-Wamil-expert-alert-GettyImages-1473937655-fotor-20250415145736-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/16x9-image-Dr-Wamil-expert-alert-GettyImages-1473937655-fotor-20250415145736.jpg 1216w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
-
-
-
-<p><em>Mayo Clinic Healthcare cardiologist shares tips to safely get your blood pumping again</em><strong></strong></p>
-
-
-
-<p>LONDON — Around the world, people are starting to engage in outdoor activities after a winter spent largely indoors and perhaps with less physical activity than during more temperate seasons. In other climates, people may be starting an indoor, less-active time. <a href="https://www.mayoclinichealthcare.co.uk/doctors/gosia-wamil-md" target="_blank" rel="noreferrer noopener">Gosia Wamil, M.D., Ph.D.</a>, a <a href="https://www.mayoclinichealthcare.co.uk/patient-care/heart-health" target="_blank" rel="noreferrer noopener">cardiologist</a> at <a href="https://www.mayoclinichealthcare.co.uk/patient-care" target="_blank" rel="noreferrer noopener">Mayo Clinic Healthcare</a>&nbsp;in London, offers five tips to protect your heart when you spring into action after a <a href="https://sportsmedicine.mayoclinic.org/news/risks-of-sitting-too-much/" target="_blank" rel="noreferrer noopener">sedentary</a> period. &nbsp;</p>
-
-
-
-<p>It may be tempting to immediately move garden equipment and furniture out of storage, start a landscaping project, go on a long hike or engage in other physically demanding activities that were on hold due to poor weather.</p>
-
-
-
-<p>"Spring is a great time to reconnect with nature and enjoy movement, but it’s vital to respect your body’s limits," Dr. Wamil says. "Even light daily activity can have meaningful benefits for heart health. Consistency matters more than intensity."</p>
-
-
-
-<p>Busy lifestyles and, for many people, long days spent working at a desk, compound seasonal challenges that may mean less activity. Together, the lack of movement may decondition your body, requiring a bit of time before you return to more optimal shape. <a href="https://www.mayoclinichealthcare.co.uk/news/effects-of-stress-on-heart">Stress</a> can further compound demands on the heart.</p>
-
-
-
-<p><strong>Dr. Wamil's first tip: Ease into physical activity gradually.</strong></p>
-
-
-
-<p>"After a long season of reduced activity, it's important not to jump straight into strenuous tasks," she explains. "Start with light activities like <a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261" target="_blank" rel="noreferrer noopener">walking</a> or gentle stretching and gradually build up intensity. This helps reduce the risk of injury or sudden cardiac stress."</p>
-
-
-
-<p><strong>2. Warm up before and cool down after physical activity.</strong></p>
-
-
-
-<p>"Whether you’re gardening or going for a hike, taking five to 10 minutes to <a href="https://mcpress.mayoclinic.org/nutrition-fitness/how-to-warm-up-and-cool-down-for-exercise/" target="_blank" rel="noreferrer noopener">warm up</a> prepares your muscles and heart for the activity ahead," Dr. Wamil says. "A proper cooldown helps your body return to baseline and prevents dizziness or blood pressure drops."</p>
-
-
-
-<p><strong>3. Listen to your body — and don’t ignore </strong><a href="https://www.mayoclinic.org/diseases-conditions/heart-attack/in-depth/heart-attack-symptoms/art-20047744" target="_blank" rel="noreferrer noopener"><strong>warning signs</strong></a><strong>.</strong></p>
-
-
-
-<p>"If you feel chest discomfort, unusual shortness of breath, dizziness, or palpitations, stop immediately and seek medical attention," Dr. Wamil advises. "These symptoms could signal a heart problem, especially in people who haven’t been active for a while."</p>
-
-
-
-<p><strong>4. Stay hydrated and dress appropriately for the weather.</strong><strong></strong></p>
-
-
-
-<p>"<a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256" target="_blank" rel="noreferrer noopener">Dehydration</a> and <a href="https://www.mayoclinic.org/diseases-conditions/heat-exhaustion/symptoms-causes/syc-20373250" target="_blank" rel="noreferrer noopener">overheating</a> can put extra strain on the heart, especially in older adults," Dr. Wamil says. "Wear layers you can remove as you warm up, and drink water regularly even if you don’t feel thirsty."</p>
-
-
-
-<p><strong>5. If you have known </strong><a href="https://www.mayoclinichealthcare.co.uk/patient-care/cardiology/cardiology-specialty-areas" target="_blank" rel="noreferrer noopener"><strong>heart disease</strong></a><strong> or </strong><a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise-and-chronic-disease/art-20046049" target="_blank" rel="noreferrer noopener"><strong>risk factors</strong></a><strong>, talk to your doctor before starting a new physical-demanding activity.</strong></p>
-
-
-
-<p>"People with <a href="https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410" target="_blank" rel="noreferrer noopener">high blood pressure</a>, <a href="https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444" target="_blank" rel="noreferrer noopener">diabetes</a>, or a history of <a href="https://www.mayoclinichealthcare.co.uk/patient-care/cardiology/cardiology-specialty-areas" target="_blank" rel="noreferrer noopener">heart conditions</a> should check in with their healthcare provider before beginning more vigorous outdoor tasks," explains Dr. Wamil, whose tools to diagnose a variety of heart diseases include <a href="https://www.mayoclinichealthcare.co.uk/patient-care/diagnostics/cardiac-mri" target="_blank" rel="noreferrer noopener">cardiac magnetic resonance imaging</a> (cardiac MRI). "A tailored plan can keep you safe and active."</p>
-
-
-
-<p>###</p>
-
-
-
-<p><strong>About Mayo Clinic Healthcare</strong><br>Mayo Clinic Healthcare, located in London, is a wholly owned subsidiary of <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, a not-for-profit academic medical center. Mayo Clinic is top ranked by U.S. News &amp; World Report in more specialties than any other hospital for a reason: quality of care. Mayo Clinic Healthcare is the U.K.'s front door to that unparalleled experience. Visit <a href="https://www.mayoclinichealthcare.co.uk/" target="_blank" rel="noreferrer noopener">Mayo Clinic Healthcare</a> for more information.</p>
-
-
-
-<p><strong>Media contact:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Sharon Theimer, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/springing-into-action-after-a-sedentary-season-heres-how-to-protect-your-heart/">Springing into action after a sedentary season? Here’s how to protect your heart</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/1x1-image-Dr-Wamil-expert-alert-GettyImages-1473937655-fotor-20250415145828.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/16x9-image-Dr-Wamil-expert-alert-GettyImages-1473937655-fotor-20250415145736.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gosia Wamil]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 	</atom:link></channel>
 </rss> 
