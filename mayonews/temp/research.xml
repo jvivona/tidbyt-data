@@ -1,52 +1,44 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/research/
 	<description>News Resources</description>
-	<lastBuildDate>Thu, 07 Aug 2025 15:00:47 +0000</lastBuildDate>
+	<lastbuilddate>Thu, 07 Aug 2025 15:00:47 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
-		<title>Mitochondrial dysfunction linked to Alzheimer&amp;#8217;s onset and treatment response</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/</link>
+		<title>Mitochondrial dysfunction linked to Alzheimer’s onset and treatment response</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/
 		
-		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Eugenia Trushina]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405308</guid>
+		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
+		<pubdate>Tue, 05 Aug 2025 11:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Eugenia Trushina]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405308</guid>
 
-					<description><![CDATA[<p>Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal Alzheimer's &amp;#38; Dementia, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer&amp;#8217;s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal Alzheimer's &amp; Dementia, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer’s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="399" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg" alt="" class="wp-image-405319" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-300x117.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-768x300.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Image courtesy National Science Foundation Public Access Repository (public domain)</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="399" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg" alt="" class="wp-image-405319" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-300x117.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-768x300.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Image courtesy National Science Foundation Public Access Repository (public domain)</figcaption>
 
 
 
-<p>Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal <a href="http://dx.doi.org/10.1002/alz.70519" target="_blank" rel="noreferrer noopener">Alzheimer's &amp;amp; Dementia</a>, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a contributor to disease progression and a promising target for new treatments.</p>
+<p>Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal <a href="http://dx.doi.org/10.1002/alz.70519" target="_blank" rel="noreferrer noopener">Alzheimer's &amp; Dementia</a>, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a contributor to disease progression and a promising target for new treatments.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg" alt="portrait of Dr. Eugenia Trushina" class="wp-image-405313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050.jpg 1250w" sizes="(max-width: 250px) 100vw, 250px" /><figcaption class="wp-element-caption">Eugenia Trushina, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-medium"><img decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg" alt="portrait of Dr. Eugenia Trushina" class="wp-image-405313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050.jpg 1250w" sizes="(max-width: 250px) 100vw, 250px"><figcaption class="wp-element-caption">Eugenia Trushina, Ph.D.</figcaption></figure></div>
 
 
 <p>Led by senior author <a href="https://www.mayo.edu/research/faculty/trushina-eugenia-ph-d/bio-00027310" target="_blank" rel="noreferrer noopener">Eugenia Trushina, Ph.D.</a>, the Mayo Clinic team found that disruptions in complex I activity can trigger gene expression patterns commonly observed in Alzheimer's disease. The researchers demonstrated that using small molecules to gently adjust how complex I functions can help activate protective mechanisms in brain cells.</p>
@@ -78,39 +70,39 @@
 
 
 <p>The research is part of a larger effort at Mayo Clinic called the Precure initiative, focused on developing tools that empower clinicians to predict and intercept biological processes before they evolve into disease or progress into complex, hard-to-treat conditions. In the future, the team plans to further investigate the safety and effectiveness of complex I modulators in preclinical models, with the goal of advancing into clinical trials.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer&amp;#8217;s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer’s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eugenia Trushina]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eugenia Trushina]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers find &amp;#8220;sugar coating&amp;#8221; cells can protect those typically destroyed in type 1 diabetes</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/</link>
+		<title>Mayo Clinic researchers find “sugar coating” cells can protect those typically destroyed in type 1 diabetes</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/
 		
-		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Education]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Rochester]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Virginia Shapiro]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405167</guid>
+		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
+		<pubdate>Fri, 01 Aug 2025 16:01:00 +0000</pubdate>
+				<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Education]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Rochester]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Virginia Shapiro]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405167</guid>
 
-					<description><![CDATA[<p>Mayo Clinic researchers found that a sugar molecule on cancer cells may eventually be useful in the treatment of type 1 diabetes.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find &amp;#8220;sugar coating&amp;#8221; cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Mayo Clinic researchers found that a sugar molecule on cancer cells may eventually be useful in the treatment of type 1 diabetes.<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find “sugar coating” cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-style-center-align-caption"><img decoding="async" width="912" height="513" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg" alt="An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes." class="wp-image-405241" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg 912w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-768x432.jpg 768w" sizes="(max-width: 912px) 100vw, 912px" /><figcaption class="wp-element-caption">An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes.
- </figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full is-style-center-align-caption"--><img decoding="async" width="912" height="513" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg" alt="An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes." class="wp-image-405241" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg 912w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-768x432.jpg 768w" sizes="(max-width: 912px) 100vw, 912px"><figcaption class="wp-element-caption">An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes.
+ </figcaption>
 
 
 
@@ -126,14 +118,14 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="800" height="534" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg" alt="" class="wp-image-405173" style="width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Virginia Shapiro, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="800" height="534" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg" alt="" class="wp-image-405173" style="width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"><figcaption class="wp-element-caption">Virginia Shapiro, Ph.D.</figcaption></figure></div>
 
 
 <p>"Our findings show that it's possible to engineer beta cells that do not prompt an immune response," says immunology researcher <a href="https://www.mayo.edu/research/faculty/shapiro-virginia-m-ph-d/bio-00097048" target="_blank" rel="noreferrer noopener">Virginia Shapiro, Ph.D.</a>, principal investigator of the <a href="https://www.jci.org/articles/view/181207" target="_blank" rel="noreferrer noopener">study</a>, published&nbsp;in the Journal of Clinical Investigation.</p>
 
 
 
-<p>A few years ago, Dr. Shapiro's team demonstrated that an enzyme, known as ST8Sia6, that increases sialic acid on the surface of tumor cells helps tumor cells appear as though they are not foreign entities to be targeted by the immune system. &amp;nbsp;</p>
+<p>A few years ago, Dr. Shapiro's team demonstrated that an enzyme, known as ST8Sia6, that increases sialic acid on the surface of tumor cells helps tumor cells appear as though they are not foreign entities to be targeted by the immune system. &nbsp;</p>
 
 
 
@@ -149,7 +141,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg" alt="" class="wp-image-405177" style="width:282px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">Justin Choe</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg" alt="" class="wp-image-405177" style="width:282px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px"><figcaption class="wp-element-caption">Justin Choe</figcaption></figure></div>
 
 
 <p>Importantly, the researchers also found the immune response to the engineered cells appears to be highly specific, says M.D.-Ph.D. student Justin Choe, first author of the publication. Choe conducted the study in the Ph.D. component of his dual degree at <a href="https://college.mayo.edu/academics/biomedical-research-training/medical-scientist-training-program-md-phd/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a> and <a href="https://college.mayo.edu/academics/mayo-clinic-alix-school-of-medicine/" target="_blank" rel="noreferrer noopener">Mayo Clinic Alix School of Medicine</a>.</p>
@@ -180,7 +172,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -189,47 +181,47 @@
 
 
 <ul class="wp-block-list">
-<li>Kelley Luckstein, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Kelley Luckstein, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
 
 
 
 <p><a id="_msocom_1"></a></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find &amp;#8220;sugar coating&amp;#8221; cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find “sugar coating” cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Virginia Shapiro]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Virginia Shapiro]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic treats first person in the US with a novel radiopharmaceutical therapy for breast cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-treats-first-person-in-the-us-with-a-novel-radiopharmaceutical-therapy-for-breast-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-treats-first-person-in-the-us-with-a-novel-radiopharmaceutical-therapy-for-breast-cancer/
 		
-		<dc:creator><![CDATA[brittanycordeiro]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Clinical Trials]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Geoffrey Johnson]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405289</guid>
+		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
+		<pubdate>Fri, 01 Aug 2025 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Clinical Trials]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Geoffrey Johnson]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405289</guid>
 
-					<description><![CDATA[<p>Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &amp;#160; ROCHESTER, Minn. — Mayo Clinic has treated the first person in the U.S. using a novel radioactive medicine for advanced breast cancer as part of an international multisite clinical trial. The medicine used in this clinical [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &nbsp; ROCHESTER, Minn. — Mayo Clinic has treated the first person in the U.S. using a novel radioactive medicine for advanced breast cancer as part of an international multisite clinical trial. The medicine used in this clinical […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-treats-first-person-in-the-us-with-a-novel-radiopharmaceutical-therapy-for-breast-cancer/">Mayo Clinic treats first person in the US with a novel radiopharmaceutical therapy for breast cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg" alt="A gloved hand adjusts the roller clamp on an intravenous (IV) drip line" class="wp-image-405287" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg" alt="A gloved hand adjusts the roller clamp on an intravenous (IV) drip line" class="wp-image-405287" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p><em>Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &amp;nbsp;</em></p>
+<p><em>Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &nbsp;</em></p>
 
 
 
@@ -245,7 +237,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg" alt="Portrait of Dr. Geoffrey Johnson in the Gonda Lobby" class="wp-image-405283" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168.jpg 1687w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption"><sup>Geoffrey Johnson, M.D., Ph.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg" alt="Portrait of Dr. Geoffrey Johnson in the Gonda Lobby" class="wp-image-405283" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168.jpg 1687w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption"><sup>Geoffrey Johnson, M.D., Ph.D.</sup></figcaption></figure></div>
 
 
 <p>The principal investigator at Mayo Clinic is <a href="https://www.mayoclinic.org/biographies/johnson-geoffrey-b-m-d-ph-d/bio-20055408" target="_blank" rel="noreferrer noopener">Geoffrey Johnson, M.D., Ph.D.</a>, a professor of radiology and a leader in radiopharmaceutical therapies. He says these are innovative cancer treatments that use radioactive medicines designed to target and kill cancer cells with high precision.</p>
@@ -290,7 +282,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -308,31 +300,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Geoffrey Johnson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Geoffrey Johnson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic AI tool finds early signs of blood mutations linked to cancer&nbsp;and heart disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/
 		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Eric Klee]]></category>
-		<category><![CDATA[Dr. Shulan Tian]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=403209</guid>
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Wed, 30 Jul 2025 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Eric Klee]]--></category>
+		<category><!--[CDATA[Dr. Shulan Tian]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=403209</guid>
 
-					<description><![CDATA[<p>(Video animation shows blood stem cells dividing and multiplying. Getty Images). Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&amp;#160; To better understand this hidden risk, Mayo Clinic researchers have [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->(Video animation shows blood stem cells dividing and multiplying. Getty Images). Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&nbsp; To better understand this hidden risk, Mayo Clinic researchers have […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/">Mayo Clinic AI tool finds early signs of blood mutations linked to cancer&nbsp;and heart disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-1757724395.mp4" playsinline></video></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-1757724395.mp4" playsinline=""></video>
 
 
 
@@ -344,7 +336,7 @@
 
 
 
-<p>Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&amp;nbsp;</p>
+<p>Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&nbsp;</p>
 
 
 
@@ -352,7 +344,7 @@
 
 
 
-<p>In a study <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Facademic.oup.com%2Fgpb%2Fadvance-article%2Fdoi%2F10.1093%2Fgpbjnl%2Fqzaf040%2F8121950&amp;amp;data=05%7C02%7CMurphy.Susan%40mayo.edu%7C05f57239f813422ca87008ddc97a7be3%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638888250101337358%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=EEqrric0Eslg1ajqpP60TW69EXgCPyIzcLJp5GRxa4Q%3D&amp;amp;reserved=0">published</a> in Genomics, Proteomics &amp;amp; Bioinformatics, the tool showed promising results in identifying early signs of this condition, known as <a href="https://www.mayoclinic.org/medical-professionals/cancer/news/clonal-hematopoiesis-clinic-stratifies-risk-for-patients-with-cancer/mac-20543180" target="_blank" rel="noreferrer noopener">clonal hematopoiesis of indeterminate potential</a>, or CHIP.</p>
+<p>In a study <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Facademic.oup.com%2Fgpb%2Fadvance-article%2Fdoi%2F10.1093%2Fgpbjnl%2Fqzaf040%2F8121950&amp;data=05%7C02%7CMurphy.Susan%40mayo.edu%7C05f57239f813422ca87008ddc97a7be3%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638888250101337358%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=EEqrric0Eslg1ajqpP60TW69EXgCPyIzcLJp5GRxa4Q%3D&amp;reserved=0">published</a> in Genomics, Proteomics &amp; Bioinformatics, the tool showed promising results in identifying early signs of this condition, known as <a href="https://www.mayoclinic.org/medical-professionals/cancer/news/clonal-hematopoiesis-clinic-stratifies-risk-for-patients-with-cancer/mac-20543180" target="_blank" rel="noreferrer noopener">clonal hematopoiesis of indeterminate potential</a>, or CHIP.</p>
 
 
 
@@ -360,11 +352,11 @@
 
 
 
-<p>CHIP starts in the bone marrow, where blood stem cells make the cells that keep organs working, oxygen flowing and the immune system strong. But if one of those cells acquires a mutation in a gene linked to blood cancer, it can multiply abnormally, forming a cluster of mutated cells that gradually expands.&amp;nbsp;</p>
+<p>CHIP starts in the bone marrow, where blood stem cells make the cells that keep organs working, oxygen flowing and the immune system strong. But if one of those cells acquires a mutation in a gene linked to blood cancer, it can multiply abnormally, forming a cluster of mutated cells that gradually expands.&nbsp;</p>
 
 
 
-<p>This can cause CHIP, a condition with no symptoms that researchers link to higher rates of death, especially from heart disease. Because its effects vary, CHIP is hard to track and often goes undetected for years.&amp;nbsp;</p>
+<p>This can cause CHIP, a condition with no symptoms that researchers link to higher rates of death, especially from heart disease. Because its effects vary, CHIP is hard to track and often goes undetected for years.&nbsp;</p>
 
 
 
@@ -372,23 +364,23 @@
 
 
 
-<h2 class="wp-block-heading"><strong>A new tool for early detection</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>A new tool for early detection</strong>&nbsp;</h2>
 
 
 
-<p>The new tool, called UNISOM — short for UNIfied SOmatic calling and Machine learning — was developed by <a href="https://www.mayo.edu/research/faculty/tian-shulan-ph-d-m-s/bio-20524328" target="_blank" rel="noreferrer noopener">Shulan Tian, Ph.D.</a>, under the leadership of <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.</a>, co-senior author of the study and the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation.&amp;nbsp;&amp;nbsp;</p>
+<p>The new tool, called UNISOM — short for UNIfied SOmatic calling and Machine learning — was developed by <a href="https://www.mayo.edu/research/faculty/tian-shulan-ph-d-m-s/bio-20524328" target="_blank" rel="noreferrer noopener">Shulan Tian, Ph.D.</a>, under the leadership of <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.</a>, co-senior author of the study and the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation.&nbsp;&nbsp;</p>
 
 
 
-<p>UNISOM helps clinicians identify CHIP-related mutations in standard genetic datasets, opening new avenues for research and discovery. In the past, that level of detection required more complex and advanced sequencing methods.&amp;nbsp;</p>
+<p>UNISOM helps clinicians identify CHIP-related mutations in standard genetic datasets, opening new avenues for research and discovery. In the past, that level of detection required more complex and advanced sequencing methods.&nbsp;</p>
 
 
 
-<p>"Detecting disease at its earliest molecular roots is one of the most meaningful advances we can make in medicine," says Dr. Klee. "UNISOM is just one of many examples of how we're translating genomic science into innovative tools that support timely and informed care."&amp;nbsp;</p>
+<p>"Detecting disease at its earliest molecular roots is one of the most meaningful advances we can make in medicine," says Dr. Klee. "UNISOM is just one of many examples of how we're translating genomic science into innovative tools that support timely and informed care."&nbsp;</p>
 
 
 
-<p>UNISOM helped researchers detect nearly 80% of CHIP mutations using whole-exome sequencing, which analyzes the protein-coding regions of DNA.&amp;nbsp;&amp;nbsp;</p>
+<p>UNISOM helped researchers detect nearly 80% of CHIP mutations using whole-exome sequencing, which analyzes the protein-coding regions of DNA.&nbsp;&nbsp;</p>
 
 
 
@@ -396,11 +388,11 @@
 
 
 
-<p>"We're engineering a path from genomic discovery to clinical decision-making," says Dr. Tian, the co-senior author and a bioinformatician at Mayo Clinic. "It's rewarding to help bring these discoveries closer to clinical care, where they can inform decisions and support more precise treatment."&amp;nbsp;</p>
+<p>"We're engineering a path from genomic discovery to clinical decision-making," says Dr. Tian, the co-senior author and a bioinformatician at Mayo Clinic. "It's rewarding to help bring these discoveries closer to clinical care, where they can inform decisions and support more precise treatment."&nbsp;</p>
 
 
 
-<p>Next, the team plans to apply UNISOM to larger and more diverse datasets to support research and expand its use in clinical practice.&amp;nbsp;</p>
+<p>Next, the team plans to apply UNISOM to larger and more diverse datasets to support research and expand its use in clinical practice.&nbsp;</p>
 
 
 
@@ -416,27 +408,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-leukemia.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9leukemia.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eric Klee]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Shulan Tian]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eric Klee]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Shulan Tian]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Progress in gene therapy offers hope for long-term knee pain relief</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/progress-in-gene-therapy-offers-hope-for-long-term-knee-pain-relief/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/progress-in-gene-therapy-offers-hope-for-long-term-knee-pain-relief/
 		
-		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
-		<pubDate>Mon, 28 Jul 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Clinical Trials]]></category>
-		<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Christopher Evans]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=404948</guid>
+		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
+		<pubdate>Mon, 28 Jul 2025 14:00:00 +0000</pubdate>
+				<category><!--[CDATA[Clinical Trials]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Christopher Evans]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=404948</guid>
 
-					<description><![CDATA[<p>Mayo Clinic researchers aim to engineer knees that are more resistant to arthritis.</p>
+					<description><!--[CDATA[<p-->Mayo Clinic researchers aim to engineer knees that are more resistant to arthritis.<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/progress-in-gene-therapy-offers-hope-for-long-term-knee-pain-relief/">Progress in gene therapy offers hope for long-term knee pain relief</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-683x1024.jpg" alt="Christopher Evans, Ph.D, Professor of Physical Medicine and Rehabilitation (PMR), and Consultant-Research in PMR. " class="wp-image-404953" style="width:275px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Christopher Evans, Ph.D.</figcaption></figure></div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-683x1024.jpg" alt="Christopher Evans, Ph.D, Professor of Physical Medicine and Rehabilitation (PMR), and Consultant-Research in PMR. " class="wp-image-404953" style="width:275px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF1320397_0002-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Christopher Evans, Ph.D.</figcaption></figure>
 
 
 <p>For nearly <a href="https://pubmed.ncbi.nlm.nih.gov/34437305/" target="_blank" rel="noreferrer noopener">three decades</a>, Mayo Clinic researcher <a href="https://www.mayo.edu/research/faculty/evans-christopher-h-ph-d/bio-20086893" target="_blank" rel="noreferrer noopener">Christopher Evans, Ph.D.</a>, has pushed to expand gene therapy beyond its original scope of fixing rare, single-gene defects. That has meant systematically advancing the field through laboratory experiments, pre-clinical studies and clinical trials.</p>
@@ -493,7 +485,7 @@
 
 
 
-<p>&amp;nbsp;</p>
+<p>&nbsp;</p>
 
 
 
@@ -505,28 +497,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/osteoarthritis-illo1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/osteoarthritis-illo16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Christopher Evans]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Christopher Evans]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic deploys NVIDIA Blackwell infrastructure to drive generative AI solutions in medicine</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-deploys-nvidia-blackwell-infrastructure-to-drive-generative-ai-solutions-in-medicine/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-deploys-nvidia-blackwell-infrastructure-to-drive-generative-ai-solutions-in-medicine/
 		
-		<dc:creator><![CDATA[criley]]></dc:creator>
-		<pubDate>Mon, 28 Jul 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Matthew Callstrom]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405155</guid>
+		<dc:creator><!--[CDATA[criley]]--></dc:creator>
+		<pubdate>Mon, 28 Jul 2025 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Matthew Callstrom]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405155</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic took a pivotal step toward integrating AI solutions in the clinical setting with the deployment of NVIDIA DGX SuperPOD with NVIDIA DGX B200 systems, an advanced infrastructure that provides state-of-the-art AI compute capabilities. Mayo Clinic and NVIDIA collaborated to enable the rapid innovation and development of foundation models in support [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic took a pivotal step toward integrating AI solutions in the clinical setting with the deployment of NVIDIA DGX SuperPOD with NVIDIA DGX B200 systems, an advanced infrastructure that provides state-of-the-art AI compute capabilities. Mayo Clinic and NVIDIA collaborated to enable the rapid innovation and development of foundation models in support […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-deploys-nvidia-blackwell-infrastructure-to-drive-generative-ai-solutions-in-medicine/">Mayo Clinic deploys NVIDIA Blackwell infrastructure to drive generative AI solutions in medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-1024x683.jpg" alt="A group of consultants discuss and review a colorful digital pathology image on a wall monitor." class="wp-image-405164" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><sup>A group of consultants discuss and review a digital pathology image on a wall monitor.</sup></figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-1024x683.jpg" alt="A group of consultants discuss and review a colorful digital pathology image on a wall monitor." class="wp-image-405164" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><sup>A group of consultants discuss and review a digital pathology image on a wall monitor.</sup></figcaption>
 
 
 
@@ -538,7 +530,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012-200x300.jpg" alt="Headshot of Dr. Matthew Callstrom" class="wp-image-405148" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012.jpg 750w" sizes="auto, (max-width: 200px) 100vw, 200px" /><figcaption class="wp-element-caption"><sup>Matthew Callstrom, M.D., Ph.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012-200x300.jpg" alt="Headshot of Dr. Matthew Callstrom" class="wp-image-405148" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Callstrom.WF1447844_0012.jpg 750w" sizes="auto, (max-width: 200px) 100vw, 200px"><figcaption class="wp-element-caption"><sup>Matthew Callstrom, M.D., Ph.D.</sup></figcaption></figure></div>
 
 
 <p>"Our aspiration for AI is to meaningfully improve patient outcomes by detecting disease early enough to intervene. What was once a hypothetical — 'If only we had the right data' — is now becoming reality thanks to AI and advanced computing," says <a href="https://www.mayo.edu/research/faculty/callstrom-matthew-r-m-d-ph-d/bio-00085927" target="_blank" rel="noreferrer noopener">Matthew Callstrom, M.D., Ph.D.</a>, medical director of the Department of Strategy and leader of Mayo Clinic’s Generative Artificial Intelligence Program.</p>
@@ -554,7 +546,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoid6qfRLnhGAk"  title="Mayo Clinic DGX B200 SuperPOD for Generative AI | Launch | Summer 2025" width="500" height="281" src="https://www.youtube.com/embed/6qfRLnhG_Ak?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoid6qfRLnhGAk" title="Mayo Clinic DGX B200 SuperPOD for Generative AI | Launch | Summer 2025" width="500" height="281" src="https://www.youtube.com/embed/6qfRLnhG_Ak?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -563,14 +555,14 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-1024x768.jpg" alt="Portrait of Jim Rogers" class="wp-image-405170" style="width:381px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-2048x1536.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-1024x768.jpg" alt="Portrait of Jim Rogers" class="wp-image-405170" style="width:381px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-RogersWF5636492_0005-2048x1536.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
 
 
 <p>"This compute power, coupled with Mayo’s unparalleled clinical expertise and platform data of over 20 million digitized pathology slides, will allow Mayo to build on its existing foundation models. We’re transforming healthcare by quickly and safely developing innovative AI solutions that can improve patient outcomes and enable clinicians to dedicate more time to patient care while also accelerating commercial affiliations with other industry leaders," says Jim Rogers, CEO of Mayo Clinic Digital Pathology.</p>
 
 
 
-<p><strong>Journalists:</strong> Media kit with images for download available <a href="https://mcmedia.mayo.edu/Share/871b647n73p1b11u4jw8yys7voanethw?FR_=1&amp;amp;W=1620&amp;amp;H=976">here</a>.</p>
+<p><strong>Journalists:</strong> Media kit with images for download available <a href="https://mcmedia.mayo.edu/Share/871b647n73p1b11u4jw8yys7voanethw?FR_=1&amp;W=1620&amp;H=976">here</a>.</p>
 
 
 
@@ -582,7 +574,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -591,7 +583,7 @@
 
 
 <ul class="wp-block-list">
-<li>Terri Malloy, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Terri Malloy, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-deploys-nvidia-blackwell-infrastructure-to-drive-generative-ai-solutions-in-medicine/">Mayo Clinic deploys NVIDIA Blackwell infrastructure to drive generative AI solutions in medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -600,68 +592,68 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Discussing-a-digital-pathology-image_WF2205754_0440_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Callstrom]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Callstrom]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers link CAR-T cell aging to cancer relapse&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-link-car-t-cell-aging-to-cancer-relapse/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-link-car-t-cell-aging-to-cancer-relapse/
 		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Ismail Can]]></category>
-		<category><![CDATA[Dr. Saad Kendarian]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=404713</guid>
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Mon, 14 Jul 2025 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Ismail Can]]--></category>
+		<category><!--[CDATA[Dr. Saad Kendarian]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=404713</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have discovered a key reason some cancer patients relapse after receiving chimeric antigen receptor T-cell therapy, or CAR-T cell therapy. Over time, the engineered immune cells age and lose their ability to fight cancer. &amp;#160; Published in Molecular Cancer, the study identifies this aging process, known as senescence, as [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have discovered a key reason some cancer patients relapse after receiving chimeric antigen receptor T-cell therapy, or CAR-T cell therapy. Over time, the engineered immune cells age and lose their ability to fight cancer. &nbsp; Published in Molecular Cancer, the study identifies this aging process, known as senescence, as […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-link-car-t-cell-aging-to-cancer-relapse/">Mayo Clinic researchers link CAR-T cell aging to cancer relapse&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/GettyImages-1808335875.mp4" playsinline></video></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/GettyImages-1808335875.mp4" playsinline=""></video>
 
 
 
-<p>ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have discovered a key reason some cancer patients relapse after receiving chimeric antigen receptor T-cell therapy, or <a href="https://www.mayoclinic.org/tests-procedures/car-t-cell-therapy/about/pac-20585020" target="_blank" rel="noreferrer noopener">CAR-T cell therapy</a>. Over time, the engineered immune cells age and lose their ability to fight cancer. &amp;nbsp;</p>
+<p>ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have discovered a key reason some cancer patients relapse after receiving chimeric antigen receptor T-cell therapy, or <a href="https://www.mayoclinic.org/tests-procedures/car-t-cell-therapy/about/pac-20585020" target="_blank" rel="noreferrer noopener">CAR-T cell therapy</a>. Over time, the engineered immune cells age and lose their ability to fight cancer. &nbsp;</p>
 
 
 
-<p><a href="https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02371-1" target="_blank" rel="noreferrer noopener">Published</a> in Molecular Cancer, the study identifies this aging process, known as senescence, as a previously unrecognized mechanism of CAR-T failure.&amp;nbsp; &amp;nbsp;</p>
+<p><a href="https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02371-1" target="_blank" rel="noreferrer noopener">Published</a> in Molecular Cancer, the study identifies this aging process, known as senescence, as a previously unrecognized mechanism of CAR-T failure.&nbsp; &nbsp;</p>
 
 
 
-<p>The researchers also showed that senescence is influenced by how CAR-T cells are engineered. Certain intracellular features — such as how the cell recognizes cancer and how strongly it activates — can overwork the cells. The researchers found that if the activation signal is too intense or prolonged, it can push CAR-T cells into premature aging. &amp;nbsp;</p>
+<p>The researchers also showed that senescence is influenced by how CAR-T cells are engineered. Certain intracellular features — such as how the cell recognizes cancer and how strongly it activates — can overwork the cells. The researchers found that if the activation signal is too intense or prolonged, it can push CAR-T cells into premature aging. &nbsp;</p>
 
 
 
-<p>The discovery may guide the development of next-generation CAR-T therapies that last longer and are more effective across a broader range of cancers. &amp;nbsp;</p>
+<p>The discovery may guide the development of next-generation CAR-T therapies that last longer and are more effective across a broader range of cancers. &nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-1024x683.jpg" alt="" class="wp-image-404717" style="width:431px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-1536x1025.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-2048x1366.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Saad Kenderian, MB, ChB, Hematology consultant, and Chimeric Antigen Receptor (CAR) T Cell Engineering Laboratory lead, poses in the CAR T Cell Engineering Laboratory.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-1024x683.jpg" alt="" class="wp-image-404717" style="width:431px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-1536x1025.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/WF5259875_0007-1-2048x1366.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Saad Kenderian, MB, ChB, Hematology consultant, and Chimeric Antigen Receptor (CAR) T Cell Engineering Laboratory lead, poses in the CAR T Cell Engineering Laboratory.</figcaption></figure></div>
 
 
 <p>"This is one of the most clinically relevant discoveries we've made because it doesn't just explain the cause of relapse, it gives us a biological target to possibly prevent it," says <a href="https://www.mayo.edu/research/faculty/kenderian-saad-j-m-b-ch-b/bio-20206512" target="_blank" rel="noreferrer noopener">Saad Kenderian, M.B., Ch.B.</a>, a principal investigator and hematologist at Mayo Clinic. &nbsp;</p>
 
 
 
-<p>CAR-T therapy reprograms a patient's own immune cells to recognize and destroy cancer. It has led to long-term remission for patients, including some with aggressive or treatment-resistant diseases. But many patients eventually relapse, and the causes have remained poorly understood.&amp;nbsp;</p>
+<p>CAR-T therapy reprograms a patient's own immune cells to recognize and destroy cancer. It has led to long-term remission for patients, including some with aggressive or treatment-resistant diseases. But many patients eventually relapse, and the causes have remained poorly understood.&nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Modeling CAR-T cell stress over time</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Modeling CAR-T cell stress over time</strong>&nbsp;</h2>
 
 
 
-<p>To investigate why CAR-T therapy can fail, the Mayo team developed a novel lab model that simulates long-term biological stress, offering a clearer view of how the engineered cells behave after infusion. Over time, some CAR-T cells lost their ability to multiply and attack cancer. Specifically, they showed hallmark signs of senescence, including distinct genetic changes. &amp;nbsp;</p>
+<p>To investigate why CAR-T therapy can fail, the Mayo team developed a novel lab model that simulates long-term biological stress, offering a clearer view of how the engineered cells behave after infusion. Over time, some CAR-T cells lost their ability to multiply and attack cancer. Specifically, they showed hallmark signs of senescence, including distinct genetic changes. &nbsp;</p>
 
 
 
@@ -673,47 +665,47 @@
 
 
 
-<h2 class="wp-block-heading"><strong>Engineering CAR-T cells for longevity</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Engineering CAR-T cells for longevity</strong>&nbsp;</h2>
 
 
 
-<p>That discovery was driven in part by the work of Ismail Can, Ph.D., who helped lead the molecular analysis behind the finding.&amp;nbsp;</p>
+<p>That discovery was driven in part by the work of Ismail Can, Ph.D., who helped lead the molecular analysis behind the finding.&nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-683x1024.jpg" alt="" class="wp-image-404740" style="width:222px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Ismail Can, Ph.D.</figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-683x1024.jpg" alt="" class="wp-image-404740" style="width:222px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/DR.CAN_-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Ismail Can, Ph.D.</figcaption></figure></div>
 
 
-<p>"Efforts to make CAR-T cell therapy more durable will likely fail without fully understanding the reasons behind CAR-T cell failure. This study represents a significant step toward understanding why CAR-T cells fail," says Dr. Can, first author of the study and a senior research fellow at Mayo Clinic’s T&amp;nbsp;Cell Engineering Laboratory. "By identifying the early molecular triggers of senescence, we can begin to refine CAR-T design to potentially improve long-term function and reduce relapse."&amp;nbsp;</p>
-
-
-
-<p>The findings highlight a new direction for CAR-T research, with potential implications not only for blood cancers but also for expanding cell therapy into solid tumors. &amp;nbsp;</p>
+<p>"Efforts to make CAR-T cell therapy more durable will likely fail without fully understanding the reasons behind CAR-T cell failure. This study represents a significant step toward understanding why CAR-T cells fail," says Dr. Can, first author of the study and a senior research fellow at Mayo Clinic’s T&nbsp;Cell Engineering Laboratory. "By identifying the early molecular triggers of senescence, we can begin to refine CAR-T design to potentially improve long-term function and reduce relapse."&nbsp;</p>
 
 
 
-<p>The study builds on Dr. Kenderian's broader efforts to identify resistance mechanisms and design more durable and personalized immunotherapies. &amp;nbsp;&amp;nbsp;</p>
+<p>The findings highlight a new direction for CAR-T research, with potential implications not only for blood cancers but also for expanding cell therapy into solid tumors. &nbsp;</p>
 
 
 
-<p>This work was supported in part by Mayo Clinic Comprehensive Cancer Center, the Eagles 5th District Cancer Telethon Funds for Cancer Research, the State of Minnesota, and benefactors Georgia and Michael Michelson. For a complete list of authors, disclosures and funding information, review the <a href="https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02371-1" target="_blank" rel="noreferrer noopener">study</a>. &amp;nbsp; &amp;nbsp;</p>
+<p>The study builds on Dr. Kenderian's broader efforts to identify resistance mechanisms and design more durable and personalized immunotherapies. &nbsp;&nbsp;</p>
 
 
 
-<p>###&amp;nbsp;</p>
+<p>This work was supported in part by Mayo Clinic Comprehensive Cancer Center, the Eagles 5th District Cancer Telethon Funds for Cancer Research, the State of Minnesota, and benefactors Georgia and Michael Michelson. For a complete list of authors, disclosures and funding information, review the <a href="https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02371-1" target="_blank" rel="noreferrer noopener">study</a>. &nbsp; &nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;</p>
+<p>###&nbsp;</p>
 
 
 
-<p><strong>Media contact: </strong>&amp;nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;</p>
+
+
+
+<p><strong>Media contact: </strong>&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Sharon Theimer, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&amp;nbsp;</li>
+<li>Sharon Theimer, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-link-car-t-cell-aging-to-cancer-relapse/">Mayo Clinic researchers link CAR-T cell aging to cancer relapse&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -722,24 +714,24 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/1x1-Kenderian.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/16x9-KENDERIEAN.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ismail Can]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Saad Kendarian]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ismail Can]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Saad Kendarian]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Pioneering change: The inception and potential of Mayo Clinic&amp;#8217;s Nursing Research Scholars</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/7-11-pioneering-change-the-inception-and-potential-of-mayo-clinics-nursing-research-scholars/</link>
+		<title>Pioneering change: The inception and potential of Mayo Clinic’s Nursing Research Scholars</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/7-11-pioneering-change-the-inception-and-potential-of-mayo-clinics-nursing-research-scholars/
 		
-		<dc:creator><![CDATA[Carey Stanton]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 13:12:08 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=404710</guid>
+		<dc:creator><!--[CDATA[Carey Stanton]]--></dc:creator>
+		<pubdate>Fri, 11 Jul 2025 13:12:08 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=404710</guid>
 
-					<description><![CDATA[<p>Mayo Clinic’s Department of Nursing welcomes its first&nbsp;Nursing Research Scholars. As an Academic Medical Center, Mayo integrates clinical practice with research and education to deliver the best possible care. In its inaugural year, three scholars were accepted into the unique Nursing Research Scholar program. Under the guidance of nurse scientists in the Division of Nursing [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/7-11-pioneering-change-the-inception-and-potential-of-mayo-clinics-nursing-research-scholars/">Pioneering change: The inception and potential of Mayo Clinic&amp;#8217;s Nursing Research Scholars</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Mayo Clinic’s Department of Nursing welcomes its first&nbsp;Nursing Research Scholars. As an Academic Medical Center, Mayo integrates clinical practice with research and education to deliver the best possible care. In its inaugural year, three scholars were accepted into the unique Nursing Research Scholar program. Under the guidance of nurse scientists in the Division of Nursing […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/7-11-pioneering-change-the-inception-and-potential-of-mayo-clinics-nursing-research-scholars/">Pioneering change: The inception and potential of Mayo Clinic’s Nursing Research Scholars</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-1024x576.jpg" alt="Nursing research scholars" class="wp-image-404728" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars.jpg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Jeanine Gangeness, Ph.D., Amanda Rossley, Ph.D. and Savannah Zins, Ph.D.</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-1024x576.jpg" alt="Nursing research scholars" class="wp-image-404728" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars.jpg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Jeanine Gangeness, Ph.D., Amanda Rossley, Ph.D. and Savannah Zins, Ph.D.</figcaption>
 
 
 
@@ -747,12 +739,12 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="820" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/res-research-model-1-1-768x820-1.png" alt="Nursing research graphic" class="wp-image-404731 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/res-research-model-1-1-768x820-1.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/res-research-model-1-1-768x820-1-281x300.png 281w" sizes="auto, (max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="820" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/res-research-model-1-1-768x820-1.png" alt="Nursing research graphic" class="wp-image-404731 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/res-research-model-1-1-768x820-1.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/res-research-model-1-1-768x820-1-281x300.png 281w" sizes="auto, (max-width: 768px) 100vw, 768px"></figure><div class="wp-block-media-text__content">
 <p></p>
 
 
 
-<p>Research at Mayo Clinic begins with the unmet needs of the patient. As a patient or a loved one, you want to be sure you are receiving the best care from the best-trained staff who follow evidence-based care. Nurses provide direct care to patients daily, so they know which approaches work well and which need adjusting. A key characteristic of an effective practitioner is the ability to evaluate standard procedures and identify opportunities for improvement. The concept of refining nursing practices and procedures is at the heart of nursing research.&amp;nbsp;</p>
+<p>Research at Mayo Clinic begins with the unmet needs of the patient. As a patient or a loved one, you want to be sure you are receiving the best care from the best-trained staff who follow evidence-based care. Nurses provide direct care to patients daily, so they know which approaches work well and which need adjusting. A key characteristic of an effective practitioner is the ability to evaluate standard procedures and identify opportunities for improvement. The concept of refining nursing practices and procedures is at the heart of nursing research.&nbsp;</p>
 
 
 
@@ -769,61 +761,61 @@
 
 
 
-<p>Education and training are ongoing in medicine, and nurses are frequently tasked with updating their knowledge.&amp;nbsp;Amanda Rossley, Ph.D.,&amp;nbsp;a&amp;nbsp;nurse manager in nursing professional development, hopes to study the latest in training pedagogy by using gamification to improve learning among nurses. “Gaming is an active learning strategy that improves concentration, creativity, memory and engagement,” she says.&amp;nbsp;She hopes her research will contribute to data-driven insights that lead to the practical translation for gamification-based nursing and patient education that improves patient care. For patients, this means the possibility of playing a game to learn more about managing conditions, instead of reading about it.</p>
+<p>Education and training are ongoing in medicine, and nurses are frequently tasked with updating their knowledge.&nbsp;Amanda Rossley, Ph.D.,&nbsp;a&nbsp;nurse manager in nursing professional development, hopes to study the latest in training pedagogy by using gamification to improve learning among nurses. “Gaming is an active learning strategy that improves concentration, creativity, memory and engagement,” she says.&nbsp;She hopes her research will contribute to data-driven insights that lead to the practical translation for gamification-based nursing and patient education that improves patient care. For patients, this means the possibility of playing a game to learn more about managing conditions, instead of reading about it.</p>
 
 
 
-<p>The clinical performance of a nursing student is influenced by their mental health, social support, the learning environment and self-efficacy, or the belief in one's capacity to perform.&amp;nbsp;Jeanine Gangeness, Ph.D.,&amp;nbsp;a&amp;nbsp;program director in Nursing Academic Affairs, is on a mission to enhance the existing training environment for nursing students by pinpointing which interventions increase student self-efficacy and sense of belonging. “This research is an investment in the future workforce of Mayo Clinic,” she explains. “Nursing students with high self-efficacy are more likely to work hard, complete their tasks and be more resilient in the face of failures, leading to better patient outcomes and more competent and confident nurses.”</p>
+<p>The clinical performance of a nursing student is influenced by their mental health, social support, the learning environment and self-efficacy, or the belief in one's capacity to perform.&nbsp;Jeanine Gangeness, Ph.D.,&nbsp;a&nbsp;program director in Nursing Academic Affairs, is on a mission to enhance the existing training environment for nursing students by pinpointing which interventions increase student self-efficacy and sense of belonging. “This research is an investment in the future workforce of Mayo Clinic,” she explains. “Nursing students with high self-efficacy are more likely to work hard, complete their tasks and be more resilient in the face of failures, leading to better patient outcomes and more competent and confident nurses.”</p>
 
 
 
-<p>For patients with adverse symptoms, relief cannot come soon enough. Despite monumental advances in medical practice and technology, many questions remain regarding symptom management in complex patients.&amp;nbsp;Savannah Zins, Ph.D.,&amp;nbsp;a nursing education specialist in nursing professional development, says, “Understanding the biological and behavioral aspects of adverse symptoms through symptom science can improve patients’ quality of life, reduce chronic symptoms and burden, and lower healthcare costs.” Through her research, Zins hopes to identify non-pharmacologic and nursing interventions to make patients more comfortable.&amp;nbsp;&amp;nbsp;</p>
+<p>For patients with adverse symptoms, relief cannot come soon enough. Despite monumental advances in medical practice and technology, many questions remain regarding symptom management in complex patients.&nbsp;Savannah Zins, Ph.D.,&nbsp;a nursing education specialist in nursing professional development, says, “Understanding the biological and behavioral aspects of adverse symptoms through symptom science can improve patients’ quality of life, reduce chronic symptoms and burden, and lower healthcare costs.” Through her research, Zins hopes to identify non-pharmacologic and nursing interventions to make patients more comfortable.&nbsp;&nbsp;</p>
 
 
 
 <p>Because Mayo Clinic is highly collaborative, discoveries from one area are quickly translated to other areas. Within this scholarly environment, staff at Mayo continually seek new medical knowledge and ways to rapidly and responsibly validate and apply it. The Nursing Research Scholar program is one example of how the organization empowers nurses to integrate their clinical expertise with guided research opportunities, applying their findings to drive change. These research initiatives will have a positive impact, enabling the organization to share discoveries that lead to improved healthcare beyond its walls.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/7-11-pioneering-change-the-inception-and-potential-of-mayo-clinics-nursing-research-scholars/">Pioneering change: The inception and potential of Mayo Clinic&amp;#8217;s Nursing Research Scholars</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/7-11-pioneering-change-the-inception-and-potential-of-mayo-clinics-nursing-research-scholars/">Pioneering change: The inception and potential of Mayo Clinic’s Nursing Research Scholars</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/res-research-model-1-1-768x820-1.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Nursing-Research-Scholars.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers develop AI tool to detect surgical site infections from patient-submitted photos</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-develop-ai-tool-to-detect-surgical-site-infections-from-patient-submitted-photos/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-develop-ai-tool-to-detect-surgical-site-infections-from-patient-submitted-photos/
 		
-		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
-		<pubDate>Mon, 07 Jul 2025 13:46:45 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Surgery]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Cornelius Thiels]]></category>
-		<category><![CDATA[Dr. Hala Muaddi]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=404641</guid>
+		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
+		<pubdate>Mon, 07 Jul 2025 13:46:45 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Surgery]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Cornelius Thiels]]--></category>
+		<category><!--[CDATA[Dr. Hala Muaddi]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=404641</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn.&amp;#160;— A team of Mayo Clinic researchers has developed an artificial intelligence (AI) system that can detect surgical site infections (SSIs) with high accuracy from patient-submitted postoperative wound photos, potentially transforming how postoperative care is delivered. Published in the&amp;#160;Annals of Surgery, the study introduces an AI-based pipeline the researchers created that can automatically identify [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn.&nbsp;— A team of Mayo Clinic researchers has developed an artificial intelligence (AI) system that can detect surgical site infections (SSIs) with high accuracy from patient-submitted postoperative wound photos, potentially transforming how postoperative care is delivered. Published in the&nbsp;Annals of Surgery, the study introduces an AI-based pipeline the researchers created that can automatically identify […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-develop-ai-tool-to-detect-surgical-site-infections-from-patient-submitted-photos/">Mayo Clinic researchers develop AI tool to detect surgical site infections from patient-submitted photos</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-style-center-align-caption"><img loading="lazy" decoding="async" width="1603" height="902" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9.jpg" alt="Dr. Hala Muaddi in surgery" class="wp-image-404654" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9.jpg 1603w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-1536x864.jpg 1536w" sizes="auto, (max-width: 1603px) 100vw, 1603px" /><figcaption class="wp-element-caption">Dr. Hala Muaddi in surgery</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1603" height="902" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9.jpg" alt="Dr. Hala Muaddi in surgery" class="wp-image-404654" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9.jpg 1603w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9-1536x864.jpg 1536w" sizes="auto, (max-width: 1603px) 100vw, 1603px"><figcaption class="wp-element-caption">Dr. Hala Muaddi in surgery</figcaption>
 
 
 
-<p>ROCHESTER, Minn.&amp;nbsp;— A team of Mayo Clinic researchers has developed an artificial intelligence (AI) system that can detect surgical site infections (SSIs) with high accuracy from patient-submitted postoperative wound photos, potentially transforming how postoperative care is delivered.</p>
+<p>ROCHESTER, Minn.&nbsp;— A team of Mayo Clinic researchers has developed an artificial intelligence (AI) system that can detect surgical site infections (SSIs) with high accuracy from patient-submitted postoperative wound photos, potentially transforming how postoperative care is delivered.</p>
 
 
 
-<p>Published in the&amp;nbsp;<a href="https://journals.lww.com/annalsofsurgery/abstract/9900/imaging_based_surgical_site_infection_detection.1357.aspx" target="_blank" rel="noreferrer noopener">Annals of Surgery</a>, the study introduces an AI-based pipeline the researchers created that can automatically identify surgical incisions, assess image quality and flag signs of infection in photos submitted by patients through online portals. The system was trained on over 20,000 images from more than 6,000 patients across nine Mayo Clinic hospitals.<br><br>"We were motivated by the increasing need for outpatient monitoring of surgical incisions in a timely manner," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/thiels-cornelius-a-d-o-m-b-a/bio-20519744" target="_blank" rel="noreferrer noopener">Cornelius Thiels, D.O.</a>, a hepatobiliary and pancreatic surgical oncologist at Mayo Clinic and co-senior author of the study. "This process, currently done by clinicians, is time-consuming and can delay care. Our AI model can help triage these images automatically, improving early detection and streamlining communication between patients and their care teams."</p>
+<p>Published in the&nbsp;<a href="https://journals.lww.com/annalsofsurgery/abstract/9900/imaging_based_surgical_site_infection_detection.1357.aspx" target="_blank" rel="noreferrer noopener">Annals of Surgery</a>, the study introduces an AI-based pipeline the researchers created that can automatically identify surgical incisions, assess image quality and flag signs of infection in photos submitted by patients through online portals. The system was trained on over 20,000 images from more than 6,000 patients across nine Mayo Clinic hospitals.<br><br>"We were motivated by the increasing need for outpatient monitoring of surgical incisions in a timely manner," says&nbsp;<a href="https://www.mayoclinic.org/biographies/thiels-cornelius-a-d-o-m-b-a/bio-20519744" target="_blank" rel="noreferrer noopener">Cornelius Thiels, D.O.</a>, a hepatobiliary and pancreatic surgical oncologist at Mayo Clinic and co-senior author of the study. "This process, currently done by clinicians, is time-consuming and can delay care. Our AI model can help triage these images automatically, improving early detection and streamlining communication between patients and their care teams."</p>
 
 
 
@@ -835,7 +827,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:38% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="855" height="855" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1.jpg" alt="Dr. Hala Muaddi" class="wp-image-404653 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1.jpg 855w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 855px) 100vw, 855px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:38% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="855" height="855" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1.jpg" alt="Dr. Hala Muaddi" class="wp-image-404653 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1.jpg 855w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 855px) 100vw, 855px"></figure><div class="wp-block-media-text__content">
 <p>"This work lays the foundation for AI-assisted postoperative wound care, which can transform how postoperative patients are monitored," says Hala Muaddi, M.D., Ph.D., a hepatopancreatobiliary fellow at Mayo Clinic and first author. "It’s especially relevant as outpatient operations and virtual follow-ups become more common."</p>
 </div></div>
 
@@ -853,15 +845,15 @@
 
 
 
-<p>Importantly, the model demonstrated consistent performance across diverse groups, addressing concerns about algorithmic bias.&amp;nbsp;</p>
+<p>Importantly, the model demonstrated consistent performance across diverse groups, addressing concerns about algorithmic bias.&nbsp;</p>
 
 
 
-<p>While the results are promising, the team says that further validation is needed.&amp;nbsp;</p>
+<p>While the results are promising, the team says that further validation is needed.&nbsp;</p>
 
 
 
-<p>"Our hope is that the AI models we developed — and the large dataset they were trained on — have the potential to fundamentally reshape how surgical follow-up is delivered," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/salehinejad-hojjat-ph-d/bio-20547448" target="_blank" rel="noreferrer noopener">Hojjat Salehinejad, Ph.D.</a>, a senior associate consultant of health care delivery research within the Kern Center for the Science of Health Care Delivery and co-senior author. "Prospective studies are underway to evaluate how well this tool integrates into day-to-day surgical care."</p>
+<p>"Our hope is that the AI models we developed — and the large dataset they were trained on — have the potential to fundamentally reshape how surgical follow-up is delivered," says&nbsp;<a href="https://www.mayo.edu/research/faculty/salehinejad-hojjat-ph-d/bio-20547448" target="_blank" rel="noreferrer noopener">Hojjat Salehinejad, Ph.D.</a>, a senior associate consultant of health care delivery research within the Kern Center for the Science of Health Care Delivery and co-senior author. "Prospective studies are underway to evaluate how well this tool integrates into day-to-day surgical care."</p>
 
 
 
@@ -873,7 +865,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -891,40 +883,40 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-surgery-1-x-1-.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Dr.-Hala-Muaddi-in-surgery-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Cornelius Thiels]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Hala Muaddi]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Cornelius Thiels]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Hala Muaddi]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>(VIDEO) A rare cancer. A rare weapon. Curtis Jackson&amp;#8217;s inspiring story of survival</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-a-rare-cancer-a-rare-weapon-curtis-jacksons-inspiring-story-of-survival/</link>
+		<title>(VIDEO) A rare cancer. A rare weapon. Curtis Jackson’s inspiring story of survival</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-a-rare-cancer-a-rare-weapon-curtis-jacksons-inspiring-story-of-survival/
 		
-		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 17:33:34 +0000</pubDate>
-				<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Gastroenterology]]></category>
-		<category><![CDATA[MC Video pkg]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Research Patient Stories]]></category>
-		<category><![CDATA[Surgery]]></category>
-		<category><![CDATA[Transplant]]></category>
-		<category><![CDATA[Transplant Patient Stories]]></category>
-		<category><![CDATA[Video]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[cholangiocarcinoma]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Liver Cancer]]></category>
-		<category><![CDATA[Liver Transplant]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=403352</guid>
+		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
+		<pubdate>Wed, 02 Jul 2025 17:33:34 +0000</pubdate>
+				<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Gastroenterology]]--></category>
+		<category><!--[CDATA[MC Video pkg]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Research Patient Stories]]--></category>
+		<category><!--[CDATA[Surgery]]--></category>
+		<category><!--[CDATA[Transplant]]--></category>
+		<category><!--[CDATA[Transplant Patient Stories]]--></category>
+		<category><!--[CDATA[Video]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[cholangiocarcinoma]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Liver Cancer]]--></category>
+		<category><!--[CDATA[Liver Transplant]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=403352</guid>
 
-					<description><![CDATA[<p>Curtis Jackson was living his dream life — a loving and supportive wife, three wonderful kids, and a future that looked as bright as could be. Then, one day, without warning, the dream was shattered. At only 46, Curtis was diagnosed with&amp;#160;cholangiocarcinoma, one of the deadliest and most aggressive forms of cancer. It's a silent [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-a-rare-cancer-a-rare-weapon-curtis-jacksons-inspiring-story-of-survival/">(VIDEO) A rare cancer. A rare weapon. Curtis Jackson&amp;#8217;s inspiring story of survival</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Curtis Jackson was living his dream life — a loving and supportive wife, three wonderful kids, and a future that looked as bright as could be. Then, one day, without warning, the dream was shattered. At only 46, Curtis was diagnosed with&nbsp;cholangiocarcinoma, one of the deadliest and most aggressive forms of cancer. It's a silent […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-a-rare-cancer-a-rare-weapon-curtis-jacksons-inspiring-story-of-survival/">(VIDEO) A rare cancer. A rare weapon. Curtis Jackson’s inspiring story of survival</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-1024x576.jpg" alt="" class="wp-image-404539" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Curtis and Kim Jackson</strong></figcaption></figure></div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-center-align-caption"-->
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-1024x576.jpg" alt="" class="wp-image-404539" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Curtis and Kim Jackson</strong></figcaption></figure>
 
 
 <p>Curtis Jackson was living his dream life — a loving and supportive wife, three wonderful kids, and a future that looked as bright as could be.</p>
@@ -935,7 +927,7 @@
 
 
 
-<p>At only 46, Curtis was diagnosed with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cholangiocarcinoma/symptoms-causes/syc-20352408">cholangiocarcinoma</a>, one of the deadliest and most aggressive forms of cancer. It's a silent killer that strikes the liver. It is often diagnosed in later stages, leaving patients with few treatment options and little time to live.</p>
+<p>At only 46, Curtis was diagnosed with&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cholangiocarcinoma/symptoms-causes/syc-20352408">cholangiocarcinoma</a>, one of the deadliest and most aggressive forms of cancer. It's a silent killer that strikes the liver. It is often diagnosed in later stages, leaving patients with few treatment options and little time to live.</p>
 
 
 
@@ -948,12 +940,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube7TZSjT0CHQ"  title="A rare cancer. A rare weapon. Curtis Jackson&amp;#039;s inspiring story of survival." width="500" height="281" src="https://www.youtube.com/embed/7TZSj_T0CHQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube7TZSjT0CHQ" title="A rare cancer. A rare weapon. Curtis Jackson's inspiring story of survival." width="500" height="281" src="https://www.youtube.com/embed/7TZSj_T0CHQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (2:17) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-rare-cancer.-A-rare-weapon.-Curtis-Jacksons-inspiring-story-of-survival-.pdf">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (2:17) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-rare-cancer.-A-rare-weapon.-Curtis-Jacksons-inspiring-story-of-survival-.pdf">script</a>.</strong></p>
 
 
 
@@ -973,7 +965,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-1024x576.jpg" alt="Curtis and Kim Jackson consulting with Dr. Aqel Bashar;cholangiocarcinoma,  a rare cancer led to a treatment at Mayo Clinic." class="wp-image-404534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9.jpg 1993w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Curtis and Kim consulting with Dr. Bashar Aqel, director, Mayo Clinic Transplant Center in Arizona</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-1024x576.jpg" alt="Curtis and Kim Jackson consulting with Dr. Aqel Bashar;cholangiocarcinoma,  a rare cancer led to a treatment at Mayo Clinic." class="wp-image-404534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-with-Dr.-Aqel-Bashar-16-x-9.jpg 1993w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Curtis and Kim consulting with Dr. Bashar Aqel, director, Mayo Clinic Transplant Center in Arizona</strong></figcaption></figure>
 
 
 
@@ -1025,7 +1017,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-1024x576.jpg" alt="Curtis with his children following his successful liver transplant, due to his rare cancer." class="wp-image-404531" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Curtis with his children following his successful liver transplant    Photo courtesy: Jackson family</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-1024x576.jpg" alt="Curtis with his children following his successful liver transplant, due to his rare cancer." class="wp-image-404531" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-Jackson-Stetson-Rooney-Gwyn-16-x-9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Curtis with his children following his successful liver transplant    Photo courtesy: Jackson family</strong></figcaption></figure>
 
 
 
@@ -1037,7 +1029,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-1024x1024.jpg" alt="" class="wp-image-404533" style="width:570px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1.jpg 1427w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Curtis and Kim following his liver transplant    Photo courtesy: Jackson family</strong></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-1024x1024.jpg" alt="" class="wp-image-404533" style="width:570px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Kim-and-Curtis-Jackson-4-days-post-1-x-1.jpg 1427w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Curtis and Kim following his liver transplant    Photo courtesy: Jackson family</strong></figcaption></figure></div>
 
 
 <p>"We're already observing excellent function from Curtis' new liver, with the majority of his liver tests returning normal results," says Dr. Aqel. "His recovery has been remarkably swift and impressive."</p>
@@ -1056,7 +1048,7 @@
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity">
 
 
 
@@ -1087,13 +1079,13 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-a-rare-cancer-a-rare-weapon-curtis-jacksons-inspiring-story-of-survival/">(VIDEO) A rare cancer. A rare weapon. Curtis Jackson&amp;#8217;s inspiring story of survival</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-a-rare-cancer-a-rare-weapon-curtis-jacksons-inspiring-story-of-survival/">(VIDEO) A rare cancer. A rare weapon. Curtis Jackson’s inspiring story of survival</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-Jackson-at-window-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Curtis-and-Kim-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[cholangiocarcinoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Liver Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Liver Transplant]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-CANCER-CELLS-150x150.png</mayoclinic:mcthumb >	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[cholangiocarcinoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Transplant]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-CANCER-CELLS-150x150.png</mayoclinic:mcthumb>	</item>
+	</atom:link></channel>
 </rss> 
