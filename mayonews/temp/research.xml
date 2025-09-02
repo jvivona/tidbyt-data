@@ -1,49 +1,41 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/research/
 	<description>News Resources</description>
-	<lastBuildDate>Tue, 02 Sep 2025 14:34:22 +0000</lastBuildDate>
+	<lastbuilddate>Tue, 02 Sep 2025 14:34:22 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>New genetic biomarker flags aggressive brain tumors</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/
 		
-		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
-		<pubDate>Mon, 01 Sep 2025 22:31:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Neurosciences]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Gelareh Zadeh]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405928</guid>
+		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
+		<pubdate>Mon, 01 Sep 2025 22:31:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Neurosciences]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Gelareh Zadeh]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405928</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Clinicians typically classify meningiomas — the most common type of brain tumor — into three grades, ranging from slow-growing to aggressive. But a new multi-institutional study suggests that appearances may be deceiving. If a tumor shows activity in a gene called telomerase reverse transcriptase (TERT), it tends to recur more quickly, even [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Clinicians typically classify meningiomas — the most common type of brain tumor — into three grades, ranging from slow-growing to aggressive. But a new multi-institutional study suggests that appearances may be deceiving. If a tumor shows activity in a gene called telomerase reverse transcriptase (TERT), it tends to recur more quickly, even […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/">New genetic biomarker flags aggressive brain tumors</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -61,7 +53,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img decoding="async" width="937" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg" alt="Photo of Mayo Clinic neurosurgeon Gelareh Zadeh, M.D., Ph.D." class="wp-image-405939" style="width:208px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg 937w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-274x300.jpg 274w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-768x839.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1405x1536.jpg 1405w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1874x2048.jpg 1874w" sizes="(max-width: 937px) 100vw, 937px" /><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img decoding="async" width="937" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg" alt="Photo of Mayo Clinic neurosurgeon Gelareh Zadeh, M.D., Ph.D." class="wp-image-405939" style="width:208px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg 937w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-274x300.jpg 274w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-768x839.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1405x1536.jpg 1405w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1874x2048.jpg 1874w" sizes="(max-width: 937px) 100vw, 937px"><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure></div>
 
 
 <p>"High TERT expression is strongly linked to faster disease progression," says <a href="https://www.mayo.edu/research/faculty/zadeh-gelareh-m-d-ph-d/bio-20579723" target="_blank" rel="noreferrer noopener">Gelareh Zadeh, M.D., Ph.D.</a>, a neurosurgeon at <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> and senior author of the study. "This makes it a promising new biomarker for identifying patients who may be at greater risk of developing aggressive disease."</p>
@@ -104,7 +96,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg" alt="Photo of Mayo Clinic research collaborator Chloe Gui, M.D." class="wp-image-405944" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1638x2048.jpg 1638w" sizes="(max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Chloe Gui, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg" alt="Photo of Mayo Clinic research collaborator Chloe Gui, M.D." class="wp-image-405944" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1638x2048.jpg 1638w" sizes="(max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Chloe Gui, M.D.</figcaption></figure></div>
 
 
 <p>"TERT expression can help us more accurately identify patients with aggressive meningiomas," Chloe Gui, M.D., a neurosurgery resident at the University of Toronto, a Mayo Clinic research collaborator and the study’s lead author, explains on a <a href="https://www.thelancet.com/multimedia/podcasts/in-conversation-with/lanonc" target="_blank" rel="noreferrer noopener">podcast hosted by The Lancet Oncology</a>. "This information allows us to offer treatment tailored to the tumor's behavior."</p>
@@ -115,7 +107,7 @@
 
 
 
-<p>Review the&amp;nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/fulltext" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;</p>
+<p>Review the&nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/fulltext" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&nbsp;</p>
 
 
 
@@ -123,7 +115,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -141,35 +133,35 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Gelareh Zadeh]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gelareh Zadeh]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Shorter, less intense radiation-chemo regimen effective for HPV-linked oropharyngeal cancer, Mayo study shows</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/shorter-less-intense-radiation-chemo-regimen-effective-for-hpv-linked-oropharyngeal-cancer-mayo-study-shows/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/shorter-less-intense-radiation-chemo-regimen-effective-for-hpv-linked-oropharyngeal-cancer-mayo-study-shows/
 		
-		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
-		<pubDate>Mon, 01 Sep 2025 22:30:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Chemotherapy]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Daniel Ma]]></category>
-		<category><![CDATA[human papillomavirus (HPV)]]></category>
-		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
-		<category><![CDATA[minimally invasive surgery]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[oropharyngeal squamous cell carcinoma]]></category>
-		<category><![CDATA[radiation]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405823</guid>
+		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
+		<pubdate>Mon, 01 Sep 2025 22:30:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Chemotherapy]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Daniel Ma]]--></category>
+		<category><!--[CDATA[human papillomavirus (HPV)]]--></category>
+		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
+		<category><!--[CDATA[minimally invasive surgery]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[oropharyngeal squamous cell carcinoma]]--></category>
+		<category><!--[CDATA[radiation]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405823</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — A Mayo Clinic study finds that a shortened, less intense course of radiation and chemotherapy after minimally invasive surgery for HPV-positive oropharyngeal squamous cell carcinoma (HPV+OPSCC) results in less toxicity, substantially lowering the rates of treatment-related side effects while maintaining high cure rates. The findings were published in The Lancet Oncology. "This [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A Mayo Clinic study finds that a shortened, less intense course of radiation and chemotherapy after minimally invasive surgery for HPV-positive oropharyngeal squamous cell carcinoma (HPV+OPSCC) results in less toxicity, substantially lowering the rates of treatment-related side effects while maintaining high cure rates. The findings were published in The Lancet Oncology. "This […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/shorter-less-intense-radiation-chemo-regimen-effective-for-hpv-linked-oropharyngeal-cancer-mayo-study-shows/">Shorter, less intense radiation-chemo regimen effective for HPV-linked oropharyngeal cancer, Mayo study shows</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg" alt="chemotherapy drug being administered intravenously by a nurse" class="wp-image-405971" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg" alt="chemotherapy drug being administered intravenously by a nurse" class="wp-image-405971" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -177,7 +169,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg" alt="Portrait of Dr. Daniel Ma" class="wp-image-405969" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007.jpg 1688w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Daniel Ma, M.D.</figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg" alt="Portrait of Dr. Daniel Ma" class="wp-image-405969" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007.jpg 1688w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Daniel Ma, M.D.</figcaption></figure></div>
 
 
 <p>"This is a game-changer for patients," says <a href="https://www.mayo.edu/research/faculty/ma-daniel-j-m-d/bio-10031781" target="_blank" rel="noreferrer noopener">Daniel Ma, M.D.</a>, senior author of the study and head and neck radiation oncologist at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>. "We've significantly reduced the burden of long-term side effects without compromising the effectiveness of the treatment. This shorter, less intensive regimen allows patients to return to their lives more quickly and with a better quality of life."</p>
@@ -216,11 +208,11 @@
 
 
 
-<p><strong>About Mayo Clinic<br></strong><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic<br></strong><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -238,56 +230,56 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Chemotherapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Daniel Ma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[human papillomavirus (HPV)]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[minimally invasive surgery]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[oropharyngeal squamous cell carcinoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[radiation]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Chemotherapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Daniel Ma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[human papillomavirus (HPV)]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[minimally invasive surgery]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[oropharyngeal squamous cell carcinoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[radiation]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic research set to launch aboard NASA mission to International Space Station to explore new therapies for bone loss</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-set-to-launch-aboard-nasa-mission-to-international-space-station-to-explore-new-therapies-for-bone-loss/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-set-to-launch-aboard-nasa-mission-to-international-space-station-to-explore-new-therapies-for-bone-loss/
 		
-		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
-		<pubDate>Fri, 22 Aug 2025 13:46:48 +0000</pubDate>
-				<category><![CDATA[Diversity]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[bone density]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Dr. Abba Zubair]]></category>
-		<category><![CDATA[Marty Velasco Hames]]></category>
-		<category><![CDATA[NASA]]></category>
-		<category><![CDATA[osteoporosis]]></category>
-		<category><![CDATA[regenerative biotherapeutics]]></category>
-		<category><![CDATA[regenerative cell therapy]]></category>
-		<category><![CDATA[Space medicine]]></category>
-		<category><![CDATA[stem cell]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405640</guid>
+		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
+		<pubdate>Fri, 22 Aug 2025 13:46:48 +0000</pubdate>
+				<category><!--[CDATA[Diversity]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[bone density]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Dr. Abba Zubair]]--></category>
+		<category><!--[CDATA[Marty Velasco Hames]]--></category>
+		<category><!--[CDATA[NASA]]--></category>
+		<category><!--[CDATA[osteoporosis]]--></category>
+		<category><!--[CDATA[regenerative biotherapeutics]]--></category>
+		<category><!--[CDATA[regenerative cell therapy]]--></category>
+		<category><!--[CDATA[Space medicine]]--></category>
+		<category><!--[CDATA[stem cell]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405640</guid>
 
-					<description><![CDATA[<p>JACKSONVILLE, Fla. — Mayo Clinic's pioneering exploration of stem cell-based therapies for bone loss is headed to space.&amp;#160;Abba Zubair, M.D., Ph.D.,&amp;#160;is medical director of Transfusion Medicine and Stem Cell Therapy at&amp;#160;Mayo Clinic in Florida. He is leading research exploring how bone-forming stem cells behave in microgravity in hopes of developing novel treatments for diseases that [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->JACKSONVILLE, Fla. — Mayo Clinic's pioneering exploration of stem cell-based therapies for bone loss is headed to space.&nbsp;Abba Zubair, M.D., Ph.D.,&nbsp;is medical director of Transfusion Medicine and Stem Cell Therapy at&nbsp;Mayo Clinic in Florida. He is leading research exploring how bone-forming stem cells behave in microgravity in hopes of developing novel treatments for diseases that […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-set-to-launch-aboard-nasa-mission-to-international-space-station-to-explore-new-therapies-for-bone-loss/">Mayo Clinic research set to launch aboard NASA mission to International Space Station to explore new therapies for bone loss</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-1024x576.jpg" alt="" class="wp-image-404368" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-1024x576.jpg" alt="" class="wp-image-404368" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-Dr-Abba-Zubair-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
-<p>JACKSONVILLE, Fla. — Mayo Clinic's pioneering exploration of stem cell-based therapies for bone loss is headed to space.&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/zubair-abba-c-m-d-ph-d/bio-20054536" target="_blank" rel="noreferrer noopener">Abba Zubair, M.D., Ph.D.</a>,&amp;nbsp;is medical director of Transfusion Medicine and Stem Cell Therapy at&amp;nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a>.</p>
+<p>JACKSONVILLE, Fla. — Mayo Clinic's pioneering exploration of stem cell-based therapies for bone loss is headed to space.&nbsp;<a href="https://www.mayoclinic.org/biographies/zubair-abba-c-m-d-ph-d/bio-20054536" target="_blank" rel="noreferrer noopener">Abba Zubair, M.D., Ph.D.</a>,&nbsp;is medical director of Transfusion Medicine and Stem Cell Therapy at&nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a>.</p>
 
 
 
-<p>He is leading research exploring how bone-forming stem cells behave in microgravity in hopes of developing novel treatments for diseases that cause bone loss, including&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/osteoporosis/symptoms-causes/syc-20351968" target="_blank" rel="noreferrer noopener">osteoporosis</a>.&amp;nbsp;</p>
+<p>He is leading research exploring how bone-forming stem cells behave in microgravity in hopes of developing novel treatments for diseases that cause bone loss, including&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/osteoporosis/symptoms-causes/syc-20351968" target="_blank" rel="noreferrer noopener">osteoporosis</a>.&nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="798" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-1024x798.png" alt="" class="wp-image-405654" style="width:606px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-1024x798.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-300x234.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-768x599.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-1536x1197.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM.png 1742w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="798" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-1024x798.png" alt="" class="wp-image-405654" style="width:606px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-1024x798.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-300x234.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-768x599.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM-1536x1197.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Screenshot-2025-08-21-at-4.06.18-PM.png 1742w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
 
 
-<p>Dr. Zubair's&amp;nbsp;<a href="https://science.nasa.gov/biological-physical/investigations/microgravity-associated-bone-loss-b-mabl-b/" target="_blank" rel="noreferrer noopener">research</a>&amp;nbsp;is one of several science experiments selected by&amp;nbsp;NASA as part of the 33rd SpaceX Commercial Resupply Mission to the International Space Station. </p>
+<p>Dr. Zubair's&nbsp;<a href="https://science.nasa.gov/biological-physical/investigations/microgravity-associated-bone-loss-b-mabl-b/" target="_blank" rel="noreferrer noopener">research</a>&nbsp;is one of several science experiments selected by&nbsp;NASA as part of the 33rd SpaceX Commercial Resupply Mission to the International Space Station. </p>
 
 
 
-<p>The SpaceX Dragon spacecraft on a Falcon 9 rocket is targeted for&amp;nbsp;2:45 a.m. EDT, Sunday, Aug. 24, from Cape Canaveral Space Force Station in Florida.</p>
+<p>The SpaceX Dragon spacecraft on a Falcon 9 rocket is targeted for&nbsp;2:45 a.m. EDT, Sunday, Aug. 24, from Cape Canaveral Space Force Station in Florida.</p>
 
 
 
@@ -299,8 +291,8 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element" style="grid-template-columns:58% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-1024x1024.jpg" alt="" class="wp-image-404371 size-full" style="object-position:50% 50%" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-white-color has-mc-blue-background-color has-text-color has-background has-link-color has-medium-font-size wp-elements-6fecdbfcf572e45ded61d5d0c676760e" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0">"This is going to be significant because it will help us better understand the mechanisms of bone loss during vital times such as in menopausal women or people who are bedridden for extended amounts of time."&amp;nbsp;</p>
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element" style="grid-template-columns:58% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-1024x1024.jpg" alt="" class="wp-image-404371 size-full" style="object-position:50% 50%" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-white-color has-mc-blue-background-color has-text-color has-background has-link-color has-medium-font-size wp-elements-6fecdbfcf572e45ded61d5d0c676760e" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0">"This is going to be significant because it will help us better understand the mechanisms of bone loss during vital times such as in menopausal women or people who are bedridden for extended amounts of time."&nbsp;</p>
 </div></div>
 
 
@@ -317,7 +309,7 @@
 
 
 
-<p>Dr. Zubair's team has identified a protein in the body called IL-6 that can send signals to stem cells to promote bone formation or bone loss. Dr. Zubair's research will investigate whether a new compound can block IL-6 signals and reduce bone loss while in space.&amp;nbsp;</p>
+<p>Dr. Zubair's team has identified a protein in the body called IL-6 that can send signals to stem cells to promote bone formation or bone loss. Dr. Zubair's research will investigate whether a new compound can block IL-6 signals and reduce bone loss while in space.&nbsp;</p>
 
 
 
@@ -325,7 +317,7 @@
 
 
 
-<p>For more than 20 years, Dr. Zubair has led the Stem Cell Laboratory on Mayo Clinic's Florida campus, developing safe, clinical-grade cell therapy products.&amp;nbsp;His broader research focus aims to harness stem cells&amp;nbsp;to treat degenerative diseases and engineer immune cells to enhance therapeutic outcomes and meet regulatory standards.&amp;nbsp;</p>
+<p>For more than 20 years, Dr. Zubair has led the Stem Cell Laboratory on Mayo Clinic's Florida campus, developing safe, clinical-grade cell therapy products.&nbsp;His broader research focus aims to harness stem cells&nbsp;to treat degenerative diseases and engineer immune cells to enhance therapeutic outcomes and meet regulatory standards.&nbsp;</p>
 
 
 
@@ -337,7 +329,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-1024x1024.jpg" alt="Dr. Abba Zubair holding a certificate while standing next to an astronaut model." class="wp-image-367791" style="width:598px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1.jpg 1264w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-1024x1024.jpg" alt="Dr. Abba Zubair holding a certificate while standing next to an astronaut model." class="wp-image-367791" style="width:598px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Zubair-NASA-Award-May-20231x1-1.jpg 1264w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
 
 
 <p><a href="https://www.youtube.com/watch?v=g5khrXRfTrk" target="_blank" rel="noreferrer noopener">From an early age in Nigeria</a>, Dr. Zubair was captivated by space, spending countless hours gazing at the night sky and dreaming of becoming an astronaut. His work as a physician-scientist conducting research in space to improve humanity allows him the best of both worlds.</p>
@@ -352,7 +344,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;&amp;nbsp;</p>
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;&nbsp;</p>
 
 
 
@@ -361,16 +353,16 @@
 
 
 <ul class="wp-block-list">
-<li>Tia Ford, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Tia Ford, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 
 
 
-<li>Marty Velasco Hames, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Marty Velasco Hames, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity">
 
 
 
@@ -404,27 +396,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-Dr-Zubair.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/02/NASA-astronaut-working-on-Dr.-Zubairs-stem-cell-research-on-space-station-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[bone density]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Discovery Science]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Abba Zubair]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Marty Velasco Hames]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[NASA]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[osteoporosis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[regenerative biotherapeutics]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[regenerative cell therapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Space medicine]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[stem cell]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[bone density]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Discovery Science]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Abba Zubair]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Marty Velasco Hames]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[NASA]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[osteoporosis]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[regenerative biotherapeutics]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[regenerative cell therapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Space medicine]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[stem cell]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers discover &amp;#8216;hidden pocket&amp;#8217; in cancer-promoting enzyme</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/</link>
+		<title>Mayo Clinic researchers discover ‘hidden pocket’ in cancer-promoting enzyme</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/
 		
-		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Evette Radisky]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405573</guid>
+		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
+		<pubdate>Thu, 21 Aug 2025 11:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Evette Radisky]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405573</guid>
 
-					<description><![CDATA[<p>For years, cancer researchers have been trying to halt a type of molecule that's involved in several cancers. The molecules — enzymes known as trypsins — split proteins that help tumors grow and spread. Mayo Clinic cancer biologist Evette Radisky, Ph.D., previously found that one trypsin, called mesotrypsin, plays a role in breast, prostate, pancreatic [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover &amp;#8216;hidden pocket&amp;#8217; in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->For years, cancer researchers have been trying to halt a type of molecule that's involved in several cancers. The molecules — enzymes known as trypsins — split proteins that help tumors grow and spread. Mayo Clinic cancer biologist Evette Radisky, Ph.D., previously found that one trypsin, called mesotrypsin, plays a role in breast, prostate, pancreatic […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover ‘hidden pocket’ in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png" alt="A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state." class="wp-image-405583" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-300x158.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-768x404.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1536x807.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket.png 1640w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state.</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="538" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png" alt="A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state." class="wp-image-405583" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-300x158.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-768x404.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1536x807.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket.png 1640w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state.</figcaption>
 
 
 
@@ -432,7 +424,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="450" height="600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg" alt="Portrait of Dr. Evette Radisky" class="wp-image-405578" style="width:270px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg 450w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_-225x300.jpg 225w" sizes="auto, (max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">Evette Radisky, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="450" height="600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg" alt="Portrait of Dr. Evette Radisky" class="wp-image-405578" style="width:270px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg 450w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_-225x300.jpg 225w" sizes="auto, (max-width: 450px) 100vw, 450px"><figcaption class="wp-element-caption">Evette Radisky, Ph.D.</figcaption></figure></div>
 
 
 <p>Mayo Clinic cancer biologist <a href="https://www.mayo.edu/research/faculty/radisky-evette-s-ph-d/bio-00094471" target="_blank" rel="noreferrer noopener">Evette Radisky, Ph.D.</a>, previously found that one trypsin, called mesotrypsin, plays a role in breast, prostate, pancreatic and lung cancer. Like other enzymes, the molecule has an active site that kicks off reactions with other molecules. Researchers have tried to block the active site but haven’t found a molecule with a specific enough lock-and-key fit to jam the active region.</p>
@@ -451,7 +443,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg" alt="" class="wp-image-405580" style="width:276px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px" /><figcaption class="wp-element-caption">Mathew Coban</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg" alt="" class="wp-image-405580" style="width:276px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px"><figcaption class="wp-element-caption">Mathew Coban</figcaption></figure></div>
 
 
 <p>"It was a serendipitous finding," says the study’s lead author, Mathew Coban, of the pocket's discovery. As a research technologist in the Radisky lab and a master's degree student at <a href="https://college.mayo.edu/academics/biomedical-research-training/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a>, Coban had aimed to understand the structure of mesotrypsin through X-ray crystallography.</p>
@@ -478,7 +470,7 @@
 
 
 
-<p>Importantly, the researchers note, the molecule blocks mesotrypsin selectively, without affecting other trypsins. This could mean less toxicity or fewer side effects for a patient. The finding also means that other cryptic pockets may exist in other trypsin molecules related to cancer, presenting new potential drug targets. &amp;nbsp;</p>
+<p>Importantly, the researchers note, the molecule blocks mesotrypsin selectively, without affecting other trypsins. This could mean less toxicity or fewer side effects for a patient. The finding also means that other cryptic pockets may exist in other trypsin molecules related to cancer, presenting new potential drug targets. &nbsp;</p>
 
 
 
@@ -490,47 +482,47 @@
 
 
 
-<p><em>The study was funded by grants from the National Institutes of Health, Mayo Clinic Medical Scientist Training Program and Department of Energy Office of Science User Facility. &amp;nbsp;The authors declare that they have no competing interests.</em></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover &amp;#8216;hidden pocket&amp;#8217; in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p><em>The study was funded by grants from the National Institutes of Health, Mayo Clinic Medical Scientist Training Program and Department of Energy Office of Science User Facility. &nbsp;The authors declare that they have no competing interests.</em></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover ‘hidden pocket’ in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Evette Radisky]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Evette Radisky]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic smartwatch study reveals new path to boosting physician well-being</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-smartwatch-study-reveals-new-path-to-boosting-physician-well-being/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-smartwatch-study-reveals-new-path-to-boosting-physician-well-being/
 		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Mon, 18 Aug 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Clinical Trials]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Arjun Athreya]]></category>
-		<category><![CDATA[Dr. Colin West]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405367</guid>
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Mon, 18 Aug 2025 14:30:00 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Clinical Trials]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Arjun Athreya]]--></category>
+		<category><!--[CDATA[Dr. Colin West]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405367</guid>
 
-					<description><![CDATA[<p>While doctors are often focused on monitoring the health and vital signs of others, a new study had some tuning in to their own health and vital statistics as well. The results suggest that doing so may offer doctors real benefits to their own well-being, in a scalable way.&amp;#160; Physicians who wore a smartwatch and [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->While doctors are often focused on monitoring the health and vital signs of others, a new study had some tuning in to their own health and vital statistics as well. The results suggest that doing so may offer doctors real benefits to their own well-being, in a scalable way.&nbsp; Physicians who wore a smartwatch and […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-smartwatch-study-reveals-new-path-to-boosting-physician-well-being/">Mayo Clinic smartwatch study reveals new path to boosting physician well-being</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-1024x576.png" alt="" class="wp-image-405368" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-1024x576.png" alt="" class="wp-image-405368" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p>While doctors are often focused on monitoring the health and vital signs of others, a new study had some tuning in to their own health and vital statistics as well. The results suggest that doing so may offer doctors real benefits to their own well-being, in a scalable way.&amp;nbsp;</p>
+<p>While doctors are often focused on monitoring the health and vital signs of others, a new study had some tuning in to their own health and vital statistics as well. The results suggest that doing so may offer doctors real benefits to their own well-being, in a scalable way.&nbsp;</p>
 
 
 
-<p>Physicians who wore a smartwatch and had access to their personal health data — including information on their heart rate, sleep, breathing patterns and physical activity — reported greater resilience and 54% saw a reduction in the overall odds of burnout compared to those who did not receive a study smartwatch, according to new research <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837666?resultClick=3">published</a>&amp;nbsp;in JAMA Network Open. Mayo Clinic investigators conducted the study in collaboration with the University of Colorado School of Medicine.</p>
+<p>Physicians who wore a smartwatch and had access to their personal health data — including information on their heart rate, sleep, breathing patterns and physical activity — reported greater resilience and 54% saw a reduction in the overall odds of burnout compared to those who did not receive a study smartwatch, according to new research <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837666?resultClick=3">published</a>&nbsp;in JAMA Network Open. Mayo Clinic investigators conducted the study in collaboration with the University of Colorado School of Medicine.</p>
 
 
 
@@ -540,13 +532,13 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-pullquote" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><blockquote><p>"Advancing care starts with caring for those who deliver it. We're shaping a future where the well-being of our workforce is integral to the care we deliver."&amp;nbsp;&amp;nbsp;&amp;nbsp;- Colin West, M.D., Ph.D., Medical Director of Employee Well-Being at Mayo Clinic</p></blockquote></figure>
+<figure class="wp-block-pullquote" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><blockquote><p>"Advancing care starts with caring for those who deliver it. We're shaping a future where the well-being of our workforce is integral to the care we deliver."&nbsp;&nbsp;&nbsp;- Colin West, M.D., Ph.D., Medical Director of Employee Well-Being at Mayo Clinic</p></blockquote></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-819x1024.jpg" alt="" class="wp-image-405407" style="width:232px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-1228x1536.jpg 1228w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Dr. Colin West</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-819x1024.jpg" alt="" class="wp-image-405407" style="width:232px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-1228x1536.jpg 1228w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/2West-Colin-P._13516388_20240806-1-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Dr. Colin West</figcaption></figure>
 </div>
 </div>
 
@@ -556,15 +548,15 @@
 
 
 
-<p>Physician well-being is essential not only to personal health, but also to the quality of care patients receive. It's tied to job performance, patient safety, access to care and workforce sustainability.&amp;nbsp;&amp;nbsp;</p>
+<p>Physician well-being is essential not only to personal health, but also to the quality of care patients receive. It's tied to job performance, patient safety, access to care and workforce sustainability.&nbsp;&nbsp;</p>
 
 
 
-<p>That’s why Mayo Clinic and others are prioritizing strategies to strengthen and sustain the well-being of healthcare professionals.&amp;nbsp;</p>
+<p>That’s why Mayo Clinic and others are prioritizing strategies to strengthen and sustain the well-being of healthcare professionals.&nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>How the smartwatch trial was designed and conducted</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>How the smartwatch trial was designed and conducted</strong>&nbsp;</h2>
 
 
 
@@ -576,11 +568,11 @@
 
 
 
-<p>Physicians in both study groups wore the device more than 70% of the time during the trial. Participants also completed validated well-being surveys at the beginning and end of the study.&amp;nbsp;</p>
+<p>Physicians in both study groups wore the device more than 70% of the time during the trial. Participants also completed validated well-being surveys at the beginning and end of the study.&nbsp;</p>
 
 
 
-<p>Participants could view their health data through a mobile app but were not prompted to take specific actions in response to it. Researchers say even this passive approach may help support well-being.&amp;nbsp;&amp;nbsp;</p>
+<p>Participants could view their health data through a mobile app but were not prompted to take specific actions in response to it. Researchers say even this passive approach may help support well-being.&nbsp;&nbsp;</p>
 
 
 
@@ -588,22 +580,22 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-683x1024.jpg" alt="" class="wp-image-405402" style="width:197px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Arjun Athreya, Ph.D.</figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-683x1024.jpg" alt="" class="wp-image-405402" style="width:197px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/WF2583003_0174-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Arjun Athreya, Ph.D.</figcaption></figure></div>
 
 
-<p>The study was co-designed and led by <a href="https://www.mayo.edu/research/faculty/athreya-arjun-p-ph-d-m-s/bio-20473903" target="_blank" rel="noreferrer noopener">Arjun Athreya, Ph.D.</a>, an electrical and computer engineer in Mayo Clinic's Department of Molecular Pharmacology and Experimental Therapeutics; <a href="https://www.mayo.edu/research/faculty/west-colin-p-m-d-ph-d/bio-00027800" target="_blank" rel="noreferrer noopener">Colin West, M.D., Ph.D.</a>, medical director of Employee Well-Being at Mayo Clinic; and study Principal Investigator <a href="https://coloradosph.cuanschutz.edu/resources/directory/directory-profile/Dyrbye-Liselotte-UCD6004070757" target="_blank" rel="noreferrer noopener">Liselotte Dyrbye, M.D., M.H.P.E.</a>, senior associate dean for faculty and chief well-being officer at the University of Colorado School of Medicine.&amp;nbsp;&amp;nbsp;</p>
-
-
-
-<p>"We're entering an era where wearable technology, when paired with thoughtful design and artificial intelligence methods that use the data, could help personalize well-being strategies in clinical settings," Dr. Athreya says. "This study shows we can support healthcare professionals with passive monitoring digital technologies with innovative engagement strategies to provide potentially helpful data without adding burden to their day."&amp;nbsp;&amp;nbsp;</p>
+<p>The study was co-designed and led by <a href="https://www.mayo.edu/research/faculty/athreya-arjun-p-ph-d-m-s/bio-20473903" target="_blank" rel="noreferrer noopener">Arjun Athreya, Ph.D.</a>, an electrical and computer engineer in Mayo Clinic's Department of Molecular Pharmacology and Experimental Therapeutics; <a href="https://www.mayo.edu/research/faculty/west-colin-p-m-d-ph-d/bio-00027800" target="_blank" rel="noreferrer noopener">Colin West, M.D., Ph.D.</a>, medical director of Employee Well-Being at Mayo Clinic; and study Principal Investigator <a href="https://coloradosph.cuanschutz.edu/resources/directory/directory-profile/Dyrbye-Liselotte-UCD6004070757" target="_blank" rel="noreferrer noopener">Liselotte Dyrbye, M.D., M.H.P.E.</a>, senior associate dean for faculty and chief well-being officer at the University of Colorado School of Medicine.&nbsp;&nbsp;</p>
 
 
 
-<p>The researchers say this approach can offer timely support as part of a broader physician well-being strategy.&amp;nbsp;</p>
+<p>"We're entering an era where wearable technology, when paired with thoughtful design and artificial intelligence methods that use the data, could help personalize well-being strategies in clinical settings," Dr. Athreya says. "This study shows we can support healthcare professionals with passive monitoring digital technologies with innovative engagement strategies to provide potentially helpful data without adding burden to their day."&nbsp;&nbsp;</p>
 
 
 
-<p>"While this is an individually focused intervention, it offers an evidence-based way to support physicians in the short term, complementing longer-term efforts aimed at addressing systemic contributors to physician stress," says Dr. Dyrbye.&amp;nbsp;</p>
+<p>The researchers say this approach can offer timely support as part of a broader physician well-being strategy.&nbsp;</p>
+
+
+
+<p>"While this is an individually focused intervention, it offers an evidence-based way to support physicians in the short term, complementing longer-term efforts aimed at addressing systemic contributors to physician stress," says Dr. Dyrbye.&nbsp;</p>
 
 
 
@@ -615,11 +607,11 @@
 
 
 
-<p>"Advancing care starts with caring for those who deliver it," says Dr. West. "We’re shaping a future where the well-being of our workforce is integral to the care we deliver."&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+<p>"Advancing care starts with caring for those who deliver it," says Dr. West. "We’re shaping a future where the well-being of our workforce is integral to the care we deliver."&nbsp;&nbsp;&nbsp;</p>
 
 
 
-<p>The Physicians Foundation, Mayo Clinic's Center for Individualized Medicine, and the University of Colorado School of Medicine partly funded the study. Review the <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837666?resultClick=3">study</a> for a complete list of authors, disclosures and funding details.&amp;nbsp;</p>
+<p>The Physicians Foundation, Mayo Clinic's Center for Individualized Medicine, and the University of Colorado School of Medicine partly funded the study. Review the <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837666?resultClick=3">study</a> for a complete list of authors, disclosures and funding details.&nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-smartwatch-study-reveals-new-path-to-boosting-physician-well-being/">Mayo Clinic smartwatch study reveals new path to boosting physician well-being</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -627,31 +619,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/1x1SMARTWATCH.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/16X9-SMARTWATCH.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Arjun Athreya]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Colin West]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Arjun Athreya]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Colin West]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers discover the immune system&amp;#8217;s &amp;#8216;fountain of youth&amp;#8217;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/</link>
+		<title>Mayo Clinic researchers discover the immune system’s ‘fountain of youth’</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/
 		
-		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
-		<pubDate>Thu, 14 Aug 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Aging]]></category>
-		<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Cornelia Weyand]]></category>
-		<category><![CDATA[Dr. Jorge Goronzy]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405382</guid>
+		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
+		<pubdate>Thu, 14 Aug 2025 15:00:00 +0000</pubdate>
+				<category><!--[CDATA[Aging]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Cornelia Weyand]]--></category>
+		<category><!--[CDATA[Dr. Jorge Goronzy]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405382</guid>
 
-					<description><![CDATA[<p>Researchers found a link between "immune youth," a new term coined by Mayo researchers, and autoimmune disease.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/">Mayo Clinic researchers discover the immune system&amp;#8217;s &amp;#8216;fountain of youth&amp;#8217;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Researchers found a link between "immune youth," a new term coined by Mayo researchers, and autoimmune disease.<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/">Mayo Clinic researchers discover the immune system’s ‘fountain of youth’</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg" alt="Immunofluorescent image of immune cells in tissues affected by giant cell arteritis." class="wp-image-405384" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Immunofluorescent image of immune cells in tissues affected by autoimmune disease, giant cell arteritis. </figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg" alt="Immunofluorescent image of immune cells in tissues affected by giant cell arteritis." class="wp-image-405384" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Immunofluorescent image of immune cells in tissues affected by autoimmune disease, giant cell arteritis. </figcaption>
 
 
 
@@ -659,7 +651,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-683x1024.jpg" alt="Mayo Clinic researcher Dr. Cornelia Weyand" class="wp-image-405388" style="width:217px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045.jpg 1326w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Cornelia Weyand, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-683x1024.jpg" alt="Mayo Clinic researcher Dr. Cornelia Weyand" class="wp-image-405388" style="width:217px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Weyand-Cornelia-WF5028434_0045.jpg 1326w" sizes="auto, (max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Cornelia Weyand, M.D., Ph.D.</figcaption></figure></div>
 
 
 <p>"We are studying why some individuals have a 'fountain of youth' in their immune systems. We want to learn from them," says <a href="https://www.mayo.edu/research/faculty/weyand-cornelia-m-m-d-ph-d/bio-20527870" target="_blank" rel="noreferrer noopener">Cornelia Weyand, M.D., Ph.D.</a>, a Mayo Clinic rheumatologist and clinician-scientist. She is a lead author on a perspective paper published in <a href="https://www.nature.com/articles/s43587-025-00919-w" target="_blank" rel="noreferrer noopener">Nature Aging</a>.</p>
@@ -706,7 +698,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -717,41 +709,41 @@
 <ul class="wp-block-list">
 <li>Alison Satake, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/">Mayo Clinic researchers discover the immune system&amp;#8217;s &amp;#8216;fountain of youth&amp;#8217;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/">Mayo Clinic researchers discover the immune system’s ‘fountain of youth’</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Cornelia Weyand]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jorge Goronzy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Cornelia Weyand]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jorge Goronzy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mitochondrial dysfunction linked to Alzheimer&amp;#8217;s onset and treatment response</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/</link>
+		<title>Mitochondrial dysfunction linked to Alzheimer’s onset and treatment response</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/
 		
-		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Eugenia Trushina]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405308</guid>
+		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
+		<pubdate>Tue, 05 Aug 2025 11:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Eugenia Trushina]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405308</guid>
 
-					<description><![CDATA[<p>Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal Alzheimer's &amp;#38; Dementia, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer&amp;#8217;s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal Alzheimer's &amp; Dementia, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer’s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="399" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg" alt="" class="wp-image-405319" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-300x117.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-768x300.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Image courtesy National Science Foundation Public Access Repository (public domain)</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="399" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg" alt="" class="wp-image-405319" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-1024x399.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-300x117.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f-768x300.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Image courtesy National Science Foundation Public Access Repository (public domain)</figcaption>
 
 
 
-<p>Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal <a href="http://dx.doi.org/10.1002/alz.70519" target="_blank" rel="noreferrer noopener">Alzheimer's &amp;amp; Dementia</a>, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a contributor to disease progression and a promising target for new treatments.</p>
+<p>Changes in how brain cells generate energy may drive the development of Alzheimer's disease and influence how patients respond to therapy, according to a new study from Mayo Clinic researchers. The findings, published in the journal <a href="http://dx.doi.org/10.1002/alz.70519" target="_blank" rel="noreferrer noopener">Alzheimer's &amp; Dementia</a>, spotlight mitochondrial complex I — a critical component of cellular energy production — as both a contributor to disease progression and a promising target for new treatments.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg" alt="portrait of Dr. Eugenia Trushina" class="wp-image-405313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050.jpg 1250w" sizes="auto, (max-width: 250px) 100vw, 250px" /><figcaption class="wp-element-caption">Eugenia Trushina, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="250" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg" alt="portrait of Dr. Eugenia Trushina" class="wp-image-405313" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Trushina_Eugenia_12414824_202104061050.jpg 1250w" sizes="auto, (max-width: 250px) 100vw, 250px"><figcaption class="wp-element-caption">Eugenia Trushina, Ph.D.</figcaption></figure></div>
 
 
 <p>Led by senior author <a href="https://www.mayo.edu/research/faculty/trushina-eugenia-ph-d/bio-00027310" target="_blank" rel="noreferrer noopener">Eugenia Trushina, Ph.D.</a>, the Mayo Clinic team found that disruptions in complex I activity can trigger gene expression patterns commonly observed in Alzheimer's disease. The researchers demonstrated that using small molecules to gently adjust how complex I functions can help activate protective mechanisms in brain cells.</p>
@@ -783,39 +775,39 @@
 
 
 <p>The research is part of a larger effort at Mayo Clinic called the Precure initiative, focused on developing tools that empower clinicians to predict and intercept biological processes before they evolve into disease or progress into complex, hard-to-treat conditions. In the future, the team plans to further investigate the safety and effectiveness of complex I modulators in preclinical models, with the goal of advancing into clinical trials.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer&amp;#8217;s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mitochondrial-dysfunction-linked-to-alzheimers-onset-and-treatment-response/">Mitochondrial dysfunction linked to Alzheimer’s onset and treatment response</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/neurons_alzheimers_f_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eugenia Trushina]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eugenia Trushina]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers find &amp;#8216;sugar coating&amp;#8217; cells can protect those typically destroyed in type 1 diabetes</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/</link>
+		<title>Mayo Clinic researchers find ‘sugar coating’ cells can protect those typically destroyed in type 1 diabetes</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/
 		
-		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Education]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Rochester]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Virginia Shapiro]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405167</guid>
+		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
+		<pubdate>Fri, 01 Aug 2025 16:01:00 +0000</pubdate>
+				<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Education]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Rochester]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Virginia Shapiro]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405167</guid>
 
-					<description><![CDATA[<p>Mayo Clinic researchers found that a sugar molecule on cancer cells may eventually be useful in the treatment of type 1 diabetes.</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find &amp;#8216;sugar coating&amp;#8217; cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->Mayo Clinic researchers found that a sugar molecule on cancer cells may eventually be useful in the treatment of type 1 diabetes.<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find ‘sugar coating’ cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-style-center-align-caption"><img loading="lazy" decoding="async" width="912" height="513" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg" alt="An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes." class="wp-image-405241" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg 912w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-768x432.jpg 768w" sizes="auto, (max-width: 912px) 100vw, 912px" /><figcaption class="wp-element-caption">An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes.
- </figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full is-style-center-align-caption"--><img loading="lazy" decoding="async" width="912" height="513" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg" alt="An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes." class="wp-image-405241" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg 912w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-768x432.jpg 768w" sizes="auto, (max-width: 912px) 100vw, 912px"><figcaption class="wp-element-caption">An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes.
+ </figcaption>
 
 
 
@@ -831,14 +823,14 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="800" height="534" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg" alt="" class="wp-image-405173" style="width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Virginia Shapiro, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="800" height="534" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg" alt="" class="wp-image-405173" style="width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/VirginiaShapiropreferredportrait-002-768x513.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"><figcaption class="wp-element-caption">Virginia Shapiro, Ph.D.</figcaption></figure></div>
 
 
 <p>"Our findings show that it's possible to engineer beta cells that do not prompt an immune response," says immunology researcher <a href="https://www.mayo.edu/research/faculty/shapiro-virginia-m-ph-d/bio-00097048" target="_blank" rel="noreferrer noopener">Virginia Shapiro, Ph.D.</a>, principal investigator of the <a href="https://www.jci.org/articles/view/181207" target="_blank" rel="noreferrer noopener">study</a>, published&nbsp;in the Journal of Clinical Investigation.</p>
 
 
 
-<p>A few years ago, Dr. Shapiro's team demonstrated that an enzyme, known as ST8Sia6, that increases sialic acid on the surface of tumor cells helps tumor cells appear as though they are not foreign entities to be targeted by the immune system. &amp;nbsp;</p>
+<p>A few years ago, Dr. Shapiro's team demonstrated that an enzyme, known as ST8Sia6, that increases sialic acid on the surface of tumor cells helps tumor cells appear as though they are not foreign entities to be targeted by the immune system. &nbsp;</p>
 
 
 
@@ -854,7 +846,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg" alt="" class="wp-image-405177" style="width:282px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">Justin Choe</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg" alt="" class="wp-image-405177" style="width:282px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Choe-Justin-J._20714963_20220614-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px"><figcaption class="wp-element-caption">Justin Choe</figcaption></figure></div>
 
 
 <p>Importantly, the researchers also found the immune response to the engineered cells appears to be highly specific, says M.D.-Ph.D. student Justin Choe, first author of the publication. Choe conducted the study in the Ph.D. component of his dual degree at <a href="https://college.mayo.edu/academics/biomedical-research-training/medical-scientist-training-program-md-phd/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a> and <a href="https://college.mayo.edu/academics/mayo-clinic-alix-school-of-medicine/" target="_blank" rel="noreferrer noopener">Mayo Clinic Alix School of Medicine</a>.</p>
@@ -885,7 +877,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -894,47 +886,47 @@
 
 
 <ul class="wp-block-list">
-<li>Kelley Luckstein, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Kelley Luckstein, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
 
 
 
 <p><a id="_msocom_1"></a></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find &amp;#8216;sugar coating&amp;#8217; cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/">Mayo Clinic researchers find ‘sugar coating’ cells can protect those typically destroyed in type 1 diabetes</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Virginia Shapiro]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Virginia Shapiro]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic treats first person in the US with a novel radiopharmaceutical therapy for breast cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-treats-first-person-in-the-us-with-a-novel-radiopharmaceutical-therapy-for-breast-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-treats-first-person-in-the-us-with-a-novel-radiopharmaceutical-therapy-for-breast-cancer/
 		
-		<dc:creator><![CDATA[brittanycordeiro]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Clinical Trials]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Geoffrey Johnson]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405289</guid>
+		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
+		<pubdate>Fri, 01 Aug 2025 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Clinical Trials]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Geoffrey Johnson]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405289</guid>
 
-					<description><![CDATA[<p>Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &amp;#160; ROCHESTER, Minn. — Mayo Clinic has treated the first person in the U.S. using a novel radioactive medicine for advanced breast cancer as part of an international multisite clinical trial. The medicine used in this clinical [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &nbsp; ROCHESTER, Minn. — Mayo Clinic has treated the first person in the U.S. using a novel radioactive medicine for advanced breast cancer as part of an international multisite clinical trial. The medicine used in this clinical […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-treats-first-person-in-the-us-with-a-novel-radiopharmaceutical-therapy-for-breast-cancer/">Mayo Clinic treats first person in the US with a novel radiopharmaceutical therapy for breast cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg" alt="A gloved hand adjusts the roller clamp on an intravenous (IV) drip line" class="wp-image-405287" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg" alt="A gloved hand adjusts the roller clamp on an intravenous (IV) drip line" class="wp-image-405287" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p><em>Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &amp;nbsp;</em></p>
+<p><em>Researchers are leading the nation in using powerful and precise radioactive drugs to treat people with complex cancers. &nbsp;</em></p>
 
 
 
@@ -950,7 +942,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg" alt="Portrait of Dr. Geoffrey Johnson in the Gonda Lobby" class="wp-image-405283" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168.jpg 1687w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption"><sup>Geoffrey Johnson, M.D., Ph.D.</sup></figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg" alt="Portrait of Dr. Geoffrey Johnson in the Gonda Lobby" class="wp-image-405283" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Geoffrey-Johnson_WF4197801_0168.jpg 1687w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption"><sup>Geoffrey Johnson, M.D., Ph.D.</sup></figcaption></figure></div>
 
 
 <p>The principal investigator at Mayo Clinic is <a href="https://www.mayoclinic.org/biographies/johnson-geoffrey-b-m-d-ph-d/bio-20055408" target="_blank" rel="noreferrer noopener">Geoffrey Johnson, M.D., Ph.D.</a>, a professor of radiology and a leader in radiopharmaceutical therapies. He says these are innovative cancer treatments that use radioactive medicines designed to target and kill cancer cells with high precision.</p>
@@ -995,7 +987,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -1013,31 +1005,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/A-gloved-hand-adjusts-the-roller-clamp-on-an-intravenous-IV-drip-line_WF4516501_0244_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Geoffrey Johnson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Geoffrey Johnson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic AI tool finds early signs of blood mutations linked to cancer&nbsp;and heart disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/
 		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Eric Klee]]></category>
-		<category><![CDATA[Dr. Shulan Tian]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=403209</guid>
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Wed, 30 Jul 2025 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Eric Klee]]--></category>
+		<category><!--[CDATA[Dr. Shulan Tian]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=403209</guid>
 
-					<description><![CDATA[<p>(Video animation shows blood stem cells dividing and multiplying. Getty Images). Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&amp;#160; To better understand this hidden risk, Mayo Clinic researchers have [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->(Video animation shows blood stem cells dividing and multiplying. Getty Images). Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&nbsp; To better understand this hidden risk, Mayo Clinic researchers have […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-tool-finds-early-signs-of-blood-mutations-linked-to-cancer-and-heart-disease/">Mayo Clinic AI tool finds early signs of blood mutations linked to cancer&nbsp;and heart disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-video"><video autoplay controls loop muted src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-1757724395.mp4" playsinline></video></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-video"--><video autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-1757724395.mp4" playsinline=""></video>
 
 
 
@@ -1049,7 +1041,7 @@
 
 
 
-<p>Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&amp;nbsp;</p>
+<p>Deep inside the body, a slow-growing cluster of mutated blood cells can form. This cluster, found in 1 in 5 older adults, can raise the risk of leukemia and heart disease, often without warning.&nbsp;</p>
 
 
 
@@ -1057,7 +1049,7 @@
 
 
 
-<p>In a study <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Facademic.oup.com%2Fgpb%2Fadvance-article%2Fdoi%2F10.1093%2Fgpbjnl%2Fqzaf040%2F8121950&amp;amp;data=05%7C02%7CMurphy.Susan%40mayo.edu%7C05f57239f813422ca87008ddc97a7be3%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638888250101337358%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=EEqrric0Eslg1ajqpP60TW69EXgCPyIzcLJp5GRxa4Q%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">published</a> in Genomics, Proteomics &amp;amp; Bioinformatics, the tool showed promising results in identifying early signs of this condition, known as <a href="https://www.mayoclinic.org/medical-professionals/cancer/news/clonal-hematopoiesis-clinic-stratifies-risk-for-patients-with-cancer/mac-20543180" target="_blank" rel="noreferrer noopener">clonal hematopoiesis of indeterminate potential</a>, or CHIP.</p>
+<p>In a study <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Facademic.oup.com%2Fgpb%2Fadvance-article%2Fdoi%2F10.1093%2Fgpbjnl%2Fqzaf040%2F8121950&amp;data=05%7C02%7CMurphy.Susan%40mayo.edu%7C05f57239f813422ca87008ddc97a7be3%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638888250101337358%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=EEqrric0Eslg1ajqpP60TW69EXgCPyIzcLJp5GRxa4Q%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">published</a> in Genomics, Proteomics &amp; Bioinformatics, the tool showed promising results in identifying early signs of this condition, known as <a href="https://www.mayoclinic.org/medical-professionals/cancer/news/clonal-hematopoiesis-clinic-stratifies-risk-for-patients-with-cancer/mac-20543180" target="_blank" rel="noreferrer noopener">clonal hematopoiesis of indeterminate potential</a>, or CHIP.</p>
 
 
 
@@ -1065,11 +1057,11 @@
 
 
 
-<p>CHIP starts in the bone marrow, where blood stem cells make the cells that keep organs working, oxygen flowing and the immune system strong. But if one of those cells acquires a mutation in a gene linked to blood cancer, it can multiply abnormally, forming a cluster of mutated cells that gradually expands.&amp;nbsp;</p>
+<p>CHIP starts in the bone marrow, where blood stem cells make the cells that keep organs working, oxygen flowing and the immune system strong. But if one of those cells acquires a mutation in a gene linked to blood cancer, it can multiply abnormally, forming a cluster of mutated cells that gradually expands.&nbsp;</p>
 
 
 
-<p>This can cause CHIP, a condition with no symptoms that researchers link to higher rates of death, especially from heart disease. Because its effects vary, CHIP is hard to track and often goes undetected for years.&amp;nbsp;</p>
+<p>This can cause CHIP, a condition with no symptoms that researchers link to higher rates of death, especially from heart disease. Because its effects vary, CHIP is hard to track and often goes undetected for years.&nbsp;</p>
 
 
 
@@ -1077,23 +1069,23 @@
 
 
 
-<h2 class="wp-block-heading"><strong>A new tool for early detection</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>A new tool for early detection</strong>&nbsp;</h2>
 
 
 
-<p>The new tool, called UNISOM — short for UNIfied SOmatic calling and Machine learning — was developed by <a href="https://www.mayo.edu/research/faculty/tian-shulan-ph-d-m-s/bio-20524328" target="_blank" rel="noreferrer noopener">Shulan Tian, Ph.D.</a>, under the leadership of <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.</a>, co-senior author of the study and the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation.&amp;nbsp;&amp;nbsp;</p>
+<p>The new tool, called UNISOM — short for UNIfied SOmatic calling and Machine learning — was developed by <a href="https://www.mayo.edu/research/faculty/tian-shulan-ph-d-m-s/bio-20524328" target="_blank" rel="noreferrer noopener">Shulan Tian, Ph.D.</a>, under the leadership of <a href="https://www.mayo.edu/research/faculty/klee-eric-w-ph-d/bio-00077293" target="_blank" rel="noreferrer noopener">Eric Klee, Ph.D.</a>, co-senior author of the study and the Everett J. and Jane M. Hauck Midwest Associate Director of Research and Innovation.&nbsp;&nbsp;</p>
 
 
 
-<p>UNISOM helps clinicians identify CHIP-related mutations in standard genetic datasets, opening new avenues for research and discovery. In the past, that level of detection required more complex and advanced sequencing methods.&amp;nbsp;</p>
+<p>UNISOM helps clinicians identify CHIP-related mutations in standard genetic datasets, opening new avenues for research and discovery. In the past, that level of detection required more complex and advanced sequencing methods.&nbsp;</p>
 
 
 
-<p>"Detecting disease at its earliest molecular roots is one of the most meaningful advances we can make in medicine," says Dr. Klee. "UNISOM is just one of many examples of how we're translating genomic science into innovative tools that support timely and informed care."&amp;nbsp;</p>
+<p>"Detecting disease at its earliest molecular roots is one of the most meaningful advances we can make in medicine," says Dr. Klee. "UNISOM is just one of many examples of how we're translating genomic science into innovative tools that support timely and informed care."&nbsp;</p>
 
 
 
-<p>UNISOM helped researchers detect nearly 80% of CHIP mutations using whole-exome sequencing, which analyzes the protein-coding regions of DNA.&amp;nbsp;&amp;nbsp;</p>
+<p>UNISOM helped researchers detect nearly 80% of CHIP mutations using whole-exome sequencing, which analyzes the protein-coding regions of DNA.&nbsp;&nbsp;</p>
 
 
 
@@ -1101,15 +1093,15 @@
 
 
 
-<p>"We're engineering a path from genomic discovery to clinical decision-making," says Dr. Tian, the co-senior author and a bioinformatician at Mayo Clinic. "It's rewarding to help bring these discoveries closer to clinical care, where they can inform decisions and support more precise treatment."&amp;nbsp;</p>
+<p>"We're engineering a path from genomic discovery to clinical decision-making," says Dr. Tian, the co-senior author and a bioinformatician at Mayo Clinic. "It's rewarding to help bring these discoveries closer to clinical care, where they can inform decisions and support more precise treatment."&nbsp;</p>
 
 
 
-<p>Next, the team plans to apply UNISOM to larger and more diverse datasets to support research and expand its use in clinical practice.&amp;nbsp;</p>
+<p>Next, the team plans to apply UNISOM to larger and more diverse datasets to support research and expand its use in clinical practice.&nbsp;</p>
 
 
 
-<p>Review the <a href="https://academic.oup.com/gpb/article/23/2/qzaf040/8121950" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+<p>Review the <a href="https://academic.oup.com/gpb/article/23/2/qzaf040/8121950" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&nbsp;&nbsp;&nbsp;</p>
 
 
 
@@ -1121,6 +1113,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-leukemia.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9leukemia.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eric Klee]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Shulan Tian]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eric Klee]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Shulan Tian]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
