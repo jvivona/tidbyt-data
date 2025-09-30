@@ -1,63 +1,55 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Cancer - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/cancer/
 	<description>News Resources</description>
-	<lastBuildDate>Mon, 29 Sep 2025 13:57:49 +0000</lastBuildDate>
+	<lastbuilddate>Mon, 29 Sep 2025 13:57:49 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>New study links genetic variation to chemotherapy-related liver damage in patients with colorectal cancer liver metastases</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-study-links-genetic-variation-to-chemotherapy-related-liver-damage-in-patients-with-colorectal-cancer-liver-metastases/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-study-links-genetic-variation-to-chemotherapy-related-liver-damage-in-patients-with-colorectal-cancer-liver-metastases/
 		
-		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
-		<pubDate>Mon, 29 Sep 2025 13:57:48 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Patrick Starlinger]]></category>
-		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=406472</guid>
+		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
+		<pubdate>Mon, 29 Sep 2025 13:57:48 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Patrick Starlinger]]--></category>
+		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=406472</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — A new international study led by&nbsp;Mayo Clinic&nbsp;researchers has identified a genetic factor that may explain why some patients with&nbsp;colorectal cancer&nbsp;that has spread to the liver experience more severe liver damage after chemotherapy. For patients with&amp;#160;colorectal liver metastases, surgery offers the best chance of long-term survival. To improve outcomes, many patients receive chemotherapy [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A new international study led by&nbsp;Mayo Clinic&nbsp;researchers has identified a genetic factor that may explain why some patients with&nbsp;colorectal cancer&nbsp;that has spread to the liver experience more severe liver damage after chemotherapy. For patients with&nbsp;colorectal liver metastases, surgery offers the best chance of long-term survival. To improve outcomes, many patients receive chemotherapy […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-study-links-genetic-variation-to-chemotherapy-related-liver-damage-in-patients-with-colorectal-cancer-liver-metastases/">New study links genetic variation to chemotherapy-related liver damage in patients with colorectal cancer liver metastases</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-1024x683.jpg" alt="" class="wp-image-406485" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-1024x683.jpg" alt="" class="wp-image-406485" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 <p>ROCHESTER, Minn. — A new international study led by&nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;researchers has identified a genetic factor that may explain why some patients with&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669" target="_blank" rel="noreferrer noopener">colorectal cancer</a>&nbsp;that has spread to the liver experience more severe liver damage after chemotherapy.</p>
 
 
 
-<p>For patients with&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/stage-4-colon-cancer/symptoms-causes/syc-20584697" target="_blank" rel="noreferrer noopener">colorectal liver metastases</a>, surgery offers the best chance of long-term survival. To improve outcomes, many patients receive chemotherapy before surgery. While this approach can shrink tumors to make them more operable, one potential side effect is injury to the liver. Until now, it hasn't been clear why certain patients' livers are more prone to chemotherapy-associated liver injury.</p>
+<p>For patients with&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/stage-4-colon-cancer/symptoms-causes/syc-20584697" target="_blank" rel="noreferrer noopener">colorectal liver metastases</a>, surgery offers the best chance of long-term survival. To improve outcomes, many patients receive chemotherapy before surgery. While this approach can shrink tumors to make them more operable, one potential side effect is injury to the liver. Until now, it hasn't been clear why certain patients' livers are more prone to chemotherapy-associated liver injury.</p>
 
 
 
-<p>"This is the first study to clearly show that a genetic predisposition plays a significant role in how the liver tolerates chemotherapy," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/starlinger-patrick-p-m-d-ph-d/bio-20533712" target="_blank" rel="noreferrer noopener">Patrick Starlinger, M.D., Ph.D.</a>, a&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&amp;nbsp;hepatobiliary and pancreas surgeon and senior author of the&amp;nbsp;<a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00372-X/fulltext" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;published in The Lancet eBioMedicine.</p>
+<p>"This is the first study to clearly show that a genetic predisposition plays a significant role in how the liver tolerates chemotherapy," says&nbsp;<a href="https://www.mayoclinic.org/biographies/starlinger-patrick-p-m-d-ph-d/bio-20533712" target="_blank" rel="noreferrer noopener">Patrick Starlinger, M.D., Ph.D.</a>, a&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&nbsp;hepatobiliary and pancreas surgeon and senior author of the&nbsp;<a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00372-X/fulltext" target="_blank" rel="noreferrer noopener">study</a>&nbsp;published in The Lancet eBioMedicine.</p>
 
 
 
-<p>In this study, the researchers reviewed 551 patients who had chemotherapy followed by surgery to remove the tumor. They looked at liver health tests to see how chemotherapy affected liver function and genetic markers that are already linked to liver disease in other settings.&amp;nbsp;</p>
+<p>In this study, the researchers reviewed 551 patients who had chemotherapy followed by surgery to remove the tumor. They looked at liver health tests to see how chemotherapy affected liver function and genetic markers that are already linked to liver disease in other settings.&nbsp;</p>
 
 
 
@@ -89,24 +81,24 @@
 
 
 
-<p>For a complete list of authors, disclosures and funding, review the&amp;nbsp;<a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00372-X/fulltext" target="_blank" rel="noreferrer noopener">study</a>.</p>
+<p>For a complete list of authors, disclosures and funding, review the&nbsp;<a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00372-X/fulltext" target="_blank" rel="noreferrer noopener">study</a>.</p>
 
 
 
-<p>###&amp;nbsp;</p>
+<p>###&nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.&amp;nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.&nbsp;</p>
 
 
 
-<p><strong>Media contact:&amp;nbsp;</strong></p>
+<p><strong>Media contact:&nbsp;</strong></p>
 
 
 
 <ul class="wp-block-list">
-<li>Chloe Corey, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
+<li>Chloe Corey, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-study-links-genetic-variation-to-chemotherapy-related-liver-damage-in-patients-with-colorectal-cancer-liver-metastases/">New study links genetic variation to chemotherapy-related liver damage in patients with colorectal cancer liver metastases</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -115,23 +107,23 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Liver-damage-illlustration-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Patrick Starlinger]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Patrick Starlinger]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic experts present key radiation oncology findings at ASTRO</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-present-key-radiation-oncology-findings-at-astro/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-present-key-radiation-oncology-findings-at-astro/
 		
-		<dc:creator><![CDATA[Jessica Saenz]]></dc:creator>
-		<pubDate>Fri, 26 Sep 2025 22:01:43 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=406510</guid>
+		<dc:creator><!--[CDATA[Jessica Saenz]]--></dc:creator>
+		<pubdate>Fri, 26 Sep 2025 22:01:43 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=406510</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic Comprehensive Cancer Center researchers will present their latest radiation oncology findings at the 2025 American Society for Radiation Oncology (ASTRO) Annual Meeting, scheduled to be held Sept. 27–Oct. 1 at the Moscone Center in San Francisco. The ASTRO Annual Meeting is recognized as the largest radiation oncology gathering in the [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic Comprehensive Cancer Center researchers will present their latest radiation oncology findings at the 2025 American Society for Radiation Oncology (ASTRO) Annual Meeting, scheduled to be held Sept. 27–Oct. 1 at the Moscone Center in San Francisco. The ASTRO Annual Meeting is recognized as the largest radiation oncology gathering in the […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-present-key-radiation-oncology-findings-at-astro/">Mayo Clinic experts present key radiation oncology findings at ASTRO</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-1024x574.jpg" alt="" class="wp-image-406469" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-1024x574.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="574" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-1024x574.jpg" alt="" class="wp-image-406469" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-1024x574.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -159,7 +151,7 @@
 
 
 
-<p><a href="https://amportal.astro.org/sessions/pqa-03-21637/csf-derived-cfdna-methylation-profiling-to-distinguish-true-progression-from-radiation-necros-107560" target="_blank" rel="noreferrer noopener"><strong>Poster Q&amp;amp;A:</strong></a><strong> </strong>2596 - CSF-Derived cfDNA Methylation Profiling to Distinguish True Progression from Radiation Necrosis and Pseudoprogression in GBM Patients<br><strong>Presentation time: </strong>Monday, Sept. 29, 8–9 a.m. PDT<br><strong>Session title: </strong>PQA 03 - Central Nervous System, Professional Development/Medical Education<br><strong>Description:</strong> This study evaluated whether a test measuring DNA in cerebrospinal fluid could serve as a useful companion to post-radiation imaging in glioblastoma. If effective, this test could help distinguish true tumor progression from treatment-related changes, guiding whether patients need a biopsy or can be safely monitored.<br><strong>PRESENTER: </strong><a href="https://www.mayo.edu/research/labs/liquid-biopsy-translational-immunogenomics/faculty-staff" target="_blank" rel="noreferrer noopener">Lili Greiner</a>, research assistant, Liquid Biopsy and Translational Immunogenomics Lab (senior author is Aadel Chaudhuri, M.D., Ph.D.)</p>
+<p><a href="https://amportal.astro.org/sessions/pqa-03-21637/csf-derived-cfdna-methylation-profiling-to-distinguish-true-progression-from-radiation-necros-107560" target="_blank" rel="noreferrer noopener"><strong>Poster Q&amp;A:</strong></a><strong> </strong>2596 - CSF-Derived cfDNA Methylation Profiling to Distinguish True Progression from Radiation Necrosis and Pseudoprogression in GBM Patients<br><strong>Presentation time: </strong>Monday, Sept. 29, 8–9 a.m. PDT<br><strong>Session title: </strong>PQA 03 - Central Nervous System, Professional Development/Medical Education<br><strong>Description:</strong> This study evaluated whether a test measuring DNA in cerebrospinal fluid could serve as a useful companion to post-radiation imaging in glioblastoma. If effective, this test could help distinguish true tumor progression from treatment-related changes, guiding whether patients need a biopsy or can be safely monitored.<br><strong>PRESENTER: </strong><a href="https://www.mayo.edu/research/labs/liquid-biopsy-translational-immunogenomics/faculty-staff" target="_blank" rel="noreferrer noopener">Lili Greiner</a>, research assistant, Liquid Biopsy and Translational Immunogenomics Lab (senior author is Aadel Chaudhuri, M.D., Ph.D.)</p>
 
 
 
@@ -197,39 +189,39 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/1647887_3909974_0017_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;#038;A:  Should I get screened for prostate cancer?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-should-i-get-screened-for-prostate-cancer/</link>
+		<title>Mayo Clinic Q&amp;A:  Should I get screened for prostate cancer?</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-should-i-get-screened-for-prostate-cancer/
 		
-		<dc:creator><![CDATA[pattymiller]]></dc:creator>
-		<pubDate>Fri, 26 Sep 2025 12:14:04 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Mohammed Solaiman]]></category>
-		<category><![CDATA[Prostate Cancer]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=406197</guid>
+		<dc:creator><!--[CDATA[pattymiller]]--></dc:creator>
+		<pubdate>Fri, 26 Sep 2025 12:14:04 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Mohammed Solaiman]]--></category>
+		<category><!--[CDATA[Prostate Cancer]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=406197</guid>
 
-					<description><![CDATA[<p>QUESTION:&amp;#160;I'm a guy in my late 40s and trying to pay more attention to my health. But I'm confused about whether I should be screened for prostate cancer. Can you help? ANSWER:&amp;#160;The importance of all health screenings is that they can detect issues early.&amp;#160;Prostate cancer&amp;#160;is one of the most common cancers in the world, and [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-should-i-get-screened-for-prostate-cancer/">Mayo Clinic Q&amp;amp;A:  Should I get screened for prostate cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->QUESTION:&nbsp;I'm a guy in my late 40s and trying to pay more attention to my health. But I'm confused about whether I should be screened for prostate cancer. Can you help? ANSWER:&nbsp;The importance of all health screenings is that they can detect issues early.&nbsp;Prostate cancer&nbsp;is one of the most common cancers in the world, and […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-should-i-get-screened-for-prostate-cancer/">Mayo Clinic Q&amp;A:  Should I get screened for prostate cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-1024x576.jpg" alt="middle aged man, perhaps Middle Eastern, sitting at a home office desk with computer monitors" class="wp-image-321567" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-1024x576.jpg" alt="middle aged man, perhaps Middle Eastern, sitting at a home office desk with computer monitors" class="wp-image-321567" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
-<p><strong>QUESTION:&amp;nbsp;</strong>I'm a guy in my late 40s and trying to pay more attention to my health. But I'm confused about whether I should be <a href="https://newsnetwork.mayoclinic.org/discussion/prostate-cancer-screening-and-treatment/" target="_blank" rel="noreferrer noopener">screened</a> for prostate cancer. Can you help?</p>
+<p><strong>QUESTION:&nbsp;</strong>I'm a guy in my late 40s and trying to pay more attention to my health. But I'm confused about whether I should be <a href="https://newsnetwork.mayoclinic.org/discussion/prostate-cancer-screening-and-treatment/" target="_blank" rel="noreferrer noopener">screened</a> for prostate cancer. Can you help?</p>
 
 
 
-<p><strong>ANSWER:</strong>&amp;nbsp;The importance of all health screenings is that they can detect issues early.&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/symptoms-causes/syc-20353087?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Prostate cancer</a>&amp;nbsp;is one of the most common cancers in the world, and the second-leading cause of cancer deaths among men in the U.S.&amp;nbsp;</p>
+<p><strong>ANSWER:</strong>&nbsp;The importance of all health screenings is that they can detect issues early.&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/symptoms-causes/syc-20353087?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Prostate cancer</a>&nbsp;is one of the most common cancers in the world, and the second-leading cause of cancer deaths among men in the U.S.&nbsp;</p>
 
 
 
-<p>While many prostate cancers grow slowly and remain localized, other types are aggressive and spread quickly. Screening can find prostate cancer early, when it's still confined to the prostate gland. That's when patients have the best chance for successful treatment. If caught early (stage 1), the survival rate after five years is almost 100%. At stage 4, the survival rate is 37% to50% at the five-year mark.&amp;nbsp;&amp;nbsp;</p>
+<p>While many prostate cancers grow slowly and remain localized, other types are aggressive and spread quickly. Screening can find prostate cancer early, when it's still confined to the prostate gland. That's when patients have the best chance for successful treatment. If caught early (stage 1), the survival rate after five years is almost 100%. At stage 4, the survival rate is 37% to50% at the five-year mark.&nbsp;&nbsp;</p>
 
 
 
@@ -237,12 +229,12 @@
 
 
 
-<p>The screening is relatively simple. The most common is a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/psa-test/about/pac-20384731?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">prostate-specific antigen, or PSA, test</a>. It's conducted by your primary care clinician once a year. Here's what you need to know about the PSA test:</p>
+<p>The screening is relatively simple. The most common is a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/psa-test/about/pac-20384731?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">prostate-specific antigen, or PSA, test</a>. It's conducted by your primary care clinician once a year. Here's what you need to know about the PSA test:</p>
 
 
 
 <ul class="wp-block-list">
-<li>It's a blood test used to measure the amount of prostate-specific antigen in your blood.&amp;nbsp;</li>
+<li>It's a blood test used to measure the amount of prostate-specific antigen in your blood.&nbsp;</li>
 
 
 
@@ -259,19 +251,19 @@
 
 
 
-<p>Risk factors include age, family history and race.&amp;nbsp;</p>
+<p>Risk factors include age, family history and race.&nbsp;</p>
 
 
 
-<p><strong>Age:</strong>&amp;nbsp;The risk for prostate cancer is highest beginning at age 50 or older.</p>
+<p><strong>Age:</strong>&nbsp;The risk for prostate cancer is highest beginning at age 50 or older.</p>
 
 
 
-<p><strong>Family history:</strong>&amp;nbsp;If you have a blood relative who has or has had prostate cancer, a family history of genes such as BRCA1 or BRCA2 that increase the risk of breast cancer, or a strong family history of breast cancer, your risk may be higher.&amp;nbsp;</p>
+<p><strong>Family history:</strong>&nbsp;If you have a blood relative who has or has had prostate cancer, a family history of genes such as BRCA1 or BRCA2 that increase the risk of breast cancer, or a strong family history of breast cancer, your risk may be higher.&nbsp;</p>
 
 
 
-<p><strong>Race:</strong>&amp;nbsp;In the U.S., prostate cancer is deadlier for Black men than for men of other races. They're more likely to get prostate cancer and more than twice as likely to die from it than other men. Black men should consider being screened starting at age 40.</p>
+<p><strong>Race:</strong>&nbsp;In the U.S., prostate cancer is deadlier for Black men than for men of other races. They're more likely to get prostate cancer and more than twice as likely to die from it than other men. Black men should consider being screened starting at age 40.</p>
 
 
 
@@ -279,7 +271,7 @@
 
 
 
-<p>Not all prostate cancers need to be treated — some can remain under&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/active-surveillance-for-prostate-cancer/about/pac-20384946?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">active surveillance</a>. When prostate cancer is found early, it can be watched for many years. If it becomes aggressive, treatment can begin. In active surveillance, regular follow-up tests may be performed to monitor the progression of your cancer.</p>
+<p>Not all prostate cancers need to be treated — some can remain under&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/active-surveillance-for-prostate-cancer/about/pac-20384946?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">active surveillance</a>. When prostate cancer is found early, it can be watched for many years. If it becomes aggressive, treatment can begin. In active surveillance, regular follow-up tests may be performed to monitor the progression of your cancer.</p>
 
 
 
@@ -287,15 +279,15 @@
 
 
 
-<p>Along with active surveillance, a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/care-at-mayo-clinic/mac-20353097?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">full range</a>&amp;nbsp;of treatments for prostate cancer is available, including radiation, hormone therapy, chemotherapy, cryosurgery and surgery, including robotic removal of all or part of the prostate.</p>
+<p>Along with active surveillance, a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/care-at-mayo-clinic/mac-20353097?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">full range</a>&nbsp;of treatments for prostate cancer is available, including radiation, hormone therapy, chemotherapy, cryosurgery and surgery, including robotic removal of all or part of the prostate.</p>
 
 
 
-<p>Many patients who have just a few sites of metastatic disease, meaning that the cancer isn't widely spread, also can benefit from aggressive treatment. This treatment combines radiation and oral or IV cancer medication therapy to put the cancer into remission and extend the patient's life.&amp;nbsp;</p>
+<p>Many patients who have just a few sites of metastatic disease, meaning that the cancer isn't widely spread, also can benefit from aggressive treatment. This treatment combines radiation and oral or IV cancer medication therapy to put the cancer into remission and extend the patient's life.&nbsp;</p>
 
 
 
-<p>Another radiation technique includes intensity-modulated&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488">proton b</a><a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721">e</a><a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488" target="_blank" rel="noreferrer noopener">am therapy</a>&amp;nbsp;with pencil beam scanning. This localized treatment can minimize significant adverse events from the treatment.</p>
+<p>Another radiation technique includes intensity-modulated&nbsp;<a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488">proton b</a><a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721">e</a><a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488" target="_blank" rel="noreferrer noopener">am therapy</a>&nbsp;with pencil beam scanning. This localized treatment can minimize significant adverse events from the treatment.</p>
 
 
 
@@ -308,45 +300,45 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-should-i-get-screened-for-prostate-cancer/">Mayo Clinic Q&amp;amp;A:  Should I get screened for prostate cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-should-i-get-screened-for-prostate-cancer/">Mayo Clinic Q&amp;A:  Should I get screened for prostate cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/10/middle-aged-man-perhaps-Middle-Eastern-sitting-at-a-home-office-desk-with-computer-monitors-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Mohammed Solaiman]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Prostate Cancer]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Mohammed Solaiman]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Prostate Cancer]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>10 years, 10,000 lives: Mayo experts highlight the journey and future of proton beam and particle therapy at Mayo Clinic</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/10-years-10000-lives-mayo-experts-highlight-the-journey-and-future-of-proton-beam-and-particle-therapy-at-mayo-clinic/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/10-years-10000-lives-mayo-experts-highlight-the-journey-and-future-of-proton-beam-and-particle-therapy-at-mayo-clinic/
 		
-		<dc:creator><![CDATA[Jessica Saenz]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 13:06:12 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Anita Mahajan]]></category>
-		<category><![CDATA[Dr. Nadia Laack]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=406131</guid>
+		<dc:creator><!--[CDATA[Jessica Saenz]]--></dc:creator>
+		<pubdate>Mon, 15 Sep 2025 13:06:12 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Anita Mahajan]]--></category>
+		<category><!--[CDATA[Dr. Nadia Laack]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=406131</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn.&amp;#160;—&amp;#160;A decade after opening, the&amp;#160;Mayo Clinic Proton Therapy Program­&amp;#160;in Rochester, Minnesota, has treated 10,000 patients. Annually, the program treats 30%–40% more patients than most comparable centers in the country. And, with&amp;#160;new technology&amp;#160;and facility expansions, it will soon be able to treat nearly 75% more patients each year with even more precise and effective therapies. [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn.&nbsp;—&nbsp;A decade after opening, the&nbsp;Mayo Clinic Proton Therapy Program­&nbsp;in Rochester, Minnesota, has treated 10,000 patients. Annually, the program treats 30%–40% more patients than most comparable centers in the country. And, with&nbsp;new technology&nbsp;and facility expansions, it will soon be able to treat nearly 75% more patients each year with even more precise and effective therapies. […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/10-years-10000-lives-mayo-experts-highlight-the-journey-and-future-of-proton-beam-and-particle-therapy-at-mayo-clinic/">10 years, 10,000 lives: Mayo experts highlight the journey and future of proton beam and particle therapy at Mayo Clinic</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-1024x576.jpg" alt="Patient receiving proton beam therapy" class="wp-image-406139" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-1024x576.jpg" alt="Patient receiving proton beam therapy" class="wp-image-406139" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p>ROCHESTER, Minn.<strong>&amp;nbsp;</strong>—<strong>&amp;nbsp;</strong>A decade after opening, the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488" target="_blank" rel="noreferrer noopener">Mayo Clinic Proton Therapy Program</a>­&amp;nbsp;in Rochester, Minnesota, has treated 10,000 patients. Annually, the program treats 30%–40% more patients than most comparable centers in the country. And, with&amp;nbsp;<a href="https://mayomagazine.mayoclinic.org/2024/10/carbon-ion-therapy/" target="_blank" rel="noreferrer noopener">new technology</a>&amp;nbsp;and facility expansions, it will soon be able to treat nearly 75% more patients each year with even more precise and effective therapies.</p>
+<p>ROCHESTER, Minn.<strong>&nbsp;</strong>—<strong>&nbsp;</strong>A decade after opening, the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/proton-beam-therapy-program/home/orc-20185488" target="_blank" rel="noreferrer noopener">Mayo Clinic Proton Therapy Program</a>­&nbsp;in Rochester, Minnesota, has treated 10,000 patients. Annually, the program treats 30%–40% more patients than most comparable centers in the country. And, with&nbsp;<a href="https://mayomagazine.mayoclinic.org/2024/10/carbon-ion-therapy/" target="_blank" rel="noreferrer noopener">new technology</a>&nbsp;and facility expansions, it will soon be able to treat nearly 75% more patients each year with even more precise and effective therapies.</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/laack-nadia-n-m-d/bio-20054933" target="_blank" rel="noreferrer noopener">Nadia Laack, M.D.</a>, chair of the Department of Radiation Oncology at Mayo Clinic in Rochester, and&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/mahajan-anita-m-d/bio-20358158" target="_blank" rel="noreferrer noopener">Anita Mahajan, M.D.</a>,&amp;nbsp;radiation oncologist and medical director of Mayo Clinic’s particle therapy center,&amp;nbsp;discuss how Mayo is using tomorrow's standard of care today.</p>
+<p><a href="https://www.mayoclinic.org/biographies/laack-nadia-n-m-d/bio-20054933" target="_blank" rel="noreferrer noopener">Nadia Laack, M.D.</a>, chair of the Department of Radiation Oncology at Mayo Clinic in Rochester, and&nbsp;<a href="https://www.mayoclinic.org/biographies/mahajan-anita-m-d/bio-20358158" target="_blank" rel="noreferrer noopener">Anita Mahajan, M.D.</a>,&nbsp;radiation oncologist and medical director of Mayo Clinic’s particle therapy center,&nbsp;discuss how Mayo is using tomorrow's standard of care today.</p>
 
 
 
@@ -358,7 +350,7 @@
 
 
 
-<p>Mayo Clinic, with technology vendors, has continued to elevate this therapy by developing precise tracking technology such as its custom eye-tracking device for&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/eye-melanoma/symptoms-causes/syc-20372371" target="_blank" rel="noreferrer noopener">melanoma of the eye</a>.</p>
+<p>Mayo Clinic, with technology vendors, has continued to elevate this therapy by developing precise tracking technology such as its custom eye-tracking device for&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/eye-melanoma/symptoms-causes/syc-20372371" target="_blank" rel="noreferrer noopener">melanoma of the eye</a>.</p>
 
 
 
@@ -386,7 +378,7 @@
 
 
 
-<p>"<a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-utilizing-proton-beam-radiation-for-dangerous-heart-rhythms/" target="_blank" rel="noreferrer noopener">Cardiac ablation with proton beam</a>&amp;nbsp;is an example of how we've taken everything to the next level," says Dr. Laack. "Our physicists and the Department of Cardiovascular Medicine developed tools that now allow us to confidently and accurately deliver radiation doses to the heart."</p>
+<p>"<a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-utilizing-proton-beam-radiation-for-dangerous-heart-rhythms/" target="_blank" rel="noreferrer noopener">Cardiac ablation with proton beam</a>&nbsp;is an example of how we've taken everything to the next level," says Dr. Laack. "Our physicists and the Department of Cardiovascular Medicine developed tools that now allow us to confidently and accurately deliver radiation doses to the heart."</p>
 
 
 
@@ -394,7 +386,7 @@
 
 
 
-<p>Mobility restrictions and constant adjustment can be&amp;nbsp;uncomfortable&amp;nbsp;and time-consuming for patients. They can slow down treatment. Regular bodily functions, including gas, bowel movements and fluid retention, also require ongoing rescanning and radiation plan adjustments for treatment accuracy.</p>
+<p>Mobility restrictions and constant adjustment can be&nbsp;uncomfortable&nbsp;and time-consuming for patients. They can slow down treatment. Regular bodily functions, including gas, bowel movements and fluid retention, also require ongoing rescanning and radiation plan adjustments for treatment accuracy.</p>
 
 
 
@@ -418,11 +410,11 @@
 
 
 
-<p>This commitment manifested in the June 2025 opening of the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-takes-the-next-step-in-making-heavy-particle-therapy-available-in-the-western-hemisphere-for-patients-with-aggressive-cancers/" target="_blank" rel="noreferrer noopener">Duan Family Building</a>&amp;nbsp;in Jacksonville, Florida. The building will house the first carbon ion therapy facility in the Americas and introduce powerful radiation delivery for complex and proton-beam- resistant tumors.</p>
+<p>This commitment manifested in the June 2025 opening of the&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-takes-the-next-step-in-making-heavy-particle-therapy-available-in-the-western-hemisphere-for-patients-with-aggressive-cancers/" target="_blank" rel="noreferrer noopener">Duan Family Building</a>&nbsp;in Jacksonville, Florida. The building will house the first carbon ion therapy facility in the Americas and introduce powerful radiation delivery for complex and proton-beam- resistant tumors.</p>
 
 
 
-<p>In August 2025, the Andersen Building in Rochester also reached a&amp;nbsp;<a href="https://www.youtube.com/watch?v=E64A1WxCx0w" target="_blank" rel="noreferrer noopener">major milestone</a>, adding 360-degree gantry technology that delivers proton beam within a millimeter of accuracy and real-time CT imaging to enable faster, more precise treatment for nearly twice as many patients.</p>
+<p>In August 2025, the Andersen Building in Rochester also reached a&nbsp;<a href="https://www.youtube.com/watch?v=E64A1WxCx0w" target="_blank" rel="noreferrer noopener">major milestone</a>, adding 360-degree gantry technology that delivers proton beam within a millimeter of accuracy and real-time CT imaging to enable faster, more precise treatment for nearly twice as many patients.</p>
 
 
 
@@ -452,26 +444,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Proton-beam-therapy-patient-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Anita Mahajan]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nadia Laack]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Anita Mahajan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nadia Laack]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;#038;A: Get the facts on ovarian cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-get-the-facts-on-ovarian-cancer/</link>
+		<title>Mayo Clinic Q&amp;A: Get the facts on ovarian cancer</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-get-the-facts-on-ovarian-cancer/
 		
-		<dc:creator><![CDATA[pattymiller]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 12:33:49 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Health System]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Sandeep Basu]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=406011</guid>
+		<dc:creator><!--[CDATA[pattymiller]]--></dc:creator>
+		<pubdate>Wed, 10 Sep 2025 12:33:49 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Health System]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Sandeep Basu]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=406011</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&nbsp;I've heard that ovarian cancer is hard to detect. Can you tell me more about the symptoms and if there are any screenings? ANSWER:&nbsp;Ovarian cancer is relatively rare. However, it's often fatal in later stages of the disease. The cancer begins in the ovaries and spreads to the abdomen and pelvis if it [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-get-the-facts-on-ovarian-cancer/">Mayo Clinic Q&amp;amp;A: Get the facts on ovarian cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I've heard that ovarian cancer is hard to detect. Can you tell me more about the symptoms and if there are any screenings? ANSWER:&nbsp;Ovarian cancer is relatively rare. However, it's often fatal in later stages of the disease. The cancer begins in the ovaries and spreads to the abdomen and pelvis if it […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-get-the-facts-on-ovarian-cancer/">Mayo Clinic Q&amp;A: Get the facts on ovarian cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-1024x576.jpg" alt="a middle-aged white woman worried, concerned with her head in her hands looking at a computer laptop" class="wp-image-319485" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-1024x576.jpg" alt="a middle-aged white woman worried, concerned with her head in her hands looking at a computer laptop" class="wp-image-319485" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -599,7 +591,7 @@
 
 
 
-<p>The most relevant tools for finding ovarian cancer are imaging tests, such as an ultrasound, and tumor markers that can be found in the blood, such as&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/ca-125-test/about/pac-20393295" target="_blank" rel="noreferrer noopener">cancer antigen 125</a>, or&amp;nbsp;CA 125.</p>
+<p>The most relevant tools for finding ovarian cancer are imaging tests, such as an ultrasound, and tumor markers that can be found in the blood, such as&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/ca-125-test/about/pac-20393295" target="_blank" rel="noreferrer noopener">cancer antigen 125</a>, or&nbsp;CA 125.</p>
 
 
 
@@ -611,7 +603,7 @@
 
 
 
-<p>CA 125 is a protein in the blood that can be elevated when ovarian cancers are present. However, it also can be elevated with other conditions, such as menstruation, uterine fibroids and endometriosis, leading to false-positive results.&amp;nbsp;</p>
+<p>CA 125 is a protein in the blood that can be elevated when ovarian cancers are present. However, it also can be elevated with other conditions, such as menstruation, uterine fibroids and endometriosis, leading to false-positive results.&nbsp;</p>
 
 
 
@@ -638,38 +630,38 @@
 <ul class="wp-block-list">
 <li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-capture-first-signs-of-ovarian-cancer-risk/" target="_blank" rel="noreferrer noopener">Mayo Clinic researchers capture first signs of ovarian cancer risk</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-get-the-facts-on-ovarian-cancer/">Mayo Clinic Q&amp;amp;A: Get the facts on ovarian cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-get-the-facts-on-ovarian-cancer/">Mayo Clinic Q&amp;A: Get the facts on ovarian cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/09/a-middle-aged-white-woman-worried-concerned-with-her-head-in-her-hands-looking-at-a-computer-laptop-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Sandeep Basu]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Sandeep Basu]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>New genetic biomarker flags aggressive brain tumors</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/
 		
-		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
-		<pubDate>Mon, 01 Sep 2025 22:31:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Neurosciences]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Gelareh Zadeh]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405928</guid>
+		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
+		<pubdate>Mon, 01 Sep 2025 22:31:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Neurosciences]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Gelareh Zadeh]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405928</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Clinicians typically classify meningiomas — the most common type of brain tumor — into three grades, ranging from slow-growing to aggressive. But a new multi-institutional study suggests that appearances may be deceiving. If a tumor shows activity in a gene called telomerase reverse transcriptase (TERT), it tends to recur more quickly, even [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Clinicians typically classify meningiomas — the most common type of brain tumor — into three grades, ranging from slow-growing to aggressive. But a new multi-institutional study suggests that appearances may be deceiving. If a tumor shows activity in a gene called telomerase reverse transcriptase (TERT), it tends to recur more quickly, even […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/">New genetic biomarker flags aggressive brain tumors</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -687,7 +679,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="937" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg" alt="Photo of Mayo Clinic neurosurgeon Gelareh Zadeh, M.D., Ph.D." class="wp-image-405939" style="width:208px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg 937w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-274x300.jpg 274w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-768x839.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1405x1536.jpg 1405w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1874x2048.jpg 1874w" sizes="auto, (max-width: 937px) 100vw, 937px" /><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="937" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg" alt="Photo of Mayo Clinic neurosurgeon Gelareh Zadeh, M.D., Ph.D." class="wp-image-405939" style="width:208px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg 937w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-274x300.jpg 274w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-768x839.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1405x1536.jpg 1405w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1874x2048.jpg 1874w" sizes="auto, (max-width: 937px) 100vw, 937px"><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure></div>
 
 
 <p>"High TERT expression is strongly linked to faster disease progression," says <a href="https://www.mayo.edu/research/faculty/zadeh-gelareh-m-d-ph-d/bio-20579723" target="_blank" rel="noreferrer noopener">Gelareh Zadeh, M.D., Ph.D.</a>, a neurosurgeon at <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> and senior author of the study. "This makes it a promising new biomarker for identifying patients who may be at greater risk of developing aggressive disease."</p>
@@ -730,10 +722,10 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg" alt="Photo of Mayo Clinic research collaborator Chloe Gui, M.D." class="wp-image-405944" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Chloe Gui, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg" alt="Photo of Mayo Clinic research collaborator Chloe Gui, M.D." class="wp-image-405944" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Chloe Gui, M.D.</figcaption></figure></div>
 
 
-<p>"TERT expression can help us more accurately identify patients with aggressive meningiomas," Chloe Gui, M.D., a neurosurgery resident at the University of Toronto, Mayo Clinic research collaborator and the study's lead author, explains on a <a href="https://www.buzzsprout.com/1391338?client_source=large_player&amp;amp;iframe=true&amp;amp;referrer=https://www.buzzsprout.com/1391338.js?container_id=buzzsprout-large-player&amp;amp;player=large#" target="_blank" rel="noreferrer noopener">podcast hosted by The Lancet Oncology</a>. "This information allows us to offer treatment tailored to the tumor's behavior." "This information allows us to offer treatment tailored to the tumor's behavior."</p>
+<p>"TERT expression can help us more accurately identify patients with aggressive meningiomas," Chloe Gui, M.D., a neurosurgery resident at the University of Toronto, Mayo Clinic research collaborator and the study's lead author, explains on a <a href="https://www.buzzsprout.com/1391338?client_source=large_player&amp;iframe=true&amp;referrer=https://www.buzzsprout.com/1391338.js?container_id=buzzsprout-large-player&amp;player=large#" target="_blank" rel="noreferrer noopener">podcast hosted by The Lancet Oncology</a>. "This information allows us to offer treatment tailored to the tumor's behavior." "This information allows us to offer treatment tailored to the tumor's behavior."</p>
 
 
 
@@ -741,7 +733,7 @@
 
 
 
-<p>Review the&amp;nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/fulltext" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;</p>
+<p>Review the&nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/fulltext" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&nbsp;</p>
 
 
 
@@ -749,7 +741,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -767,35 +759,35 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Gelareh Zadeh]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gelareh Zadeh]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Shorter, less intense radiation-chemo regimen effective for HPV-linked oropharyngeal cancer, Mayo study shows</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/shorter-less-intense-radiation-chemo-regimen-effective-for-hpv-linked-oropharyngeal-cancer-mayo-study-shows/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/shorter-less-intense-radiation-chemo-regimen-effective-for-hpv-linked-oropharyngeal-cancer-mayo-study-shows/
 		
-		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
-		<pubDate>Mon, 01 Sep 2025 22:30:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Chemotherapy]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Daniel Ma]]></category>
-		<category><![CDATA[human papillomavirus (HPV)]]></category>
-		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
-		<category><![CDATA[minimally invasive surgery]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[oropharyngeal squamous cell carcinoma]]></category>
-		<category><![CDATA[radiation]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405823</guid>
+		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
+		<pubdate>Mon, 01 Sep 2025 22:30:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Chemotherapy]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Daniel Ma]]--></category>
+		<category><!--[CDATA[human papillomavirus (HPV)]]--></category>
+		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
+		<category><!--[CDATA[minimally invasive surgery]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[oropharyngeal squamous cell carcinoma]]--></category>
+		<category><!--[CDATA[radiation]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405823</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — A Mayo Clinic study finds that a shortened, less intense course of radiation and chemotherapy after minimally invasive surgery for HPV-positive oropharyngeal squamous cell carcinoma (HPV+OPSCC) results in less toxicity, substantially lowering the rates of treatment-related side effects while maintaining high cure rates. The findings were published in The Lancet Oncology. "This [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A Mayo Clinic study finds that a shortened, less intense course of radiation and chemotherapy after minimally invasive surgery for HPV-positive oropharyngeal squamous cell carcinoma (HPV+OPSCC) results in less toxicity, substantially lowering the rates of treatment-related side effects while maintaining high cure rates. The findings were published in The Lancet Oncology. "This […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/shorter-less-intense-radiation-chemo-regimen-effective-for-hpv-linked-oropharyngeal-cancer-mayo-study-shows/">Shorter, less intense radiation-chemo regimen effective for HPV-linked oropharyngeal cancer, Mayo study shows</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg" alt="chemotherapy drug being administered intravenously by a nurse" class="wp-image-405971" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg" alt="chemotherapy drug being administered intravenously by a nurse" class="wp-image-405971" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -803,7 +795,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg" alt="Portrait of Dr. Daniel Ma" class="wp-image-405969" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007.jpg 1688w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Daniel Ma, M.D.</figcaption></figure></div>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg" alt="Portrait of Dr. Daniel Ma" class="wp-image-405969" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Daniel-Ma_1659198_3934950_0007.jpg 1688w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Daniel Ma, M.D.</figcaption></figure></div>
 
 
 <p>"This is a game-changer for patients," says <a href="https://www.mayo.edu/research/faculty/ma-daniel-j-m-d/bio-10031781" target="_blank" rel="noreferrer noopener">Daniel Ma, M.D.</a>, senior author of the study and head and neck radiation oncologist at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>. "We've significantly reduced the burden of long-term side effects without compromising the effectiveness of the treatment. This shorter, less intensive regimen allows patients to return to their lives more quickly and with a better quality of life."</p>
@@ -842,11 +834,11 @@
 
 
 
-<p><strong>About Mayo Clinic<br></strong><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic<br></strong><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -864,26 +856,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Chemotherapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Daniel Ma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[human papillomavirus (HPV)]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[minimally invasive surgery]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[oropharyngeal squamous cell carcinoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[radiation]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Chemotherapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Daniel Ma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[human papillomavirus (HPV)]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[minimally invasive surgery]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[oropharyngeal squamous cell carcinoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[radiation]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;#038;A: Reconnect with exercise during cancer treatment</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-reconnect-with-exercise-during-cancer-treatment/</link>
+		<title>Mayo Clinic Q&amp;A: Reconnect with exercise during cancer treatment</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-reconnect-with-exercise-during-cancer-treatment/
 		
-		<dc:creator><![CDATA[pattymiller]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 12:49:47 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Mayo Clinic Q&amp;A]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405702</guid>
+		<dc:creator><!--[CDATA[pattymiller]]--></dc:creator>
+		<pubdate>Wed, 27 Aug 2025 12:49:47 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q&A]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405702</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC: I've always been active, but after being diagnosed with breast cancer and starting my treatment, I'm a little worried about getting back into my routine. Is it OK to exercise during cancer treatment? ANSWER: Exercise decreases the risk of developing cancer. Studies have shown there is a 30%- 35% reduction in the [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-reconnect-with-exercise-during-cancer-treatment/">Mayo Clinic Q&amp;amp;A: Reconnect with exercise during cancer treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC: I've always been active, but after being diagnosed with breast cancer and starting my treatment, I'm a little worried about getting back into my routine. Is it OK to exercise during cancer treatment? ANSWER: Exercise decreases the risk of developing cancer. Studies have shown there is a 30%- 35% reduction in the […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-reconnect-with-exercise-during-cancer-treatment/">Mayo Clinic Q&amp;A: Reconnect with exercise during cancer treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="1604" height="902" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9.jpg" alt="middle-aged woman on a machine at gym exercising, exercise, African American," class="wp-image-405709" style="width:758px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9.jpg 1604w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-1536x864.jpg 1536w" sizes="auto, (max-width: 1604px) 100vw, 1604px" /></figure></div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="1604" height="902" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9.jpg" alt="middle-aged woman on a machine at gym exercising, exercise, African American," class="wp-image-405709" style="width:758px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9.jpg 1604w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9-1536x864.jpg 1536w" sizes="auto, (max-width: 1604px) 100vw, 1604px"></figure>
 
 
 <p><strong>DEAR MAYO CLINIC: </strong>I've always been active, but after being diagnosed with <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470" target="_blank" rel="noreferrer noopener">breast cancer</a> and starting my treatment, I'm a little worried about getting back into my routine. Is it OK to exercise during cancer treatment?</p>
@@ -1009,34 +1001,34 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-reconnect-with-exercise-during-cancer-treatment/">Mayo Clinic Q&amp;amp;A: Reconnect with exercise during cancer treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-reconnect-with-exercise-during-cancer-treatment/">Mayo Clinic Q&amp;A: Reconnect with exercise during cancer treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/exercise-woman-gym-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Q&amp;amp;A]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Q&amp;A]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers discover &amp;#8216;hidden pocket&amp;#8217; in cancer-promoting enzyme</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/</link>
+		<title>Mayo Clinic researchers discover ‘hidden pocket’ in cancer-promoting enzyme</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/
 		
-		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Evette Radisky]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405573</guid>
+		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
+		<pubdate>Thu, 21 Aug 2025 11:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Evette Radisky]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405573</guid>
 
-					<description><![CDATA[<p>For years, cancer researchers have been trying to halt a type of molecule that's involved in several cancers. The molecules — enzymes known as trypsins — split proteins that help tumors grow and spread. Mayo Clinic cancer biologist Evette Radisky, Ph.D., previously found that one trypsin, called mesotrypsin, plays a role in breast, prostate, pancreatic [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover &amp;#8216;hidden pocket&amp;#8217; in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->For years, cancer researchers have been trying to halt a type of molecule that's involved in several cancers. The molecules — enzymes known as trypsins — split proteins that help tumors grow and spread. Mayo Clinic cancer biologist Evette Radisky, Ph.D., previously found that one trypsin, called mesotrypsin, plays a role in breast, prostate, pancreatic […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover ‘hidden pocket’ in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png" alt="A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state." class="wp-image-405583" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-300x158.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-768x404.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1536x807.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket.png 1640w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state.</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="538" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png" alt="A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state." class="wp-image-405583" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1024x538.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-300x158.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-768x404.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket-1536x807.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin.crypticpocket.png 1640w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A computational rendering of mesotrypsin shows the enzyme's active site (yellow) and the nearby cryptic pocket (green). The pocket is exposed temporarily when the purple region moves, stabilizing the enzyme in an inactive state.</figcaption>
 
 
 
@@ -1044,7 +1036,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="450" height="600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg" alt="Portrait of Dr. Evette Radisky" class="wp-image-405578" style="width:270px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg 450w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_-225x300.jpg 225w" sizes="auto, (max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">Evette Radisky, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="450" height="600" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg" alt="Portrait of Dr. Evette Radisky" class="wp-image-405578" style="width:270px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_.jpg 450w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Evette-Radisky.vert_.crop_-225x300.jpg 225w" sizes="auto, (max-width: 450px) 100vw, 450px"><figcaption class="wp-element-caption">Evette Radisky, Ph.D.</figcaption></figure></div>
 
 
 <p>Mayo Clinic cancer biologist <a href="https://www.mayo.edu/research/faculty/radisky-evette-s-ph-d/bio-00094471" target="_blank" rel="noreferrer noopener">Evette Radisky, Ph.D.</a>, previously found that one trypsin, called mesotrypsin, plays a role in breast, prostate, pancreatic and lung cancer. Like other enzymes, the molecule has an active site that kicks off reactions with other molecules. Researchers have tried to block the active site but haven’t found a molecule with a specific enough lock-and-key fit to jam the active region.</p>
@@ -1063,7 +1055,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg" alt="" class="wp-image-405580" style="width:276px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px" /><figcaption class="wp-element-caption">Mathew Coban</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="667" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg" alt="" class="wp-image-405580" style="width:276px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353.jpg 667w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Coban-Mathew-A._16094085_202109280353-250x300.jpg 250w" sizes="auto, (max-width: 667px) 100vw, 667px"><figcaption class="wp-element-caption">Mathew Coban</figcaption></figure></div>
 
 
 <p>"It was a serendipitous finding," says the study’s lead author, Mathew Coban, of the pocket's discovery. As a research technologist in the Radisky lab and a master's degree student at <a href="https://college.mayo.edu/academics/biomedical-research-training/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a>, Coban had aimed to understand the structure of mesotrypsin through X-ray crystallography.</p>
@@ -1090,7 +1082,7 @@
 
 
 
-<p>Importantly, the researchers note, the molecule blocks mesotrypsin selectively, without affecting other trypsins. This could mean less toxicity or fewer side effects for a patient. The finding also means that other cryptic pockets may exist in other trypsin molecules related to cancer, presenting new potential drug targets. &amp;nbsp;</p>
+<p>Importantly, the researchers note, the molecule blocks mesotrypsin selectively, without affecting other trypsins. This could mean less toxicity or fewer side effects for a patient. The finding also means that other cryptic pockets may exist in other trypsin molecules related to cancer, presenting new potential drug targets. &nbsp;</p>
 
 
 
@@ -1102,50 +1094,50 @@
 
 
 
-<p><em>The study was funded by grants from the National Institutes of Health, Mayo Clinic Medical Scientist Training Program and Department of Energy Office of Science User Facility. &amp;nbsp;The authors declare that they have no competing interests.</em></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover &amp;#8216;hidden pocket&amp;#8217; in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p><em>The study was funded by grants from the National Institutes of Health, Mayo Clinic Medical Scientist Training Program and Department of Energy Office of Science User Facility. &nbsp;The authors declare that they have no competing interests.</em></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-hidden-pocket-in-cancer-promoting-enzyme/">Mayo Clinic researchers discover ‘hidden pocket’ in cancer-promoting enzyme</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Mesotrypsin_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Evette Radisky]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Evette Radisky]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;#038;A: What do you know about colon cancer?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-know-about-colon-cancer/</link>
+		<title>Mayo Clinic Q&amp;A: What do you know about colon cancer?</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-know-about-colon-cancer/
 		
-		<dc:creator><![CDATA[pattymiller]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 13:18:36 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Derek Ebner]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405434</guid>
+		<dc:creator><!--[CDATA[pattymiller]]--></dc:creator>
+		<pubdate>Wed, 20 Aug 2025 13:18:36 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Derek Ebner]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405434</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;I received a notice from my health system that I'm due for a colorectal cancer screening. I'm 45. Do I really need to have this done now?&amp;#160; ANSWER:&amp;#160;It's easy to be confused or overwhelmed by screening recommendations for common types of cancer. Your healthcare team is a trusted resource for keeping you up [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-know-about-colon-cancer/">Mayo Clinic Q&amp;amp;A: What do you know about colon cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I received a notice from my health system that I'm due for a colorectal cancer screening. I'm 45. Do I really need to have this done now?&nbsp; ANSWER:&nbsp;It's easy to be confused or overwhelmed by screening recommendations for common types of cancer. Your healthcare team is a trusted resource for keeping you up […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-know-about-colon-cancer/">Mayo Clinic Q&amp;A: What do you know about colon cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-1024x576.jpg" alt="a mature or middle-aged Asian woman wearing glassed and sitting outdoors smiling, looking content and happy" class="wp-image-225081" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-1024x576.jpg" alt="a mature or middle-aged Asian woman wearing glassed and sitting outdoors smiling, looking content and happy" class="wp-image-225081" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p><strong>DEAR MAYO CLINIC:&amp;nbsp;</strong>I received a notice from my health system that I'm due for a colorectal cancer screening. I'm 45. Do I really need to have this done now?&amp;nbsp;</p>
+<p><strong>DEAR MAYO CLINIC:&nbsp;</strong>I received a notice from my health system that I'm due for a colorectal cancer screening. I'm 45. Do I really need to have this done now?&nbsp;</p>
 
 
 
-<p><strong>ANSWER:&amp;nbsp;</strong>It's easy to be confused or overwhelmed by screening recommendations for common types of cancer. Your healthcare team is a trusted resource for keeping you up to date on screenings, including screening for colorectal cancer.&amp;nbsp;</p>
+<p><strong>ANSWER:&nbsp;</strong>It's easy to be confused or overwhelmed by screening recommendations for common types of cancer. Your healthcare team is a trusted resource for keeping you up to date on screenings, including screening for colorectal cancer.&nbsp;</p>
 
 
 
-<p>Why, when and how should you be screened for this cancer? Test your knowledge of colon cancer screening with these myths and facts.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+<p>Why, when and how should you be screened for this cancer? Test your knowledge of colon cancer screening with these myths and facts.&nbsp;&nbsp;&nbsp;</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Colorectal cancer is rare.</strong>&amp;nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Colorectal cancer is rare.</strong>&nbsp;</h3>
 
 
 
@@ -1153,11 +1145,11 @@
 
 
 
-<h3 class="wp-block-heading"><strong>Colorectal cancer can happen when you're young.</strong>&amp;nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Colorectal cancer can happen when you're young.</strong>&nbsp;</h3>
 
 
 
-<p><strong>Fact:</strong>&amp;nbsp;The rate of colorectal cancer is increasing in people under 50. Rates of colorectal cancer in people under 50 have doubled since 1990. In people over 65, the diagnosis rates have been decreasing, most likely because of colorectal cancer screening.</p>
+<p><strong>Fact:</strong>&nbsp;The rate of colorectal cancer is increasing in people under 50. Rates of colorectal cancer in people under 50 have doubled since 1990. In people over 65, the diagnosis rates have been decreasing, most likely because of colorectal cancer screening.</p>
 
 
 
@@ -1165,19 +1157,19 @@
 
 
 
-<h3 class="wp-block-heading"><strong>Screening for colorectal cancer starts at age 45.&amp;nbsp;</strong>&amp;nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Screening for colorectal cancer starts at age 45.&nbsp;</strong>&nbsp;</h3>
 
 
 
-<p><strong>Fact:</strong>&amp;nbsp;In 2021, the recommendation for colorectal cancer was updated to begin screening at age 45. This is because the rate of diagnosis is increasing at younger ages.&amp;nbsp;&amp;nbsp;</p>
+<p><strong>Fact:</strong>&nbsp;In 2021, the recommendation for colorectal cancer was updated to begin screening at age 45. This is because the rate of diagnosis is increasing at younger ages.&nbsp;&nbsp;</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Colorectal cancer can be prevented with screening.</strong>&amp;nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Colorectal cancer can be prevented with screening.</strong>&nbsp;</h3>
 
 
 
-<p><strong>Fact:</strong>&amp;nbsp;The goal of colorectal cancer screening is to prevent cancer, not just find it when it has already developed. Most colorectal cancer develops from a&amp;nbsp;<a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/polyps-colon-cancer-culprits" target="_blank" rel="noreferrer noopener">polyp</a>, a small, precancerous growth. The presence of polyps can easily be identified using colonoscopy screening tests. Polyps can be removed during a&amp;nbsp;<a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/what-to-expect-before-and-during-a-colonoscopy" target="_blank" rel="noreferrer noopener">colonoscopy</a>&amp;nbsp;to prevent them from developing into cancer.</p>
+<p><strong>Fact:</strong>&nbsp;The goal of colorectal cancer screening is to prevent cancer, not just find it when it has already developed. Most colorectal cancer develops from a&nbsp;<a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/polyps-colon-cancer-culprits" target="_blank" rel="noreferrer noopener">polyp</a>, a small, precancerous growth. The presence of polyps can easily be identified using colonoscopy screening tests. Polyps can be removed during a&nbsp;<a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/what-to-expect-before-and-during-a-colonoscopy" target="_blank" rel="noreferrer noopener">colonoscopy</a>&nbsp;to prevent them from developing into cancer.</p>
 
 
 
@@ -1207,7 +1199,7 @@
 
 
 
-<h3 class="wp-block-heading"><strong>Family history is the only risk factor for colorectal cancer.&amp;nbsp;</strong>&amp;nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Family history is the only risk factor for colorectal cancer.&nbsp;</strong>&nbsp;</h3>
 
 
 
@@ -1215,30 +1207,30 @@
 
 
 
-<p>African Americans have a higher risk of developing colorectal cancer, and American Indian/Alaska Native people have the highest risk of colorectal cancer.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+<p>African Americans have a higher risk of developing colorectal cancer, and American Indian/Alaska Native people have the highest risk of colorectal cancer.&nbsp;&nbsp;&nbsp;</p>
 
 
 
-<h3 class="wp-block-heading"><strong>A positive stool-based screening for colorectal cancer is the same as a cancer diagnosis.&amp;nbsp;</strong>&amp;nbsp;</h3>
+<h3 class="wp-block-heading"><strong>A positive stool-based screening for colorectal cancer is the same as a cancer diagnosis.&nbsp;</strong>&nbsp;</h3>
 
 
 
-<p><strong>Myth:</strong>&amp;nbsp;A&amp;nbsp;<a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/5-questions-about-stool-dna-tests-for-colon-cancer" target="_blank" rel="noreferrer noopener">stool-based test</a>&amp;nbsp;looks for more than cancer, and it can identify precancerous lesions or polyps. These tests don't address the polyp if a polyp is present in the colon. A follow-up colonoscopy is needed to identify the polyp and potentially remove it.&amp;nbsp;&amp;nbsp;</p>
+<p><strong>Myth:</strong>&nbsp;A&nbsp;<a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/5-questions-about-stool-dna-tests-for-colon-cancer" target="_blank" rel="noreferrer noopener">stool-based test</a>&nbsp;looks for more than cancer, and it can identify precancerous lesions or polyps. These tests don't address the polyp if a polyp is present in the colon. A follow-up colonoscopy is needed to identify the polyp and potentially remove it.&nbsp;&nbsp;</p>
 
 
 
-<p>If you have more questions, talk with your healthcare team about screening options for colorectal cancer at age 45.&amp;nbsp;&amp;nbsp;</p>
+<p>If you have more questions, talk with your healthcare team about screening options for colorectal cancer at age 45.&nbsp;&nbsp;</p>
 
 
 
 <p><em>Derek Ebner, M.D.,&nbsp;</em><a href="https://www.mayoclinic.org/departments-centers/gastroenterology-hepatology-digestive-care/home/orc-20348202" target="_blank" rel="noreferrer noopener"><em>Gastroenterology</em></a><em>, Mayo Clinic, Rochester, Minnesota&nbsp;</em>&nbsp;</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-know-about-colon-cancer/">Mayo Clinic Q&amp;amp;A: What do you know about colon cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-know-about-colon-cancer/">Mayo Clinic Q&amp;A: What do you know about colon cancer?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_734659924_Fotor-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Derek Ebner]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Derek Ebner]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
