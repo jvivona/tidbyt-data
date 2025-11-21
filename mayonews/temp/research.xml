@@ -1,40 +1,162 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/research/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Thu, 20 Nov 2025 14:32:06 +0000</lastbuilddate>
+	<lastBuildDate>Fri, 21 Nov 2025 15:35:29 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
-		<title>Mayo Clinic physicians map patients’ brain waves to personalize epilepsy treatment</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/
+		<title>Landmark Mayo Clinic study finds stenting reduces stroke risk in people with carotid artery narrowing</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/landmark-mayo-clinic-study-finds-stenting-reduces-stroke-risk-in-people-with-carotid-artery-narrowing/</link>
 		
-		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
-		<pubdate>Thu, 20 Nov 2025 14:05:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Nick Gregg]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407964</guid>
+		<dc:creator><![CDATA[Lynda De Widt]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 15:33:00 +0000</pubDate>
+				<category><![CDATA[Clinical Trials]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[carotid artery stenting]]></category>
+		<category><![CDATA[carotid endarterectomy]]></category>
+		<category><![CDATA[CREST-2]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Thomas Brott]]></category>
+		<category><![CDATA[Florida News Releases]]></category>
+		<category><![CDATA[Stroke]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=408062</guid>
 
-					<description><!--[CDATA[<p-->Neurologist Nick Gregg, M.D., and team developed a personalized approach to deep brain stimulation (DBS) that maps each patient's seizure network before epilepsy treatment.<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/">Mayo Clinic physicians map patients’ brain waves to personalize epilepsy treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>JACKSONVILLE, Fla. — A major international study led by Mayo Clinic researchers and funded by the National Institutes of Health found that for people with severe carotid artery narrowing who haven't experienced recent stroke symptoms, a minimally invasive procedure called carotid artery stenting, combined with intensive medical therapy, significantly lowered stroke risk compared with medical [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/landmark-mayo-clinic-study-finds-stenting-reduces-stroke-risk-in-people-with-carotid-artery-narrowing/">Landmark Mayo Clinic study finds stenting reduces stroke risk in people with carotid artery narrowing</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg" alt="" class="wp-image-407976" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-center-align-caption">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="912" height="513" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Carotid-artery-angioplasty-and-stenting-2981244-004-0-1-fotor-20251119154217.jpg" alt="Illustration of carotid artery stenting" class="wp-image-408161" style="width:577px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Carotid-artery-angioplasty-and-stenting-2981244-004-0-1-fotor-20251119154217.jpg 912w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Carotid-artery-angioplasty-and-stenting-2981244-004-0-1-fotor-20251119154217-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Carotid-artery-angioplasty-and-stenting-2981244-004-0-1-fotor-20251119154217-768x432.jpg 768w" sizes="(max-width: 912px) 100vw, 912px" /><figcaption class="wp-element-caption">Illustration of carotid artery stenting</figcaption></figure></div>
+
+
+<p>JACKSONVILLE, Fla. — A major international study led by <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers and funded by the National Institutes of Health found that for people with severe <a href="https://www.mayoclinic.org/diseases-conditions/carotid-artery-disease/symptoms-causes/syc-20360519" target="_blank" rel="noreferrer noopener">carotid artery</a> narrowing who haven't experienced recent <a href="https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113" target="_blank" rel="noreferrer noopener">stroke</a> symptoms, a minimally invasive procedure called <a href="https://www.mayoclinic.org/tests-procedures/carotid-angioplasty-and-stenting/about/pac-20385111" target="_blank" rel="noreferrer noopener">carotid artery stenting</a>, combined with intensive medical therapy, significantly lowered stroke risk compared with medical therapy alone. Traditional surgery (<a href="https://www.mayoclinic.org/tests-procedures/carotid-endarterectomy/about/pac-20393379" target="_blank" rel="noreferrer noopener">carotid endarterectomy</a>) did not show the same benefit. The research is <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2508800" target="_blank" rel="noreferrer noopener">published in The New England Journal of Medicine</a>.</p>
+
+
+
+<p>The Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis Trial (CREST-2) is the largest study to date comparing current treatment approaches for this condition, caused by plaque buildup in the arteries supplying blood to the brain.</p>
+
+
+
+<p>Carotid stenosis can lead to a stroke if plaque breaks off and blocks blood flow. Although surgery and stenting have long been used to open these arteries, newer medications and better risk factor control have raised questions about whether these procedures are still needed for people who don't have symptoms.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img decoding="async" width="713" height="713" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Thomas-Brott-M.D.-WF7381889-1-x-1.jpg" alt="Thomas Brott, M.D." class="wp-image-408072" style="width:189px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Thomas-Brott-M.D.-WF7381889-1-x-1.jpg 713w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Thomas-Brott-M.D.-WF7381889-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Thomas-Brott-M.D.-WF7381889-1-x-1-150x150.jpg 150w" sizes="(max-width: 713px) 100vw, 713px" /><figcaption class="wp-element-caption">Thomas Brott, M.D.</figcaption></figure></div>
+
+
+<p>"Decades ago, surgery clearly helped prevent strokes in many patients," says <a href="https://www.mayo.edu/research/faculty/brott-thomas-g-m-d/bio-00027611" target="_blank" rel="noreferrer noopener">Thomas Brott, M.D.</a>, a neurologist at <a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a> and the study's senior author. "But medical therapy has improved so much that we needed to reexamine the balance between benefit and risk for people who have no symptoms." </p>
+
+
+
+<p>The CREST-2 program consisted of two parallel, randomized clinical trials conducted at 155 medical centers in five countries, including Australia, Canada, Israel, Spain and the U.S. Each enrolled more than 1,200 adults with severe carotid artery narrowing of 70% or greater who had not had a stroke or <a href="https://www.mayoclinic.org/diseases-conditions/transient-ischemic-attack/symptoms-causes/syc-20355679" target="_blank" rel="noreferrer noopener">transient ischemic attack</a> (ministroke) in the past six months.</p>
+
+
+
+<p>In one trial, participants received stenting plus intensive medical therapy or medical therapy alone. In the other, participants received endarterectomy plus medical therapy or medical therapy alone. </p>
+
+
+
+<p>All participants received comprehensive medical care, including lifestyle coaching and medication as needed, to manage their blood pressure, low-density lipoprotein (LDL) <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-cholesterol-know-your-numbers/" target="_blank" rel="noreferrer noopener">cholesterol</a> and <a href="https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444" target="_blank" rel="noreferrer noopener">diabetes</a>, and to help them stop smoking.</p>
+
+
+
+<p>Working with investigators from the University of Alabama at Birmingham, researchers analyzed the occurrence of stroke and death within 44 days of stenting or surgery. They also analyzed the occurrence of stroke over four years on the same side of the body as the narrowed artery.</p>
+
+
+
+<p>The stenting trial found a significant reduction in stroke: over four years, 2.8% of patients treated with stenting and medical therapy had a stroke compared to 6% of those on medical therapy alone (roughly half the risk of stroke). However, in the endarterectomy trial, the difference in stroke rates (3.7% with surgery vs. 5.3% with medical therapy alone) was not statistically significant. Serious complications were uncommon with either procedure. &amp;nbsp;</p>
+
+
+
+<p>The findings provide clearer guidance for physicians and patients considering a preventive procedure. Dr. Brott emphasizes personalized decision-making.</p>
+
+
+
+<p>"For some patients — particularly those with more advanced narrowing or plaque that appears unstable or more likely to cause a blockage — stenting may offer added protection, while for others, medical therapy alone may be enough," he says.</p>
+
+
+
+<p>Close follow-up and coordinated care helped all participants achieve and maintain significant improvements in their blood pressure and cholesterol levels.</p>
+
+
+
+<p>Researchers will continue to track participants for long-term results. They are also studying whether imaging tools can help identify which patients benefit most from each treatment.</p>
+
+
+
+<p>For a full list of authors and disclosures, see the <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2508800" target="_blank" rel="noreferrer noopener">paper</a>.</p>
+
+
+
+<p><strong>Related:</strong> <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-neurologists-lead-international-study-to-test-best-approach-to-stroke-prevention/" target="_blank" rel="noreferrer noopener">Mayo Clinic Neurologists Lead International Study to Test Best Approach to Stroke Prevention</a></p>
+
+
+
+<p>###</p>
+
+
+
+<p><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.&amp;nbsp;</p>
+
+
+
+<p><strong>Media contact:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/landmark-mayo-clinic-study-finds-stenting-reduces-stroke-risk-in-people-with-carotid-artery-narrowing/">Landmark Mayo Clinic study finds stenting reduces stroke risk in people with carotid artery narrowing</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Carotid-artery-illustration-shutterstock_130089680-1-x-1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Carotid-artery-angioplasty-and-stenting-2981244-004-0-1-fotor-20251119154217.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[carotid artery stenting]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[carotid endarterectomy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[CREST-2]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Thomas Brott]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Stroke]]></mayoclinic:mctag>	</item>
+		<item>
+		<title>Mayo Clinic physicians map patients&amp;#8217; brain waves to personalize epilepsy treatment</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/</link>
+		
+		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 14:05:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Nick Gregg]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407964</guid>
+
+					<description><![CDATA[<p>Neurologist Nick Gregg, M.D., and team developed a personalized approach to deep brain stimulation (DBS) that maps each patient's seizure network before epilepsy treatment.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/">Mayo Clinic physicians map patients&amp;#8217; brain waves to personalize epilepsy treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg" alt="" class="wp-image-407976" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -60,7 +182,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-1024x683.jpg" alt="Photo of Nick Gregg, M.D." class="wp-image-407972" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Nick Gregg, M.D.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-1024x683.jpg" alt="Photo of Nick Gregg, M.D." class="wp-image-407972" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/N_M_Gregg_0014-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Nick Gregg, M.D.</figcaption></figure>
 </div>
 
 
@@ -72,7 +194,7 @@
 
 
 
-<p><br>This research is part of Mayo Clinic's<strong> </strong>Bioelectronic Neuromodulation Innovation to Cure (BIONIC) initiative, which unites clinical insight with cutting-edge engineering to deliver novel diagnostics and therapies. Through intellectual property development, strategic partnerships and patient-centered trials, BIONIC transforms innovation into impact — advancing care for complex neurological conditions.<br><br>Dr. Gregg's research was supported by the Tianqiao &amp; Chrissy Chen Institute. Review the <a href="https://onlinelibrary.wiley.com/doi/10.1002/ana.78087" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.<a id="_msocom_1"></a></p>
+<p><br>This research is part of Mayo Clinic's<strong> </strong>Bioelectronic Neuromodulation Innovation to Cure (BIONIC) initiative, which unites clinical insight with cutting-edge engineering to deliver novel diagnostics and therapies. Through intellectual property development, strategic partnerships and patient-centered trials, BIONIC transforms innovation into impact — advancing care for complex neurological conditions.<br><br>Dr. Gregg's research was supported by the Tianqiao &amp;amp; Chrissy Chen Institute. Review the <a href="https://onlinelibrary.wiley.com/doi/10.1002/ana.78087" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.<a id="_msocom_1"></a></p>
 
 
 
@@ -91,37 +213,37 @@
 <ul class="wp-block-list">
 <li>Tia Ford, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/">Mayo Clinic physicians map patients’ brain waves to personalize epilepsy treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/">Mayo Clinic physicians map patients&amp;#8217; brain waves to personalize epilepsy treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan1.x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nick Gregg]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nick Gregg]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Most people with a genetic condition that causes significantly high cholesterol go undiagnosed, Mayo Clinic study finds&nbsp;&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/most-people-with-a-genetic-condition-that-causes-significantly-high-cholesterol-go-undiagnosed-mayo-clinic-study-finds/
+		<link>https://newsnetwork.mayoclinic.org/discussion/most-people-with-a-genetic-condition-that-causes-significantly-high-cholesterol-go-undiagnosed-mayo-clinic-study-finds/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Tue, 18 Nov 2025 15:15:58 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Jewel Samadder]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407967</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 15:15:58 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Jewel Samadder]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407967</guid>
 
-					<description><!--[CDATA[<p-->PHOENIX — Current genetic screening guidelines fail to identify most people with an inherited condition known as familial hypercholesterolemia that can cause dangerously high cholesterol and early heart disease, a Mayo Clinic study found.&nbsp; The condition often passes silently through families for generations. It is highly treatable, yet people who remain undiagnosed are at greater […]<p></p>
+					<description><![CDATA[<p>PHOENIX — Current genetic screening guidelines fail to identify most people with an inherited condition known as familial hypercholesterolemia that can cause dangerously high cholesterol and early heart disease, a Mayo Clinic study found.&nbsp; The condition often passes silently through families for generations. It is highly treatable, yet people who remain undiagnosed are at greater [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/most-people-with-a-genetic-condition-that-causes-significantly-high-cholesterol-go-undiagnosed-mayo-clinic-study-finds/">Most people with a genetic condition that causes significantly high cholesterol go undiagnosed, Mayo Clinic study finds&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-1024x576.png" alt="" class="wp-image-407981" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-1024x576.png" alt="" class="wp-image-407981" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -129,42 +251,42 @@
 
 
 
-<p>The condition often passes silently through families for generations. It is highly treatable, yet people who remain undiagnosed are at greater risk for heart attacks and strokes.&nbsp;</p>
+<p>The condition often passes silently through families for generations. It is highly treatable, yet people who remain undiagnosed are at greater risk for heart attacks and strokes.&amp;nbsp;</p>
 
 
 
-<p>Cardiovascular disease remains the leading cause of death in the United States, affecting millions of adults each year. It includes conditions such as coronary artery disease, heart failure and stroke. One of its key risk factors is high cholesterol.&nbsp;</p>
+<p>Cardiovascular disease remains the leading cause of death in the United States, affecting millions of adults each year. It includes conditions such as coronary artery disease, heart failure and stroke. One of its key risk factors is high cholesterol.&amp;nbsp;</p>
 
 
 
-<p>The study, <a href="https://www.ahajournals.org/doi/10.1161/CIRCGEN.125.005174" target="_blank" rel="noreferrer noopener">published</a> in Circulation: Genomic and Precision Medicine, suggests that routine screening could identify the majority of people with the inherited condition and, ultimately, save lives.&nbsp;</p>
+<p>The study, <a href="https://www.ahajournals.org/doi/10.1161/CIRCGEN.125.005174" target="_blank" rel="noreferrer noopener">published</a> in Circulation: Genomic and Precision Medicine, suggests that routine screening could identify the majority of people with the inherited condition and, ultimately, save lives.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Study reveals missed diagnoses</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Study reveals missed diagnoses</strong>&amp;nbsp;</h2>
 
 
 
-<p>Researchers found that nearly 90% of those with familial hypercholesterolemia would not have been flagged for standard genetic testing and were unaware they had the condition until DNA testing in a Mayo Clinic population-based research study identified them. About 1 in 5 had already developed coronary artery disease.&nbsp;</p>
+<p>Researchers found that nearly 90% of those with familial hypercholesterolemia would not have been flagged for standard genetic testing and were unaware they had the condition until DNA testing in a Mayo Clinic population-based research study identified them. About 1 in 5 had already developed coronary artery disease.&amp;nbsp;</p>
 
 
 
-<p>"Our findings expose a blind spot in current national guidelines, which rely on cholesterol levels and family history to determine who should receive genetic testing," says <a href="https://www.mayo.edu/research/faculty/samadder-niloy-jewel-m-d/bio-20396993" target="_blank" rel="noreferrer noopener">Niloy Jewel Samadder, M.D.</a>, lead author and a Mayo Clinic gastroenterologist and cancer geneticist at the <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>. "If we can find those at risk of cardiovascular disease early, we can treat it early and change its course and likely save lives."&nbsp;</p>
+<p>"Our findings expose a blind spot in current national guidelines, which rely on cholesterol levels and family history to determine who should receive genetic testing," says <a href="https://www.mayo.edu/research/faculty/samadder-niloy-jewel-m-d/bio-20396993" target="_blank" rel="noreferrer noopener">Niloy Jewel Samadder, M.D.</a>, lead author and a Mayo Clinic gastroenterologist and cancer geneticist at the <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>. "If we can find those at risk of cardiovascular disease early, we can treat it early and change its course and likely save lives."&amp;nbsp;</p>
 
 
 
-<p>Familial hypercholesterolemia is one of the most common genetic conditions, affecting an estimated 1 in 200 to 250 people worldwide. It causes very high levels of low-density lipoprotein (LDL) cholesterol — the "bad" cholesterol — from birth.&nbsp;&nbsp;</p>
+<p>Familial hypercholesterolemia is one of the most common genetic conditions, affecting an estimated 1 in 200 to 250 people worldwide. It causes very high levels of low-density lipoprotein (LDL) cholesterol — the "bad" cholesterol — from birth.&amp;nbsp;&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-819x1024.jpg" alt="" class="wp-image-407984" style="width:306px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Niloy Jewel Samadder, M.D</figcaption></figure></div></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-819x1024.jpg" alt="" class="wp-image-407984" style="width:306px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Samadder-Jewel-J._14157926_20240205-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Niloy Jewel Samadder, M.D</figcaption></figure></div></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-pullquote" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"Our findings expose a blind spot in current national guidelines, which rely on cholesterol levels and family history to determine who should receive genetic testing. If we can find those at risk of cardiovascular disease early, we can treat it early and change its course and likely save lives."&nbsp;</p></blockquote></figure>
+<figure class="wp-block-pullquote" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"Our findings expose a blind spot in current national guidelines, which rely on cholesterol levels and family history to determine who should receive genetic testing. If we can find those at risk of cardiovascular disease early, we can treat it early and change its course and likely save lives."&amp;nbsp;</p></blockquote></figure>
 </div>
 </div>
 
@@ -174,35 +296,35 @@
 
 
 
-<p>The study analyzed data from exome sequencing, a form of genetic testing that reads the protein-coding regions of the genome — where most disease-causing variants are found. The research included more than 84,000 participants across Mayo Clinic sites in Arizona, Florida and Minnesota through the <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-largest-ever-exome-study-offers-blueprint-for-biomedical-breakthroughs/" target="_blank" rel="noreferrer noopener">Tapestry DNA research study</a>, part of the institution's effort to integrate genomics into everyday patient care.&nbsp;&nbsp;</p>
+<p>The study analyzed data from exome sequencing, a form of genetic testing that reads the protein-coding regions of the genome — where most disease-causing variants are found. The research included more than 84,000 participants across Mayo Clinic sites in Arizona, Florida and Minnesota through the <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-largest-ever-exome-study-offers-blueprint-for-biomedical-breakthroughs/" target="_blank" rel="noreferrer noopener">Tapestry DNA research study</a>, part of the institution's effort to integrate genomics into everyday patient care.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The research team identified 419 people with genetic variants known to cause familial hypercholesterolemia. They found that nearly 75% of those individuals would not have met current clinical criteria for genetic testing based on their cholesterol levels or family history. This represents a missed opportunity for disease prevention.&nbsp;&nbsp;</p>
+<p>The research team identified 419 people with genetic variants known to cause familial hypercholesterolemia. They found that nearly 75% of those individuals would not have met current clinical criteria for genetic testing based on their cholesterol levels or family history. This represents a missed opportunity for disease prevention.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Integrating genetics into preventive care</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Integrating genetics into preventive care</strong>&amp;nbsp;</h2>
 
 
 
-<p>Dr. Samadder says the next step is to bring genetic screening into routine care to identify high-risk patients earlier and start treatment sooner.&nbsp;</p>
+<p>Dr. Samadder says the next step is to bring genetic screening into routine care to identify high-risk patients earlier and start treatment sooner.&amp;nbsp;</p>
 
 
 
-<p>The work is part of Mayo Clinic's Precure strategic priority, which aims to predict and prevent serious diseases before they advance. Through innovative technologies and population-based studies, Precure is designed to bring prevention-focused care directly to patients sooner.&nbsp;&nbsp;</p>
+<p>The work is part of Mayo Clinic's Precure strategic priority, which aims to predict and prevent serious diseases before they advance. Through innovative technologies and population-based studies, Precure is designed to bring prevention-focused care directly to patients sooner.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>For a complete list of authors, disclosures and funding, review the <a href="https://www.ahajournals.org/doi/10.1161/CIRCGEN.125.005174" target="_blank" rel="noreferrer noopener">study</a>.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>For a complete list of authors, disclosures and funding, review the <a href="https://www.ahajournals.org/doi/10.1161/CIRCGEN.125.005174" target="_blank" rel="noreferrer noopener">study</a>.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>###&nbsp;&nbsp;</p>
+<p>###&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic&nbsp;</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;&nbsp;</p>
+<p><strong>About Mayo Clinic&amp;nbsp;</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -211,7 +333,7 @@
 
 
 <ul class="wp-block-list">
-<li>Terri Malloy, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
+<li>Terri Malloy, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
 
 
@@ -224,33 +346,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1x1-heart-dna.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-heart-dna.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jewel Samadder]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jewel Samadder]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic scientists create tool to predict Alzheimer’s risk years before symptoms begin</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/
+		<title>Mayo Clinic scientists create tool to predict Alzheimer&amp;#8217;s risk years before symptoms begin</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/</link>
 		
-		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
-		<pubdate>Wed, 12 Nov 2025 23:31:51 +0000</pubdate>
-				<category><!--[CDATA[Aging]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Clifford Jack Jr]]--></category>
-		<category><!--[CDATA[Dr. Ronald Petersen]]--></category>
-		<category><!--[CDATA[Dr. Terry Therneau]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407728</guid>
+		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 23:31:51 +0000</pubDate>
+				<category><![CDATA[Aging]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Clifford Jack Jr]]></category>
+		<category><![CDATA[Dr. Ronald Petersen]]></category>
+		<category><![CDATA[Dr. Terry Therneau]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407728</guid>
 
-					<description><!--[CDATA[<p-->Researchers have developed a new tool that can estimate a person's risk of developing memory and thinking problems associated with Alzheimer's disease years before symptoms appear. <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/">Mayo Clinic scientists create tool to predict Alzheimer’s risk years before symptoms begin</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>Researchers have developed a new tool that can estimate a person's risk of developing memory and thinking problems associated with Alzheimer's disease years before symptoms appear. </p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/">Mayo Clinic scientists create tool to predict Alzheimer&amp;#8217;s risk years before symptoms begin</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-1024x576.jpg" alt="Photo of woman in city area." class="wp-image-407759" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-1024x576.jpg" alt="Photo of woman in city area." class="wp-image-407759" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 
 
 
@@ -270,7 +392,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="776" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-776x1024.jpg" alt="Photo of Dr. Clifford Jack, Jr." class="wp-image-407731" style="width:239px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-776x1024.jpg 776w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-227x300.jpg 227w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-768x1014.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-1163x1536.jpg 1163w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-1551x2048.jpg 1551w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012.jpg 1910w" sizes="auto, (max-width: 776px) 100vw, 776px"><figcaption class="wp-element-caption">Clifford Jack, Jr., M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="776" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-776x1024.jpg" alt="Photo of Dr. Clifford Jack, Jr." class="wp-image-407731" style="width:239px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-776x1024.jpg 776w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-227x300.jpg 227w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-768x1014.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-1163x1536.jpg 1163w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012-1551x2048.jpg 1551w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Clifford-Jack-WF5115610_0012.jpg 1910w" sizes="auto, (max-width: 776px) 100vw, 776px" /><figcaption class="wp-element-caption">Clifford Jack, Jr., M.D.</figcaption></figure></div>
 
 
 <p>"What's exciting now is that we're looking even earlier — before symptoms begin — to see if we can predict who might be at greatest risk of developing cognitive problems in the future," says <a href="https://www.mayo.edu/research/faculty/jack-clifford-r-jr-m-d/bio-00026247" target="_blank" rel="noreferrer noopener">Clifford Jack, Jr., M.D.</a>, radiologist and lead author of the study.</p>
@@ -281,7 +403,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-1024x683.jpg" alt="Photo of Dr. Ronald Petersen" class="wp-image-407733" style="width:334px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Ronald Petersen, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-1024x683.jpg" alt="Photo of Dr. Ronald Petersen" class="wp-image-407733" style="width:334px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1418006_3625687_0006-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ronald Petersen, M.D., Ph.D.</figcaption></figure></div>
 
 
 <p>"This kind of risk estimate could eventually help people and their doctors decide when to begin therapy or make lifestyle changes that may delay the onset of symptoms. It's similar to how cholesterol levels help predict heart attack risk," says <a href="https://www.mayo.edu/research/faculty/petersen-ronald-c-m-d-ph-d/bio-00078363" target="_blank" rel="noreferrer noopener">Ronald Petersen, M.D., Ph.D.</a>, neurologist and director of the Mayo Clinic Study of Aging, who is a co-author of the study.</p>
@@ -292,7 +414,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-819x1024.jpg" alt="Photo of Dr. Terry Therneau" class="wp-image-407734" style="width:240px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-1639x2048.jpg 1639w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Terry Therneau, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-819x1024.jpg" alt="Photo of Dr. Terry Therneau" class="wp-image-407734" style="width:240px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Therneau-Terry-M._10167951_202505071328-1639x2048.jpg 1639w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Terry Therneau, Ph.D.</figcaption></figure></div>
 
 
 <p>"This gives us a uniquely accurate picture of how Alzheimer's unfolds in the community," says <a href="https://www.mayo.edu/research/faculty/therneau-terry-m-ph-d/bio-00025991" target="_blank" rel="noreferrer noopener">Terry Therneau, Ph.D.</a>, who led the statistical analysis and is the senior author of the study. "We found that the incident rate of dementia was two times greater among the people who dropped out of the study than those who continued to participate."</p>
@@ -323,11 +445,11 @@
 
 
 
-<p>###&nbsp;</p>
+<p>###&amp;nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic&nbsp;<br></strong><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;</p>
+<p><strong>About Mayo Clinic&amp;nbsp;<br></strong><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&amp;nbsp;</p>
 
 
 
@@ -338,63 +460,63 @@
 <ul class="wp-block-list">
 <li>Tia Ford, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/">Mayo Clinic scientists create tool to predict Alzheimer’s risk years before symptoms begin</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/">Mayo Clinic scientists create tool to predict Alzheimer&amp;#8217;s risk years before symptoms begin</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1699021178-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Clifford Jack Jr]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ronald Petersen]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Terry Therneau]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Clifford Jack Jr]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ronald Petersen]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Terry Therneau]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers use AI and genetics to identify early signs of a rare, life-threatening heart condition</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-ai-and-genetics-to-identify-early-signs-of-a-rare-life-threatening-heart-condition/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-ai-and-genetics-to-identify-early-signs-of-a-rare-life-threatening-heart-condition/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Mon, 10 Nov 2025 11:00:00 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Translational Science]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Ammar Killu]]--></category>
-		<category><!--[CDATA[Dr. John Giudicessi]]--></category>
-		<category><!--[CDATA[Dr. Peter Noseworthy]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407545</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Mon, 10 Nov 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Translational Science]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Ammar Killu]]></category>
+		<category><![CDATA[Dr. John Giudicessi]]></category>
+		<category><![CDATA[Dr. Peter Noseworthy]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407545</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. —&nbsp;At&nbsp;Mayo Clinic, cardiologists&nbsp;Peter Noseworthy, M.D., and&nbsp;John Giudicessi, M.D., Ph.D., are uncovering the earliest signs of a genetic heart condition that often strikes without warning. Their work shows that&nbsp;early detection, and even&nbsp;prevention,&nbsp;may be possible long before symptoms appear.&nbsp; The condition,&nbsp;arrhythmogenic right ventricular cardiomyopathy, weakens the&nbsp;molecules&nbsp;that hold heart cells together. As those bonds deteriorate, healthy&nbsp;muscle […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. —&amp;#160;At&amp;#160;Mayo Clinic, cardiologists&amp;#160;Peter Noseworthy, M.D., and&amp;#160;John Giudicessi, M.D., Ph.D., are uncovering the earliest signs of a genetic heart condition that often strikes without warning. Their work shows that&amp;#160;early detection, and even&amp;#160;prevention,&amp;#160;may be possible long before symptoms appear.&amp;#160; The condition,&amp;#160;arrhythmogenic right ventricular cardiomyopathy, weakens the&amp;#160;molecules&amp;#160;that hold heart cells together. As those bonds deteriorate, healthy&amp;#160;muscle [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-ai-and-genetics-to-identify-early-signs-of-a-rare-life-threatening-heart-condition/">Mayo Clinic researchers use AI and genetics to identify early signs of a rare, life-threatening heart condition</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-1024x576.png" alt="" class="wp-image-407726" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-1024x576.png" alt="" class="wp-image-407726" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>ROCHESTER, Minn. —&nbsp;At&nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, cardiologists&nbsp;<a href="https://www.mayo.edu/research/faculty/noseworthy-peter-a-m-d-m-b-a/bio-20094212" target="_blank" rel="noreferrer noopener">Peter Noseworthy, M.D.</a>, and&nbsp;<a href="https://www.mayoclinic.org/biographies/giudicessi-john-r-m-d-ph-d/bio-20532305" target="_blank" rel="noreferrer noopener">John Giudicessi, M.D., Ph.D.</a>, are uncovering the earliest signs of a genetic heart condition that often strikes without warning. Their work shows that&nbsp;early detection, and even&nbsp;prevention,&nbsp;may be possible long before symptoms appear.&nbsp;</p>
+<p>ROCHESTER, Minn. —&amp;nbsp;At&amp;nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, cardiologists&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/noseworthy-peter-a-m-d-m-b-a/bio-20094212" target="_blank" rel="noreferrer noopener">Peter Noseworthy, M.D.</a>, and&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/giudicessi-john-r-m-d-ph-d/bio-20532305" target="_blank" rel="noreferrer noopener">John Giudicessi, M.D., Ph.D.</a>, are uncovering the earliest signs of a genetic heart condition that often strikes without warning. Their work shows that&amp;nbsp;early detection, and even&amp;nbsp;prevention,&amp;nbsp;may be possible long before symptoms appear.&amp;nbsp;</p>
 
 
 
-<p>The condition,&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cardiomyopathy/symptoms-causes/syc-20370709" target="_blank" rel="noreferrer noopener">arrhythmogenic right ventricular cardiomyopathy</a>, weakens the&nbsp;molecules&nbsp;that hold heart cells together. As those bonds deteriorate, healthy&nbsp;muscle is&nbsp;replaced with scar&nbsp;tissue&nbsp;and fat,&nbsp;leaving the heart weaker.&nbsp;&nbsp;</p>
+<p>The condition,&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/cardiomyopathy/symptoms-causes/syc-20370709" target="_blank" rel="noreferrer noopener">arrhythmogenic right ventricular cardiomyopathy</a>, weakens the&amp;nbsp;molecules&amp;nbsp;that hold heart cells together. As those bonds deteriorate, healthy&amp;nbsp;muscle is&amp;nbsp;replaced with scar&amp;nbsp;tissue&amp;nbsp;and fat,&amp;nbsp;leaving the heart weaker.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The disease often advances silently. Sometimes the first sign is&nbsp;when a person&nbsp;suddenly&nbsp;collapses&nbsp;during exercise. For many,&nbsp;a&nbsp;diagnosis comes only after the heart is already damaged. Detecting it earlier could spare patients from heart failure,&nbsp;the need for a&nbsp;transplant or sudden death.&nbsp;</p>
+<p>The disease often advances silently. Sometimes the first sign is&amp;nbsp;when a person&amp;nbsp;suddenly&amp;nbsp;collapses&amp;nbsp;during exercise. For many,&amp;nbsp;a&amp;nbsp;diagnosis comes only after the heart is already damaged. Detecting it earlier could spare patients from heart failure,&amp;nbsp;the need for a&amp;nbsp;transplant or sudden death.&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-819x1024.jpg" alt="" class="wp-image-407619" style="width:301px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Dr. Peter Noseworthy</figcaption></figure></div></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-819x1024.jpg" alt="" class="wp-image-407619" style="width:301px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Noseworthy-Peter-A._14421810_20240205-2-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Dr. Peter Noseworthy</figcaption></figure></div></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-pullquote alignleft has-medium-font-size" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"We spend so much time managing the consequences of this disease — ablations, transplants, repeated hospitalizations. It's a much better paradigm to ask:&nbsp;What can we do to prevent this in the first place?"&nbsp;</p></blockquote></figure>
+<figure class="wp-block-pullquote alignleft has-medium-font-size" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"We spend so much time managing the consequences of this disease — ablations, transplants, repeated hospitalizations. It's a much better paradigm to ask:&amp;nbsp;What can we do to prevent this in the first place?"&amp;nbsp;</p></blockquote></figure>
 </div>
 </div>
 
@@ -404,34 +526,34 @@
 
 
 
-<p>"We spend so much time managing the consequences of this disease — ablations, transplants, repeated hospitalizations,"&nbsp;Dr. Noseworthy&nbsp;says.&nbsp;"It's a much better paradigm to ask:&nbsp;What can we do to prevent this in the first place?"&nbsp;</p>
+<p>"We spend so much time managing the consequences of this disease — ablations, transplants, repeated hospitalizations,"&amp;nbsp;Dr. Noseworthy&amp;nbsp;says.&amp;nbsp;"It's a much better paradigm to ask:&amp;nbsp;What can we do to prevent this in the first place?"&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Leading a new era of heart care</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Leading a new era of heart care</strong>&amp;nbsp;</h2>
 
 
 
-<p>Dr. Noseworthy leads Mayo Clinic's Division of Heart Rhythm Services, where he cares for patients with heart rhythm disorders and helps guide innovation strategies&nbsp;across the institution. Much of his research centers on using digital tools and&nbsp;artificial intelligence (AI)&nbsp;to detect problems earlier and improve patient care.&nbsp;</p>
+<p>Dr. Noseworthy leads Mayo Clinic's Division of Heart Rhythm Services, where he cares for patients with heart rhythm disorders and helps guide innovation strategies&amp;nbsp;across the institution. Much of his research centers on using digital tools and&amp;nbsp;artificial intelligence (AI)&amp;nbsp;to detect problems earlier and improve patient care.&amp;nbsp;</p>
 
 
 
-<p>Dr. Giudicessi, a&nbsp;genetic cardiologist, focuses on inherited heart rhythm conditions and how genetic changes influence who develops disease. His work bridges patient care and laboratory research, including&nbsp;first-in-human clinical trials&nbsp;that explore the potential of gene therapy.&nbsp;</p>
+<p>Dr. Giudicessi, a&amp;nbsp;genetic cardiologist, focuses on inherited heart rhythm conditions and how genetic changes influence who develops disease. His work bridges patient care and laboratory research, including&amp;nbsp;first-in-human clinical trials&amp;nbsp;that explore the potential of gene therapy.&amp;nbsp;</p>
 
 
 
-<p>Together, they&nbsp;turned to two powerful data sources: the genetic code that shapes the heart and the electrical signals that guide its rhythm.&nbsp;</p>
+<p>Together, they&amp;nbsp;turned to two powerful data sources: the genetic code that shapes the heart and the electrical signals that guide its rhythm.&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-853x1024.jpg" alt="" class="wp-image-407616" style="width:328px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px"><figcaption class="wp-element-caption">Dr. John Giudicessi</figcaption></figure></div></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-853x1024.jpg" alt="" class="wp-image-407616" style="width:328px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Giudicessi-John-R._14433664_202107200353-1.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px" /><figcaption class="wp-element-caption">Dr. John Giudicessi</figcaption></figure></div></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-pullquote alignleft has-medium-font-size" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"So much of medicine is reactionary&nbsp;— we wait for something bad to happen. This work is ushering in the tools to&nbsp;push&nbsp;against disease&nbsp;and&nbsp;to identify it early."&nbsp;</p></blockquote></figure>
+<figure class="wp-block-pullquote alignleft has-medium-font-size" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"So much of medicine is reactionary&amp;nbsp;— we wait for something bad to happen. This work is ushering in the tools to&amp;nbsp;push&amp;nbsp;against disease&amp;nbsp;and&amp;nbsp;to identify it early."&amp;nbsp;</p></blockquote></figure>
 </div>
 </div>
 
@@ -441,38 +563,38 @@
 
 
 
-<h2 class="wp-block-heading"><strong>Pinpointing risk in genes and rhythm&nbsp;</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Pinpointing risk in genes and rhythm&amp;nbsp;</strong>&amp;nbsp;</h2>
 
 
 
-<p>Their search for answers started&nbsp;in&nbsp;Mayo Clinic's new Research Data Atlas,&nbsp;which unites decades of genetic, clinical and biospecimen data.&nbsp;Within it, they&nbsp;identified&nbsp;people carrying&nbsp;disease-causing&nbsp;mutations in&nbsp;PKP2,&nbsp;the gene most often linked to this disease.&nbsp;&nbsp;</p>
+<p>Their search for answers started&amp;nbsp;in&amp;nbsp;Mayo Clinic's new Research Data Atlas,&amp;nbsp;which unites decades of genetic, clinical and biospecimen data.&amp;nbsp;Within it, they&amp;nbsp;identified&amp;nbsp;people carrying&amp;nbsp;disease-causing&amp;nbsp;mutations in&amp;nbsp;PKP2,&amp;nbsp;the gene most often linked to this disease.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>About 1 in 2,000 people carry&nbsp;a mutation in the&nbsp;PKP2&nbsp;gene, but many&nbsp;never develop&nbsp;the&nbsp;disease.&nbsp;The challenge is knowing who will — and stepping in early enough to change the outcome. That question drives Dr. Giudicessi's work.&nbsp;</p>
+<p>About 1 in 2,000 people carry&amp;nbsp;a mutation in the&amp;nbsp;PKP2&amp;nbsp;gene, but many&amp;nbsp;never develop&amp;nbsp;the&amp;nbsp;disease.&amp;nbsp;The challenge is knowing who will — and stepping in early enough to change the outcome. That question drives Dr. Giudicessi's work.&amp;nbsp;</p>
 
 
 
-<p>"So much of medicine is reactionary&nbsp;— we wait for something bad to happen,"&nbsp;Dr. Giudicessi says.&nbsp;"This work is ushering in the tools to&nbsp;push&nbsp;against disease&nbsp;and&nbsp;to identify it early."&nbsp;</p>
+<p>"So much of medicine is reactionary&amp;nbsp;— we wait for something bad to happen,"&amp;nbsp;Dr. Giudicessi says.&amp;nbsp;"This work is ushering in the tools to&amp;nbsp;push&amp;nbsp;against disease&amp;nbsp;and&amp;nbsp;to identify it early."&amp;nbsp;</p>
 
 
 
-<p>To spot those early rhythm changes, the team drew on an AI model developed by&nbsp;Mayo Clinic cardiologist&nbsp;<a href="https://www.mayo.edu/research/faculty/killu-ammar-m-m-b-b-s/bio-20537109" target="_blank" rel="noreferrer noopener">Ammar Killu, M.B.B.S.</a>,&nbsp;and his team.&nbsp;&nbsp;</p>
+<p>To spot those early rhythm changes, the team drew on an AI model developed by&amp;nbsp;Mayo Clinic cardiologist&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/killu-ammar-m-m-b-b-s/bio-20537109" target="_blank" rel="noreferrer noopener">Ammar Killu, M.B.B.S.</a>,&amp;nbsp;and his team.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Analyzing&nbsp;electrocardiograms from patients with a PKP2 mutation, the AI helped the researchers&nbsp;identify&nbsp;faint patterns that marked the first signs of disease.&nbsp;&nbsp;</p>
+<p>Analyzing&amp;nbsp;electrocardiograms from patients with a PKP2 mutation, the AI helped the researchers&amp;nbsp;identify&amp;nbsp;faint patterns that marked the first signs of disease.&amp;nbsp;&amp;nbsp;</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-853x1024.jpg" alt="" class="wp-image-407617" style="width:315px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px"><figcaption class="wp-element-caption">Dr. Ammar Killu</figcaption></figure></div></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="853" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-853x1024.jpg" alt="" class="wp-image-407617" style="width:315px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-853x1024.jpg 853w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-250x300.jpg 250w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945-768x922.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Killu-Ammar-M.-MBBS_15346978_201709080945.jpg 1250w" sizes="auto, (max-width: 853px) 100vw, 853px" /><figcaption class="wp-element-caption">Dr. Ammar Killu</figcaption></figure></div></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-pullquote" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"This research shows how&nbsp;AI&nbsp;can help us&nbsp;identify really subtle changes that may facilitate earlier diagnosis and then&nbsp;allow us to&nbsp;move beyond individual cases to understand&nbsp;patterns across populations."</p></blockquote></figure>
+<figure class="wp-block-pullquote" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"This research shows how&amp;nbsp;AI&amp;nbsp;can help us&amp;nbsp;identify really subtle changes that may facilitate earlier diagnosis and then&amp;nbsp;allow us to&amp;nbsp;move beyond individual cases to understand&amp;nbsp;patterns across populations."</p></blockquote></figure>
 </div>
 </div>
 
@@ -482,27 +604,27 @@
 
 
 
-<p>"This research shows how&nbsp;AI&nbsp;can help us&nbsp;identify really subtle changes that may facilitate earlier diagnosis and then&nbsp;allow us to&nbsp;move beyond individual cases to understand&nbsp;patterns across populations,"&nbsp;Dr.&nbsp;Killu&nbsp;says.&nbsp;"It's a powerful example of how we can scale early detection to reach more patients before disease takes hold."&nbsp;</p>
+<p>"This research shows how&amp;nbsp;AI&amp;nbsp;can help us&amp;nbsp;identify really subtle changes that may facilitate earlier diagnosis and then&amp;nbsp;allow us to&amp;nbsp;move beyond individual cases to understand&amp;nbsp;patterns across populations,"&amp;nbsp;Dr.&amp;nbsp;Killu&amp;nbsp;says.&amp;nbsp;"It's a powerful example of how we can scale early detection to reach more patients before disease takes hold."&amp;nbsp;</p>
 
 
 
-<p>Those insights led to&nbsp;a next&nbsp;step.&nbsp;Guided by the AI findings,&nbsp;Dr.&nbsp;Noseworthy&nbsp;and Dr.&nbsp;Giudicessi&nbsp;provided smartwatches to people&nbsp;who were&nbsp;showing early signs of disease. The devices help track daily activity levels&nbsp;—&nbsp;important&nbsp;data, since strenuous exercise can accelerate the disease, while even small adjustments may help slow it.&nbsp;</p>
+<p>Those insights led to&amp;nbsp;a next&amp;nbsp;step.&amp;nbsp;Guided by the AI findings,&amp;nbsp;Dr.&amp;nbsp;Noseworthy&amp;nbsp;and Dr.&amp;nbsp;Giudicessi&amp;nbsp;provided smartwatches to people&amp;nbsp;who were&amp;nbsp;showing early signs of disease. The devices help track daily activity levels&amp;nbsp;—&amp;nbsp;important&amp;nbsp;data, since strenuous exercise can accelerate the disease, while even small adjustments may help slow it.&amp;nbsp;</p>
 
 
 
-<p>The researchers are also exploring gene therapy for PKP2. Still in early testing, the approach may one day restore the missing gene and keep the disease from advancing.&nbsp;</p>
+<p>The researchers are also exploring gene therapy for PKP2. Still in early testing, the approach may one day restore the missing gene and keep the disease from advancing.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Building medicine's next chapter</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Building medicine's next chapter</strong>&amp;nbsp;</h2>
 
 
 
-<p>Their&nbsp;work is part of&nbsp;a larger shift at Mayo Clinic: predicting and preventing disease before it takes hold. That vision drives Precure, an initiative to intercept serious conditions early enough to alter their course. With tools like the Research Data Atlas, investigators can study health patterns across large populations, detect risk sooner and&nbsp;potentially&nbsp;guide people to care before disease advances.&nbsp;</p>
+<p>Their&amp;nbsp;work is part of&amp;nbsp;a larger shift at Mayo Clinic: predicting and preventing disease before it takes hold. That vision drives Precure, an initiative to intercept serious conditions early enough to alter their course. With tools like the Research Data Atlas, investigators can study health patterns across large populations, detect risk sooner and&amp;nbsp;potentially&amp;nbsp;guide people to care before disease advances.&amp;nbsp;</p>
 
 
 
-<p>For Dr. Noseworthy, Dr. Giudicessi and Dr. Killu, the&nbsp;vision&nbsp;is bigger than a single study. They are helping build the infrastructure to move medicine earlier in the course of disease, where illness can be intercepted at scale.&nbsp;</p>
+<p>For Dr. Noseworthy, Dr. Giudicessi and Dr. Killu, the&amp;nbsp;vision&amp;nbsp;is bigger than a single study. They are helping build the infrastructure to move medicine earlier in the course of disease, where illness can be intercepted at scale.&amp;nbsp;</p>
 
 
 
@@ -510,7 +632,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.&nbsp;&nbsp;</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -519,7 +641,7 @@
 
 
 <ul class="wp-block-list">
-<li>Terri Malloy, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
+<li>Terri Malloy, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-ai-and-genetics-to-identify-early-signs-of-a-rare-life-threatening-heart-condition/">Mayo Clinic researchers use AI and genetics to identify early signs of a rare, life-threatening heart condition</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -528,31 +650,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1x1-cardiology55.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-cardiology77.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ammar Killu]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. John Giudicessi]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Peter Noseworthy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ammar Killu]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. John Giudicessi]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Peter Noseworthy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers identify a new stem cell patch to gently heal damaged hearts</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-new-stem-cell-patch-to-gently-heal-damaged-hearts/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-new-stem-cell-patch-to-gently-heal-damaged-hearts/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Wed, 05 Nov 2025 16:17:48 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Wugiang Zhu]]--></category>
-		<category><!--[CDATA[Stem Cells]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407550</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2025 16:17:48 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Wugiang Zhu]]></category>
+		<category><![CDATA[Stem Cells]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407550</guid>
 
-					<description><!--[CDATA[<p-->PHOENIX&nbsp;—&nbsp;Mayo Clinic&nbsp;researchers have developed a pioneering method to mend damaged hearts without open-heart surgery, an advance that could one day transform the treatment of heart failure.&nbsp; The new approach uses lab-grown heart tissue made from reprogrammed adult stem cells, delivered through a tiny incision rather than a surgically opened chest cavity. In preclinical testing, the […]<p></p>
+					<description><![CDATA[<p>PHOENIX&nbsp;—&nbsp;Mayo Clinic&nbsp;researchers have developed a pioneering method to mend damaged hearts without open-heart surgery, an advance that could one day transform the treatment of heart failure.&nbsp; The new approach uses lab-grown heart tissue made from reprogrammed adult stem cells, delivered through a tiny incision rather than a surgically opened chest cavity. In preclinical testing, the [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-new-stem-cell-patch-to-gently-heal-damaged-hearts/">Mayo Clinic researchers identify a new stem cell patch to gently heal damaged hearts</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg" alt="A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath." class="wp-image-407637" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9.jpg 1425w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg" alt="A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath." class="wp-image-407637" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9.jpg 1425w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath.</figcaption></figure>
 
 
 
@@ -564,7 +686,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="855" height="855" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg" alt="Wuqiang Zhu, Ph.D." class="wp-image-407638" style="width:154px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg 855w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 855px) 100vw, 855px"><figcaption class="wp-element-caption">Wuqiang Zhu, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="855" height="855" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg" alt="Wuqiang Zhu, Ph.D." class="wp-image-407638" style="width:154px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg 855w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 855px) 100vw, 855px" /><figcaption class="wp-element-caption">Wuqiang Zhu, Ph.D.</figcaption></figure></div>
 
 
 <p>"For patients with severe heart failure, there are very few options beyond mechanical pumps or transplants. We hope this approach will offer a new way to repair their own hearts," says&nbsp;<a href="https://www.mayo.edu/research/faculty/zhu-wuqiang-m-d-ph-d/bio-20465805" target="_blank" rel="noreferrer noopener">Wuqiang Zhu, Ph.D.</a>, senior author of the&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S174270612500649X?via%3Dihub" target="_blank" rel="noreferrer noopener">study</a>&nbsp;published in Acta Biomaterialia and a cardiovascular researcher at&nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/arizona" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>.</p>
@@ -583,7 +705,7 @@
 
 
 
-<p>For years, scientists have been working on ways to replace damaged tissue with healthy heart cells derived from stem cells. Early efforts showed promise, but most required open-heart surgery<a>&nbsp;—&nbsp;</a>a procedure too risky for many patients already struggling with severe&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142" target="_blank" rel="noreferrer noopener">heart failure</a>.</p>
+<p>For years, scientists have been working on ways to replace damaged tissue with healthy heart cells derived from stem cells. Early efforts showed promise, but most required open-heart surgery<a>&amp;nbsp;—&amp;nbsp;</a>a procedure too risky for many patients already struggling with severe&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142" target="_blank" rel="noreferrer noopener">heart failure</a>.</p>
 
 
 
@@ -655,7 +777,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.&nbsp;</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.&amp;nbsp;</p>
 
 
 
@@ -673,33 +795,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Wugiang Zhu]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Stem Cells]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Wugiang Zhu]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Stem Cells]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>How Mayo Clinic experts are using AI to better detect sleep apnea, especially in women</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/how-mayo-clinic-experts-are-using-ai-to-better-detect-sleep-apnea-especially-in-women/
+		<link>https://newsnetwork.mayoclinic.org/discussion/how-mayo-clinic-experts-are-using-ai-to-better-detect-sleep-apnea-especially-in-women/</link>
 		
-		<dc:creator><!--[CDATA[Vincent Jacobbi]]--></dc:creator>
-		<pubdate>Tue, 04 Nov 2025 13:30:00 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Rochester]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[AI ECG]]--></category>
-		<category><!--[CDATA[Dr. Virend Somers]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[sleep apnea]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407501</guid>
+		<dc:creator><![CDATA[Vincent Jacobbi]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Rochester]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[AI ECG]]></category>
+		<category><![CDATA[Dr. Virend Somers]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[sleep apnea]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407501</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have developed an artificial intelligence (AI) algorithm that can identify obstructive sleep apnea (OSA) using the results from an electrocardiogram (ECG) – a common heart test. The innovation could make it faster, cheaper, and easier to spot sleep apnea, particularly in women, who are often underdiagnosed. A common but […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have developed an artificial intelligence (AI) algorithm that can identify obstructive sleep apnea (OSA) using the results from an electrocardiogram (ECG) – a common heart test. The innovation could make it faster, cheaper, and easier to spot sleep apnea, particularly in women, who are often underdiagnosed. A common but [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/how-mayo-clinic-experts-are-using-ai-to-better-detect-sleep-apnea-especially-in-women/">How Mayo Clinic experts are using AI to better detect sleep apnea, especially in women</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316.jpg" alt="" class="wp-image-407502" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="800" height="533" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316.jpg" alt="" class="wp-image-407502" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316-768x512.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure></div>
 
 
 <p>ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have developed an artificial intelligence (AI) algorithm that can identify <a href="https://www.mayoclinic.org/diseases-conditions/obstructive-sleep-apnea/symptoms-causes/syc-20352090" target="_blank" rel="noreferrer noopener">obstructive sleep apnea (OSA)</a> using the results from an electrocardiogram (ECG) – a common heart test. The innovation could make it faster, cheaper, and easier to spot sleep apnea, particularly in women, who are often underdiagnosed.</p>
@@ -714,7 +836,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/sleep-apnea-16x9-1.jpg" alt="Medical illustration of sleep apnea" class="wp-image-249304" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/sleep-apnea-16x9-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/sleep-apnea-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/sleep-apnea-16x9-1.jpg" alt="Medical illustration of sleep apnea" class="wp-image-249304" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/sleep-apnea-16x9-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/sleep-apnea-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
 
 
 <p></p>
@@ -757,7 +879,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -775,29 +897,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Woman-sleeping-GettyImages-2226499363-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/shutterstock_283528316.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[AI ECG]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Virend Somers]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[sleep apnea]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[AI ECG]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Virend Somers]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[sleep apnea]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers find enhancing the body’s ‘first responder’ cells may boost immune therapy for cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/
+		<title>Mayo Clinic researchers find enhancing the body&amp;#8217;s &amp;#8216;first responder&amp;#8217; cells may boost immune therapy for cancer</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
-		<pubdate>Wed, 29 Oct 2025 17:14:37 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Haidong Dong]]--></category>
-		<category><!--[CDATA[Dr. Jessica Lancaster]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407363</guid>
+		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 17:14:37 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Haidong Dong]]></category>
+		<category><![CDATA[Dr. Jessica Lancaster]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407363</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have identified a specific immune cell that can be targeted to give a boost to standard immunotherapies for cancer. Two research teams, working collaboratively but using distinct approaches, found that "first-responder" immune cells known as myeloid cells can be manipulated to enhance the activity of tumor-killing T cells. The […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body’s ‘first responder’ cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have identified a specific immune cell that can be targeted to give a boost to standard immunotherapies for cancer. Two research teams, working collaboratively but using distinct approaches, found that "first-responder" immune cells known as myeloid cells can be manipulated to enhance the activity of tumor-killing T cells. The [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body&amp;#8217;s &amp;#8216;first responder&amp;#8217; cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-left-align-caption"-->
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="562" height="316" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg" alt="A live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells). They are surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured by Tina Kwok." class="wp-image-407397" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg 562w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 562px) 100vw, 562px"><figcaption class="wp-element-caption">Live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells),  surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured: Tina Kwok.</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-left-align-caption">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="562" height="316" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg" alt="A live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells). They are surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured by Tina Kwok." class="wp-image-407397" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg 562w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 562px) 100vw, 562px" /><figcaption class="wp-element-caption">Live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells),  surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured: Tina Kwok.</figcaption></figure></div>
 
 
 <p>ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have identified a specific immune cell that can be targeted to give a boost to standard immunotherapies for cancer. Two research teams, working collaboratively but using distinct approaches, found that "first-responder" immune cells known as myeloid cells can be manipulated to enhance the activity of tumor-killing T cells.</p>
@@ -816,7 +938,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg" alt="Portrait of Dr. Haidong Dong" class="wp-image-407368" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Haidong Dong, M.D., Ph.D</figcaption></figure></div>
+<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg" alt="Portrait of Dr. Haidong Dong" class="wp-image-407368" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Haidong Dong, M.D., Ph.D</figcaption></figure></div>
 
 
 <p>"Our study found the importance of the recycling process, and we present a way to address it," says <a href="https://www.mayo.edu/research/faculty/dong-haidong-m-d-ph-d/bio-00027557" target="_blank" rel="noreferrer noopener">Haidong Dong, M.D., Ph.D.</a>, a cancer immunology researcher at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/cancer-care" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> and principal investigator of the study.</p>
@@ -827,7 +949,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg" alt="Portrait of Michelle Hsu" class="wp-image-407367" style="width:200px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Michelle Hsu</figcaption></figure></div>
+<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg" alt="Portrait of Michelle Hsu" class="wp-image-407367" style="width:200px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Michelle Hsu</figcaption></figure></div>
 
 
 <p></p>
@@ -838,7 +960,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg" alt="Portrait of Dr. Jessica Lancaster" class="wp-image-407369" style="width:186px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Jessica Lancaster, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg" alt="Portrait of Dr. Jessica Lancaster" class="wp-image-407369" style="width:186px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Jessica Lancaster, Ph.D.</figcaption></figure></div>
 
 
 <p>Another Mayo Clinic team took a different approach and arrived at a similar conclusion about the importance of myeloid cells. A research team led by immunology researcher <a href="https://www.mayo.edu/research/faculty/lancaster-jessica-n-ph-d/bio-20482482" target="_blank" rel="noreferrer noopener">Jessica Lancaster, Ph.D.</a>, at <a href="https://www.mayoclinic.org/patient-visitor-guide/arizona" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>, reported in <a href="https://www.sciencedirect.com/science/article/pii/S2589004225017997" target="_blank" rel="noreferrer noopener">iScience</a> that macrophages, a type of myeloid cell, play a role in activating the cancer-killing T cells.</p>
@@ -854,7 +976,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidCcIVENx1zI" title="Tcell and macrophage" width="500" height="281" src="https://www.youtube.com/embed/-CcIVENx1zI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidCcIVENx1zI"  title="Tcell and macrophage" width="500" height="281" src="https://www.youtube.com/embed/-CcIVENx1zI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -871,7 +993,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg" alt="Portrait of Tina Kwok" class="wp-image-407366" style="width:179px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Tina Kwok</figcaption></figure></div>
+<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg" alt="Portrait of Tina Kwok" class="wp-image-407366" style="width:179px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Tina Kwok</figcaption></figure></div>
 
 
 <p><br>Further, says lead author Tina Kwok, who completed the studies during her Ph.D. research at Mayo Clinic, "We can directly reprogram tumor macrophages to be more pro-inflammatory. They can become better T-cell activators and drive better tumor control. Reprogramming of the macrophage may be key to being able to prevent therapy resistance and change outcomes for patients."</p>
@@ -898,11 +1020,11 @@
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center <br></strong>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center <br></strong>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -913,39 +1035,39 @@
 <ul class="wp-block-list">
 <li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body’s ‘first responder’ cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body&amp;#8217;s &amp;#8216;first responder&amp;#8217; cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Haidong Dong]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jessica Lancaster]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Haidong Dong]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jessica Lancaster]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic study finds majority of midlife women with menopause symptoms do not seek care</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-majority-of-midlife-women-with-menopause-symptoms-do-not-seek-care/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-majority-of-midlife-women-with-menopause-symptoms-do-not-seek-care/</link>
 		
-		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
-		<pubdate>Wed, 29 Oct 2025 09:00:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Ekta Kapoor]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407252</guid>
+		<dc:creator><![CDATA[Sharon Theimer]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Ekta Kapoor]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407252</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A new study from Mayo Clinic underscores the widespread impact of menopause symptoms on midlife women — and raises concern that most are navigating this stage of life without medical care to help manage those challenges. The study, published in Mayo Clinic Proceedings, was based on responses from nearly 5,000 women ages […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A new study from Mayo Clinic underscores the widespread impact of menopause symptoms on midlife women — and raises concern that most are navigating this stage of life without medical care to help manage those challenges. The study, published in Mayo Clinic Proceedings, was based on responses from nearly 5,000 women ages [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-majority-of-midlife-women-with-menopause-symptoms-do-not-seek-care/">Mayo Clinic study finds majority of midlife women with menopause symptoms do not seek care</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-1024x576.jpg" alt="" class="wp-image-407253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-1024x576.jpg" alt="" class="wp-image-407253" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>ROCHESTER, Minn. — A <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mayoclinicproceedings.org%2Fpb-assets%2FHealth%2520Advance%2Fjournals%2Fjmcp%2FJMCP4762.pdf&amp;data=05%7C02%7CFurst.Justin%40mayo.edu%7C96006f986b5a48bf500c08de08248578%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638957150871831386%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=zaP8jQgwJ12UEaFVekeNDuQSVbmxuVVLvIwDBREoZPw%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">new study</a> from <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> underscores the widespread impact of <a href="https://www.mayoclinic.org/diseases-conditions/menopause/symptoms-causes/syc-20353397" target="_blank" rel="noreferrer noopener">menopause</a> symptoms on midlife women — and raises concern that most are navigating this stage of life without medical care to help manage those challenges.</p>
+<p>ROCHESTER, Minn. — A <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mayoclinicproceedings.org%2Fpb-assets%2FHealth%2520Advance%2Fjournals%2Fjmcp%2FJMCP4762.pdf&amp;amp;data=05%7C02%7CFurst.Justin%40mayo.edu%7C96006f986b5a48bf500c08de08248578%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638957150871831386%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=zaP8jQgwJ12UEaFVekeNDuQSVbmxuVVLvIwDBREoZPw%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">new study</a> from <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> underscores the widespread impact of <a href="https://www.mayoclinic.org/diseases-conditions/menopause/symptoms-causes/syc-20353397" target="_blank" rel="noreferrer noopener">menopause</a> symptoms on midlife women — and raises concern that most are navigating this stage of life without medical care to help manage those challenges.</p>
 
 
 
@@ -989,7 +1111,7 @@
 
 
 
-<p>Review the study for a complete list of authors, disclosures and funding.&nbsp; A <a href="https://www.youtube.com/watch?v=31WDB0JRpVI" target="_blank" rel="noreferrer noopener">video</a> of Dr. Kapoor discussing the findings is available.</p>
+<p>Review the study for a complete list of authors, disclosures and funding.&amp;nbsp; A <a href="https://www.youtube.com/watch?v=31WDB0JRpVI" target="_blank" rel="noreferrer noopener">video</a> of Dr. Kapoor discussing the findings is available.</p>
 
 
 
@@ -1019,31 +1141,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/1x1-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9-feat-image-Kapoor-study-Proceedings-shutterstock_1428227687.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ekta Kapoor]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ekta Kapoor]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic discovery of breast cancer treatment resistance can lead to new hope for some</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-of-breast-cancer-treatment-resistance-can-lead-to-new-hope-for-some/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-of-breast-cancer-treatment-resistance-can-lead-to-new-hope-for-some/</link>
 		
-		<dc:creator><!--[CDATA[Vincent Jacobbi]]--></dc:creator>
-		<pubdate>Tue, 28 Oct 2025 17:08:27 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Rochester]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407323</guid>
+		<dc:creator><![CDATA[Vincent Jacobbi]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 17:08:27 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Rochester]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407323</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. —&nbsp;Mayo Clinic researchers have discovered a key reason why certain breast cancers might not respond to an important new class of therapeutics called antibody drug conjugates (ADCs). These treatments pair an antibody that targets cancer cells with a strong chemotherapy drug. For many patients with human epidermal growth factor receptor 2-positive (HER2+) breast […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. —&amp;#160;Mayo Clinic researchers have discovered a key reason why certain breast cancers might not respond to an important new class of therapeutics called antibody drug conjugates (ADCs). These treatments pair an antibody that targets cancer cells with a strong chemotherapy drug. For many patients with human epidermal growth factor receptor 2-positive (HER2+) breast [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-of-breast-cancer-treatment-resistance-can-lead-to-new-hope-for-some/">Mayo Clinic discovery of breast cancer treatment resistance can lead to new hope for some</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-1024x682.jpg" alt="A breast cancer patient sits on the examination table and shares her symptoms with her physician." class="wp-image-407381" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-1024x682.jpg" alt="A breast cancer patient sits on the examination table and shares her symptoms with her physician." class="wp-image-407381" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>ROCHESTER, Minn. —&nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have discovered a key reason why certain breast cancers might not respond to an important new class of therapeutics called antibody drug conjugates (ADCs). These treatments pair an antibody that targets cancer cells with a strong chemotherapy drug. For many patients with human epidermal growth factor receptor 2-positive (<a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/expert-answers/breast-cancer/faq-20058066" target="_blank" rel="noreferrer noopener">HER2+</a>) breast cancers, ADCs such as <a href="https://www.mayoclinic.org/drugs-supplements/fam-trastuzumab-deruxtecan-nxki-intravenous-route/description/drg-20481655" target="_blank" rel="noreferrer noopener">trastuzumab deruxtecan (T-DXd)</a> have dramatically improved outcomes.</p>
+<p>ROCHESTER, Minn. —&amp;nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have discovered a key reason why certain breast cancers might not respond to an important new class of therapeutics called antibody drug conjugates (ADCs). These treatments pair an antibody that targets cancer cells with a strong chemotherapy drug. For many patients with human epidermal growth factor receptor 2-positive (<a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/expert-answers/breast-cancer/faq-20058066" target="_blank" rel="noreferrer noopener">HER2+</a>) breast cancers, ADCs such as <a href="https://www.mayoclinic.org/drugs-supplements/fam-trastuzumab-deruxtecan-nxki-intravenous-route/description/drg-20481655" target="_blank" rel="noreferrer noopener">trastuzumab deruxtecan (T-DXd)</a> have dramatically improved outcomes.</p>
 
 
 
@@ -1099,16 +1221,16 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
-<p><strong>Media contact:</strong>&nbsp;</p>
+<p><strong>Media contact:</strong>&amp;nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
+<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&amp;nbsp;</li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-discovery-of-breast-cancer-treatment-resistance-can-lead-to-new-hope-for-some/">Mayo Clinic discovery of breast cancer treatment resistance can lead to new hope for some</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -1117,122 +1239,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/A-breast-cancer-patient-sits-on-the-examination-table-and-shares-her-symptoms-with-her-physician_GettyImages-2148188847_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>A new tool to find hidden ‘zombie cells’</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/a-new-tool-to-find-hidden-zombie-cells/
-		
-		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
-		<pubdate>Mon, 27 Oct 2025 13:59:05 +0000</pubdate>
-				<category><!--[CDATA[Aging]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Education]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Darren Baker]]--></category>
-		<category><!--[CDATA[Dr. L. James Maher III]]--></category>
-		<category><!--[CDATA[Dr. Nathan LeBrasseur]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407191</guid>
-
-					<description><!--[CDATA[<p-->Mayo Clinic researchers report finding a new technique to tag senescent cells. <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/a-new-tool-to-find-hidden-zombie-cells/">A new tool to find hidden ‘zombie cells’</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-left-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-16x9-1-1024x576.jpg" alt="A confocal microscopy image shows senescent cells (red) tagged with molecules known as aptamers (blue). Image reproduced from the article in Aging Cell." class="wp-image-407195" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A confocal microscopy image shows senescent cells (red) tagged with molecules known as aptamers (blue). Image reproduced from the article in Aging Cell.</figcaption>
-
-
-
-<p>ROCHESTER, Minn. —&nbsp;When it comes to treating disease, one promising avenue is addressing the presence of senescent cells. These cells — also known as "zombie cells" — stop dividing but don't die off as cells typically do. They turn up in numerous diseases, including cancer and Alzheimer's disease, and in the process of aging. While potential treatments aim to remove or repair the cells, one hurdle has been finding a way to identify them among healthy cells in living tissue.&nbsp;</p>
-
-
-
-<p>In the journal <a href="https://onlinelibrary.wiley.com/doi/10.1111/acel.70245" target="_blank" rel="noreferrer noopener">Aging Cell</a>, Mayo Clinic researchers report finding a new technique to tag senescent cells. The team used molecules known as "aptamers" — small segments of synthetic DNA that fold into three-dimensional shapes. Aptamers have the ability to attach themselves to proteins on the surfaces of cells. In mouse cells, the team found several rare aptamers, identified from among more than 100 trillion random DNA sequences, that can latch onto specific cell surface proteins and flag senescent cells.</p>
-
-
-
-<p>"This approach established the principle that aptamers are a technology that can be used to distinguish senescent cells from healthy ones," says biochemist and molecular biologist <a href="https://www.mayo.edu/research/faculty/maher-jim-iii-ph-d/bio-00027304" target="_blank" rel="noreferrer noopener">Jim Maher, III, Ph.D.</a>, a principal investigator of the study. "Though this study is a first step, the results suggest the approach could eventually apply to human cells."</p>
-
-
-
-<h2 class="wp-block-heading"><strong>From a quirky idea to collaboration &nbsp;</strong></h2>
-
-
-
-<p>The project began with the quirky idea of a Mayo Clinic graduate student who had a chance conversation with a classmate.</p>
-
-
-
-<p>Keenan Pearson, Ph.D. — who recently received his degree from <a href="https://college.mayo.edu/academics/biomedical-research-training/phd-program/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a> — was working under the mentorship of Dr. Maher, studying how aptamers might address neurodegenerative diseases or brain cancer.</p>
-
-
-
-<p>A few floors away, Sarah Jachim, Ph.D., — who was also then conducting her graduate research — was working in the lab of researcher <a href="https://www.mayo.edu/research/faculty/lebrasseur-nathan-k-ph-d-m-s/bio-00055041" target="_blank" rel="noreferrer noopener">Nathan LeBrasseur, Ph.D.</a>, Director, Mayo Clinic Robert and Arlene Kogod Center on Aging, who studies senescent cells and aging.</p>
-
-
-
-<p>At a scientific event, the two happened to chat about their graduate thesis projects. Dr. Pearson thought aptamer technology might be able to identify senescent cells. "I thought the idea was a good one, but I didn't know about the process of preparing senescent cells to test them, and that was Sarah's expertise," says Dr. Pearson, who became lead author of the publication. &nbsp;</p>
-
-
-
-<p>They pitched the idea to their mentors and to researcher <a href="https://www.mayo.edu/research/faculty/baker-darren-j-ph-d-m-s/bio-00027985" target="_blank" rel="noreferrer noopener">Darren Baker, Ph.D.</a>, who investigates therapies to treat senescent cells. At first, Dr. Maher acknowledges, the students' idea seemed "crazy" but worth pursuing. The three mentors were excited about the plan. "We frankly loved that it was the students' idea and a real synergy of two research areas," says Dr. Maher.</p>
-
-
-
-<p>The students obtained compelling results sooner than they expected and quickly recruited other student participants from the labs. Then-graduate students Brandon Wilbanks, Ph.D., Luis Prieto, Ph.D., and M.D.-Ph.D. student Caroline Doherty, each contributed additional approaches, including special microscopy techniques and more varied tissue samples. "It became encouraging to expend more effort," Dr. Jachim says, "because we could tell it was a project that was going to succeed."</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Identifying attributes of senescent cells</strong></h2>
-
-
-
-<p>&nbsp;The study has provided new information about senescent cells beyond a way to tag them. "To date, there aren't universal markers that characterize senescent cells," says Dr. Maher. "Our study was set up to be open-ended about the target surface molecules on senescent cells. The beauty of this approach is that we let the aptamers choose the molecules to bind to."</p>
-
-
-
-<p>The study found several aptamers latched onto a variant of a specific molecule on the surface of mouse cells, a protein called fibronectin. The role of this variant fibronectin in senescence is not yet understood. The finding means that aptamers may be a tool to further define unique characteristics of senescent cells.</p>
-
-
-
-<p>Additional studies will be necessary to find aptamers that can identify senescent cells in humans. Aptamers with the ability to latch onto senescent cells could potentially deliver a therapy directly to those cells. Dr. Pearson notes aptamer technology is less expensive and more versatile than conventional antibodies, proteins that are typically used to differentiate cells from one another.</p>
-
-
-
-<p>"This project demonstrated a novel concept," says Dr. Maher. "Future studies may extend the approach to applications related to senescent cells in human disease."</p>
-
-
-
-<p>See the&nbsp;<a href="https://onlinelibrary.wiley.com/doi/10.1111/acel.70245" target="_blank" rel="noreferrer noopener">study</a>&nbsp;for a complete list of authors, disclosures and funding.</p>
-
-
-
-<p>###</p>
-
-
-
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
-
-
-
-<p><strong>Media contact</strong>:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/a-new-tool-to-find-hidden-zombie-cells/">A new tool to find hidden ‘zombie cells’</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-1x1-1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Pearson-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Darren Baker]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. L. James Maher III]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nathan LeBrasseur]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Research]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
