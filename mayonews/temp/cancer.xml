@@ -1,43 +1,51 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Cancer - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/cancer/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Wed, 26 Nov 2025 16:03:58 +0000</lastbuilddate>
+	<lastBuildDate>Wed, 26 Nov 2025 16:03:58 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
 		<title>Mayo Clinic researchers identify why some lung tumors respond well to immunotherapy</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-why-some-lung-tumors-respond-well-to-immunotherapy/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-why-some-lung-tumors-respond-well-to-immunotherapy/</link>
 		
-		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
-		<pubdate>Wed, 26 Nov 2025 15:18:48 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Education]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Alan Fields]]--></category>
-		<category><!--[CDATA[Lung Cancer]]--></category>
-		<category><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=408439</guid>
+		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 15:18:48 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Alan Fields]]></category>
+		<category><![CDATA[Lung Cancer]]></category>
+		<category><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=408439</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. —&nbsp;For some patients with the most common type of lung cancer, known as lung adenocarcinoma, there's new hope.&nbsp;In a new study published in Cell Reports,&nbsp;Mayo Clinic&nbsp;researchers have found several previously unknown genetic and cellular processes that occur in lung adenocarcinoma tumors that respond well to immunotherapy. A recently approved group of drugs — […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. —&nbsp;For some patients with the most common type of lung cancer, known as lung adenocarcinoma, there's new hope.&nbsp;In a new study published in Cell Reports,&nbsp;Mayo Clinic&nbsp;researchers have found several previously unknown genetic and cellular processes that occur in lung adenocarcinoma tumors that respond well to immunotherapy. A recently approved group of drugs — [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-why-some-lung-tumors-respond-well-to-immunotherapy/">Mayo Clinic researchers identify why some lung tumors respond well to immunotherapy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-left-align-caption"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-1024x576.jpg" alt="Virtual, digital lung image" class="wp-image-408433" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9.jpg 1342w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty image</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-left-align-caption"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-1024x576.jpg" alt="Virtual, digital lung image" class="wp-image-408433" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9.jpg 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty image</figcaption></figure>
 
 
 
@@ -45,25 +53,25 @@
 
 
 
-<p>A recently approved group of drugs — immune checkpoint inhibitors — can boost the body's ability to eliminate a tumor and even keep the cancer from coming back. However, while the medications work well for some people, the drugs aren't effective for many other patients with the disease — and researchers are trying to determine why.&nbsp;</p>
+<p>A recently approved group of drugs — immune checkpoint inhibitors — can boost the body's ability to eliminate a tumor and even keep the cancer from coming back. However, while the medications work well for some people, the drugs aren't effective for many other patients with the disease — and researchers are trying to determine why.&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-1024x1024.jpg" alt="Alan Fields, Ph.D." class="wp-image-408396" style="width:290px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Alan Fields, Ph.D.</figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-1024x1024.jpg" alt="Alan Fields, Ph.D." class="wp-image-408396" style="width:290px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Fields-Alan-P._14202000_20221121-1x1-1-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Alan Fields, Ph.D.</figcaption></figure></div>
 
 
-<p>"Our study describes the events that occur when a patient's tumor harbors only one copy of a cancer-causing gene, which occurs in 20% of cases," says&nbsp;<a href="https://www.mayo.edu/research/faculty/fields-alan-p-ph-d/bio-00028181" target="_blank" rel="noreferrer noopener">Alan P. Fields, Ph.D.</a>, a cancer biologist at&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&nbsp;and the principal investigator of the study.&nbsp;</p>
+<p>"Our study describes the events that occur when a patient's tumor harbors only one copy of a cancer-causing gene, which occurs in 20% of cases," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/fields-alan-p-ph-d/bio-00028181" target="_blank" rel="noreferrer noopener">Alan P. Fields, Ph.D.</a>, a cancer biologist at&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>&amp;nbsp;and the principal investigator of the study.&amp;nbsp;</p>
 
 
 
-<p>The research team found that the missing tumor-driving gene, known as PRKCI, results in tumors that are less aggressive. The missing gene also cultivates a more powerful immune response to tumors. Surprisingly, the research team found the improved immune response occurs with help from unexpected players: senescent tumor cells, also known as "<a href="https://newsnetwork.mayoclinic.org/discussion/a-new-tool-to-find-hidden-zombie-cells/" target="_blank" rel="noreferrer noopener">zombie cells</a>," which are typically associated with negative consequences of disease and aging.&nbsp;</p>
+<p>The research team found that the missing tumor-driving gene, known as PRKCI, results in tumors that are less aggressive. The missing gene also cultivates a more powerful immune response to tumors. Surprisingly, the research team found the improved immune response occurs with help from unexpected players: senescent tumor cells, also known as "<a href="https://newsnetwork.mayoclinic.org/discussion/a-new-tool-to-find-hidden-zombie-cells/" target="_blank" rel="noreferrer noopener">zombie cells</a>," which are typically associated with negative consequences of disease and aging.&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img decoding="async" width="517" height="517" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1.jpg" alt="Joey Nguyen" class="wp-image-408394" style="width:190px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1.jpg 517w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1-150x150.jpg 150w" sizes="(max-width: 517px) 100vw, 517px"><figcaption class="wp-element-caption">Joey Nguyen</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img decoding="async" width="517" height="517" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1.jpg" alt="Joey Nguyen" class="wp-image-408394" style="width:190px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1.jpg 517w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Nguyen-Joey-T._30027902_202507312018-1x1-1-150x150.jpg 150w" sizes="(max-width: 517px) 100vw, 517px" /><figcaption class="wp-element-caption">Joey Nguyen</figcaption></figure></div>
 
 
-<p>The study identified markers that may predict a positive response to immunotherapy and "ultimately may help clinicians stratify patients who are candidates for immune checkpoint inhibitors," says Joey Nguyen, a graduate student at&nbsp;<a href="https://college.mayo.edu/academics/biomedical-research-training/phd-program/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a>&nbsp;and lead author of the publication.&nbsp;</p>
+<p>The study identified markers that may predict a positive response to immunotherapy and "ultimately may help clinicians stratify patients who are candidates for immune checkpoint inhibitors," says Joey Nguyen, a graduate student at&amp;nbsp;<a href="https://college.mayo.edu/academics/biomedical-research-training/phd-program/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a>&amp;nbsp;and lead author of the publication.&amp;nbsp;</p>
 
 
 
@@ -75,19 +83,19 @@
 
 
 
-<p>Lung adenocarcinoma&nbsp;represents 40% of lung cancers in the U.S. and is the leading cause of cancer death. It's strongly associated with smoking, but it's also the most common type of lung cancer to occur in people who have never smoked, likely because of a combination of genetics and other environmental factors.&nbsp;&nbsp;</p>
+<p>Lung adenocarcinoma&amp;nbsp;represents 40% of lung cancers in the U.S. and is the leading cause of cancer death. It's strongly associated with smoking, but it's also the most common type of lung cancer to occur in people who have never smoked, likely because of a combination of genetics and other environmental factors.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Dr. Fields' lab at Mayo Clinic in Florida has long studied the effect of the PRKCI gene, which drives tumor growth. The gene also suppresses the immune system, keeping cancer-killing immune cells at bay. Because lung tumors depend on the gene to proliferate, Dr. Fields' team was surprised to find that in cases where a copy of the gene is missing, lung adenocarcinoma tumors still occur. Nguyen, who was studying PRKCI in the lab, was inspired to try to learn more about those unusual tumors.&nbsp;&nbsp;</p>
+<p>Dr. Fields' lab at Mayo Clinic in Florida has long studied the effect of the PRKCI gene, which drives tumor growth. The gene also suppresses the immune system, keeping cancer-killing immune cells at bay. Because lung tumors depend on the gene to proliferate, Dr. Fields' team was surprised to find that in cases where a copy of the gene is missing, lung adenocarcinoma tumors still occur. Nguyen, who was studying PRKCI in the lab, was inspired to try to learn more about those unusual tumors.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Early experiments found that the tumors without PRKCI grow less aggressively. The team also found that when PRKCI is missing, lung adenocarcinoma cells behave in an unusual way in their very early development, acquiring characteristics of lung cells that regenerate lung tissue after damage.&nbsp;</p>
+<p>Early experiments found that the tumors without PRKCI grow less aggressively. The team also found that when PRKCI is missing, lung adenocarcinoma cells behave in an unusual way in their very early development, acquiring characteristics of lung cells that regenerate lung tissue after damage.&amp;nbsp;</p>
 
 
 
-<p>The team collaborated with the lab of systems biology researcher&nbsp;<a href="https://www.mayo.edu/research/faculty/li-hu-ph-d/bio-20035057" target="_blank" rel="noreferrer noopener">Hu Li, Ph.D.</a>, to examine the process at a single cell level. "We found that the loss of PRKCI forces tumor cells to hijack a lung regeneration process to generate a tumor," Nguyen says.&nbsp;</p>
+<p>The team collaborated with the lab of systems biology researcher&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/li-hu-ph-d/bio-20035057" target="_blank" rel="noreferrer noopener">Hu Li, Ph.D.</a>, to examine the process at a single cell level. "We found that the loss of PRKCI forces tumor cells to hijack a lung regeneration process to generate a tumor," Nguyen says.&amp;nbsp;</p>
 
 
 
@@ -95,29 +103,29 @@
 
 
 
-<p>Nguyen also noticed that the tumors without PRKCI showed elevated levels of organized clusters of immune cells, called tertiary lymphoid structures. The presence of those clumped cells can be a sign that immune checkpoint therapy might work for a patient. But were they a result of the single copy of the PRKCI gene?&nbsp;</p>
+<p>Nguyen also noticed that the tumors without PRKCI showed elevated levels of organized clusters of immune cells, called tertiary lymphoid structures. The presence of those clumped cells can be a sign that immune checkpoint therapy might work for a patient. But were they a result of the single copy of the PRKCI gene?&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="608" height="608" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1.jpg" alt="Luis Prieto, Ph.D." class="wp-image-408395" style="width:184px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px"><figcaption class="wp-element-caption">Luis Prieto, Ph.D.</figcaption></figure></div>
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="608" height="608" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1.jpg" alt="Luis Prieto, Ph.D." class="wp-image-408395" style="width:184px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Prieto-Luis_20129157_20230508.-1x1-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px" /><figcaption class="wp-element-caption">Luis Prieto, Ph.D.</figcaption></figure></div>
 
 
-<p>Nguyen presented his research at a graduate school seminar where the project caught the attention of postdoctoral fellow Luis Prieto, Ph.D., who had an idea. Dr. Prieto wondered whether the clusters of immune cells might be connected in some way to senescent cells, those that enter a state of arrested development and don't die off. Dr. Prieto works in the lab of researcher&nbsp;<a href="https://www.mayo.edu/research/faculty/baker-darren-j-ph-d-m-s/bio-00027985" target="_blank" rel="noreferrer noopener">Darren Baker, Ph.D.</a>, who investigates therapies to eliminate senescent cells in various disease processes. </p>
+<p>Nguyen presented his research at a graduate school seminar where the project caught the attention of postdoctoral fellow Luis Prieto, Ph.D., who had an idea. Dr. Prieto wondered whether the clusters of immune cells might be connected in some way to senescent cells, those that enter a state of arrested development and don't die off. Dr. Prieto works in the lab of researcher&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/baker-darren-j-ph-d-m-s/bio-00027985" target="_blank" rel="noreferrer noopener">Darren Baker, Ph.D.</a>, who investigates therapies to eliminate senescent cells in various disease processes. </p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="634" height="634" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1.jpg" alt="Darren Baker, Ph.D." class="wp-image-408392" style="width:186px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1.jpg 634w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1-150x150.jpg 150w" sizes="auto, (max-width: 634px) 100vw, 634px"><figcaption class="wp-element-caption">Darren Baker, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="634" height="634" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1.jpg" alt="Darren Baker, Ph.D." class="wp-image-408392" style="width:186px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1.jpg 634w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Baker-Darren-J.-MS-PhD_13844491_201606011129-1x1-1-150x150.jpg 150w" sizes="auto, (max-width: 634px) 100vw, 634px" /><figcaption class="wp-element-caption">Darren Baker, Ph.D.</figcaption></figure></div>
 
 
 <p>The collaborating labs were amazed to find that senescent tumor cells actually activate the immune system, leading to the clusters of immune cells that combat the tumor. "The idea that senescent cells may be beneficial in certain settings like this is new to the field, as these 'zombies' are commonly associated with detrimental outcomes," says Dr. Baker, who is a co-corresponding author on the study. </p>
 
 
 
-<p>The findings reveal three tumor characteristics that may be used to help clinicians identify candidates for immune checkpoint inhibitors: loss of the PRKCI gene, the presence of senescent tumor cells and an abundance of clustered immune cells.&nbsp;</p>
+<p>The findings reveal three tumor characteristics that may be used to help clinicians identify candidates for immune checkpoint inhibitors: loss of the PRKCI gene, the presence of senescent tumor cells and an abundance of clustered immune cells.&amp;nbsp;</p>
 
 
 
-<p>Further, says Dr. Fields, his team previously identified an approved drug that can inhibit PRKCI signaling, making a tumor that has the PRKCI gene act more like a tumor without it.&nbsp;</p>
+<p>Further, says Dr. Fields, his team previously identified an approved drug that can inhibit PRKCI signaling, making a tumor that has the PRKCI gene act more like a tumor without it.&amp;nbsp;</p>
 
 
 
@@ -133,7 +141,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -142,7 +150,7 @@
 
 
 <ul class="wp-block-list">
-<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
+<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&amp;nbsp;</li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-why-some-lung-tumors-respond-well-to-immunotherapy/">Mayo Clinic researchers identify why some lung tumors respond well to immunotherapy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -151,236 +159,236 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-1X1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Virtual-lung-image-Getty1439259946-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Alan Fields]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Lung Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Comprehensive Cancer Center]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Alan Fields]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Lung Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Comprehensive Cancer Center]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Minneapolis baker, ‘Cake Wars’ winner, defeats ‘incurable’ stomach cancer&nbsp;&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/minneapolis-baker-cake-wars-winner-defeats-incurable-stomach-cancer/
+		<title>Minneapolis baker, &amp;#8216;Cake Wars&amp;#8217; winner, defeats &amp;#8216;incurable&amp;#8217; stomach cancer&nbsp;&nbsp;</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/minneapolis-baker-cake-wars-winner-defeats-incurable-stomach-cancer/</link>
 		
-		<dc:creator><!--[CDATA[ltedesco7]]--></dc:creator>
-		<pubdate>Wed, 26 Nov 2025 14:29:28 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Cancer Patient Stories]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Sharing Mayo Clinic]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Samir Mardini]]--></category>
-		<category><!--[CDATA[Dr. Travis Grotz]]--></category>
-		<category><!--[CDATA[stomach cancer]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=408314</guid>
+		<dc:creator><![CDATA[ltedesco7]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 14:29:28 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Cancer Patient Stories]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Sharing Mayo Clinic]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Samir Mardini]]></category>
+		<category><![CDATA[Dr. Travis Grotz]]></category>
+		<category><![CDATA[stomach cancer]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=408314</guid>
 
-					<description><!--[CDATA[<p-->As a "Cake Wars" champion, Ann Alaboud knows that victory takes determination. While facing her biggest foe — stage 4 stomach cancer — she chose Mayo Clinic as her ally.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Although it was February, Ann Alaboud was decked out for Christmas — green apron, bright red lipstick and a sparkly elf hat. She was filming […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/minneapolis-baker-cake-wars-winner-defeats-incurable-stomach-cancer/">Minneapolis baker, ‘Cake Wars’ winner, defeats ‘incurable’ stomach cancer&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>As a "Cake Wars" champion, Ann Alaboud knows that victory takes determination. While facing her biggest foe — stage 4 stomach cancer — she chose Mayo Clinic as her ally.&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Although it was February, Ann Alaboud was decked out for Christmas — green apron, bright red lipstick and a sparkly elf hat. She was filming [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/minneapolis-baker-cake-wars-winner-defeats-incurable-stomach-cancer/">Minneapolis baker, &amp;#8216;Cake Wars&amp;#8217; winner, defeats &amp;#8216;incurable&amp;#8217; stomach cancer&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-center-align-caption"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-1024x576.jpg" alt="Photo of Ann Alaboud (middle) with contestants on Cake Wars." class="wp-image-408326" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9.jpg 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Ann Alaboud smiles between her teammates, Brie Darling and Julie Jensen, while filming "The Big Bake: Holiday" for the Food Network.</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-center-align-caption">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-1024x576.jpg" alt="Photo of Ann Alaboud (middle) with contestants on Cake Wars." class="wp-image-408326" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9.jpg 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ann Alaboud smiles between her teammates, Brie Darling and Julie Jensen, while filming "The Big Bake: Holiday" for the Food Network.</figcaption></figure></div>
 
 
-<p><em>As a "Cake Wars" champion, Ann Alaboud knows that victory takes determination. While facing her biggest foe — stage 4 stomach cancer — she chose <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> as her ally.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>&nbsp;</p>
-
-
-
-<p>Although it was February, Ann Alaboud was decked out for Christmas — green apron, bright red lipstick and a sparkly elf hat. She was filming an episode of Food Network's "The Big Bake: Holiday," and her team had just constructed a towering Christmas tree cake.&nbsp;</p>
+<p><em>As a "Cake Wars" champion, Ann Alaboud knows that victory takes determination. While facing her biggest foe — stage 4 stomach cancer — she chose <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> as her ally.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</em>&amp;nbsp;</p>
 
 
 
-<p>As Ann walked off set, she suddenly veered left — her only warning before fainting.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Although it was February, Ann Alaboud was decked out for Christmas — green apron, bright red lipstick and a sparkly elf hat. She was filming an episode of Food Network's "The Big Bake: Holiday," and her team had just constructed a towering Christmas tree cake.&amp;nbsp;</p>
 
 
 
-<p>"I woke up to the paramedics trying to figure out what was wrong with me," recalls Ann.&nbsp;&nbsp;</p>
+<p>As Ann walked off set, she suddenly veered left — her only warning before fainting.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>They chalked it up to fatigue. But Ann had a deepening sense that something wasn't right. For years, she'd been breaking out in hives, and she was perpetually exhausted. Not long after filming ended, she noticed a strange pinching sensation in her stomach.&nbsp;&nbsp;</p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-683x1024.jpeg" alt="Photo of Ann Alaboud  on Cake Wars." class="wp-image-408327" style="width:349px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-683x1024.jpeg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-200x300.jpeg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-768x1151.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-1025x1536.jpeg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5.jpeg 1334w" sizes="auto, (max-width: 683px) 100vw, 683px"></figure></div>
-
-
-<p>As a Minneapolis baker running two cupcake shops, it'd been easy to blame her symptoms on her busy lifestyle. After fainting, Ann knew she needed to seek care.&nbsp;&nbsp;</p>
+<p>"I woke up to the paramedics trying to figure out what was wrong with me," recalls Ann.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Despite multiple hospital visits, the only diagnosis she received was reflux.&nbsp;&nbsp;</p>
-
-
-
-<p>When her 9-year-old daughter asked, "Mommy, do you have cancer?" Ann pushed harder for answers. On April 8, 2022, she woke up from an endoscopy to terrifying news. Her stomach was riddled with tumors. "They said it had already spread, and they couldn't do anything," she says.&nbsp;&nbsp;</p>
-
-
-
-<p>A scan on her birthday confirmed the diagnosis — stage 4 <a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443" target="_blank" rel="noreferrer noopener">stomach cancer</a>.&nbsp;&nbsp;</p>
-
-
-
-<p>"It was the shock of a lifetime. I'm a very health-conscious person," says Ann. "My family was like, 'What? <em>You</em> get stomach cancer?'"&nbsp;&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading"><strong>From ambition to uncertainty&nbsp;</strong>&nbsp;</h2>
-
-
-
-<p>Before Ann was a baker, she was a business analyst. Then, while pregnant with her first child in 2011, she made a decorative cake for her baby shower. As she shaped a pair of sugary booties, she felt inspired to turn her unused culinary degree into a career.&nbsp;&nbsp;</p>
-
-
-
-<p>Five years later, Ann had opened her first bakery and won Food Network's "Cake Wars," which led to "The Big Bake: Holiday" in 2022. Shortly after filming, she added another bakery location — just a week before finding out she had cancer.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
-
-
-<p>"That's when everything went downhill," she says.&nbsp;</p>
-
-
-
-<p>Instead of investing in her business, Ann found herself fighting for her life.&nbsp;&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Moving to Mayo</strong>&nbsp;</h2>
+<p>They chalked it up to fatigue. But Ann had a deepening sense that something wasn't right. For years, she'd been breaking out in hives, and she was perpetually exhausted. Not long after filming ended, she noticed a strange pinching sensation in her stomach.&amp;nbsp;&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Grotz_Travis_E._14925036_202207141044.jpg" alt="Dr. Travis Grotz" class="wp-image-385206" style="width:140px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Grotz_Travis_E._14925036_202207141044.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Grotz_Travis_E._14925036_202207141044-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px"><figcaption class="wp-element-caption">Dr. Travis Grotz</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-683x1024.jpeg" alt="Photo of Ann Alaboud  on Cake Wars." class="wp-image-408327" style="width:349px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-683x1024.jpeg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-200x300.jpeg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-768x1151.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5-1025x1536.jpeg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_5.jpeg 1334w" sizes="auto, (max-width: 683px) 100vw, 683px" /></figure></div>
 
 
-<p>Due to the severity of her disease, Ann's local oncologist referred her to Mayo Clinic. While others deemed her stomach cancer inoperable, <a href="https://www.mayoclinic.org/biographies/grotz-travis-e-m-d-m-s/bio-20342285" target="_blank" rel="noreferrer noopener">Dr. Travis Grotz</a>, a surgical oncologist at Mayo Clinic in Rochester, Minnesota, still saw hope.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
-
-
-<p>With gastric cancer spiking among younger people, his patients are often in the prime of life, facing late-stage disease with little chance of a cure through traditional treatments.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>As a Minneapolis baker running two cupcake shops, it'd been easy to blame her symptoms on her busy lifestyle. After fainting, Ann knew she needed to seek care.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"For stage 4 gastric cancer, it's usually indefinite chemotherapy," he says. "But with research and a multidisciplinary team, I thought we could safely push the envelope."&nbsp;&nbsp;</p>
+<p>Despite multiple hospital visits, the only diagnosis she received was reflux.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>He designed an innovative care plan based on a clinical trial.&nbsp;&nbsp;</p>
+<p>When her 9-year-old daughter asked, "Mommy, do you have cancer?" Ann pushed harder for answers. On April 8, 2022, she woke up from an endoscopy to terrifying news. Her stomach was riddled with tumors. "They said it had already spread, and they couldn't do anything," she says.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Back at home, Ann started chemotherapy and immunotherapy to shrink her tumors. She closed her bakeries as needed and traveled to Mayo for laparoscopic operations to track her progress.&nbsp;</p>
+<p>A scan on her birthday confirmed the diagnosis — stage 4 <a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443" target="_blank" rel="noreferrer noopener">stomach cancer</a>.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>"It was the shock of a lifetime. I'm a very health-conscious person," says Ann. "My family was like, 'What? <em>You</em> get stomach cancer?'"&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>From ambition to uncertainty&amp;nbsp;</strong>&amp;nbsp;</h2>
+
+
+
+<p>Before Ann was a baker, she was a business analyst. Then, while pregnant with her first child in 2011, she made a decorative cake for her baby shower. As she shaped a pair of sugary booties, she felt inspired to turn her unused culinary degree into a career.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>Five years later, Ann had opened her first bakery and won Food Network's "Cake Wars," which led to "The Big Bake: Holiday" in 2022. Shortly after filming, she added another bakery location — just a week before finding out she had cancer.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>"That's when everything went downhill," she says.&amp;nbsp;</p>
+
+
+
+<p>Instead of investing in her business, Ann found herself fighting for her life.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Moving to Mayo</strong>&amp;nbsp;</h2>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-1024x576.jpg" alt="Photo of Ann Alaboud  in a hospital bed, as she's treated for stomach cancer" class="wp-image-408324" style="width:682px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9.jpg 1436w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="640" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Grotz_Travis_E._14925036_202207141044.jpg" alt="Dr. Travis Grotz" class="wp-image-385206" style="width:140px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Grotz_Travis_E._14925036_202207141044.jpg 640w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/04/Grotz_Travis_E._14925036_202207141044-240x300.jpg 240w" sizes="auto, (max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">Dr. Travis Grotz</figcaption></figure></div>
 
 
-<p>Often arriving with cupcakes for the care team, Ann also brought ample gratitude and positivity — even as her number of procedures climbed into the double digits.&nbsp;</p>
-
-
-
-<p>She was willing to do whatever it took to have a good outcome," says Mary Dorn, one of her nurses.&nbsp;</p>
+<p>Due to the severity of her disease, Ann's local oncologist referred her to Mayo Clinic. While others deemed her stomach cancer inoperable, <a href="https://www.mayoclinic.org/biographies/grotz-travis-e-m-d-m-s/bio-20342285" target="_blank" rel="noreferrer noopener">Dr. Travis Grotz</a>, a surgical oncologist at Mayo Clinic in Rochester, Minnesota, still saw hope.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>At times, Ann was tempted to waver. She recalls writing down account numbers to prepare her husband for her passing. "I started crying and said, 'You know what? I'm going to get better. I can't die young,'" she says. "So I just powered through one surgery after the next."&nbsp;&nbsp;</p>
+<p>With gastric cancer spiking among younger people, his patients are often in the prime of life, facing late-stage disease with little chance of a cure through traditional treatments.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>"For stage 4 gastric cancer, it's usually indefinite chemotherapy," he says. "But with research and a multidisciplinary team, I thought we could safely push the envelope."&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>He designed an innovative care plan based on a clinical trial.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>Back at home, Ann started chemotherapy and immunotherapy to shrink her tumors. She closed her bakeries as needed and traveled to Mayo for laparoscopic operations to track her progress.&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg" alt="HIPEC medical illustration, used to create stomach cancer" class="wp-image-351683" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-1024x576.jpg" alt="Photo of Ann Alaboud  in a hospital bed, as she's treated for stomach cancer" class="wp-image-408324" style="width:682px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_1.-16-x-9.jpg 1436w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
-<p>As one part of her innovative care plan, Dr. Grotz used <a href="https://www.mayoclinic.org/tests-procedures/hyperthermic-intraperitoneal-chemotherapy/about/pac-20583315" target="_blank" rel="noreferrer noopener">hyperthermic intraperitoneal chemotherapy (HIPEC) </a>to wash her abdomen with heated drugs, destroying lingering cancer cells. He also removed her stomach to prevent a relapse. It was during this surgery that Dr. Grotz made a startling discovery — Ann had new tumors in her esophagus.&nbsp;</p>
-
-
-
-<p>She'd recently begun experiencing crushing chest pain during chemotherapy. Now Ann wondered: Had this been a warning sign? She'd thought treatment was nearly over, but the next day, she'd need surgery to remove her esophagus and add a feeding tube.&nbsp;&nbsp;</p>
+<p>Often arriving with cupcakes for the care team, Ann also brought ample gratitude and positivity — even as her number of procedures climbed into the double digits.&amp;nbsp;</p>
 
 
 
-<p>As Ann reeled, Dr. Grotz reassured her that long-term survival was still the goal. "I trusted everything he told me because everything he'd done so far was great," says Ann. "He's phenomenal."&nbsp;&nbsp;</p>
+<p>She was willing to do whatever it took to have a good outcome," says Mary Dorn, one of her nurses.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Restoring normalcy&nbsp;</strong>&nbsp;</h2>
+<p>At times, Ann was tempted to waver. She recalls writing down account numbers to prepare her husband for her passing. "I started crying and said, 'You know what? I'm going to get better. I can't die young,'" she says. "So I just powered through one surgery after the next."&amp;nbsp;&amp;nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg" alt="HIPEC medical illustration, used to create stomach cancer" class="wp-image-351683" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
+
+
+<p>As one part of her innovative care plan, Dr. Grotz used <a href="https://www.mayoclinic.org/tests-procedures/hyperthermic-intraperitoneal-chemotherapy/about/pac-20583315" target="_blank" rel="noreferrer noopener">hyperthermic intraperitoneal chemotherapy (HIPEC) </a>to wash her abdomen with heated drugs, destroying lingering cancer cells. He also removed her stomach to prevent a relapse. It was during this surgery that Dr. Grotz made a startling discovery — Ann had new tumors in her esophagus.&amp;nbsp;</p>
 
 
 
-<p>After her esophageal surgery, the focus shifted to restoring Ann's quality of life. Dr. Grotz wanted to give her back as much normalcy as possible. He turned to his colleagues for help.&nbsp;&nbsp;</p>
+<p>She'd recently begun experiencing crushing chest pain during chemotherapy. Now Ann wondered: Had this been a warning sign? She'd thought treatment was nearly over, but the next day, she'd need surgery to remove her esophagus and add a feeding tube.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Two surgeons — one thoracic, the other plastic — created a new esophagus from part of Ann's small intestine, called the jejunum. After severing several attachments in her abdomen, they stretched it to her neck and connected it to her intact upper esophagus. Delicate microsurgery linked the intestinal blood vessels to those in her neck and upper chest.&nbsp;&nbsp;</p>
+<p>As Ann reeled, Dr. Grotz reassured her that long-term survival was still the goal. "I trusted everything he told me because everything he'd done so far was great," says Ann. "He's phenomenal."&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The complex, several-hour surgery was a success.&nbsp;&nbsp;</p>
+<h2 class="wp-block-heading"><strong>Restoring normalcy&amp;nbsp;</strong>&amp;nbsp;</h2>
 
 
 
-<p>Ann now had a working gastrointestinal tract, despite two missing organs, so she no longer needed the feeding tube that made her feel so sick. At last, Ann was able to eat again.&nbsp;</p>
+<p>After her esophageal surgery, the focus shifted to restoring Ann's quality of life. Dr. Grotz wanted to give her back as much normalcy as possible. He turned to his colleagues for help.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"This kind of care is not possible without collaboration between our teams," says <a href="https://www.mayoclinic.org/biographies/mardini-samir-m-d/bio-20054870" target="_blank" rel="noreferrer noopener">Dr. Samir Mardini</a>, Ann's plastic surgeon. "So many people — surgeons, nutritionists, physical therapists, nurses — worked together to create an outcome that would be hard to achieve any other way."&nbsp;&nbsp;&nbsp;</p>
+<p>Two surgeons — one thoracic, the other plastic — created a new esophagus from part of Ann's small intestine, called the jejunum. After severing several attachments in her abdomen, they stretched it to her neck and connected it to her intact upper esophagus. Delicate microsurgery linked the intestinal blood vessels to those in her neck and upper chest.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>During her two-week stay in Rochester, Ann witnessed this care in action. "All the doctors, all the nurses — everybody — went above and beyond," she says. "I've never said, 'Thank you,' as many times as I did while at Mayo."&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>The complex, several-hour surgery was a success.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Life beyond stomach cancer</strong>&nbsp;</h2>
+<p>Ann now had a working gastrointestinal tract, despite two missing organs, so she no longer needed the feeding tube that made her feel so sick. At last, Ann was able to eat again.&amp;nbsp;</p>
 
 
 
-<p>Three years later, Ann remains cancer-free. Now a long-term survivor, she's been able to hold onto the identities she cherishes most — mom, wife, baker, small-business owner.&nbsp;&nbsp;</p>
+<p>"This kind of care is not possible without collaboration between our teams," says <a href="https://www.mayoclinic.org/biographies/mardini-samir-m-d/bio-20054870" target="_blank" rel="noreferrer noopener">Dr. Samir Mardini</a>, Ann's plastic surgeon. "So many people — surgeons, nutritionists, physical therapists, nurses — worked together to create an outcome that would be hard to achieve any other way."&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>With her new GI tract, there have been changes. Ann has to slowly eat small portions, often while standing to keep the food moving. It takes effort to remember to chew every bite thoroughly.&nbsp;&nbsp;</p>
+<p>During her two-week stay in Rochester, Ann witnessed this care in action. "All the doctors, all the nurses — everybody — went above and beyond," she says. "I've never said, 'Thank you,' as many times as I did while at Mayo."&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>While this can be challenging, her most consistent feeling is gratitude.&nbsp;&nbsp;</p>
+<h2 class="wp-block-heading"><strong>Life beyond stomach cancer</strong>&amp;nbsp;</h2>
 
 
 
-<p>Ann is thankful for the prayers and support of loved ones. The customers who contributed to fundraisers. The landlord who gave her grace. The Mayo care team who fought alongside her.&nbsp;&nbsp;</p>
+<p>Three years later, Ann remains cancer-free. Now a long-term survivor, she's been able to hold onto the identities she cherishes most — mom, wife, baker, small-business owner.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Most of all, she's grateful to be alive.&nbsp;&nbsp;</p>
+<p>With her new GI tract, there have been changes. Ann has to slowly eat small portions, often while standing to keep the food moving. It takes effort to remember to chew every bite thoroughly.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>"Winning 'Cake Wars' validated that I am a pastry chef. I can do anything I want, right?" Ann says. "But having cancer, thinking I wouldn't make it, then coming out OK — that is more victorious than anything."&nbsp;&nbsp;</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/minneapolis-baker-cake-wars-winner-defeats-incurable-stomach-cancer/">Minneapolis baker, ‘Cake Wars’ winner, defeats ‘incurable’ stomach cancer&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>While this can be challenging, her most consistent feeling is gratitude.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>Ann is thankful for the prayers and support of loved ones. The customers who contributed to fundraisers. The landlord who gave her grace. The Mayo care team who fought alongside her.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>Most of all, she's grateful to be alive.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p>"Winning 'Cake Wars' validated that I am a pastry chef. I can do anything I want, right?" Ann says. "But having cancer, thinking I wouldn't make it, then coming out OK — that is more victorious than anything."&amp;nbsp;&amp;nbsp;</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/minneapolis-baker-cake-wars-winner-defeats-incurable-stomach-cancer/">Minneapolis baker, &amp;#8216;Cake Wars&amp;#8217; winner, defeats &amp;#8216;incurable&amp;#8217; stomach cancer&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-1-x-1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Ann-Alaboud_4-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Samir Mardini]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Travis Grotz]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[stomach cancer]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Samir Mardini]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Travis Grotz]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[stomach cancer]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>New genetic biomarker flags aggressive brain tumors</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Sat, 22 Nov 2025 14:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Gelareh Zadeh]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405928</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Sat, 22 Nov 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Gelareh Zadeh]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405928</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Clinicians typically classify meningiomas — the most common type of brain tumor — into three grades, ranging from slow-growing to aggressive. But a new multi-institutional study suggests that appearances may be deceiving. If a tumor shows activity in a gene called telomerase reverse transcriptase (TERT), it tends to recur more quickly, even […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Clinicians typically classify meningiomas — the most common type of brain tumor — into three grades, ranging from slow-growing to aggressive. But a new multi-institutional study suggests that appearances may be deceiving. If a tumor shows activity in a gene called telomerase reverse transcriptase (TERT), it tends to recur more quickly, even [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/">New genetic biomarker flags aggressive brain tumors</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -388,7 +396,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="937" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg" alt="Gelareh Zadeh, M.D., Ph.D." class="wp-image-405939" style="width:203px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg 937w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-274x300.jpg 274w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-768x839.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1405x1536.jpg 1405w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1874x2048.jpg 1874w" sizes="auto, (max-width: 937px) 100vw, 937px"><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="937" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg" alt="Gelareh Zadeh, M.D., Ph.D." class="wp-image-405939" style="width:203px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-937x1024.jpg 937w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-274x300.jpg 274w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-768x839.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1405x1536.jpg 1405w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Zadeh-Gelareh-1874x2048.jpg 1874w" sizes="auto, (max-width: 937px) 100vw, 937px" /><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure></div>
 
 
 <p>But a new multi-institutional study suggests that appearances may be deceiving. If a tumor shows activity in a gene called telomerase reverse transcriptase (TERT), it tends to recur more quickly, even if it looks low-grade under the microscope. <br><br>The findings, published in <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/abstract" target="_blank" rel="noreferrer noopener">Lancet Oncology</a>, could significantly change how doctors diagnose and treat meningiomas.</p>
@@ -399,11 +407,11 @@
 
 
 
-<p><strong><em>This research will be presented at the <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvirtual.oxfordabstracts.com%2Fevent%2F74646%2Fsubmission%2F1932&amp;data=05%7C02%7CSatake.Alison%40mayo.edu%7Ce56a545b298d43c86c7f08de27bab68a%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638991880080062919%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=FF19BRxTpQ6iRcANOgH79s4MshKUstvI4VaAkSUVs20%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">Society for Neuro-Oncology</a> conference on Nov. 22.</em></strong></p>
+<p><strong><em>This research will be presented at the <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvirtual.oxfordabstracts.com%2Fevent%2F74646%2Fsubmission%2F1932&amp;amp;data=05%7C02%7CSatake.Alison%40mayo.edu%7Ce56a545b298d43c86c7f08de27bab68a%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C638991880080062919%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=FF19BRxTpQ6iRcANOgH79s4MshKUstvI4VaAkSUVs20%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">Society for Neuro-Oncology</a> conference on Nov. 22.</em></strong></p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-819x1024.jpg" alt="Photo of Kenneth Aldape, M.D." class="wp-image-408179" style="width:189px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-1639x2048.jpg 1639w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Kenneth Aldape, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-819x1024.jpg" alt="Photo of Kenneth Aldape, M.D." class="wp-image-408179" style="width:189px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Aldape-Ken-D._14504812_20250908-1639x2048.jpg 1639w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Kenneth Aldape, M.D.</figcaption></figure></div>
 
 
 <p><br>"This is one example of how precision diagnostics of cancer may ultimately improve patient outcomes," says <a href="https://www.mayoclinic.org/biographies/aldape-kenneth-d-m-d/bio-20589565" target="_blank" rel="noreferrer noopener">Kenneth Aldape, M.D.</a>, Mayo Clinic pathologist and study co-author.</p>
@@ -446,10 +454,10 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg" alt="Photo of Mayo Clinic research collaborator Chloe Gui, M.D." class="wp-image-405944" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Chloe Gui, M.D.</figcaption></figure></div>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg" alt="Photo of Mayo Clinic research collaborator Chloe Gui, M.D." class="wp-image-405944" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/ChloeGuiMayoHeadshot-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Chloe Gui, M.D.</figcaption></figure></div>
 
 
-<p>"TERT expression can help us more accurately identify patients with aggressive meningiomas," Chloe Gui, M.D., a neurosurgery resident at the University of Toronto, Mayo Clinic research collaborator and the study's lead author, explains on a <a href="https://www.buzzsprout.com/1391338?client_source=large_player&amp;iframe=true&amp;referrer=https://www.buzzsprout.com/1391338.js?container_id=buzzsprout-large-player&amp;player=large#" target="_blank" rel="noreferrer noopener">podcast hosted by The Lancet Oncology</a>. "This information allows us to offer treatment tailored to the tumor's behavior."</p>
+<p>"TERT expression can help us more accurately identify patients with aggressive meningiomas," Chloe Gui, M.D., a neurosurgery resident at the University of Toronto, Mayo Clinic research collaborator and the study's lead author, explains on a <a href="https://www.buzzsprout.com/1391338?client_source=large_player&amp;amp;iframe=true&amp;amp;referrer=https://www.buzzsprout.com/1391338.js?container_id=buzzsprout-large-player&amp;amp;player=large#" target="_blank" rel="noreferrer noopener">podcast hosted by The Lancet Oncology</a>. "This information allows us to offer treatment tailored to the tumor's behavior."</p>
 
 
 
@@ -457,7 +465,7 @@
 
 
 
-<p>Review the&nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/fulltext" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&nbsp;</p>
+<p>Review the&amp;nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/fulltext" target="_blank" rel="noreferrer noopener">study</a> for a complete list of authors, disclosures and funding.&amp;nbsp;</p>
 
 
 
@@ -465,7 +473,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -483,29 +491,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gelareh Zadeh]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Gelareh Zadeh]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;A: Is stomach cancer on the rise in young adults?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-stomach-cancer-on-the-rise-in-young-adults/
+		<title>Mayo Clinic Q&amp;#038;A: Is stomach cancer on the rise in young adults?</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-stomach-cancer-on-the-rise-in-young-adults/</link>
 		
-		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
-		<pubdate>Fri, 14 Nov 2025 11:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Surgery]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Travis Grotz]]--></category>
-		<category><!--[CDATA[stomach cancer]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407736</guid>
+		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Surgery]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Travis Grotz]]></category>
+		<category><![CDATA[stomach cancer]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407736</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;My 39-year-old brother was just diagnosed with gastric cancer. The diagnosis was especially shocking because of his age. Is this becoming more common? Does age affect the approaches to treatment? ANSWER:&nbsp;Stomach cancer, also referred to as gastric cancer, was once thought of as a disease of older adults. However, it is increasingly affecting […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-stomach-cancer-on-the-rise-in-young-adults/">Mayo Clinic Q&amp;A: Is stomach cancer on the rise in young adults?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC:&nbsp;My 39-year-old brother was just diagnosed with gastric cancer. The diagnosis was especially shocking because of his age. Is this becoming more common? Does age affect the approaches to treatment? ANSWER:&amp;#160;Stomach cancer, also referred to as gastric cancer, was once thought of as a disease of older adults. However, it is increasingly affecting [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-stomach-cancer-on-the-rise-in-young-adults/">Mayo Clinic Q&amp;amp;A: Is stomach cancer on the rise in young adults?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-1024x576.jpg" alt="an adult man and boy walking on a hike near the beach" class="wp-image-105592" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-1024x576.jpg" alt="an adult man and boy walking on a hike near the beach" class="wp-image-105592" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -513,7 +521,7 @@
 
 
 
-<p><strong>ANSWER:&nbsp;</strong><a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438" target="_blank" rel="noreferrer noopener">Stomach cancer</a>, also referred to as gastric cancer, was once thought of as a disease of older adults. However, it is increasingly affecting people under the age of 50, mirroring a similar shift that is observed with colorectal and other gastrointestinal cancers. It's important to note that while this shift in early-onset stomach cancer is unsettling, the overall incidence of stomach cancer remains relatively stable.&nbsp;</p>
+<p><strong>ANSWER:&amp;nbsp;</strong><a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438" target="_blank" rel="noreferrer noopener">Stomach cancer</a>, also referred to as gastric cancer, was once thought of as a disease of older adults. However, it is increasingly affecting people under the age of 50, mirroring a similar shift that is observed with colorectal and other gastrointestinal cancers. It's important to note that while this shift in early-onset stomach cancer is unsettling, the overall incidence of stomach cancer remains relatively stable.&amp;nbsp;</p>
 
 
 
@@ -521,7 +529,7 @@
 
 
 
-<p>Researchers are investigating the reasons behind these trends, and several factors appear to play a role.&nbsp;</p>
+<p>Researchers are investigating the reasons behind these trends, and several factors appear to play a role.&amp;nbsp;</p>
 
 
 
@@ -529,7 +537,7 @@
 
 
 
-<p>Traditional risk factors for stomach cancer remain relevant as well.&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/h-pylori/symptoms-causes/syc-20356171" target="_blank" rel="noreferrer noopener">Infection with Helicobacter pylori</a>, a bacterium that can cause inflammation of the stomach lining or ulcers, is a significant risk factor. Smoking, frequent consumption of smoked or preserved foods, obesity and heavy alcohol use can also increase risk.</p>
+<p>Traditional risk factors for stomach cancer remain relevant as well.&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/h-pylori/symptoms-causes/syc-20356171" target="_blank" rel="noreferrer noopener">Infection with Helicobacter pylori</a>, a bacterium that can cause inflammation of the stomach lining or ulcers, is a significant risk factor. Smoking, frequent consumption of smoked or preserved foods, obesity and heavy alcohol use can also increase risk.</p>
 
 
 
@@ -545,7 +553,7 @@
 
 
 
-<p>When symptoms persist for several weeks or when additional warning signs appear, such as unexplained weight loss, vomiting or severe abdominal pain, further evaluation is needed.&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443" target="_blank" rel="noreferrer noopener">An upper endoscopy with biopsy</a>&nbsp;is the standard method for diagnosing stomach cancer.</p>
+<p>When symptoms persist for several weeks or when additional warning signs appear, such as unexplained weight loss, vomiting or severe abdominal pain, further evaluation is needed.&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443" target="_blank" rel="noreferrer noopener">An upper endoscopy with biopsy</a>&amp;nbsp;is the standard method for diagnosing stomach cancer.</p>
 
 
 
@@ -557,7 +565,7 @@
 
 
 
-<p>Treatment for stomach cancer depends on the tumor's stage, location and molecular characteristics rather than the patient's age.&nbsp;</p>
+<p>Treatment for stomach cancer depends on the tumor's stage, location and molecular characteristics rather than the patient's age.&amp;nbsp;</p>
 
 
 
@@ -569,7 +577,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg" alt="HIPEC medical illustration, a therapy for treating stomach cancer" class="wp-image-351683" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg" alt="HIPEC medical illustration, a therapy for treating stomach cancer" class="wp-image-351683" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/10/HIPEC-medical-illustration-16x9-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure></div>
 
 
 <p>For patients whose disease has spread within the abdominal cavity, an innovative therapy called&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/hyperthermic-intraperitoneal-chemotherapy/about/pac-20583315" target="_blank" rel="noreferrer noopener">hyperthermic intraperitoneal chemotherapy (HIPEC)</a>&nbsp;offers a promising option. In this procedure, following surgical removal of visible tumors, <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-new-chemotherapy-approach-for-treating-stomach-cancer/" target="_blank" rel="noreferrer noopener">heated chemotherapy</a> is circulated throughout the abdominal cavity to destroy remaining cancer cells.&nbsp;</p>
@@ -593,74 +601,74 @@
 
 
 <p><a href="https://www.mayoclinic.org/biographies/grotz-travis-e-m-d-m-s/bio-20342285" target="_blank" rel="noreferrer noopener"><strong><em>Travis Grotz, M.D.</em></strong></a><strong><em>, Hepatobiliary and Pancreas Surgery, Mayo Clinic, Minnesota</em></strong></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-stomach-cancer-on-the-rise-in-young-adults/">Mayo Clinic Q&amp;A: Is stomach cancer on the rise in young adults?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-stomach-cancer-on-the-rise-in-young-adults/">Mayo Clinic Q&amp;amp;A: Is stomach cancer on the rise in young adults?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/11/an-adult-man-and-boy-walking-on-a-hike-near-the-beach-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Travis Grotz]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[stomach cancer]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Travis Grotz]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[stomach cancer]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Shaping the future of breast cancer care–one trainee at a time</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/shaping-the-future-of-breast-cancer-care-one-trainee-at-a-time/
+		<title>Shaping the future of breast cancer care&amp;#8211;one trainee at a time</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/shaping-the-future-of-breast-cancer-care-one-trainee-at-a-time/</link>
 		
-		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
-		<pubdate>Thu, 06 Nov 2025 13:37:06 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Education]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Breast Cancer]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Kristin Robinson]]--></category>
-		<category><!--[CDATA[Mayo Clinic College of Medicine & Science]]--></category>
-		<category><!--[CDATA[Mayo Clinic Graduate of Biomedical Sciences]]--></category>
-		<category><!--[CDATA[Mayo Clinic School of Graduate Medical Education]]--></category>
-		<category><!--[CDATA[mayo clinic school of health sciences]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407556</guid>
+		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
+		<pubDate>Thu, 06 Nov 2025 13:37:06 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Breast Cancer]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Kristin Robinson]]></category>
+		<category><![CDATA[Mayo Clinic College of Medicine &amp; Science]]></category>
+		<category><![CDATA[Mayo Clinic Graduate of Biomedical Sciences]]></category>
+		<category><![CDATA[Mayo Clinic School of Graduate Medical Education]]></category>
+		<category><![CDATA[mayo clinic school of health sciences]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407556</guid>
 
-					<description><!--[CDATA[<p-->Tailor Hofman, originally from St. Peter, Minnesota, was in middle school when her great-grandmother was diagnosed with breast cancer and underwent a mastectomy. "My great-grandma and I shared a close bond," Hofman says. "Her experience had a significant emotional impact on our family, particularly because we're a family of many women."&nbsp; Years later, Hofman was […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/shaping-the-future-of-breast-cancer-care-one-trainee-at-a-time/">Shaping the future of breast cancer care–one trainee at a time</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>Tailor Hofman, originally from St. Peter, Minnesota, was in middle school when her great-grandmother was diagnosed with breast cancer and underwent a mastectomy. "My great-grandma and I shared a close bond," Hofman says. "Her experience had a significant emotional impact on our family, particularly because we're a family of many women."&amp;#160; Years later, Hofman was [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/shaping-the-future-of-breast-cancer-care-one-trainee-at-a-time/">Shaping the future of breast cancer care&amp;#8211;one trainee at a time</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-left-align-caption"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-1024x576.jpg" alt="Tailor Hofman with her great-grandmother, Anne Hansen, in 2002 whose diagnosis with cancer inspired Tailor's career." class="wp-image-407572" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9.jpg 1241w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Tailor Hofman with her great-grandmother, Anne Hansen, in 2002. Tailor says her great-grandmother's experience with breast cancer was part of her motivation to pursue a career in radiography, to  help patients who are dealing with cancer. She graduated from Mayo Clinic School of Health Sciences in Rochester in 2017 and is a radiographer at Mayo Clinic.</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-left-align-caption">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-1024x576.jpg" alt="Tailor Hofman with her great-grandmother, Anne Hansen, in 2002 whose diagnosis with cancer inspired Tailor's career." class="wp-image-407572" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Tailor_Hofman_with_great-grandmother-16-x-9.jpg 1241w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Tailor Hofman with her great-grandmother, Anne Hansen, in 2002. Tailor says her great-grandmother's experience with breast cancer was part of her motivation to pursue a career in radiography, to  help patients who are dealing with cancer. She graduated from Mayo Clinic School of Health Sciences in Rochester in 2017 and is a radiographer at Mayo Clinic.</figcaption></figure></div>
 
 
-<p>Tailor Hofman, originally from St. Peter, Minnesota, was in middle school when her great-grandmother was diagnosed with <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470" target="_blank" rel="noreferrer noopener">breast cancer</a> and underwent a <a href="https://www.mayoclinic.org/tests-procedures/mastectomy/about/pac-20394670">mas</a><a href="https://www.mayoclinic.org/tests-procedures/mastectomy/about/pac-20394670" target="_blank" rel="noreferrer noopener">tectomy</a>.<br><br>"My great-grandma and I shared a close bond," Hofman says. "Her experience had a significant emotional impact on our family, particularly because we're a family of many women."&nbsp;</p>
-
-
-
-<p>Years later, Hofman was inspired to train for a career where she could help other women through breast cancer screening. She applied to the radiography program at&nbsp;<a href="https://college.mayo.edu/academics/health-sciences-education/" target="_blank" rel="noreferrer noopener">Mayo Clinic School of Health Sciences</a>&nbsp;to become a radiologic technologist — also known as a radiographer — working with doctors in assessing and evaluating patients, often using breast imaging.&nbsp; </p>
+<p>Tailor Hofman, originally from St. Peter, Minnesota, was in middle school when her great-grandmother was diagnosed with <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470" target="_blank" rel="noreferrer noopener">breast cancer</a> and underwent a <a href="https://www.mayoclinic.org/tests-procedures/mastectomy/about/pac-20394670">mas</a><a href="https://www.mayoclinic.org/tests-procedures/mastectomy/about/pac-20394670" target="_blank" rel="noreferrer noopener">tectomy</a>.<br><br>"My great-grandma and I shared a close bond," Hofman says. "Her experience had a significant emotional impact on our family, particularly because we're a family of many women."&amp;nbsp;</p>
 
 
 
-<p>Across the schools of&nbsp;<a href="https://college.mayo.edu/" target="_blank" rel="noreferrer noopener">Mayo Clinic College of Medicine and Science</a>, programs are training future leaders in approaches that address the breast cancer journey, from the first moment of screening to the years after a diagnosis. Often inspired by the cancer diagnoses of family and friends, students are learning cutting-edge approaches and bringing Mayo Clinic's primary value — the needs of the patient come first — to&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475" target="_blank" rel="noreferrer noopener">breast cancer care</a>.&nbsp;&nbsp;</p>
+<p>Years later, Hofman was inspired to train for a career where she could help other women through breast cancer screening. She applied to the radiography program at&amp;nbsp;<a href="https://college.mayo.edu/academics/health-sciences-education/" target="_blank" rel="noreferrer noopener">Mayo Clinic School of Health Sciences</a>&amp;nbsp;to become a radiologic technologist — also known as a radiographer — working with doctors in assessing and evaluating patients, often using breast imaging.&amp;nbsp; </p>
 
 
 
-<h2 class="wp-block-heading"><strong>Making a difference in testing and treatment&nbsp;</strong></h2>
+<p>Across the schools of&amp;nbsp;<a href="https://college.mayo.edu/" target="_blank" rel="noreferrer noopener">Mayo Clinic College of Medicine and Science</a>, programs are training future leaders in approaches that address the breast cancer journey, from the first moment of screening to the years after a diagnosis. Often inspired by the cancer diagnoses of family and friends, students are learning cutting-edge approaches and bringing Mayo Clinic's primary value — the needs of the patient come first — to&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475" target="_blank" rel="noreferrer noopener">breast cancer care</a>.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Today, Hofman's work as a Mayo Clinic radiographer allows her to build relationships with patients starting from their first screenings.&nbsp;</p>
+<h2 class="wp-block-heading"><strong>Making a difference in testing and treatment&amp;nbsp;</strong></h2>
 
 
 
-<p>"The team in breast imaging has unique insight into the care they provide," says Jessica Lodermeier, director of the radiography program in Rochester, Minnesota, which graduates up to 34 students a year. "They understand the emotional stress and anxiety that can accompany this very important yearly exam for women."&nbsp;</p>
+<p>Today, Hofman's work as a Mayo Clinic radiographer allows her to build relationships with patients starting from their first screenings.&amp;nbsp;</p>
 
 
 
-<p>Radiographers perform medical exams using X-rays and other technology to create images that are interpreted by doctors for diagnosis and treatment of disease. Mayo's program allows them to add specialized training in <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-mri-for-dense-breasts-what-to-know/" target="_blank" rel="noreferrer noopener">magnetic resonance imaging (MRI)</a>, <a href="https://www.mayoclinic.org/tests-procedures/ct-scan/about/pac-20393675" target="_blank" rel="noreferrer noopener">computerized tomography (CT</a>), mammography and other areas.&nbsp;</p>
+<p>"The team in breast imaging has unique insight into the care they provide," says Jessica Lodermeier, director of the radiography program in Rochester, Minnesota, which graduates up to 34 students a year. "They understand the emotional stress and anxiety that can accompany this very important yearly exam for women."&amp;nbsp;</p>
 
 
 
-<p>The School of Health Sciences has radiography programs on Mayo campuses in Rochester and Florida and offers a radiography internship program in Arizona. Instructors are experienced radiologic technologists, working side by side with students to share their expertise.&nbsp;</p>
+<p>Radiographers perform medical exams using X-rays and other technology to create images that are interpreted by doctors for diagnosis and treatment of disease. Mayo's program allows them to add specialized training in <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-mri-for-dense-breasts-what-to-know/" target="_blank" rel="noreferrer noopener">magnetic resonance imaging (MRI)</a>, <a href="https://www.mayoclinic.org/tests-procedures/ct-scan/about/pac-20393675" target="_blank" rel="noreferrer noopener">computerized tomography (CT</a>), mammography and other areas.&amp;nbsp;</p>
 
 
 
-<p>"Our faculty is devoted to each student learner, and building on their interests in specific areas, such as various breast imaging technologies," says Lodermeier, who is also an alumna of the program. "For many students who choose radiography, it's to make a difference — caring for patients by assisting in testing and treatment of breast cancer and other serious diseases."&nbsp;</p>
+<p>The School of Health Sciences has radiography programs on Mayo campuses in Rochester and Florida and offers a radiography internship program in Arizona. Instructors are experienced radiologic technologists, working side by side with students to share their expertise.&amp;nbsp;</p>
+
+
+
+<p>"Our faculty is devoted to each student learner, and building on their interests in specific areas, such as various breast imaging technologies," says Lodermeier, who is also an alumna of the program. "For many students who choose radiography, it's to make a difference — caring for patients by assisting in testing and treatment of breast cancer and other serious diseases."&amp;nbsp;</p>
 
 
 
@@ -668,33 +676,33 @@
 
 
 
-<p>Programs at Mayo Clinic also are training clinicians in specialized care for patients with breast cancer. One such program is a fellowship that focuses on breast imaging, offered through&nbsp;<a href="https://college.mayo.edu/academics/residencies-and-fellowships/" target="_blank" rel="noreferrer noopener">Mayo Clinic School of Graduate Medical Education</a>. A fellowship program exists on each of Mayo's campuses, admitting a total of about six trainees a year.&nbsp;</p>
+<p>Programs at Mayo Clinic also are training clinicians in specialized care for patients with breast cancer. One such program is a fellowship that focuses on breast imaging, offered through&amp;nbsp;<a href="https://college.mayo.edu/academics/residencies-and-fellowships/" target="_blank" rel="noreferrer noopener">Mayo Clinic School of Graduate Medical Education</a>. A fellowship program exists on each of Mayo's campuses, admitting a total of about six trainees a year.&amp;nbsp;</p>
 
 
 
-<p>Fellows learn numerous advanced imaging technologies, including modalities not offered at many institutions, such as&nbsp;<a href="https://www.mayo.edu/research/clinical-trials/tests-procedures/contrast-enhanced-mammography" target="_blank" rel="noreferrer noopener">contrast-enhanced digital mammography (CEDM)</a>&nbsp;and&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/molecular-breast-imaging/about/pac-20394710" target="_blank" rel="noreferrer noopener">molecular breast imaging (MBI)</a>. These approaches can improve cancer detection.</p>
+<p>Fellows learn numerous advanced imaging technologies, including modalities not offered at many institutions, such as&amp;nbsp;<a href="https://www.mayo.edu/research/clinical-trials/tests-procedures/contrast-enhanced-mammography" target="_blank" rel="noreferrer noopener">contrast-enhanced digital mammography (CEDM)</a>&amp;nbsp;and&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/molecular-breast-imaging/about/pac-20394710" target="_blank" rel="noreferrer noopener">molecular breast imaging (MBI)</a>. These approaches can improve cancer detection.</p>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="608" height="608" data-id="407570" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1.jpg" alt="" class="wp-image-407570" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px"><figcaption class="wp-element-caption">Tailor Hofman</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="608" height="608" data-id="407570" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1.jpg" alt="" class="wp-image-407570" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Hofman_Tailor_J._16248261_20250317.-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px" /><figcaption class="wp-element-caption">Tailor Hofman</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="608" height="608" data-id="407573" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1.jpg" alt="" class="wp-image-407573" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px"><figcaption class="wp-element-caption">Dr. Michael Villalba</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="608" height="608" data-id="407573" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1.jpg" alt="" class="wp-image-407573" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Villalba_Michael_D.-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px" /><figcaption class="wp-element-caption">Dr. Michael Villalba</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="608" height="608" data-id="407567" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1.jpg" alt="" class="wp-image-407567" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px"><figcaption class="wp-element-caption">Anna Detry</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="608" height="608" data-id="407567" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1.jpg" alt="" class="wp-image-407567" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Detry_Anna_M._30185956_20220705.-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px" /><figcaption class="wp-element-caption">Anna Detry</figcaption></figure>
 </figure>
 
 
 
-<p><br>In Florida, the Breast Imaging Fellowship program — which accepts one fellow a year — involves rigorous training rotations that take place in the state-of-the-art facilities of the Duan Family Building. The training&nbsp;&nbsp;emphasizes compassion, says program director&nbsp;<a href="https://quarterly.mayo.edu/directoryui/personDetails/15542629" target="_blank" rel="noreferrer noopener">Kristin Robinson, M.D.</a>&nbsp;Among recent trainees in Florida was&nbsp;Michael Villalba, D.O., who completed the program and was hired to join Mayo staff as a physician in diagnostic radiology specializing in breast imaging.&nbsp;  </p>
+<p><br>In Florida, the Breast Imaging Fellowship program — which accepts one fellow a year — involves rigorous training rotations that take place in the state-of-the-art facilities of the Duan Family Building. The training&amp;nbsp;&amp;nbsp;emphasizes compassion, says program director&amp;nbsp;<a href="https://quarterly.mayo.edu/directoryui/personDetails/15542629" target="_blank" rel="noreferrer noopener">Kristin Robinson, M.D.</a>&amp;nbsp;Among recent trainees in Florida was&amp;nbsp;Michael Villalba, D.O., who completed the program and was hired to join Mayo staff as a physician in diagnostic radiology specializing in breast imaging.&amp;nbsp;  </p>
 
 
 
-<p>The compassionate care Dr. Villalba provided during a biopsy made an impression&nbsp;on patient Shelley Norwood.&nbsp;"His passion shines&nbsp;through&nbsp;in&nbsp;how he engages with patients," Norwood says. "You can see it&nbsp;in&nbsp;his face and hear it in his voice. He exemplifies the Mayo mission and values."&nbsp;</p>
+<p>The compassionate care Dr. Villalba provided during a biopsy made an impression&amp;nbsp;on patient Shelley Norwood.&amp;nbsp;"His passion shines&amp;nbsp;through&amp;nbsp;in&amp;nbsp;how he engages with patients," Norwood says. "You can see it&amp;nbsp;in&amp;nbsp;his face and hear it in his voice. He exemplifies the Mayo mission and values."&amp;nbsp;</p>
 
 
 
@@ -702,10 +710,10 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-and-patient-16-x-9.jpg" alt="Dr. Kristin Robinson, discussing cancer care with a patient." class="wp-image-407569" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-and-patient-16-x-9.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-and-patient-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 760px) 100vw, 760px"><figcaption class="wp-element-caption">Dr. Kristin Robinson (right) speaks with a patient</figcaption></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-and-patient-16-x-9.jpg" alt="Dr. Kristin Robinson, discussing cancer care with a patient." class="wp-image-407569" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-and-patient-16-x-9.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-and-patient-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 760px) 100vw, 760px" /><figcaption class="wp-element-caption">Dr. Kristin Robinson (right) speaks with a patient</figcaption></figure></div>
 
 
-<p>This approach is embedded in the fellowship training, says Dr. Robinson. "We're not just reading images,” she says. "We're caring for people."&nbsp;</p>
+<p>This approach is embedded in the fellowship training, says Dr. Robinson. "We're not just reading images,” she says. "We're caring for people."&amp;nbsp;</p>
 
 
 
@@ -713,11 +721,11 @@
 
 
 
-<p>Mayo is also training students who have an eye on patients' futures.&nbsp;Anna Detry&nbsp;is a fourth year Ph.D. student at&nbsp;<a href="https://college.mayo.edu/academics/biomedical-research-training/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a>. Training under the mentorship of cancer researcher&nbsp;<a href="https://www.mayo.edu/research/faculty/hawse-john-r-iv-ph-d/bio-00093391" target="_blank" rel="noreferrer noopener">John Hawse IV, Ph.D.</a>, she aims to improve outcomes for patients who have recurrent breast tumors that have become resistant to treatment.</p>
+<p>Mayo is also training students who have an eye on patients' futures.&amp;nbsp;Anna Detry&amp;nbsp;is a fourth year Ph.D. student at&amp;nbsp;<a href="https://college.mayo.edu/academics/biomedical-research-training/" target="_blank" rel="noreferrer noopener">Mayo Clinic Graduate School of Biomedical Sciences</a>. Training under the mentorship of cancer researcher&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/hawse-john-r-iv-ph-d/bio-00093391" target="_blank" rel="noreferrer noopener">John Hawse IV, Ph.D.</a>, she aims to improve outcomes for patients who have recurrent breast tumors that have become resistant to treatment.</p>
 
 
 
-<p>Detry took interest in studying breast cancer after family friends faced cancer diagnoses. Her studies focus on a form of breast cancer classified as estrogen receptor positive (ER+), which is usually treated effectively by drugs that block estrogen pathways. However, when tumors do recur, they may no longer respond to the same treatments.&nbsp; </p>
+<p>Detry took interest in studying breast cancer after family friends faced cancer diagnoses. Her studies focus on a form of breast cancer classified as estrogen receptor positive (ER+), which is usually treated effectively by drugs that block estrogen pathways. However, when tumors do recur, they may no longer respond to the same treatments.&amp;nbsp; </p>
 
 
 
@@ -726,36 +734,36 @@
 
 
 <p>Interacting with clinician collaborators at Mayo Clinic has helped shape Detry's thinking as a researcher-in-training who's zeroed in on what's next for patients. "When I was applying to graduate school, what drew me to Mayo was the patient-centric focus of everything, even very basic science studies," she says. "Being in a hospital setting and working with clinicians here constantly keeps the patient centered in all our work and in the forefront of our minds." </p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/shaping-the-future-of-breast-cancer-care-one-trainee-at-a-time/">Shaping the future of breast cancer care–one trainee at a time</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/shaping-the-future-of-breast-cancer-care-one-trainee-at-a-time/">Shaping the future of breast cancer care&amp;#8211;one trainee at a time</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Kristin-Robinson-and-patient-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Breast Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Kristin Robinson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic College of Medicine &amp; Science]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Graduate of Biomedical Sciences]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic School of Graduate Medical Education]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[mayo clinic school of health sciences]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Breast Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Kristin Robinson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic College of Medicine &amp;amp; Science]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Graduate of Biomedical Sciences]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic School of Graduate Medical Education]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[mayo clinic school of health sciences]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers find enhancing the body’s ‘first responder’ cells may boost immune therapy for cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/
+		<title>Mayo Clinic researchers find enhancing the body&amp;#8217;s &amp;#8216;first responder&amp;#8217; cells may boost immune therapy for cancer</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
-		<pubdate>Wed, 29 Oct 2025 17:14:37 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Haidong Dong]]--></category>
-		<category><!--[CDATA[Dr. Jessica Lancaster]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407363</guid>
+		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 17:14:37 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Haidong Dong]]></category>
+		<category><![CDATA[Dr. Jessica Lancaster]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407363</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have identified a specific immune cell that can be targeted to give a boost to standard immunotherapies for cancer. Two research teams, working collaboratively but using distinct approaches, found that "first-responder" immune cells known as myeloid cells can be manipulated to enhance the activity of tumor-killing T cells. The […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body’s ‘first responder’ cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have identified a specific immune cell that can be targeted to give a boost to standard immunotherapies for cancer. Two research teams, working collaboratively but using distinct approaches, found that "first-responder" immune cells known as myeloid cells can be manipulated to enhance the activity of tumor-killing T cells. The [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body&amp;#8217;s &amp;#8216;first responder&amp;#8217; cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-left-align-caption"-->
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="562" height="316" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg" alt="A live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells). They are surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured by Tina Kwok." class="wp-image-407397" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg 562w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 562px) 100vw, 562px"><figcaption class="wp-element-caption">Live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells),  surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured: Tina Kwok.</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-left-align-caption">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="562" height="316" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg" alt="A live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells). They are surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured by Tina Kwok." class="wp-image-407397" style="width:840px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg 562w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 562px) 100vw, 562px" /><figcaption class="wp-element-caption">Live cell microscopy image of a tumor’s environment shows the interaction of tumor-killing T-cells (magenta) and macrophages (green round cells),  surrounded by stiff tumor tissue (green fibers) and non-fluorescent tumor cells (black areas). Image captured: Tina Kwok.</figcaption></figure></div>
 
 
 <p>ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have identified a specific immune cell that can be targeted to give a boost to standard immunotherapies for cancer. Two research teams, working collaboratively but using distinct approaches, found that "first-responder" immune cells known as myeloid cells can be manipulated to enhance the activity of tumor-killing T cells.</p>
@@ -774,7 +782,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg" alt="Portrait of Dr. Haidong Dong" class="wp-image-407368" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Haidong Dong, M.D., Ph.D</figcaption></figure></div>
+<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg" alt="Portrait of Dr. Haidong Dong" class="wp-image-407368" style="width:204px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dong-Haidong_12985848_20220816.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Haidong Dong, M.D., Ph.D</figcaption></figure></div>
 
 
 <p>"Our study found the importance of the recycling process, and we present a way to address it," says <a href="https://www.mayo.edu/research/faculty/dong-haidong-m-d-ph-d/bio-00027557" target="_blank" rel="noreferrer noopener">Haidong Dong, M.D., Ph.D.</a>, a cancer immunology researcher at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/cancer-care" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> and principal investigator of the study.</p>
@@ -785,7 +793,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg" alt="Portrait of Michelle Hsu" class="wp-image-407367" style="width:200px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Michelle Hsu</figcaption></figure></div>
+<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg" alt="Portrait of Michelle Hsu" class="wp-image-407367" style="width:200px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Hsu-Michelle-A._30026716_202509162045.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Michelle Hsu</figcaption></figure></div>
 
 
 <p></p>
@@ -796,7 +804,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg" alt="Portrait of Dr. Jessica Lancaster" class="wp-image-407369" style="width:186px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Jessica Lancaster, Ph.D.</figcaption></figure></div>
+<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg" alt="Portrait of Dr. Jessica Lancaster" class="wp-image-407369" style="width:186px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Lancaster-Jessica-N._21667098_202502181545.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Jessica Lancaster, Ph.D.</figcaption></figure></div>
 
 
 <p>Another Mayo Clinic team took a different approach and arrived at a similar conclusion about the importance of myeloid cells. A research team led by immunology researcher <a href="https://www.mayo.edu/research/faculty/lancaster-jessica-n-ph-d/bio-20482482" target="_blank" rel="noreferrer noopener">Jessica Lancaster, Ph.D.</a>, at <a href="https://www.mayoclinic.org/patient-visitor-guide/arizona" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>, reported in <a href="https://www.sciencedirect.com/science/article/pii/S2589004225017997" target="_blank" rel="noreferrer noopener">iScience</a> that macrophages, a type of myeloid cell, play a role in activating the cancer-killing T cells.</p>
@@ -812,7 +820,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidCcIVENx1zI" title="Tcell and macrophage" width="500" height="281" src="https://www.youtube.com/embed/-CcIVENx1zI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidCcIVENx1zI"  title="Tcell and macrophage" width="500" height="281" src="https://www.youtube.com/embed/-CcIVENx1zI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -829,7 +837,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg" alt="Portrait of Tina Kwok" class="wp-image-407366" style="width:179px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption">Tina Kwok</figcaption></figure></div>
+<figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg" alt="Portrait of Tina Kwok" class="wp-image-407366" style="width:179px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Kwok-Tina_30026717_202506271753.jpg 640w" sizes="auto, (max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption">Tina Kwok</figcaption></figure></div>
 
 
 <p><br>Further, says lead author Tina Kwok, who completed the studies during her Ph.D. research at Mayo Clinic, "We can directly reprogram tumor macrophages to be more pro-inflammatory. They can become better T-cell activators and drive better tumor control. Reprogramming of the macrophage may be key to being able to prevent therapy resistance and change outcomes for patients."</p>
@@ -856,11 +864,11 @@
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center <br></strong>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center <br></strong>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -871,42 +879,42 @@
 <ul class="wp-block-list">
 <li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body’s ‘first responder’ cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-enhancing-the-bodys-first-responder-cells-may-boost-immune-therapy-for-cancer/">Mayo Clinic researchers find enhancing the body&amp;#8217;s &amp;#8216;first responder&amp;#8217; cells may boost immune therapy for cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/TcellsANDmacrophages-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Haidong Dong]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Jessica Lancaster]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Haidong Dong]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Jessica Lancaster]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic study sheds light on colorectal cancer risk in overlooked group</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-sheds-light-on-colorectal-cancer-risk-in-overlooked-group/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-sheds-light-on-colorectal-cancer-risk-in-overlooked-group/</link>
 		
-		<dc:creator><!--[CDATA[Jessica Saenz]]--></dc:creator>
-		<pubdate>Fri, 24 Oct 2025 15:57:14 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Nicholas LaRusso]]--></category>
-		<category><!--[CDATA[research Dr. Saqr Alsakarneh]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407172</guid>
+		<dc:creator><![CDATA[Jessica Saenz]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 15:57:14 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Nicholas LaRusso]]></category>
+		<category><![CDATA[research Dr. Saqr Alsakarneh]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407172</guid>
 
-					<description><!--[CDATA[<p-->Primary sclerosing cholangitis (PSC) causes inflammation and scarring of the bile ducts. This rare liver disease is often accompanied by inflammatory bowel disease (IBD). Together, these diseases increase the risk of colorectal cancer by more than sixfold compared to the general population. Until recently, it&nbsp;wasn't&nbsp;clear whether that increased colorectal cancer risk extended to people with […]<p></p>
+					<description><![CDATA[<p>Primary sclerosing cholangitis (PSC) causes inflammation and scarring of the bile ducts. This rare liver disease is often accompanied by inflammatory bowel disease (IBD). Together, these diseases increase the risk of colorectal cancer by more than sixfold compared to the general population. Until recently, it&amp;#160;wasn't&amp;#160;clear whether that increased colorectal cancer risk extended to people with [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-sheds-light-on-colorectal-cancer-risk-in-overlooked-group/">Mayo Clinic study sheds light on colorectal cancer risk in overlooked group</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-left-align-caption"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-1024x576.jpg" alt="Gastroenterology researchers look at screen" class="wp-image-407268" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9.jpg 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Gastroenterology researchers look at screen</figcaption></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-left-align-caption">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-1024x576.jpg" alt="Gastroenterology researchers look at screen" class="wp-image-407268" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9.jpg 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Gastroenterology researchers look at screen</figcaption></figure></div>
 
 
 <p>Primary sclerosing cholangitis (PSC) causes inflammation and scarring of the bile ducts. This rare liver disease is often accompanied by inflammatory bowel disease (IBD). Together, these diseases increase the risk of colorectal cancer by more than sixfold compared to the general population.</p>
 
 
 
-<p>Until recently, it&nbsp;<a>wasn't</a>&nbsp;clear whether that increased colorectal cancer risk extended to people with PSC alone, but Mayo Clinic researchers have helped answer this question. Their findings could help open the door to earlier colorectal cancer screening and better prevention for people with PSC.</p>
+<p>Until recently, it&amp;nbsp;<a>wasn't</a>&amp;nbsp;clear whether that increased colorectal cancer risk extended to people with PSC alone, but Mayo Clinic researchers have helped answer this question. Their findings could help open the door to earlier colorectal cancer screening and better prevention for people with PSC.</p>
 
 
 
@@ -914,10 +922,10 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="608" height="608" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1.jpg" alt="Photo of Dr. Saqr Alsakarneh" class="wp-image-407174" style="width:166px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px"><figcaption class="wp-element-caption">Dr. Saqr Alsakarneh</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="608" height="608" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1.jpg" alt="Photo of Dr. Saqr Alsakarneh" class="wp-image-407174" style="width:166px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1.jpg 608w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Saqr-Alsakarneh-30425105_20250701-1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 608px) 100vw, 608px" /><figcaption class="wp-element-caption">Dr. Saqr Alsakarneh</figcaption></figure></div>
 
 
-<p>"We wanted to answer something that was overlooked in the guidelines because these patients are a smaller group and have been understudied in research," says Dr.&nbsp;Saqr Alsakarneh, a fellow in the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/gastroenterology-hepatology-digestive-care/sections/overview/ovc-20348241?customer_id=919-955-2329&amp;mc_id=google&amp;campaign=8927988164&amp;geo=9199032&amp;kw=mayo%20clinic%20gastroenterology&amp;ad=458309235531&amp;network=g&amp;sitetarget=&amp;adgroup=111165104350&amp;extension=&amp;target=kwd-367650091164&amp;matchtype=e&amp;device=c&amp;account=9199552329&amp;invsrc=arizona&amp;placementsite=arizona&amp;gad_source=1&amp;gad_campaignid=8927988164&amp;gbraid=0AAAAAD8Qu28LZ_ykDEhzwUdztX41xIe9R&amp;gclid=Cj0KCQjw58PGBhCkARIsADbDilxBHSas-T8H9QdFt0dNSntXtQI6tzhJ5Pej5p9tpWeYJda5z2MOamwaAuh3EALw_wcB">Department of Gastroenterology at Mayo Clinic</a>&nbsp;and lead author of the study,&nbsp;published in&nbsp;<a href="https://onlinelibrary.wiley.com/doi/10.1111/apt.70303">Alimentary Pharmacology and Therapeutics</a>. </p>
+<p>"We wanted to answer something that was overlooked in the guidelines because these patients are a smaller group and have been understudied in research," says Dr.&nbsp;Saqr Alsakarneh, a fellow in the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/gastroenterology-hepatology-digestive-care/sections/overview/ovc-20348241?customer_id=919-955-2329&amp;amp;mc_id=google&amp;amp;campaign=8927988164&amp;amp;geo=9199032&amp;amp;kw=mayo%20clinic%20gastroenterology&amp;amp;ad=458309235531&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=111165104350&amp;amp;extension=&amp;amp;target=kwd-367650091164&amp;amp;matchtype=e&amp;amp;device=c&amp;amp;account=9199552329&amp;amp;invsrc=arizona&amp;amp;placementsite=arizona&amp;amp;gad_source=1&amp;amp;gad_campaignid=8927988164&amp;amp;gbraid=0AAAAAD8Qu28LZ_ykDEhzwUdztX41xIe9R&amp;amp;gclid=Cj0KCQjw58PGBhCkARIsADbDilxBHSas-T8H9QdFt0dNSntXtQI6tzhJ5Pej5p9tpWeYJda5z2MOamwaAuh3EALw_wcB">Department of Gastroenterology at Mayo Clinic</a>&nbsp;and lead author of the study,&nbsp;published in&nbsp;<a href="https://onlinelibrary.wiley.com/doi/10.1111/apt.70303">Alimentary Pharmacology and Therapeutics</a>. </p>
 
 
 
@@ -929,11 +937,11 @@
 
 
 
-<p>The researchers found that&nbsp;people with PSC without IBD have&nbsp;<a>nearly three</a>&nbsp;times the risk of developing colorectal cancer compared to the general population.&nbsp;</p>
+<p>The researchers found that&amp;nbsp;people with PSC without IBD have&amp;nbsp;<a>nearly three</a>&amp;nbsp;times the risk of developing colorectal cancer compared to the general population.&amp;nbsp;</p>
 
 
 
-<p>"This is important because it challenges the current assumption that only&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/primary-sclerosing-cholangitis/symptoms-causes/syc-20355797">primary sclerosing cholangitis</a>&nbsp;with IBD causes colorectal cancer," says&nbsp;Dr.&nbsp;<a>Alsakarneh</a>.</p>
+<p>"This is important because it challenges the current assumption that only&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/primary-sclerosing-cholangitis/symptoms-causes/syc-20355797">primary sclerosing cholangitis</a>&amp;nbsp;with IBD causes colorectal cancer," says&amp;nbsp;Dr.&amp;nbsp;<a>Alsakarneh</a>.</p>
 
 
 
@@ -941,7 +949,7 @@
 
 
 
-<p>In addition to discovering an increased risk for colorectal cancer, the study&nbsp;confirmed an association between PSC alone and higher rates of bile duct,&nbsp;<a>liver</a>&nbsp;and pancreatic cancers. While previous research has suggested this connection, the study provides large-scale data to support the need for continued vigilance and screening strategies tailored to people with PSC.</p>
+<p>In addition to discovering an increased risk for colorectal cancer, the study&amp;nbsp;confirmed an association between PSC alone and higher rates of bile duct,&amp;nbsp;<a>liver</a>&amp;nbsp;and pancreatic cancers. While previous research has suggested this connection, the study provides large-scale data to support the need for continued vigilance and screening strategies tailored to people with PSC.</p>
 
 
 
@@ -957,7 +965,7 @@
 
 
 
-<p>As researchers investigate further, Dr. Alsakarneh says&nbsp;<a>it's</a>&nbsp;important that clinicians with PSC patients be aware of this association, tune into emerging evidence and keep their patients informed as findings develop.</p>
+<p>As researchers investigate further, Dr. Alsakarneh says&amp;nbsp;<a>it's</a>&amp;nbsp;important that clinicians with PSC patients be aware of this association, tune into emerging evidence and keep their patients informed as findings develop.</p>
 
 
 
@@ -969,7 +977,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-819x1024.jpg" alt="Dr. Nicholas LaRusso" class="wp-image-407260" style="width:159px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913.jpg 900w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Dr. Nicholas LaRusso</figcaption></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-819x1024.jpg" alt="Dr. Nicholas LaRusso" class="wp-image-407260" style="width:159px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/LaRusso-Nicholas-F._10157514_20220913.jpg 900w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Dr. Nicholas LaRusso</figcaption></figure></div>
 
 
 <p>"It's important to me that this study comes from Mayo Clinic because Dr. LaRusso, who still has a lab here, made so much progress in this disease. He is the reason I came to Mayo Clinic to do my training," says Dr. Alsakarneh.</p>
@@ -992,27 +1000,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Gastro-researcher-WF3829116_0189-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nicholas LaRusso]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[research Dr. Saqr Alsakarneh]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nicholas LaRusso]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[research Dr. Saqr Alsakarneh]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic collaborates on new drug study showing improved survival for early breast cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-collaborates-on-new-drug-study-showing-improved-survival-for-early-breast-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-collaborates-on-new-drug-study-showing-improved-survival-for-early-breast-cancer/</link>
 		
-		<dc:creator><!--[CDATA[ltedesco7]]--></dc:creator>
-		<pubdate>Thu, 23 Oct 2025 13:45:28 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Matthew Goetz]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407178</guid>
+		<dc:creator><![CDATA[ltedesco7]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 13:45:28 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Matthew Goetz]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407178</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers collaborated on a new study showing that the drug abemaciclib improves survival for people with high-risk, early-stage breast cancer. In the phase 3 monarchE trial, two years of abemaciclib (Verzenio) plus endocrine therapy reduced the risk of death by 15.8% compared with endocrine therapy alone among patients with a […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers collaborated on a new study showing that the drug abemaciclib improves survival for people with high-risk, early-stage breast cancer. In the phase 3 monarchE trial, two years of abemaciclib (Verzenio) plus endocrine therapy reduced the risk of death by 15.8% compared with endocrine therapy alone among patients with a [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-collaborates-on-new-drug-study-showing-improved-survival-for-early-breast-cancer/">Mayo Clinic collaborates on new drug study showing improved survival for early breast cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-left-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-1024x576.jpg" alt="Woman looking at hand holding pills, water glass in other hand, in home" class="wp-image-407183" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9.jpg 1677w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Shutterstock</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-left-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-1024x576.jpg" alt="Woman looking at hand holding pills, water glass in other hand, in home" class="wp-image-407183" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9.jpg 1677w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Shutterstock</figcaption></figure>
 
 
 
@@ -1028,7 +1036,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="812" height="812" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1.jpg" alt="Headshot of Dr. Matthew P Goetz" class="wp-image-407182" style="width:222px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1.jpg 812w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 812px) 100vw, 812px"><figcaption class="wp-element-caption">Dr. Matthew Goetz</figcaption></figure></div>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="812" height="812" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1.jpg" alt="Headshot of Dr. Matthew P Goetz" class="wp-image-407182" style="width:222px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1.jpg 812w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Dr.-Matthew-P-Goetz-._12369616_20250331-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 812px) 100vw, 812px" /><figcaption class="wp-element-caption">Dr. Matthew Goetz</figcaption></figure></div>
 
 
 <p>"This is the first therapy to significantly prolong survival for this patient population in over two decades," says study co-author <a href="https://www.mayoclinic.org/biographies/goetz-matthew-p-m-d/bio-20054460" target="_blank" rel="noreferrer noopener">Matthew Goetz, M.D.</a>, a breast medical oncologist at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>. "With the addition of just one drug to standard endocrine therapy, we are not only seeing fewer recurrences but are also reducing the chance for breast cancer death."</p>
@@ -1043,7 +1051,7 @@
 
 
 
-<p>"Abemaciclib was developed to target estrogen receptor-positive breast cancer in a way that's different than chemotherapy by slowing the proliferation of cancer cells," Dr. Goetz says. "We now can confidently state that the benefits seen early on, in terms of reducing recurrence, result in improved survival, which is what matters most to patients." &nbsp;</p>
+<p>"Abemaciclib was developed to target estrogen receptor-positive breast cancer in a way that's different than chemotherapy by slowing the proliferation of cancer cells," Dr. Goetz says. "We now can confidently state that the benefits seen early on, in terms of reducing recurrence, result in improved survival, which is what matters most to patients." &amp;nbsp;</p>
 
 
 
@@ -1051,11 +1059,11 @@
 
 
 
-<p>Among patients who took abemaciclib with endocrine therapy, 32% fewer experienced disease spread after seven years compared with those who only received endocrine therapy. This confirms that abemaciclib helps lower the risk of recurrence even after treatment with the drug has ended. &nbsp;</p>
+<p>Among patients who took abemaciclib with endocrine therapy, 32% fewer experienced disease spread after seven years compared with those who only received endocrine therapy. This confirms that abemaciclib helps lower the risk of recurrence even after treatment with the drug has ended. &amp;nbsp;</p>
 
 
 
-<p>Continued follow-up will determine whether the survival benefit deepens over time. &nbsp;&nbsp;</p>
+<p>Continued follow-up will determine whether the survival benefit deepens over time. &amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -1067,11 +1075,11 @@
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -1089,33 +1097,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Woman-pills-water-1138085252-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Goetz]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Goetz]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>New genomic test could spare some people with melanoma from lymph node biopsy surgery&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-genomic-test-could-spare-some-people-with-melanoma-from-lymph-node-biopsy-surgery/
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-genomic-test-could-spare-some-people-with-melanoma-from-lymph-node-biopsy-surgery/</link>
 		
-		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
-		<pubdate>Wed, 22 Oct 2025 14:55:25 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Alexander Meves]]--></category>
-		<category><!--[CDATA[Dr. Tina Hieken]]--></category>
-		<category><!--[CDATA[Melanoma]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407092</guid>
+		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 14:55:25 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Alexander Meves]]></category>
+		<category><![CDATA[Dr. Tina Hieken]]></category>
+		<category><![CDATA[Melanoma]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407092</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A genomic test co-developed by Mayo Clinic and SkylineDx can identify whether people with melanoma are at low or high risk for cancer in their lymph nodes — a finding that could guide treatment decisions and help some people avoid lymph node biopsy surgery. The study results are published in JAMA Surgery. […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A genomic test co-developed by Mayo Clinic and SkylineDx can identify whether people with melanoma are at low or high risk for cancer in their lymph nodes — a finding that could guide treatment decisions and help some people avoid lymph node biopsy surgery. The study results are published in JAMA Surgery. [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-genomic-test-could-spare-some-people-with-melanoma-from-lymph-node-biopsy-surgery/">New genomic test could spare some people with melanoma from lymph node biopsy surgery&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-1024x576.png" alt="" class="wp-image-407094" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A 3D illustration shows a cross-section of skin with melanoma spreading into the bloodstream and lymphatic system. (Getty Images)</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-1024x576.png" alt="" class="wp-image-407094" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A 3D illustration shows a cross-section of skin with melanoma spreading into the bloodstream and lymphatic system. (Getty Images)</figcaption></figure>
 
 
 
@@ -1123,7 +1131,7 @@
 
 
 
-<p>In the largest prospective study of its kind, about 93% of people classified as low risk had no cancer in their lymph nodes, while about 25% in the high-risk group did. The multicenter clinical trial enrolled 1,761 people with early- or intermediate-stage melanoma at nine U.S. cancer centers between 2021 and 2024.&nbsp;</p>
+<p>In the largest prospective study of its kind, about 93% of people classified as low risk had no cancer in their lymph nodes, while about 25% in the high-risk group did. The multicenter clinical trial enrolled 1,761 people with early- or intermediate-stage melanoma at nine U.S. cancer centers between 2021 and 2024.&amp;nbsp;</p>
 
 
 
@@ -1167,7 +1175,7 @@
 
 
 
-<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic Comprehensive Cancer Center </strong><br>Designated as a comprehensive cancer center by the&amp;nbsp;<a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>,&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -1189,29 +1197,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/1x1MELANOMA.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/16x9MELANOMA1.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Alexander Meves]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Tina Hieken]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Melanoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Alexander Meves]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tina Hieken]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Melanoma]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Radiation therapy for patients with breast cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-radiation-therapy-for-patients-with-breast-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-radiation-therapy-for-patients-with-breast-cancer/</link>
 		
-		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
-		<pubdate>Tue, 21 Oct 2025 12:50:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Laura Vallow]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=395065</guid>
+		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 12:50:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Laura Vallow]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=395065</guid>
 
-					<description><!--[CDATA[<p-->Radiation therapy is a common component of breast cancer treatment for patients. The high-powered beams of intense energy kill cancer cells and reduce the risk of the cancer recurring. Dr. Laura Vallow, chair of the Radiation Oncology Department at Mayo Clinic in Florida, explains how innovation is transforming radiation treatments. Watch: The Mayo Clinic Minute […]<p></p>
+					<description><![CDATA[<p>Radiation therapy is a common component of breast cancer treatment for patients. The high-powered beams of intense energy kill cancer cells and reduce the risk of the cancer recurring. Dr. Laura Vallow, chair of the Radiation Oncology Department at Mayo Clinic in Florida, explains how innovation is transforming radiation treatments. Watch: The Mayo Clinic Minute [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-radiation-therapy-for-patients-with-breast-cancer/">Mayo Clinic Minute: Radiation therapy for patients with breast cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-1024x576.jpg" alt="Patient with radiation technician, radiation therapy" class="wp-image-407114" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-1024x576.jpg" alt="Patient with radiation technician, radiation therapy" class="wp-image-407114" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9.jpg 1604w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 <p><a href="https://www.mayoclinic.org/tests-procedures/radiation-therapy/about/pac-20385162" target="_blank" rel="noreferrer noopener">Radiation therapy</a> is a common component of <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475" target="_blank" rel="noreferrer noopener">breast cancer treatment</a> for patients. The high-powered beams of intense energy kill cancer cells and reduce the risk of the cancer recurring.</p>
@@ -1227,7 +1235,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidme4OE84cerE" title="Mayo Clinic Minute - Radiation therapy for patients with breast cancer" width="500" height="281" src="https://www.youtube.com/embed/me4OE84cerE?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidme4OE84cerE"  title="Mayo Clinic Minute - Radiation therapy for patients with breast cancer" width="500" height="281" src="https://www.youtube.com/embed/me4OE84cerE?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -1236,7 +1244,7 @@
 
 
 
-<p>Patients with breast cancer now have more options when it comes to radiation treatments. The goal is to remove any remaining cancer cells following chemotherapy or surgery.&nbsp;</p>
+<p>Patients with breast cancer now have more options when it comes to radiation treatments. The goal is to remove any remaining cancer cells following chemotherapy or surgery.&amp;nbsp;</p>
 
 
 
@@ -1289,7 +1297,7 @@
 
 
 
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-how-to-decide-which-breast-cancer-surgery-is-right-for-you/" target="_blank" rel="noreferrer noopener">Mayo Clinic Q&amp;A: How to decide which breast cancer surgery is right for you</a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-how-to-decide-which-breast-cancer-surgery-is-right-for-you/" target="_blank" rel="noreferrer noopener">Mayo Clinic Q&amp;amp;A: How to decide which breast cancer surgery is right for you</a></li>
 
 
 
@@ -1297,7 +1305,7 @@
 
 
 
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-need-to-know-about-dense-breasts/">Mayo Clinic Q&amp;A: What do you need to know about dense breasts?</a><a href="https://newsnetwork.mayoclinic.org/wp-admin/post.php?post=406974&amp;action=edit"></a></li>
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-you-need-to-know-about-dense-breasts/">Mayo Clinic Q&amp;amp;A: What do you need to know about dense breasts?</a><a href="https://newsnetwork.mayoclinic.org/wp-admin/post.php?post=406974&amp;amp;action=edit"></a></li>
 </ul>
 
 
@@ -1310,6 +1318,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034.-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/10/Patient-with-radiation-tech-1461606_3648465_0034-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Laura Vallow]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Laura Vallow]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Minute]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
