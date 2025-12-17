@@ -5,7 +5,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/" rel="self" type="application/rss+xml">
 	<link>https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/
 	<description>News Resources</description>
-	<lastbuilddate>Tue, 16 Dec 2025 17:48:52 +0000</lastbuilddate>
+	<lastbuilddate>Wed, 17 Dec 2025 10:05:56 +0000</lastbuilddate>
 	<language>en-US</language>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
@@ -13,6 +13,103 @@
 	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.9</generator>
 	<item>
+		<title>Mayo Clinic researchers develop AI-ECG model to diagnose liver disease earlier</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-develop-ai-ecg-model-to-diagnose-liver-disease-earlier/
+		
+		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
+		<pubdate>Wed, 17 Dec 2025 10:05:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Gastroenterology]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. David Rushlow]]--></category>
+		<category><!--[CDATA[Dr. Doug Simonetto]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=408201</guid>
+
+					<description><!--[CDATA[<p-->Because the heart and liver are closely linked, an electrocardiogram (ECG) can capture electrical signal changes in the heart connected to advanced liver disease.<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-develop-ai-ecg-model-to-diagnose-liver-disease-earlier/">Mayo Clinic researchers develop AI-ECG model to diagnose liver disease earlier</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-16x9-1-1024x576.jpg" alt="Photo of man standing by window looking out." class="wp-image-408206" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+
+
+
+<p>ROCHESTER, Minn. — As rates of <a href="https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742" target="_blank" rel="noreferrer noopener">obesity</a>, <a href="https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410" target="_blank" rel="noreferrer noopener">high blood pressure</a>, <a href="https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193" target="_blank" rel="noreferrer noopener">type 2 diabetes</a> and <a href="https://www.mayoclinic.org/diseases-conditions/sleep-apnea/symptoms-causes/syc-20377631" target="_blank" rel="noreferrer noopener">sleep apnea</a> increase, cases of advanced chronic <a href="https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502" target="_blank" rel="noreferrer noopener">liver disease</a> and resulting liver scarring or <a href="https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487" target="_blank" rel="noreferrer noopener">cirrhosis</a> also are rising. Patients often are diagnosed based on symptoms, such as <a href="https://www.mayoclinic.org/diseases-conditions/gastrointestinal-bleeding/symptoms-causes/syc-20372729" target="_blank" rel="noreferrer noopener">gastrointestinal bleeding</a>, <a href="https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493" target="_blank" rel="noreferrer noopener">fluid retention</a> or jaundice, which happen when liver disease has progressed to a late stage. This problem led <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers to develop an artificial intelligence (AI) model that resulted in twice the number of advanced chronic liver disease diagnoses in patients without symptoms, helping physicians treat them before the disease had progressed.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-large is-resized"><img decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Simonetto-Doug-A._14963213_20240911-819x1024.jpg" alt="Photo of Doug Simonetto, M.D." class="wp-image-408203" style="width:193px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Simonetto-Doug-A._14963213_20240911-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Simonetto-Doug-A._14963213_20240911-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Simonetto-Doug-A._14963213_20240911-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Simonetto-Doug-A._14963213_20240911-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Simonetto-Doug-A._14963213_20240911-1638x2048.jpg 1638w" sizes="(max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Doug Simonetto, M.D.</figcaption></figure>
+</div>
+
+
+<p>"Chronic liver disease is a progressive condition, so the sooner we can diagnose it, the sooner we can stop it from advancing to irreversible stages. Early intervention may decrease the likelihood that a patient will need a <a href="https://www.mayoclinic.org/tests-procedures/liver-transplant/about/pac-20384842" target="_blank" rel="noreferrer noopener">liver transplant</a> in the future," says <a href="https://www.mayoclinic.org/biographies/simonetto-doug-a-m-d/bio-20205767" target="_blank" rel="noreferrer noopener">Doug Simonetto, M.D.</a>, a Mayo Clinic transplant hepatologist and lead author of the <a href="https://www.nature.com/articles/s41591-025-04058-y" target="_blank" rel="noreferrer noopener">study</a> published in Nature Medicine.</p>
+
+
+
+<p>The heart and liver are closely linked. Liver scarring may lead to increased local pressure that can affect the heart. As a result, a heartbeat test called an <a href="https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983" target="_blank" rel="noreferrer noopener">electrocardiogram (ECG)</a> can capture electrical signal changes in the heart connected to advanced liver disease. Dr. Simonetto and colleagues <a href="https://pubmed.ncbi.nlm.nih.gov/40146029/" target="_blank" rel="noreferrer noopener">developed an AI model</a> to analyze data from 11,513 Mayo Clinic patients undergoing routine ECGs. The model looked for patterns connected to advanced liver disease in the ECG data, and it found twice the number of patients who were diagnosed by standard methods. The diagnosis was confirmed by validated imaging or <a href="https://www.mayocliniclabs.com/test-catalog/overview/38292" target="_blank" rel="noreferrer noopener">blood tests</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-large is-resized"><img decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Rushlow-David-R._11119811_20220829-819x1024.jpg" alt="Photo of David Rushlow, M.D." class="wp-image-408204" style="width:203px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Rushlow-David-R._11119811_20220829-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Rushlow-David-R._11119811_20220829-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Rushlow-David-R._11119811_20220829-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Rushlow-David-R._11119811_20220829-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Rushlow-David-R._11119811_20220829-1638x2048.jpg 1638w" sizes="(max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">David Rushlow, M.D.</figcaption></figure>
+</div>
+
+
+<p>"As a family physician, I've often seen how advanced liver disease — which frequently has no symptoms until it becomes irreversible — can go undetected," says <a href="https://www.mayoclinichealthsystem.org/providers/david-rushlow-md" target="_blank" rel="noreferrer noopener">David Rushlow, M.D.</a>, <a href="https://www.mayoclinichealthsystem.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Health System</a> family physician and study co-author. "Many patients identified through the AI-ECG model had no idea they were living with advanced liver disease. By identifying these cases earlier, we were able to connect them to the right treatment — at a time when intervention can truly make a difference. For these patients, the technology helped us not only to uncover a diagnosis, it created an opportunity for better health outcomes and, in some cases, may have saved lives."</p>
+
+
+
+<p>In this randomized clinical trial, 248 clinicians at Mayo Clinic in Rochester and throughout the Mayo Clinic Health System participated.</p>
+
+
+
+<p>"The idea that a simple, noninvasive and inexpensive test could help identify patients at risk of developing advanced liver disease was very compelling. This study provided an opportunity to evaluate AI in our real-world clinical environment, where the true test of innovation is whether it improves care for patients in the community," says Dr. Rushlow. "We're only beginning to understand the full potential of AI-enabled tools like this and the promise they hold for preventive, personalized care."</p>
+
+
+
+<p>In the next steps, the researchers will follow up with the patients, who were newly diagnosed with advanced liver disease, over the next two years.</p>
+
+
+
+<p>The research is part of a larger effort at Mayo Clinic called the Precure initiative focused on developing tools that empower clinicians to predict and intercept biological processes before they evolve into disease or progress into complex, hard-to-treat conditions.</p>
+
+
+
+<p>Review the&nbsp;<a href="https://www.nature.com/articles/s41591-025-04058-y" target="_blank" rel="noreferrer noopener">study</a>&nbsp;for a complete list of authors, disclosures and funding. &nbsp;</p>
+
+
+
+<p>###&nbsp;</p>
+
+
+
+<p><strong>About Mayo Clinic&nbsp;<br></strong><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.&nbsp;</p>
+
+
+
+<p><strong>Media contact: </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Kelley Luckstein, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a><a id="_msocom_1"></a></li>
+</ul>
+
+
+
+<p><a id="_msocom_1"></a></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-develop-ai-ecg-model-to-diagnose-liver-disease-earlier/">Mayo Clinic researchers develop AI-ECG model to diagnose liver disease earlier</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-1x1-1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/GettyImages-1695503318-16x9-1.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. David Rushlow]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Doug Simonetto]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+		<item>
 		<title>A Year of Discovery: 10 Mayo Clinic research breakthroughs moving medicine forward&nbsp;</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/a-year-of-discovery-10-mayo-clinic-research-breakthroughs-moving-medicine-forward/
 		
@@ -64,7 +161,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/virtual-clinical-trials-may-predict-success-of-heart-failure-drugs/" target="_blank" rel=" noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg" alt="An abstract illustration of the nerve networks of the heart on a black background. Getty Images" class="wp-image-406213" style="width:374px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/virtual-clinical-trials-may-predict-success-of-heart-failure-drugs/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg" alt="An abstract illustration of the nerve networks of the heart on a black background. Getty Images" class="wp-image-406213" style="width:374px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 </div>
 
 
@@ -80,7 +177,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/" target="_blank" rel=" noreferrer noopener"><img decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg" alt="" class="wp-image-406650" style="aspect-ratio:1.7809580600278274;width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1.jpg 1901w" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">Credit: Annika Utoft, Brownfield Lab</figcaption></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg" alt="" class="wp-image-406650" style="aspect-ratio:1.7809580600278274;width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1.jpg 1901w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">Credit: Annika Utoft, Brownfield Lab</figcaption></figure>
 </div>
 
 
@@ -96,7 +193,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/stem-cells-may-offer-new-hope-for-end-stage-kidney-disease-treatment/" target="_blank" rel=" "><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg" alt="" class="wp-image-406372" style="aspect-ratio:1.7778283781146313;width:400px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/stem-cells-may-offer-new-hope-for-end-stage-kidney-disease-treatment/" target="_blank" rel=" "><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg" alt="" class="wp-image-406372" style="aspect-ratio:1.7778283781146313;width:400px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
 </div>
 
 
@@ -1316,129 +1413,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/X-ray-of-a-persons-abdomen-and-a-radiologist-physician-pointing-toward-the-liver-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/04/X-ray-of-a-persons-abdomen-and-a-radiologist-physician-pointing-toward-the-liver-1.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Bashar Aqel]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[liver]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[liver donor]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Transplant]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Organ Donation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Your abdominal core: Expert shares tips for protecting a part of the body you may not think about&nbsp;&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/your-abdominal-core-expert-shares-tips-for-protecting-a-part-of-the-body-you-may-not-think-about/
-		
-		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
-		<pubdate>Thu, 03 Apr 2025 15:02:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Surgery]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=401366</guid>
-
-					<description><!--[CDATA[<p-->ROCHESTER, Minnesota — It is a large part of the body that lies deep inside, out of sight and perhaps out of mind: your abdominal core. A new and rapidly developing area of medicine focuses on abdominal core health, including how people can incorporate it into a healthy lifestyle and how to address complex medical […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/your-abdominal-core-expert-shares-tips-for-protecting-a-part-of-the-body-you-may-not-think-about/">Your abdominal core: Expert shares tips for protecting a part of the body you may not think about&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1024x576.jpg" alt="" class="wp-image-401367" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
-
-
-
-<p>ROCHESTER, Minnesota — It is a large part of the body that lies deep inside, out of sight and perhaps out of mind: your abdominal core. A new and rapidly developing area of medicine focuses on abdominal core health, including how people can incorporate it into a healthy lifestyle and how to address complex medical problems that arise when it is compromised. <a href="https://www.mayoclinic.org/biographies/horne-charlotte-m-d/bio-20558578" target="_blank" rel="noreferrer noopener">Dr. Charlotte Horne</a>, a metabolic and abdominal wall reconstructive surgeon at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-surgery/sections/overview/ovc-20475393" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, explains what abdominal core health is, how to protect it and risk factors for problems that may require surgery.</p>
-
-
-
-<p>"The <a href="https://www.mayoclinic.org/medical-professionals/physical-medicine-rehabilitation/news/got-glutes-part-1-the-role-of-the-gluteus-maximus-and-healthy-activation-patterns-in-core-stabilization/mac-20555692" target="_blank" rel="noreferrer noopener">abdominal core</a> is the outside muscular container of your abdominal wall," Dr. Horne says. "This starts at the diaphragm and goes all the way down to the pelvic support muscles. Most of the core is muscle and connective tissue. It's a muscular container that holds your internal organs in. Every time you breathe, bend, bear down to have a bowel movement, you're using these muscles."</p>
-
-
-
-<p>The <a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/core-exercises/art-20044751" target="_blank" rel="noreferrer noopener">abdominal core</a> includes abdominal muscles that people may think of as the <a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/top-10-workout-myths" target="_blank" rel="noreferrer noopener">"six-pack,"</a> and oblique muscles and tissue that wrap all the way around the upper part of the abdomen and connect to the midline of the body, Dr. Horne adds. Many nerves lie between the layers of muscle and tissue, including those that extend to the groin, thighs, back and hips.</p>
-
-
-
-<p>Those muscles function as a unit and that unit needs to operate well for you and your body to perform daily activities, Dr. Horne says. One way to strengthen the structural integrity of your abdominal core is to engage it during your normal activities, she explains: You do not have to do thousands of sit-ups or become a bodybuilder.</p>
-
-
-
-<p>"One of the things we're realizing is that we need to educate people how to appropriately engage those muscles when they do everything from going from lying to sitting and sitting to standing, lifting objects and other basic movements in their daily lives," she says. "When people do <a href="https://mcpress.mayoclinic.org/nutrition-fitness/pilates-vs-yoga-vs-barre-which-is-right-for-you/" target="_blank" rel="noreferrer noopener">yoga or Pilates</a>, they think about pulling their belly button into their spine. That helps stabilize the deeper muscles of the abdominal wall."</p>
-
-
-
-<p>Improving abdominal core health involves conscious engagement of the abdominal muscles, "bringing everything in and holding it in," Dr. Horne says.&nbsp;</p>
-
-
-
-<p>Risk factors for abdominal core problems are wide-ranging. They include <a href="https://www.mayoclinic.org/diseases-conditions/anal-fistula/symptoms-causes/syc-20352871" target="_blank" rel="noreferrer noopener">cancer treatment</a>; <a href="https://www.mayoclinic.org/diseases-conditions/inflammatory-bowel-disease/symptoms-causes/syc-20353315" target="_blank" rel="noreferrer noopener">inflammatory bowel disease</a>; <a href="https://www.mayoclinic.org/diseases-conditions/inguinal-hernia/symptoms-causes/syc-20351547" target="_blank" rel="noreferrer noopener">chronic or severe coughing</a>; and complications from pregnancy (<a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/multimedia/separation-of-the-abdominal-muscles-during-pregnancy/img-20005895" target="_blank" rel="noreferrer noopener">diastasis recti</a>) and <a href="https://www.mayoclinic.org/diseases-conditions/rectovaginal-fistula/symptoms-causes/syc-20377108" target="_blank" rel="noreferrer noopener">surgery</a>. The most common problems are <a href="https://www.mayoclinic.org/diseases-conditions/search-results?q=hernia" target="_blank" rel="noreferrer noopener">hernias</a>, when part of an organ or tissue bulges through a weak spot in muscle.</p>
-
-
-
-<p>"Coughing can cause large hernias. When you're coughing, you're bearing down and there is a sudden, acute change in intra-abdominal pressure, almost like punching from the outside in or from the inside out," Dr. Horne explains. "When you're doing that all of the time, it causes significant stress to your abdominal wall."</p>
-
-
-
-<p>Avoiding smoking and excessive alcohol consumption can help protect abdominal core health. Smoking increases the risk of chronic coughing, while heavy alcohol consumption to the point of <a href="https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487" target="_blank" rel="noreferrer noopener">cirrhosis</a> can cause hormonal changes that in turn weaken the abdominal wall, Dr. Horne says.&nbsp;</p>
-
-
-
-<p>As knowledge about abdominal core health grows, approaches to protecting it and healing it are advancing, Dr. Horne says. For example:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Pregnancy causes muscles to expand to accommodate a baby, and sometimes those muscles do not go back to normal. Exercise regimens during and after pregnancy can help to stabilize them.</li>
-
-
-
-<li>Healthcare experts are realizing that restrictions on movement after surgery may not help and sometimes may be harmful. Rather than telling people not to lift anything, it may be more appropriate to explain how to safely reengage those muscles and tendons, Dr. Horne suggests.</li>
-
-
-
-<li>People with inflammatory bowel disease are likelier to have surgery and therefore are likelier to develop hernias. Surgeons now know that in those patients, mesh should be placed in different anatomic planes to prevent the mesh from touching the bowel and potentially causing problems later, Dr. Horne says.</li>
-
-
-
-<li><a href="https://www.mayoclinic.org/medical-professionals/physical-medicine-rehabilitation/news/treating-patients-with-pelvic-floor-dysfunction/mac-20431390" target="_blank" rel="noreferrer noopener">Pelvic floor physical therapy</a> can help women experiencing urinary or fecal incontinence after pregnancy or menopause, she says.</li>
-
-
-
-<li>There is growing recognition that mesh used to repair hernias isn't one-size-fits-all. Dr. Horne's research focuses on hernia repair in women, including mesh and mesh techniques.</li>
-</ul>
-
-
-
-<p>In her practice, Dr. Horne specializes in complex hernia surgeries.</p>
-
-
-
-<p>"Most of the patients that I care for have more of their abdominal contents outside of their abdominal cavity than inside," she explains.</p>
-
-
-
-<p>Even with hernias as large as 10 to 15 centimeters, surgeries can be performed with a robot to minimize the incision, or can be done with a mix of robotic surgery and minimal open surgery, Dr. Horne says. She uses 3D-printed models to help plan surgeries. Sometimes <a href="https://www.mayoclinic.org/tests-procedures/botox/about/pac-20384658" target="_blank" rel="noreferrer noopener">Botox</a> is used to lengthen the abdominal wall muscles, she adds.</p>
-
-
-
-<p>"The best part is that patients go from a dysfunctional abdominal wall to one that is functional within about a week in the hospital," Dr. Horne says. "Seeing them at their checkup a year later is the best thing because they go from saying `I couldn't do anything' to `I've gone on all these trips, I've done all these things that I've wanted to do for years but haven't been able to.' They are so happy that they can put that whole thing behind them, which is great."</p>
-
-
-
-<p>###<strong></strong></p>
-
-
-
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
-
-
-
-<p><strong>Media contact:</strong><strong></strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Sharon Theimer, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/your-abdominal-core-expert-shares-tips-for-protecting-a-part-of-the-body-you-may-not-think-about/">Your abdominal core: Expert shares tips for protecting a part of the body you may not think about&nbsp;&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/1x1-Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155929.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/03/16x9_Feat-image-Dr-Horne-abdom-core-health-post-uncropped-GettyImages-2057714435-fotor-20250325155847.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag>	</item>
 	</atom:link></channel>
 </rss> 
