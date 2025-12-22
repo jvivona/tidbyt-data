@@ -1,59 +1,67 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Transplant - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/transplant/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/transplant/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/transplant/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/transplant/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Thu, 18 Dec 2025 22:03:32 +0000</lastbuilddate>
+	<lastBuildDate>Thu, 18 Dec 2025 22:03:32 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9</generator>
 	<item>
 		<title>A Year of Discovery: 10 Mayo Clinic research breakthroughs moving medicine forward&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/a-year-of-discovery-10-mayo-clinic-research-breakthroughs-moving-medicine-forward/
+		<link>https://newsnetwork.mayoclinic.org/discussion/a-year-of-discovery-10-mayo-clinic-research-breakthroughs-moving-medicine-forward/</link>
 		
-		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
-		<pubdate>Tue, 16 Dec 2025 16:31:50 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Biotherapeutics]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Clinical Trials]]--></category>
-		<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Education]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Gastroenterology]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Translational Science]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Carrie Hruska]]--></category>
-		<category><!--[CDATA[Dr. Cornelia Weyand]]--></category>
-		<category><!--[CDATA[Dr. Cui Tao]]--></category>
-		<category><!--[CDATA[Dr. David T. Jones]]--></category>
-		<category><!--[CDATA[Dr. DeLisa Fairweather]]--></category>
-		<category><!--[CDATA[Dr. Douglas Brownfield]]--></category>
-		<category><!--[CDATA[Dr. Gelareh Zadeh]]--></category>
-		<category><!--[CDATA[Dr. Nick Gregg]]--></category>
-		<category><!--[CDATA[Dr. Sanjay Misra]]--></category>
-		<category><!--[CDATA[Dr. Virginia Shapiro]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=408962</guid>
+		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 16:31:50 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Biotherapeutics]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Clinical Trials]]></category>
+		<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Gastroenterology]]></category>
+		<category><![CDATA[Individualized Medicine]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Translational Science]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Carrie Hruska]]></category>
+		<category><![CDATA[Dr. Cornelia Weyand]]></category>
+		<category><![CDATA[Dr. Cui Tao]]></category>
+		<category><![CDATA[Dr. David T. Jones]]></category>
+		<category><![CDATA[Dr. DeLisa Fairweather]]></category>
+		<category><![CDATA[Dr. Douglas Brownfield]]></category>
+		<category><![CDATA[Dr. Gelareh Zadeh]]></category>
+		<category><![CDATA[Dr. Nick Gregg]]></category>
+		<category><![CDATA[Dr. Sanjay Misra]]></category>
+		<category><![CDATA[Dr. Virginia Shapiro]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=408962</guid>
 
-					<description><!--[CDATA[<p-->Mayo Clinic&nbsp;researchers&nbsp;made significant strides in 2025 toward predicting,&nbsp;preventing&nbsp;and&nbsp;treating&nbsp;some of the world's most serious and complex diseases.<p></p>
+					<description><![CDATA[<p>Mayo Clinic&nbsp;researchers&nbsp;made significant strides in 2025 toward predicting,&nbsp;preventing&nbsp;and&nbsp;treating&nbsp;some of the world's most serious and complex diseases.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/a-year-of-discovery-10-mayo-clinic-research-breakthroughs-moving-medicine-forward/">A Year of Discovery: 10 Mayo Clinic research breakthroughs moving medicine forward&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->ROCHESTER, Minn.&nbsp;—&nbsp;From AI-powered drug discovery to regenerative therapies and next-generation neurology tools,&nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers made significant strides in 2025 toward predicting,&nbsp;preventing&nbsp;and&nbsp;treating&nbsp;some of the world's most serious and complex diseases.&nbsp;<p></p>
+										<content:encoded><![CDATA[
+<p>ROCHESTER, Minn.&nbsp;—&nbsp;From AI-powered drug discovery to regenerative therapies and next-generation neurology tools,&nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers made significant strides in 2025 toward predicting,&nbsp;preventing&nbsp;and&nbsp;treating&nbsp;some of the world's most serious and complex diseases.&nbsp;</p>
 
 
 
@@ -61,111 +69,111 @@
 
 
 
-<h2 class="wp-block-heading"><strong>1.&nbsp;'</strong><a href="https://newsnetwork.mayoclinic.org/discussion/virtual-clinical-trials-may-predict-success-of-heart-failure-drugs/" target="_blank" rel="noreferrer noopener"><strong>Virtual clinical trials'&nbsp;may predict success of heart failure drugs</strong></a>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>1.&amp;nbsp;'</strong><a href="https://newsnetwork.mayoclinic.org/discussion/virtual-clinical-trials-may-predict-success-of-heart-failure-drugs/" target="_blank" rel="noreferrer noopener"><strong>Virtual clinical trials'&amp;nbsp;may predict success of heart failure drugs</strong></a>&amp;nbsp;</h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/virtual-clinical-trials-may-predict-success-of-heart-failure-drugs/" target="_blank" rel=" noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg" alt="An abstract illustration of the nerve networks of the heart on a black background. Getty Images" class="wp-image-406213" style="width:374px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/virtual-clinical-trials-may-predict-success-of-heart-failure-drugs/" target="_blank" rel=" noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg" alt="An abstract illustration of the nerve networks of the heart on a black background. Getty Images" class="wp-image-406213" style="width:374px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/GettyImages-135616497416x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 </div>
 
 
-<p>Mayo Clinic researchers have created "virtual clinical trials"&nbsp;that&nbsp;advance&nbsp;the discovery of therapies while reducing time,&nbsp;cost&nbsp;and the risk of failed studies by combining advanced computer modeling with real-world patient data&nbsp;as part of the Precure and Genesis initiatives. Through one virtual clinical trial, they have developed a new way to predict whether existing drugs could be repurposed to treat heart failure, one of the world's most pressing health challenges.&nbsp;</p>
+<p>Mayo Clinic researchers have created "virtual clinical trials"&amp;nbsp;that&amp;nbsp;advance&amp;nbsp;the discovery of therapies while reducing time,&amp;nbsp;cost&amp;nbsp;and the risk of failed studies by combining advanced computer modeling with real-world patient data&amp;nbsp;as part of the Precure and Genesis initiatives. Through one virtual clinical trial, they have developed a new way to predict whether existing drugs could be repurposed to treat heart failure, one of the world's most pressing health challenges.&amp;nbsp;</p>
 
 
 
-<p>"Clinical trials will always remain essential," says&nbsp;<a href="https://www.mayo.edu/research/faculty/tao-cui-ph-d/bio-20563927" target="_blank" rel="noreferrer noopener">Cui&nbsp;Tao,&nbsp;Ph.D.</a>, the Nancy Peretsman and Robert Scully Chair&nbsp;of Artificial Intelligence and Informatics and vice president of Mayo Clinic Platform Informatics. "But this innovation demonstrates how AI can make research more efficient, affordable and broadly accessible. Integrating trial emulation, simulation,&nbsp;synthetic&nbsp;trials&nbsp;and biomedical knowledge modeling opens the door to a new paradigm in translational science."&nbsp;</p>
+<p>"Clinical trials will always remain essential," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/tao-cui-ph-d/bio-20563927" target="_blank" rel="noreferrer noopener">Cui&amp;nbsp;Tao,&amp;nbsp;Ph.D.</a>, the Nancy Peretsman and Robert Scully Chair&amp;nbsp;of Artificial Intelligence and Informatics and vice president of Mayo Clinic Platform Informatics. "But this innovation demonstrates how AI can make research more efficient, affordable and broadly accessible. Integrating trial emulation, simulation,&amp;nbsp;synthetic&amp;nbsp;trials&amp;nbsp;and biomedical knowledge modeling opens the door to a new paradigm in translational science."&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>2.&nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/" target="_blank" rel="noreferrer noopener"><strong>New discovery may unlock regenerative therapies for lung disease</strong></a></h2>
+<h2 class="wp-block-heading"><strong>2.&amp;nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/" target="_blank" rel="noreferrer noopener"><strong>New discovery may unlock regenerative therapies for lung disease</strong></a></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/" target="_blank" rel=" noreferrer noopener"><img decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg" alt="" class="wp-image-406650" style="aspect-ratio:1.7809580600278274;width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1.jpg 1901w" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">Credit: Annika Utoft, Brownfield Lab</figcaption></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/" target="_blank" rel=" noreferrer noopener"><img decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg" alt="" class="wp-image-406650" style="aspect-ratio:1.7809580600278274;width:386px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1.jpg 1901w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Credit: Annika Utoft, Brownfield Lab</figcaption></figure>
 </div>
 
 
-<p>Mayo Clinic researchers have uncovered the molecular "switch" that directs a small but powerful set of cells that choose&nbsp;whether to repair tissue or fight infection, a discovery that could inform regenerative therapies for chronic lung diseases, which is part of Mayo Clinic's Genesis initiative.<br>&nbsp;<br>"We were surprised to find that these specialized cells cannot do both jobs at once," says&nbsp;<a href="https://www.mayo.edu/research/faculty/brownfield-douglas-g-ph-d/bio-20522531" target="_blank" rel="noreferrer noopener">Douglas Brownfield, Ph.D.</a>, senior author of the&nbsp;<a href="https://www.nature.com/articles/s41467-025-64224-1" target="_blank" rel="noreferrer noopener">study</a>. "Some commit to rebuilding, while others focus on defense. That division of labor is essential — and by uncovering the switch that controls it, we can start thinking about how to restore balance when it breaks down in disease."&nbsp;</p>
+<p>Mayo Clinic researchers have uncovered the molecular "switch" that directs a small but powerful set of cells that choose&amp;nbsp;whether to repair tissue or fight infection, a discovery that could inform regenerative therapies for chronic lung diseases, which is part of Mayo Clinic's Genesis initiative.<br>&amp;nbsp;<br>"We were surprised to find that these specialized cells cannot do both jobs at once," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/brownfield-douglas-g-ph-d/bio-20522531" target="_blank" rel="noreferrer noopener">Douglas Brownfield, Ph.D.</a>, senior author of the&amp;nbsp;<a href="https://www.nature.com/articles/s41467-025-64224-1" target="_blank" rel="noreferrer noopener">study</a>. "Some commit to rebuilding, while others focus on defense. That division of labor is essential — and by uncovering the switch that controls it, we can start thinking about how to restore balance when it breaks down in disease."&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>3.&nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/stem-cells-may-offer-new-hope-for-end-stage-kidney-disease-treatment/" target="_blank" rel="noreferrer noopener"><strong>Stem cells may offer new hope for end-stage kidney disease treatment</strong></a></h2>
+<h2 class="wp-block-heading"><strong>3.&amp;nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/stem-cells-may-offer-new-hope-for-end-stage-kidney-disease-treatment/" target="_blank" rel="noreferrer noopener"><strong>Stem cells may offer new hope for end-stage kidney disease treatment</strong></a></h2>
 
 
 
-<p>Mayo Clinic researchers&nbsp;found&nbsp;that&nbsp;injecting&nbsp;patients' own stem cells from fat cells into the vein before hemodialysis, a treatment for end-stage kidney disease, often&nbsp;helped prevent inflammation and vein narrowing. This could help millions of people tolerate dialysis longer, extending the time before they&nbsp;require&nbsp;a kidney transplant as part of the&nbsp;Mayo Clinic&nbsp;Genesis initiative.&nbsp;</p>
+<p>Mayo Clinic researchers&amp;nbsp;found&amp;nbsp;that&amp;nbsp;injecting&amp;nbsp;patients' own stem cells from fat cells into the vein before hemodialysis, a treatment for end-stage kidney disease, often&amp;nbsp;helped prevent inflammation and vein narrowing. This could help millions of people tolerate dialysis longer, extending the time before they&amp;nbsp;require&amp;nbsp;a kidney transplant as part of the&amp;nbsp;Mayo Clinic&amp;nbsp;Genesis initiative.&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/stem-cells-may-offer-new-hope-for-end-stage-kidney-disease-treatment/" target="_blank" rel=" "><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg" alt="" class="wp-image-406372" style="aspect-ratio:1.7778283781146313;width:400px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/stem-cells-may-offer-new-hope-for-end-stage-kidney-disease-treatment/" target="_blank" rel=" "><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg" alt="" class="wp-image-406372" style="aspect-ratio:1.7778283781146313;width:400px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/AVF-16x9-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 
 
-<p>"This approach has the potential to improve outcomes for millions of patients with kidney failure, reduce healthcare costs and inform new clinical guidelines for dialysis access management if&nbsp;validated in larger clinical trials,"&nbsp;says&nbsp;<a href="https://www.mayo.edu/research/faculty/misra-sanjay-m-d/bio-00085024" target="_blank" rel="noreferrer noopener">Sanjay Misra, M.D.</a>,&nbsp;a Mayo Clinic interventional radiologist.&nbsp;</p>
+<p>"This approach has the potential to improve outcomes for millions of patients with kidney failure, reduce healthcare costs and inform new clinical guidelines for dialysis access management if&amp;nbsp;validated in larger clinical trials,"&amp;nbsp;says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/misra-sanjay-m-d/bio-00085024" target="_blank" rel="noreferrer noopener">Sanjay Misra, M.D.</a>,&amp;nbsp;a Mayo Clinic interventional radiologist.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>4.&nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/" target="_blank" rel="noreferrer noopener"><strong>Mayo Clinic physicians map patients'&nbsp;brain waves to personalize epilepsy treatment</strong></a></h2>
+<h2 class="wp-block-heading"><strong>4.&amp;nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/" target="_blank" rel="noreferrer noopener"><strong>Mayo Clinic physicians map patients'&amp;nbsp;brain waves to personalize epilepsy treatment</strong></a></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg" alt="Photo of neurologist entering on iPad with brain scan images on monitor." class="wp-image-407976" style="aspect-ratio:1.7778337531486146;width:397px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg" alt="Photo of neurologist entering on iPad with brain scan images on monitor." class="wp-image-407976" style="aspect-ratio:1.7778337531486146;width:397px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Gregg-brain-scan16.x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 
 
-<p>Using detailed maps of&nbsp;each&nbsp;patient's unique brain wave patterns, Mayo Clinic physicians can&nbsp;now pinpoint&nbsp;where stimulation&nbsp;is most effective, moving beyond the traditional one-size-fits-all&nbsp;approach to <a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093" target="_blank" rel="noreferrer noopener">epilepsy</a> treatment. This research is&nbsp;part&nbsp;of&nbsp;the BIONIC initiative.</p>
+<p>Using detailed maps of&amp;nbsp;each&amp;nbsp;patient's unique brain wave patterns, Mayo Clinic physicians can&amp;nbsp;now pinpoint&amp;nbsp;where stimulation&amp;nbsp;is most effective, moving beyond the traditional one-size-fits-all&amp;nbsp;approach to <a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093" target="_blank" rel="noreferrer noopener">epilepsy</a> treatment. This research is&amp;nbsp;part&amp;nbsp;of&amp;nbsp;the BIONIC initiative.</p>
 
 
 
-<p>"The long-term goal is to&nbsp;quiet&nbsp;the seizure network, so it is eventually forgotten. Reorganizing the neuronal network could move us beyond controlling seizures to&nbsp;actually curing&nbsp;epilepsy," says&nbsp;<a href="https://www.mayo.edu/research/faculty/gregg-nick-m-m-d/bio-20544978" target="_blank" rel="noreferrer noopener">Nick Gregg, M.D.</a>,&nbsp;a Mayo Clinic neurologist.&nbsp;</p>
+<p>"The long-term goal is to&amp;nbsp;quiet&amp;nbsp;the seizure network, so it is eventually forgotten. Reorganizing the neuronal network could move us beyond controlling seizures to&amp;nbsp;actually curing&amp;nbsp;epilepsy," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/gregg-nick-m-m-d/bio-20544978" target="_blank" rel="noreferrer noopener">Nick Gregg, M.D.</a>,&amp;nbsp;a Mayo Clinic neurologist.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>5.&nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/" target="_blank" rel="noreferrer noopener"><strong>New genetic biomarker flags aggressive brain tumors</strong></a></h2>
+<h2 class="wp-block-heading"><strong>5.&amp;nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/" target="_blank" rel="noreferrer noopener"><strong>New genetic biomarker flags aggressive brain tumors</strong></a></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" style="aspect-ratio:1.7778344877870944;width:402px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-genetic-biomarker-flags-aggressive-brain-tumors/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg" alt="Black and white brain scan image of a meningioma" class="wp-image-405943" style="aspect-ratio:1.7778344877870944;width:402px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/meningioma-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 
 
-<p>Mayo Clinic researchers found when <a href="https://www.mayoclinic.org/diseases-conditions/meningioma/diagnosis-treatment/drc-20355648" target="_blank" rel="noreferrer noopener">meningiomas</a> — the most common type of brain tumor —&nbsp;show&nbsp;activity in a gene called telomerase reverse transcriptase (TERT),&nbsp;it tends to recur more quickly, even if it looks low grade under the microscope. This is part of the&nbsp;Mayo Clinic&nbsp;Precure initiative.&nbsp;</p>
+<p>Mayo Clinic researchers found when <a href="https://www.mayoclinic.org/diseases-conditions/meningioma/diagnosis-treatment/drc-20355648" target="_blank" rel="noreferrer noopener">meningiomas</a> — the most common type of brain tumor —&amp;nbsp;show&amp;nbsp;activity in a gene called telomerase reverse transcriptase (TERT),&amp;nbsp;it tends to recur more quickly, even if it looks low grade under the microscope. This is part of the&amp;nbsp;Mayo Clinic&amp;nbsp;Precure initiative.&amp;nbsp;</p>
 
 
 
-<p>"High TERT expression is strongly linked to faster disease progression," says&nbsp;<a href="https://www.mayoclinic.org/biographies/zadeh-gelareh-m-d-ph-d/bio-20574659" target="_blank" rel="noreferrer noopener">Gelareh Zadeh, M.D., Ph.D.</a>, a neurosurgeon at Mayo Clinic and senior author of the&nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/abstract" target="_blank" rel="noreferrer noopener">study</a>. "This makes it a promising new biomarker for identifying patients who may be at greater risk of developing aggressive disease."</p>
+<p>"High TERT expression is strongly linked to faster disease progression," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/zadeh-gelareh-m-d-ph-d/bio-20574659" target="_blank" rel="noreferrer noopener">Gelareh Zadeh, M.D., Ph.D.</a>, a neurosurgeon at Mayo Clinic and senior author of the&amp;nbsp;<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00267-0/abstract" target="_blank" rel="noreferrer noopener">study</a>. "This makes it a promising new biomarker for identifying patients who may be at greater risk of developing aggressive disease."</p>
 
 
 
-<h2 class="wp-block-heading"><strong>6.</strong>&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/" target="_blank" rel="noreferrer noopener"><strong>Mayo Clinic researchers discover the immune system's&nbsp;'fountain of youth'</strong></a></h2>
+<h2 class="wp-block-heading"><strong>6.</strong>&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/" target="_blank" rel="noreferrer noopener"><strong>Mayo Clinic researchers discover the immune system's&amp;nbsp;'fountain of youth'</strong></a></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg" alt="Immunofluorescent image of immune cells in tissues affected by giant cell arteritis." class="wp-image-405384" style="aspect-ratio:1.7778326165127265;width:399px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">Immunofluorescent image of immune cells in tissues affected by giant cell arteritis. </figcaption></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-discover-the-immune-systems-fountain-of-youth/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg" alt="Immunofluorescent image of immune cells in tissues affected by giant cell arteritis." class="wp-image-405384" style="aspect-ratio:1.7778326165127265;width:399px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/CD11c-dendritic-cells-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Immunofluorescent image of immune cells in tissues affected by giant cell arteritis. </figcaption></figure>
 </div>
 
 
-<p>Mayo Clinic researchers have found that some older people&nbsp;maintain&nbsp;"immune youth" – a&nbsp;new term coined by Mayo researchers to explain a young immune system in someone over&nbsp;age&nbsp;60.&nbsp;&nbsp;<br>&nbsp;<br>"We observed that these patients have very young immune systems despite being in their 60s and 70s. But the price they pay&nbsp;for that is autoimmunity," says&nbsp;<a href="https://www.mayo.edu/research/faculty/weyand-cornelia-m-m-d-ph-d/bio-20527870" target="_blank" rel="noreferrer noopener">Cornelia Weyand, M.D., Ph.D.</a>, a Mayo Clinic rheumatologist and clinician-scientist. This is part of the&nbsp;Mayo Clinic&nbsp;Precure initiative.</p>
+<p>Mayo Clinic researchers have found that some older people&amp;nbsp;maintain&amp;nbsp;"immune youth" – a&amp;nbsp;new term coined by Mayo researchers to explain a young immune system in someone over&amp;nbsp;age&amp;nbsp;60.&amp;nbsp;&amp;nbsp;<br>&amp;nbsp;<br>"We observed that these patients have very young immune systems despite being in their 60s and 70s. But the price they pay&amp;nbsp;for that is autoimmunity," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/weyand-cornelia-m-m-d-ph-d/bio-20527870" target="_blank" rel="noreferrer noopener">Cornelia Weyand, M.D., Ph.D.</a>, a Mayo Clinic rheumatologist and clinician-scientist. This is part of the&amp;nbsp;Mayo Clinic&amp;nbsp;Precure initiative.</p>
 
 
 
-<h2 class="wp-block-heading"><strong>7.&nbsp;Mayo Clinic tools predict,&nbsp;identify&nbsp;and diagnose Alzheimer's,&nbsp;dementia quicker</strong></h2>
+<h2 class="wp-block-heading"><strong>7.&amp;nbsp;Mayo Clinic tools predict,&amp;nbsp;identify&amp;nbsp;and diagnose Alzheimer's,&amp;nbsp;dementia quicker</strong></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-ai-tool-identifies-9-dementia-types-including-alzheimers-with-one-scan/" target="_blank"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-1024x576.png" alt="" class="wp-image-404078" style="aspect-ratio:1.7778277924249244;width:400px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-ai-tool-identifies-9-dementia-types-including-alzheimers-with-one-scan/" target="_blank"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-1024x576.png" alt="" class="wp-image-404078" style="aspect-ratio:1.7778277924249244;width:400px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9-DAVID-JONES1.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 
 
-<p>Mayo Clinic researchers have developed new tools to <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/" target="_blank" rel="noreferrer noopener">estimate a person's risk of developing Alzheimer's disease</a> years before symptoms appear as part of the Precure initiative and to help clinicians <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-ai-tool-identifies-9-dementia-types-including-alzheimers-with-one-scan/" target="_blank" rel="noreferrer noopener">identify brain activity patterns linked to nine types of dementia</a>, including Alzheimer's disease, using one scan. They also confirmed the accuracy of an FDA-approved blood test that can be used at outpatient memory clinics to <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-validate-blood-test-to-diagnose-alzheimers-disease-in-outpatient-memory-clinics/" target="_blank" rel="noreferrer noopener">diagnose the disease in patients with a range of cognitive impairment</a>.&nbsp;<br><br>"Every patient who walks into my clinic carries a unique story shaped by the brain's complexity," says <a href="https://www.mayo.edu/research/faculty/jones-david-t-m-d/bio-20200690" target="_blank" rel="noreferrer noopener">David T. Jones, M.D.</a>, a Mayo Clinic neurologist. "That complexity drew me to neurology and continues to drive my commitment to clearer answers."</p>
+<p>Mayo Clinic researchers have developed new tools to <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-scientists-create-tool-to-predict-alzheimers-risk-years-before-symptoms-begin/" target="_blank" rel="noreferrer noopener">estimate a person's risk of developing Alzheimer's disease</a> years before symptoms appear as part of the Precure initiative and to help clinicians <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-ai-tool-identifies-9-dementia-types-including-alzheimers-with-one-scan/" target="_blank" rel="noreferrer noopener">identify brain activity patterns linked to nine types of dementia</a>, including Alzheimer's disease, using one scan. They also confirmed the accuracy of an FDA-approved blood test that can be used at outpatient memory clinics to <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-validate-blood-test-to-diagnose-alzheimers-disease-in-outpatient-memory-clinics/" target="_blank" rel="noreferrer noopener">diagnose the disease in patients with a range of cognitive impairment</a>.&amp;nbsp;<br><br>"Every patient who walks into my clinic carries a unique story shaped by the brain's complexity," says <a href="https://www.mayo.edu/research/faculty/jones-david-t-m-d/bio-20200690" target="_blank" rel="noreferrer noopener">David T. Jones, M.D.</a>, a Mayo Clinic neurologist. "That complexity drew me to neurology and continues to drive my commitment to clearer answers."</p>
 
 
 
-<h2 class="wp-block-heading"><strong>8.&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-improves-dense-breast-cancer-screening-and-early-detection/" target="_blank" rel="noreferrer noopener">Mayo Clinic research improves dense breast cancer screening and early detection</a></strong></h2>
+<h2 class="wp-block-heading"><strong>8.&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-improves-dense-breast-cancer-screening-and-early-detection/" target="_blank" rel="noreferrer noopener">Mayo Clinic research improves dense breast cancer screening and early detection</a></strong></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-improves-dense-breast-cancer-screening-and-early-detection/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="798" height="449" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/03/MBI-Mammogram_side-by-side-16-x-9.jpg" alt="molecular breast image and mammogram side by side" class="wp-image-86890" style="aspect-ratio:1.7773717547156678;width:409px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/03/MBI-Mammogram_side-by-side-16-x-9.jpg 798w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/03/MBI-Mammogram_side-by-side-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 798px) 100vw, 798px"></a><figcaption class="wp-element-caption">A molecular breast image (right) and mammogram side by side.</figcaption></figure>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-improves-dense-breast-cancer-screening-and-early-detection/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="798" height="449" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/03/MBI-Mammogram_side-by-side-16-x-9.jpg" alt="molecular breast image and mammogram side by side" class="wp-image-86890" style="aspect-ratio:1.7773717547156678;width:409px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/03/MBI-Mammogram_side-by-side-16-x-9.jpg 798w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2016/03/MBI-Mammogram_side-by-side-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 798px) 100vw, 798px" /></a><figcaption class="wp-element-caption">A molecular breast image (right) and mammogram side by side.</figcaption></figure>
 </div>
 
 
@@ -173,11 +181,11 @@
 
 
 
-<h2 class="wp-block-heading"><strong>9.</strong><strong>&nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/" target="_blank" rel="noreferrer noopener"><strong>Mayo Clinic researchers find&nbsp;'sugar coating'&nbsp;cells can protect those typically destroyed in type 1 diabetes</strong></a></h2>
+<h2 class="wp-block-heading"><strong>9.</strong><strong>&amp;nbsp;</strong><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/" target="_blank" rel="noreferrer noopener"><strong>Mayo Clinic researchers find&amp;nbsp;'sugar coating'&amp;nbsp;cells can protect those typically destroyed in type 1 diabetes</strong></a></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="912" height="513" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg" alt="An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes." class="wp-image-405241" style="aspect-ratio:1.7779311172446899;width:404px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg 912w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-768x432.jpg 768w" sizes="auto, (max-width: 912px) 100vw, 912px"></a><figcaption class="wp-element-caption">An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes.<br> </figcaption></figure>
+<figure class="alignright size-full is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-sugar-coating-cells-can-protect-those-typically-destroyed-in-type-1-diabetes/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="912" height="513" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg" alt="An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes." class="wp-image-405241" style="aspect-ratio:1.7779311172446899;width:404px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9.jpg 912w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/07/Beta-cells-16-x-9-768x432.jpg 768w" sizes="auto, (max-width: 912px) 100vw, 912px" /></a><figcaption class="wp-element-caption">An immunofluorescence microscopy image shows a cluster of insulin-producing beta cells (green) under attack by immune cells (dense cluster of blue dots) in a preclinical model of type 1 diabetes.<br> </figcaption></figure>
 </div>
 
 
@@ -189,15 +197,15 @@
 
 
 
-<h2 class="wp-block-heading"><strong>10.</strong>&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/new-study-calculates-autoimmune-disease-prevalence-in-u-s/" target="_blank" rel="noreferrer noopener"><strong>New study calculates autoimmune disease prevalence</strong></a></h2>
+<h2 class="wp-block-heading"><strong>10.</strong>&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/new-study-calculates-autoimmune-disease-prevalence-in-u-s/" target="_blank" rel="noreferrer noopener"><strong>New study calculates autoimmune disease prevalence</strong></a></h2>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-study-calculates-autoimmune-disease-prevalence-in-u-s/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg" alt="A woman sits on a leather couch at home, closing her eyes while gently massaging near her knee." class="wp-image-398535" style="aspect-ratio:1.7779417425895034;width:393px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="alignright size-large is-resized"><a href="https://newsnetwork.mayoclinic.org/discussion/new-study-calculates-autoimmune-disease-prevalence-in-u-s/" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg" alt="A woman sits on a leather couch at home, closing her eyes while gently massaging near her knee." class="wp-image-398535" style="aspect-ratio:1.7779417425895034;width:393px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/01/GettyImages-1347484703-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 
 
-<p>Mayo Clinic researchers and collaborators have described — for the first time — the prevalence of autoimmune diseases in the U.S. Their research reports that about&nbsp;15 million people&nbsp;are estimated to have one or more of 105 autoimmune diseases. The study also found that autoimmune diseases occur most often in women, and it identified the top autoimmune diseases by prevalence, sex and age.&nbsp;<br>&nbsp;<br>"Knowing the number of patients with an autoimmune disease in the U.S. is critical to assess whether these diseases are increasing or decreasing over time and with treatment," says&nbsp;<a href="https://www.mayo.edu/research/faculty/fairweather-delisa-ph-d/bio-20320752" target="_blank" rel="noreferrer noopener">DeLisa Fairweather, Ph.D.</a>,&nbsp;vice-chair of translational research for the&nbsp;Department of Cardiovascular Medicine&nbsp;at Mayo Clinic in Florida and corresponding author of the <a href="https://www.jci.org/articles/view/178722" target="_blank" rel="noreferrer noopener">study</a>.<br><br>###&nbsp;</p>
+<p>Mayo Clinic researchers and collaborators have described — for the first time — the prevalence of autoimmune diseases in the U.S. Their research reports that about&amp;nbsp;15 million people&amp;nbsp;are estimated to have one or more of 105 autoimmune diseases. The study also found that autoimmune diseases occur most often in women, and it identified the top autoimmune diseases by prevalence, sex and age.&amp;nbsp;<br>&amp;nbsp;<br>"Knowing the number of patients with an autoimmune disease in the U.S. is critical to assess whether these diseases are increasing or decreasing over time and with treatment," says&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/fairweather-delisa-ph-d/bio-20320752" target="_blank" rel="noreferrer noopener">DeLisa Fairweather, Ph.D.</a>,&amp;nbsp;vice-chair of translational research for the&amp;nbsp;Department of Cardiovascular Medicine&amp;nbsp;at Mayo Clinic in Florida and corresponding author of the <a href="https://www.jci.org/articles/view/178722" target="_blank" rel="noreferrer noopener">study</a>.<br><br>###&amp;nbsp;</p>
 
 
 
@@ -205,7 +213,7 @@
 
 
 
-<p><strong>Media contact:</strong>&nbsp;</p>
+<p><strong>Media contact:</strong>&amp;nbsp;</p>
 
 
 
@@ -219,35 +227,35 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/12/Gonda-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/12/Gonda-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Carrie Hruska]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Cornelia Weyand]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Cui Tao]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. David T. Jones]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. DeLisa Fairweather]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Douglas Brownfield]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gelareh Zadeh]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nick Gregg]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Sanjay Misra]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Virginia Shapiro]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/12/GettyImages-812722310-150x150.jpg</mayoclinic:mcthumb>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Carrie Hruska]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Cornelia Weyand]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Cui Tao]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. David T. Jones]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. DeLisa Fairweather]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Douglas Brownfield]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Gelareh Zadeh]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nick Gregg]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Sanjay Misra]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Virginia Shapiro]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/12/GettyImages-812722310-150x150.jpg</mayoclinic:mcthumb >	</item>
 		<item>
 		<title>(VIDEO) Double-lung transplant inspires mom to educate and support others</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-double-lung-transplant-inspires-mom-to-educate-and-support-others/
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-double-lung-transplant-inspires-mom-to-educate-and-support-others/</link>
 		
-		<dc:creator><!--[CDATA[Alex Osiadacz]]--></dc:creator>
-		<pubdate>Mon, 24 Nov 2025 15:23:49 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[MC Video pkg]]--></category>
-		<category><!--[CDATA[Sharing Mayo Clinic]]--></category>
-		<category><!--[CDATA[Surgery]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Transplant Patient Stories]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Tagathat Narula]]--></category>
-		<category><!--[CDATA[Interstitial lung disease]]--></category>
-		<category><!--[CDATA[lung transplant]]--></category>
-		<category><!--[CDATA[Mayo Clinic]]--></category>
-		<category><!--[CDATA[Pulmonology]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=408166</guid>
+		<dc:creator><![CDATA[Alex Osiadacz]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 15:23:49 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[MC Video pkg]]></category>
+		<category><![CDATA[Sharing Mayo Clinic]]></category>
+		<category><![CDATA[Surgery]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Transplant Patient Stories]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Tagathat Narula]]></category>
+		<category><![CDATA[Interstitial lung disease]]></category>
+		<category><![CDATA[lung transplant]]></category>
+		<category><![CDATA[Mayo Clinic]]></category>
+		<category><![CDATA[Pulmonology]]></category>
+		<category><![CDATA[Social Sensations]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=408166</guid>
 
-					<description><!--[CDATA[<p-->Barbara Brown was working in New York City when the Sept. 11 attacks occurred. Exposure to toxins led to years of struggling to breathe and searching for answers. Barbara's journey led her to Mayo Clinic and, ultimately, a life-changing double-lung transplant. With renewed strength, Barbara shares what drives her to educate others about transplants. Watch: […]<p></p>
+					<description><![CDATA[<p>Barbara Brown was working in New York City when the Sept. 11 attacks occurred. Exposure to toxins led to years of struggling to breathe and searching for answers. Barbara's journey led her to Mayo Clinic and, ultimately, a life-changing double-lung transplant. With renewed strength, Barbara shares what drives her to educate others about transplants. Watch: [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-double-lung-transplant-inspires-mom-to-educate-and-support-others/">(VIDEO) Double-lung transplant inspires mom to educate and support others</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-1024x576.jpg" alt="Barbara Brown, double lung transplant patient" class="wp-image-408398" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Barbara Brown is writing a book about her double-lung transplant journey</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-1024x576.jpg" alt="Barbara Brown, double lung transplant patient" class="wp-image-408398" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-is-writing-book-about-double-lung-transplant-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Barbara Brown is writing a book about her double-lung transplant journey</figcaption></figure>
 
 
 
@@ -255,7 +263,7 @@
 
 
 
-<p>Barbara's journey led her to <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> and, ultimately, a life-changing double-lung transplant. With renewed strength, Barbara shares what drives her to educate others about <a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/expertise-ranking/orc-20203899?customer_id=173-378-9621&amp;mc_id=google&amp;campaign=13708841197&amp;geo=9011567&amp;kw=lung%20and%20heart%20transplant%20mayo%20clinic&amp;ad=728805550217&amp;network=g&amp;sitetarget=&amp;adgroup=123779045426&amp;extension=&amp;target=kwd-1285271328158&amp;matchtype=p&amp;device=c&amp;account=1733789621&amp;invsrc=transplant&amp;placementsite=enterprise&amp;gad_source=1&amp;gad_campaignid=13708841197&amp;gbraid=0AAAAAD8Qu29D9AlFbLExyWIlceN9AOEXJ&amp;gclid=CjwKCAiAlfvIBhA6EiwAcErpyTS0ATGHLGjlFF0A3JUdKM_FcBhGJjnV96xmKuXTxNlAg29RoP0iEBoCt9cQAvD_BwE" target="_blank" rel="noreferrer noopener">transplants</a>.</p>
+<p>Barbara's journey led her to <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> and, ultimately, a life-changing double-lung transplant. With renewed strength, Barbara shares what drives her to educate others about <a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/expertise-ranking/orc-20203899?customer_id=173-378-9621&amp;amp;mc_id=google&amp;amp;campaign=13708841197&amp;amp;geo=9011567&amp;amp;kw=lung%20and%20heart%20transplant%20mayo%20clinic&amp;amp;ad=728805550217&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=123779045426&amp;amp;extension=&amp;amp;target=kwd-1285271328158&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=1733789621&amp;amp;invsrc=transplant&amp;amp;placementsite=enterprise&amp;amp;gad_source=1&amp;amp;gad_campaignid=13708841197&amp;amp;gbraid=0AAAAAD8Qu29D9AlFbLExyWIlceN9AOEXJ&amp;amp;gclid=CjwKCAiAlfvIBhA6EiwAcErpyTS0ATGHLGjlFF0A3JUdKM_FcBhGJjnV96xmKuXTxNlAg29RoP0iEBoCt9cQAvD_BwE" target="_blank" rel="noreferrer noopener">transplants</a>.</p>
 
 
 
@@ -264,12 +272,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube00oS3B90JMk" title="Double-lung transplant inspires mom to educate and support others" width="500" height="281" src="https://www.youtube.com/embed/00oS3B90JMk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube00oS3B90JMk"  title="Double-lung transplant inspires mom to educate and support others" width="500" height="281" src="https://www.youtube.com/embed/00oS3B90JMk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video pkg (2:14) is in the downloads&nbsp;at the end of the post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Script_Double-lung-transplant-inspires-mom-to-educate-and-support-others.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video pkg (2:14) is in the downloads&amp;nbsp;at the end of the post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Script_Double-lung-transplant-inspires-mom-to-educate-and-support-others.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -305,7 +313,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-1024x576.jpg" alt="Dr. Tagathat Narula meets with Barbara Brown in Oct. 2025, eight and a half years after her transplant." class="wp-image-408250" style="width:793px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Tagathat Narula meets with Barbara Brown in Oct. 2025, eight and a half years after her transplant.</figcaption></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-1024x576.jpg" alt="Dr. Tagathat Narula meets with Barbara Brown in Oct. 2025, eight and a half years after her transplant." class="wp-image-408250" style="width:793px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Narula-and-Barbara-Brown-talking.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Tagathat Narula meets with Barbara Brown in Oct. 2025, eight and a half years after her transplant.</figcaption></figure>
 </div>
 
 
@@ -325,7 +333,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-1024x576.jpg" alt="" class="wp-image-408271" style="width:596px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Barbara Brown with her Mayo Clinic care team in 2017 upon completing physical rehabilitation.</figcaption></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-1024x576.jpg" alt="" class="wp-image-408271" style="width:596px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-with-care-team-in-2017.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Barbara Brown with her Mayo Clinic care team in 2017 upon completing physical rehabilitation.</figcaption></figure>
 </div>
 
 
@@ -367,28 +375,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1x1-Barbara-Brown-and-family.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Barbara-Brown-and-family.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Tagathat Narula]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Interstitial lung disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[lung transplant]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Pulmonology]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tagathat Narula]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Interstitial lung disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[lung transplant]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Pulmonology]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Another critical reason to prevent and control diabetes: It is a top cause of chronic kidney disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/another-critical-reason-to-prevent-and-control-diabetes-it-is-a-top-cause-of-chronic-kidney-disease/
+		<link>https://newsnetwork.mayoclinic.org/discussion/another-critical-reason-to-prevent-and-control-diabetes-it-is-a-top-cause-of-chronic-kidney-disease/</link>
 		
-		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
-		<pubdate>Mon, 24 Nov 2025 15:03:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Health & Wellness]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Ivan Porter II]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407955</guid>
+		<dc:creator><![CDATA[Sharon Theimer]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 15:03:00 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Ivan Porter II]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407955</guid>
 
-					<description><!--[CDATA[<p-->November is Diabetes Awareness Month JACKSONVILLE, Fla. — Diabetes affects how the body uses glucose, also known as blood sugar. It can mean that there is too much sugar in the blood. This can harm people in several ways. One serious complication is chronic kidney disease. Ivan Porter II, M.D., a nephrologist at Mayo Clinic […]<p></p>
+					<description><![CDATA[<p>November is Diabetes Awareness Month JACKSONVILLE, Fla. — Diabetes affects how the body uses glucose, also known as blood sugar. It can mean that there is too much sugar in the blood. This can harm people in several ways. One serious complication is chronic kidney disease. Ivan Porter II, M.D., a nephrologist at Mayo Clinic [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/another-critical-reason-to-prevent-and-control-diabetes-it-is-a-top-cause-of-chronic-kidney-disease/">Another critical reason to prevent and control diabetes: It is a top cause of chronic kidney disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="1000" height="563" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376.jpg" alt="" class="wp-image-407956" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376.jpg 1000w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="563" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376.jpg" alt="" class="wp-image-407956" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376.jpg 1000w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -408,7 +416,7 @@
 
 
 
-<p>Both <a href="https://www.mayoclinic.org/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011" target="_blank" rel="noreferrer noopener">type 1</a> and <a href="https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193" target="_blank" rel="noreferrer noopener">type 2</a> diabetes can lead to chronic kidney disease. Type 2 diabetes is a far more common cause. With either type, the body can't produce enough insulin. Insulin is a hormone produced in the pancreas that helps the body convert sugar into energy. Because one of the kidneys' most important jobs is <a href="https://www.youtube.com/watch?v=XqsnI_PBKRI&amp;t=5s" target="_blank" rel="noreferrer noopener">cleaning the blood</a>, they help regulate blood glucose levels, Dr. Porter explains.</p>
+<p>Both <a href="https://www.mayoclinic.org/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011" target="_blank" rel="noreferrer noopener">type 1</a> and <a href="https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193" target="_blank" rel="noreferrer noopener">type 2</a> diabetes can lead to chronic kidney disease. Type 2 diabetes is a far more common cause. With either type, the body can't produce enough insulin. Insulin is a hormone produced in the pancreas that helps the body convert sugar into energy. Because one of the kidneys' most important jobs is <a href="https://www.youtube.com/watch?v=XqsnI_PBKRI&amp;amp;t=5s" target="_blank" rel="noreferrer noopener">cleaning the blood</a>, they help regulate blood glucose levels, Dr. Porter explains.</p>
 
 
 
@@ -420,7 +428,7 @@
 
 
 
-<p>The longer you have diabetes — and the less controlled your blood sugar — the higher the risk of complications such as chronic kidney disease.&nbsp;</p>
+<p>The longer you have diabetes — and the less controlled your blood sugar — the higher the risk of complications such as chronic kidney disease.&amp;nbsp;</p>
 
 
 
@@ -429,31 +437,31 @@
 
 
 <ul class="wp-block-list">
-<li><strong>Stage 1.</strong>&nbsp;At this stage, the GFR is 90 or higher, which is considered a healthy level. However, there is also another indicator of kidney disease present, such as <a href="https://www.mayoclinic.org/diseases-conditions/blood-in-urine/symptoms-causes/syc-20353432" target="_blank" rel="noreferrer noopener">blood</a> or <a href="https://www.mayoclinic.org/symptoms/protein-in-urine/basics/causes/sym-20050656" target="_blank" rel="noreferrer noopener">protein in the urine</a>.</li>
+<li><strong>Stage 1.</strong>&amp;nbsp;At this stage, the GFR is 90 or higher, which is considered a healthy level. However, there is also another indicator of kidney disease present, such as <a href="https://www.mayoclinic.org/diseases-conditions/blood-in-urine/symptoms-causes/syc-20353432" target="_blank" rel="noreferrer noopener">blood</a> or <a href="https://www.mayoclinic.org/symptoms/protein-in-urine/basics/causes/sym-20050656" target="_blank" rel="noreferrer noopener">protein in the urine</a>.</li>
 </ul>
 
 
 
 <ul class="wp-block-list">
-<li><strong>Stage 2.</strong>&nbsp;At this stage, the GFR is 60 to 89.</li>
+<li><strong>Stage 2.</strong>&amp;nbsp;At this stage, the GFR is 60 to 89.</li>
 </ul>
 
 
 
 <ul class="wp-block-list">
-<li><strong>Stage 3.</strong>&nbsp;This stage is broken down into two subtypes — stage 3a and stage 3b. With 3a, the GFR is 45 to 59, and there is mild to moderate decline in kidney function. With 3b, the GFR is 30 to 44, and there is a more severe decline in kidney function.</li>
+<li><strong>Stage 3.</strong>&amp;nbsp;This stage is broken down into two subtypes — stage 3a and stage 3b. With 3a, the GFR is 45 to 59, and there is mild to moderate decline in kidney function. With 3b, the GFR is 30 to 44, and there is a more severe decline in kidney function.</li>
 </ul>
 
 
 
 <ul class="wp-block-list">
-<li><strong>Stage 4.</strong>&nbsp;The GFR is 15 to 29, and kidney decline is severe.</li>
+<li><strong>Stage 4.</strong>&amp;nbsp;The GFR is 15 to 29, and kidney decline is severe.</li>
 </ul>
 
 
 
 <ul class="wp-block-list">
-<li><strong>Stage 5.</strong>&nbsp;This stage is considered <a href="https://www.mayoclinic.org/diseases-conditions/end-stage-renal-disease/symptoms-causes/syc-20354532" target="_blank" rel="noreferrer noopener">end-stage renal disease</a>, also called kidney failure. The GFR is under 15. At this point, dialysis or a <a href="https://www.mayoclinic.org/tests-procedures/kidney-transplant/about/pac-20384777" target="_blank" rel="noreferrer noopener">kidney transplant</a> is needed.</li>
+<li><strong>Stage 5.</strong>&amp;nbsp;This stage is considered <a href="https://www.mayoclinic.org/diseases-conditions/end-stage-renal-disease/symptoms-causes/syc-20354532" target="_blank" rel="noreferrer noopener">end-stage renal disease</a>, also called kidney failure. The GFR is under 15. At this point, dialysis or a <a href="https://www.mayoclinic.org/tests-procedures/kidney-transplant/about/pac-20384777" target="_blank" rel="noreferrer noopener">kidney transplant</a> is needed.</li>
 </ul>
 
 
@@ -466,7 +474,7 @@
 
 
 
-<p>Not everyone living with diabetes will develop chronic kidney disease. Dr. Porter says it is critical to manage your diabetes,&nbsp;<a href="https://www.cdc.gov/kidney-disease/testing/index.html" target="_blank" rel="noreferrer noopener">monitor your kidney function regularly</a><strong>&nbsp;</strong>and take steps to protect your kidney health to help lower risk.</p>
+<p>Not everyone living with diabetes will develop chronic kidney disease. Dr. Porter says it is critical to manage your diabetes,&amp;nbsp;<a href="https://www.cdc.gov/kidney-disease/testing/index.html" target="_blank" rel="noreferrer noopener">monitor your kidney function regularly</a><strong>&amp;nbsp;</strong>and take steps to protect your kidney health to help lower risk.</p>
 
 
 
@@ -474,7 +482,7 @@
 
 
 
-<p>Type 2 diabetes has risk factors that people can try to avoid. These include preventing or treating overweight or <a href="https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742" target="_blank" rel="noreferrer noopener">obesity</a>; being active; maintaining healthy levels of <a href="https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/hdl-cholesterol/art-20046388" target="_blank" rel="noreferrer noopener">HDL cholesterol</a>, also known as good cholesterol; and avoiding <a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/balancing-the-risks-benefits-of-alcohol" target="_blank" rel="noreferrer noopener">alcohol</a> or limiting consumption to a moderate level.&nbsp;</p>
+<p>Type 2 diabetes has risk factors that people can try to avoid. These include preventing or treating overweight or <a href="https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742" target="_blank" rel="noreferrer noopener">obesity</a>; being active; maintaining healthy levels of <a href="https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/hdl-cholesterol/art-20046388" target="_blank" rel="noreferrer noopener">HDL cholesterol</a>, also known as good cholesterol; and avoiding <a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/balancing-the-risks-benefits-of-alcohol" target="_blank" rel="noreferrer noopener">alcohol</a> or limiting consumption to a moderate level.&amp;nbsp;</p>
 
 
 
@@ -504,31 +512,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1x1_feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/16x9-feat-image-for-dr-porter-diabetes-kidney-disease-post-shutterstock_1156968376.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ivan Porter II]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ivan Porter II]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers identify a new stem cell patch to gently heal damaged hearts</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-new-stem-cell-patch-to-gently-heal-damaged-hearts/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-new-stem-cell-patch-to-gently-heal-damaged-hearts/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Wed, 05 Nov 2025 16:17:48 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Wugiang Zhu]]--></category>
-		<category><!--[CDATA[Stem Cells]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407550</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2025 16:17:48 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Wugiang Zhu]]></category>
+		<category><![CDATA[Stem Cells]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407550</guid>
 
-					<description><!--[CDATA[<p-->PHOENIX&nbsp;—&nbsp;Mayo Clinic&nbsp;researchers have developed a pioneering method to mend damaged hearts without open-heart surgery, an advance that could one day transform the treatment of heart failure.&nbsp; The new approach uses lab-grown heart tissue made from reprogrammed adult stem cells, delivered through a tiny incision rather than a surgically opened chest cavity. In preclinical testing, the […]<p></p>
+					<description><![CDATA[<p>PHOENIX&nbsp;—&nbsp;Mayo Clinic&nbsp;researchers have developed a pioneering method to mend damaged hearts without open-heart surgery, an advance that could one day transform the treatment of heart failure.&nbsp; The new approach uses lab-grown heart tissue made from reprogrammed adult stem cells, delivered through a tiny incision rather than a surgically opened chest cavity. In preclinical testing, the [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-a-new-stem-cell-patch-to-gently-heal-damaged-hearts/">Mayo Clinic researchers identify a new stem cell patch to gently heal damaged hearts</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg" alt="A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath." class="wp-image-407637" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9.jpg 1425w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg" alt="A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath." class="wp-image-407637" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9.jpg 1425w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A researcher uses a pipette to place stem cells into a multiwell plate, with an image of the cells shown beneath.</figcaption></figure>
 
 
 
@@ -540,7 +548,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="855" height="855" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg" alt="Wuqiang Zhu, Ph.D." class="wp-image-407638" style="width:154px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg 855w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 855px) 100vw, 855px"><figcaption class="wp-element-caption">Wuqiang Zhu, Ph.D.</figcaption></figure>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="855" height="855" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg" alt="Wuqiang Zhu, Ph.D." class="wp-image-407638" style="width:154px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1.jpg 855w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Zhu-Wuqiang_21415234_202406271049-1-x-1-768x768.jpg 768w" sizes="auto, (max-width: 855px) 100vw, 855px" /><figcaption class="wp-element-caption">Wuqiang Zhu, Ph.D.</figcaption></figure>
 </div>
 
 
@@ -560,7 +568,7 @@
 
 
 
-<p>For years, scientists have been working on ways to replace damaged tissue with healthy heart cells derived from stem cells. Early efforts showed promise, but most required open-heart surgery<a>&nbsp;—&nbsp;</a>a procedure too risky for many patients already struggling with severe&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142" target="_blank" rel="noreferrer noopener">heart failure</a>.</p>
+<p>For years, scientists have been working on ways to replace damaged tissue with healthy heart cells derived from stem cells. Early efforts showed promise, but most required open-heart surgery<a>&amp;nbsp;—&amp;nbsp;</a>a procedure too risky for many patients already struggling with severe&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142" target="_blank" rel="noreferrer noopener">heart failure</a>.</p>
 
 
 
@@ -632,7 +640,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.&nbsp;</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.&amp;nbsp;</p>
 
 
 
@@ -650,26 +658,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Stem-cell-pipette-GettyImages-1150965935-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Wugiang Zhu]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Stem Cells]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Wugiang Zhu]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Stem Cells]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic’s transplant center in Florida performs 10,000th transplant</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-transplant-center-in-florida-performs-10000th-transplant/
+		<title>Mayo Clinic&amp;#8217;s transplant center in Florida performs 10,000th transplant</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-transplant-center-in-florida-performs-10000th-transplant/</link>
 		
-		<dc:creator><!--[CDATA[Alex Osiadacz]]--></dc:creator>
-		<pubdate>Tue, 04 Nov 2025 14:15:40 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Burcin Taner]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=407590</guid>
+		<dc:creator><![CDATA[Alex Osiadacz]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 14:15:40 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Burcin Taner]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=407590</guid>
 
-					<description><!--[CDATA[<p-->On October 29, the Transplant Center at&nbsp;Mayo Clinic in Florida performed its 10,000th transplant since the program launched in 1998. The milestone is a reflection of the lives transformed through the gift of organ donation. "Every transplant represents the work of an extraordinary team dedicated to restoring hope and health," says&nbsp;Dr. Burcin Taner,&nbsp;chair of the […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-transplant-center-in-florida-performs-10000th-transplant/">Mayo Clinic’s transplant center in Florida performs 10,000th transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>On October 29, the Transplant Center at&amp;#160;Mayo Clinic in Florida performed its 10,000th transplant since the program launched in 1998. The milestone is a reflection of the lives transformed through the gift of organ donation. "Every transplant represents the work of an extraordinary team dedicated to restoring hope and health," says&amp;#160;Dr. Burcin Taner,&amp;#160;chair of the [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-transplant-center-in-florida-performs-10000th-transplant/">Mayo Clinic&amp;#8217;s transplant center in Florida performs 10,000th transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-1024x576.jpg" alt="Photograph of a surgical setting" class="wp-image-407593" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-1024x576.jpg" alt="Photograph of a surgical setting" class="wp-image-407593" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -677,15 +685,15 @@
 
 
 
-<p>On October 29, the Transplant Center at&nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a> performed its 10,000th transplant since the program launched in 1998. The milestone is a reflection of the lives transformed through the gift of organ donation.</p>
+<p>On October 29, the Transplant Center at&amp;nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/florida" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a> performed its 10,000th transplant since the program launched in 1998. The milestone is a reflection of the lives transformed through the gift of organ donation.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="506" height="506" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1.jpg" alt="Dr. Burcin Taner" class="wp-image-407645" style="width:184px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1.jpg 506w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 506px) 100vw, 506px"><figcaption class="wp-element-caption">Dr. Burcin Taner</figcaption></figure>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="506" height="506" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1.jpg" alt="Dr. Burcin Taner" class="wp-image-407645" style="width:184px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1.jpg 506w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Dr.-Burcin-Taner-WF3982960_0039-f1-x-1-150x150.jpg 150w" sizes="auto, (max-width: 506px) 100vw, 506px" /><figcaption class="wp-element-caption">Dr. Burcin Taner</figcaption></figure>
 </div>
 
 
-<p>"Every transplant represents the work of an extraordinary team dedicated to restoring hope and health," says&nbsp;<a href="https://www.mayoclinic.org/biographies/taner-c-burcin-m-d/bio-20054935" target="_blank" rel="noreferrer noopener">Dr. Burcin Taner</a>,&nbsp;chair of the Department of Transplantation at Mayo Clinic in Florida. "Reaching this milestone reflects our clinical excellence and the trust our patients place in Mayo Clinic. Together, we're shaping the next era of transplantation — one defined by innovation, collaboration and compassion."</p>
+<p>"Every transplant represents the work of an extraordinary team dedicated to restoring hope and health," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/taner-c-burcin-m-d/bio-20054935" target="_blank" rel="noreferrer noopener">Dr. Burcin Taner</a>,&amp;nbsp;chair of the Department of Transplantation at Mayo Clinic in Florida. "Reaching this milestone reflects our clinical excellence and the trust our patients place in Mayo Clinic. Together, we're shaping the next era of transplantation — one defined by innovation, collaboration and compassion."</p>
 
 
 
@@ -706,34 +714,34 @@
 
 
 <p>"Every transplant tells a story of teamwork, trust and commitment," Dr. Taner says. "The growing volume of transplants at Mayo Clinic is the ultimate testament that our patients value our expertise and sense the dedication behind our care."</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-transplant-center-in-florida-performs-10000th-transplant/">Mayo Clinic’s transplant center in Florida performs 10,000th transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-transplant-center-in-florida-performs-10000th-transplant/">Mayo Clinic&amp;#8217;s transplant center in Florida performs 10,000th transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_-1-x-1-20251103152514.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/Surgical_Setting_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Burcin Taner]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Burcin Taner]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>New discovery may unlock regenerative therapies for lung disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/
+		<link>https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Tue, 14 Oct 2025 13:35:18 +0000</pubdate>
-				<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Douglas Brownfield]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=406345</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 13:35:18 +0000</pubDate>
+				<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Douglas Brownfield]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=406345</guid>
 
-					<description><!--[CDATA[<p-->Researchers found the molecular "switch" that forces specialized lung cells to either rebuild tissue or fight infection when lungs are damaged.<p></p>
+					<description><![CDATA[<p>Researchers found the molecular "switch" that forces specialized lung cells to either rebuild tissue or fight infection when lungs are damaged.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/new-discovery-may-unlock-regenerative-therapies-for-lung-disease/">New discovery may unlock regenerative therapies for lung disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg" alt="Microscopy image of lung cells." class="wp-image-406650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1.jpg 1901w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Newly formed alveolar type 2 (AT2) cells (in red) and AT1 cells (in green) are essential for lung repair. Credit: Annika Utoft, Brownfield Lab.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg" alt="Microscopy image of lung cells." class="wp-image-406650" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1.jpg 1901w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Newly formed alveolar type 2 (AT2) cells (in red) and AT1 cells (in green) are essential for lung repair. Credit: Annika Utoft, Brownfield Lab.</figcaption></figure>
 
 
 
@@ -741,7 +749,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-683x1024.jpg" alt="Photo headshot of Dr. Brownfield" class="wp-image-406480" style="width:182px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001.jpg 1095w" sizes="auto, (max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Douglas Brownfield, Ph.D.</figcaption></figure>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-683x1024.jpg" alt="Photo headshot of Dr. Brownfield" class="wp-image-406480" style="width:182px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-WF4747552_0001.jpg 1095w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Douglas Brownfield, Ph.D.</figcaption></figure>
 </div>
 
 
@@ -801,34 +809,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Brownfield-image-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Douglas Brownfield]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Douglas Brownfield]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Robotic kidney transplant, when innovation meets family</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-robotic-kidney-transplant-when-innovation-meets-family/
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-robotic-kidney-transplant-when-innovation-meets-family/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Mon, 29 Sep 2025 12:52:01 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[MC Video pkg]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Surgery]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Michelle Nguyen]]--></category>
-		<category><!--[CDATA[Dr. Nitin Katariya]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=406286</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Mon, 29 Sep 2025 12:52:01 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[MC Video pkg]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Surgery]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Michelle Nguyen]]></category>
+		<category><![CDATA[Dr. Nitin Katariya]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=406286</guid>
 
-					<description><!--[CDATA[<p-->For the first time at Mayo Clinic in Arizona, surgeons have performed a&nbsp;robotic&nbsp;kidney transplant&nbsp;— a minimally invasive procedure designed to ease recovery with smaller incisions, less pain and reduced risk of wound complications. That innovation came at a critical moment for 74-year-old Joe Harris. His daughter-in-law, Brooke, made the extraordinary decision to donate her kidney, […]<p></p>
+					<description><![CDATA[<p>For the first time at Mayo Clinic in Arizona, surgeons have performed a&amp;#160;robotic&amp;#160;kidney transplant&amp;#160;— a minimally invasive procedure designed to ease recovery with smaller incisions, less pain and reduced risk of wound complications. That innovation came at a critical moment for 74-year-old Joe Harris. His daughter-in-law, Brooke, made the extraordinary decision to donate her kidney, [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-robotic-kidney-transplant-when-innovation-meets-family/">(VIDEO) Robotic kidney transplant, when innovation meets family</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-1024x576.jpg" alt="" class="wp-image-406299" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-1024x576.jpg" alt="" class="wp-image-406299" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>For the first time at Mayo Clinic in Arizona, surgeons have performed a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/robotic-surgery/about/pac-20394974" target="_blank" rel="noreferrer noopener">robotic</a>&nbsp;kidney transplant&nbsp;— a minimally invasive procedure designed to ease recovery with smaller incisions, less pain and reduced risk of wound complications.</p>
+<p>For the first time at Mayo Clinic in Arizona, surgeons have performed a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/robotic-surgery/about/pac-20394974" target="_blank" rel="noreferrer noopener">robotic</a>&amp;nbsp;kidney transplant&amp;nbsp;— a minimally invasive procedure designed to ease recovery with smaller incisions, less pain and reduced risk of wound complications.</p>
 
 
 
@@ -841,12 +849,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidM35LQVSiSAc" title="Robotic kidney transplant, when innovation meets family" width="500" height="281" src="https://www.youtube.com/embed/M35LQVSiSAc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidM35LQVSiSAc"  title="Robotic kidney transplant, when innovation meets family" width="500" height="281" src="https://www.youtube.com/embed/M35LQVSiSAc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video (3:04) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Script-final-VIDEO-Robotic-kidney-transplant.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video (3:04) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Script-final-VIDEO-Robotic-kidney-transplant.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -866,7 +874,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-1024x576.jpg" alt="The Harris family gather for a photo. Joe Harris recieved a kidney from his daughter-in-law, Brooke." class="wp-image-406305" style="width:668px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">From left: Eric Harris, son; Brooke Harris, daughter-in-law; Joe Harris; and his wife, Marlene Harris.<br></figcaption></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-1024x576.jpg" alt="The Harris family gather for a photo. Joe Harris recieved a kidney from his daughter-in-law, Brooke." class="wp-image-406305" style="width:668px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Harris-Family-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">From left: Eric Harris, son; Brooke Harris, daughter-in-law; Joe Harris; and his wife, Marlene Harris.<br></figcaption></figure>
 </div>
 
 
@@ -874,7 +882,7 @@
 
 
 
-<p>And that test was a match.&nbsp;<a href="https://www.mayoclinic.org/biographies/nguyen-michelle-c-m-d/bio-20520642" target="_blank" rel="noreferrer noopener">Dr. Michelle Nguyen</a>, a Mayo Clinic transplant surgeon, explains how direct donation works.</p>
+<p>And that test was a match.&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/nguyen-michelle-c-m-d/bio-20520642" target="_blank" rel="noreferrer noopener">Dr. Michelle Nguyen</a>, a Mayo Clinic transplant surgeon, explains how direct donation works.</p>
 
 
 
@@ -882,7 +890,7 @@
 
 
 
-<p>Not only would Joe get the organ he had been hoping for, but he'd also be the first patient at Mayo Clinic in Arizona to undergo&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-surgeons-perform-first-robotic-assisted-kidney-transplant-in-minnesota/" target="_blank" rel="noreferrer noopener">robotic kidney transplantation</a>.</p>
+<p>Not only would Joe get the organ he had been hoping for, but he'd also be the first patient at Mayo Clinic in Arizona to undergo&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-surgeons-perform-first-robotic-assisted-kidney-transplant-in-minnesota/" target="_blank" rel="noreferrer noopener">robotic kidney transplantation</a>.</p>
 
 
 
@@ -894,12 +902,12 @@
 
 
 
-<p>Robotic kidney surgery doesn't replace the surgeon. Instead, it gives surgeons advanced tools to operate, as&nbsp;<a href="https://www.mayoclinic.org/biographies/katariya-nitin-n-m-d/bio-20517065" target="_blank" rel="noreferrer noopener">Dr. Nitin Katariya</a>, a Mayo Clinic transplant surgeon, explains.</p>
+<p>Robotic kidney surgery doesn't replace the surgeon. Instead, it gives surgeons advanced tools to operate, as&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/katariya-nitin-n-m-d/bio-20517065" target="_blank" rel="noreferrer noopener">Dr. Nitin Katariya</a>, a Mayo Clinic transplant surgeon, explains.</p>
 
 
 
 <figure class="wp-block-image is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-1024x576.jpg" alt="Dr. Carrie Jadlowiec and Dr. Michelle Nguyen at console
-" class="wp-image-406300" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Carrie Jadlowiec and Dr. Michelle Nguyen at console</figcaption></figure>
+" class="wp-image-406300" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Carrie Jadlowiec and Dr. Michelle Nguyen at console</figcaption></figure>
 
 
 
@@ -949,30 +957,30 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-1-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/09/Dr.-Jadlowiec-and-Dr.-Michelle-Nguyen-at-robot-controls-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Michelle Nguyen]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Nitin Katariya]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Michelle Nguyen]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nitin Katariya]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>A living legacy: Donors who give hope and healing</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/a-living-legacy-donors-who-give-hope-and-healing/
+		<link>https://newsnetwork.mayoclinic.org/discussion/a-living-legacy-donors-who-give-hope-and-healing/</link>
 		
-		<dc:creator><!--[CDATA[Carey Stanton]]--></dc:creator>
-		<pubdate>Fri, 29 Aug 2025 12:26:35 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Sharing Mayo Clinic]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Transplant Patient Stories]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Carrie Jadlowiec]]--></category>
-		<category><!--[CDATA[Dr. Shennen Mao]]--></category>
-		<category><!--[CDATA[Dr. Ty Diwan]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405850</guid>
+		<dc:creator><![CDATA[Carey Stanton]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 12:26:35 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Sharing Mayo Clinic]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Transplant Patient Stories]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Carrie Jadlowiec]]></category>
+		<category><![CDATA[Dr. Shennen Mao]]></category>
+		<category><![CDATA[Dr. Ty Diwan]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405850</guid>
 
-					<description><!--[CDATA[<p-->When Charnel Golis-Tabag picked up her sister from the airport in her home state of Hawaii, she didn't expect to hear that her sister's kidney function had dropped below 11%. That moment changed everything. "She told me she was on the transplant list," Charnel recalls. "Two days later, I called Mayo Clinic to start the […]<p></p>
+					<description><![CDATA[<p>When Charnel Golis-Tabag picked up her sister from the airport in her home state of Hawaii, she didn't expect to hear that her sister's kidney function had dropped below 11%. That moment changed everything. "She told me she was on the transplant list," Charnel recalls. "Two days later, I called Mayo Clinic to start the [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/a-living-legacy-donors-who-give-hope-and-healing/">A living legacy: Donors who give hope and healing</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large is-style-center-align-caption"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-1024x576.jpg" alt="Charnel Golis-Tabag stands with sign showing why she donated a kidney, Charnel donated a kidney to her sister." class="wp-image-405873" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9.jpg 1140w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Charnel Golis-Tabag stands with sign showing why she donated a kidney</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-1024x576.jpg" alt="Charnel Golis-Tabag stands with sign showing why she donated a kidney, Charnel donated a kidney to her sister." class="wp-image-405873" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9.jpg 1140w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Charnel Golis-Tabag stands with sign showing why she donated a kidney</figcaption></figure>
 
 
 
@@ -980,7 +988,7 @@
 
 
 
-<p>Charnel had seen too many family members endure the exhausting cycle of dialysis — three times a week, hours at a time. "They were tired, their veins were shot, they couldn't carry their grandchildren," she says. "I didn't want that for my sister."&nbsp;&nbsp;&nbsp;</p>
+<p>Charnel had seen too many family members endure the exhausting cycle of dialysis — three times a week, hours at a time. "They were tired, their veins were shot, they couldn't carry their grandchildren," she says. "I didn't want that for my sister."&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -988,11 +996,11 @@
 
 
 
-<p>"<a href="https://www.mayoclinic.org/tests-procedures/living-donor-kidney-transplant/about/pac-20569323" target="_blank" rel="noreferrer noopener">Living donor kidneys</a> are great options for people waiting for a transplant," says&nbsp;<a href="https://www.mayoclinic.org/biographies/jadlowiec-carrie-c-m-d/bio-20358001" target="_blank" rel="noreferrer noopener">Dr. Carrie Jadlowiec</a>, surgical director of Kidney Transplant at Mayo Clinic in Arizona. "They have a shorter waiting period, fewer complications, and the kidneys function longer than deceased donor kidneys."</p>
+<p>"<a href="https://www.mayoclinic.org/tests-procedures/living-donor-kidney-transplant/about/pac-20569323" target="_blank" rel="noreferrer noopener">Living donor kidneys</a> are great options for people waiting for a transplant," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/jadlowiec-carrie-c-m-d/bio-20358001" target="_blank" rel="noreferrer noopener">Dr. Carrie Jadlowiec</a>, surgical director of Kidney Transplant at Mayo Clinic in Arizona. "They have a shorter waiting period, fewer complications, and the kidneys function longer than deceased donor kidneys."</p>
 
 
 
-<p>For Charnel, knowing that her sister could live a longer, healthier life with a living kidney solidified her decision to donate. Despite her family's concerns for her own health, she was committed. "I believe we need to start with educating young Native Hawaiian people about living a healthier lifestyle," she says. "In our ohana community, we can reclaim our health," she says.&nbsp;&nbsp;</p>
+<p>For Charnel, knowing that her sister could live a longer, healthier life with a living kidney solidified her decision to donate. Despite her family's concerns for her own health, she was committed. "I believe we need to start with educating young Native Hawaiian people about living a healthier lifestyle," she says. "In our ohana community, we can reclaim our health," she says.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -1004,15 +1012,15 @@
 
 
 
-<p>She turned to Mayo Clinic, the National Kidney Foundation and the National Donate Life Registry. "These resources are fantastic and easily available online. Beyond online, our transplant coordinators walk patients through every step of the process," explains&nbsp;<a href="https://www.mayoclinic.org/biographies/diwan-ty-s-m-d/bio-20507516" target="_blank" rel="noreferrer noopener">Dr. Ty Diwan</a>, transplant surgeon at Mayo Clinic in Rochester, Minnesota. "We connect with patients from anywhere in the world via the portal and virtual appointments."</p>
+<p>She turned to Mayo Clinic, the National Kidney Foundation and the National Donate Life Registry. "These resources are fantastic and easily available online. Beyond online, our transplant coordinators walk patients through every step of the process," explains&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/diwan-ty-s-m-d/bio-20507516" target="_blank" rel="noreferrer noopener">Dr. Ty Diwan</a>, transplant surgeon at Mayo Clinic in Rochester, Minnesota. "We connect with patients from anywhere in the world via the portal and virtual appointments."</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-1024x1024.jpg" alt="Michelle Gabriel, organ donor" class="wp-image-405871" style="width:403px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Michelle Gabriel, organ donor</figcaption></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-1024x1024.jpg" alt="Michelle Gabriel, organ donor" class="wp-image-405871" style="width:403px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Michelle Gabriel, organ donor</figcaption></figure>
 </div>
 
 
-<p>Michelle wasn't a match to her sister, but that didn't stop her. She joined a paired exchange program, creating a donor chain that benefited multiple families. No longer a question but a statement, "We can do this," became the sisters' ongoing mantra. "From that moment, we were all in. I saw the bigger picture: three people received kidneys that day," says Michelle.&nbsp;&nbsp;</p>
+<p>Michelle wasn't a match to her sister, but that didn't stop her. She joined a paired exchange program, creating a donor chain that benefited multiple families. No longer a question but a statement, "We can do this," became the sisters' ongoing mantra. "From that moment, we were all in. I saw the bigger picture: three people received kidneys that day," says Michelle.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -1024,7 +1032,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-1024x1024.jpg" alt="Albert Harris and wife Latonya, Albert is an organ donor" class="wp-image-405867" style="width:424px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Albert Harris donated a kidney to his wife, Latonya</figcaption></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-1024x1024.jpg" alt="Albert Harris and wife Latonya, Albert is an organ donor" class="wp-image-405867" style="width:424px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Albert-and-wife-Latonya-1-x-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Albert Harris donated a kidney to his wife, Latonya</figcaption></figure>
 </div>
 
 
@@ -1037,7 +1045,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoid7mDs7xD210" title="A living legacy - Donors who give hope and healing" width="500" height="281" src="https://www.youtube.com/embed/-7mDs7xD210?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoid7mDs7xD210"  title="A living legacy - Donors who give hope and healing" width="500" height="281" src="https://www.youtube.com/embed/-7mDs7xD210?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -1050,11 +1058,11 @@
 
 
 
-<p>Nearly 60% of people on&nbsp;<a href="https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&amp;lvlid=27#:~:text=In%202021%2C%2018.7%20percent%20of,percent%20of%20white%20living%20donors." target="_blank" rel="noreferrer noopener">transplant waiting lists</a>&nbsp;come from minority communities, while about 30% of donors are people of color. This gap makes awareness and education critical — especially during Minority Living Donor Awareness Month, which highlights the need for diverse donors to help reduce disparities in transplant access.&nbsp;</p>
+<p>Nearly 60% of people on&amp;nbsp;<a href="https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&amp;amp;lvlid=27#:~:text=In%202021%2C%2018.7%20percent%20of,percent%20of%20white%20living%20donors." target="_blank" rel="noreferrer noopener">transplant waiting lists</a>&amp;nbsp;come from minority communities, while about 30% of donors are people of color. This gap makes awareness and education critical — especially during Minority Living Donor Awareness Month, which highlights the need for diverse donors to help reduce disparities in transplant access.&amp;nbsp;</p>
 
 
 
-<p>"<a href="https://www.life-source.org/latest/does-my-race-ethnicity-matter-in-organ-donation/" target="_blank" rel="noreferrer noopener">Blood types</a>&nbsp;and certain HLA, or antibodies, tend to correlate with various ethnic groups," says&nbsp;<a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463">Dr. </a><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463" target="_blank" rel="noreferrer noopener">Shennen</a><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463"> Mao</a>, transplant surgeon at Mayo Clinic in Florida. "It is not directly related to a particular minority group; however, organs will end up with someone of a similar background because the better matched an organ is, the more longevity that organ has."</p>
+<p>"<a href="https://www.life-source.org/latest/does-my-race-ethnicity-matter-in-organ-donation/" target="_blank" rel="noreferrer noopener">Blood types</a>&amp;nbsp;and certain HLA, or antibodies, tend to correlate with various ethnic groups," says&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463">Dr. </a><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463" target="_blank" rel="noreferrer noopener">Shennen</a><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463"> Mao</a>, transplant surgeon at Mayo Clinic in Florida. "It is not directly related to a particular minority group; however, organs will end up with someone of a similar background because the better matched an organ is, the more longevity that organ has."</p>
 
 
 
@@ -1070,7 +1078,7 @@
 
 
 
-<p>In most states,&nbsp;<a href="https://www.organdonor.gov/sign-up" target="_blank" rel="noreferrer noopener">signing up</a>&nbsp;to be a donor after death can be done online or when registering for a driver's license or identification card. For information on&nbsp;<a href="https://www.kidneyregistry.org/for-patients/" target="_blank" rel="noreferrer noopener">living donation</a>, view&nbsp;<a href="https://connect.mayoclinic.org/blog/transplant/tab/resource-36/" target="_blank" rel="noreferrer noopener">Mayo Clinic's Living Donor Toolkit</a>, contact the recipient's care team, or a&nbsp;<a href="https://optn.transplant.hrsa.gov/about/search-membership/" target="_blank" rel="noreferrer noopener">transplant center</a>.&nbsp;</p>
+<p>In most states,&amp;nbsp;<a href="https://www.organdonor.gov/sign-up" target="_blank" rel="noreferrer noopener">signing up</a>&amp;nbsp;to be a donor after death can be done online or when registering for a driver's license or identification card. For information on&amp;nbsp;<a href="https://www.kidneyregistry.org/for-patients/" target="_blank" rel="noreferrer noopener">living donation</a>, view&amp;nbsp;<a href="https://connect.mayoclinic.org/blog/transplant/tab/resource-36/" target="_blank" rel="noreferrer noopener">Mayo Clinic's Living Donor Toolkit</a>, contact the recipient's care team, or a&amp;nbsp;<a href="https://optn.transplant.hrsa.gov/about/search-membership/" target="_blank" rel="noreferrer noopener">transplant center</a>.&amp;nbsp;</p>
 
 
 
@@ -1078,24 +1086,24 @@
 
 
 
-<p>Living kidney donation is a&nbsp;safe, medically supported procedure, with most donors resuming their lives within weeks. Mayo Clinic <a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/overview/ovc-20203894" target="_blank" rel="noreferrer noopener">provides</a> end-to-end care, including:</p>
+<p>Living kidney donation is a&amp;nbsp;safe, medically supported procedure, with most donors resuming their lives within weeks. Mayo Clinic <a href="https://www.mayoclinic.org/departments-centers/transplant-center/sections/overview/ovc-20203894" target="_blank" rel="noreferrer noopener">provides</a> end-to-end care, including:</p>
 
 
 
 <ul class="wp-block-list">
-<li>Expert evaluation and surgery&nbsp;from leading transplant specialists.</li>
+<li>Expert evaluation and surgery&amp;nbsp;from leading transplant specialists.</li>
 
 
 
-<li>Financial coordinators&nbsp;to assist with travel, lodging and lost wages.</li>
+<li>Financial coordinators&amp;nbsp;to assist with travel, lodging and lost wages.</li>
 
 
 
-<li>Virtual consultations&nbsp;and access to resources anywhere in the world.</li>
+<li>Virtual consultations&amp;nbsp;and access to resources anywhere in the world.</li>
 
 
 
-<li>Support and follow-up&nbsp;care for living donors.</li>
+<li>Support and follow-up&amp;nbsp;care for living donors.</li>
 </ul>
 
 
@@ -1122,33 +1130,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Michelle-Gabriel-sign-photo-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/Charnel-Golis-Tabag-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Carrie Jadlowiec]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Shennen Mao]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ty Diwan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Carrie Jadlowiec]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Shennen Mao]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ty Diwan]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Expert alert: 5 reasons more diverse organ donors are needed</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/expert-alert-5-reasons-more-diverse-organ-donors-are-needed/
+		<link>https://newsnetwork.mayoclinic.org/discussion/expert-alert-5-reasons-more-diverse-organ-donors-are-needed/</link>
 		
-		<dc:creator><!--[CDATA[Kelley Luckstein]]--></dc:creator>
-		<pubdate>Thu, 21 Aug 2025 19:06:13 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Pooja Budhiraja]]--></category>
-		<category><!--[CDATA[Dr. Shennen Mao]]--></category>
-		<category><!--[CDATA[Dr. Ty Diwan]]--></category>
-		<category><!--[CDATA[Florida News Releases]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[National Minority Donor Awareness Month]]--></category>
-		<category><!--[CDATA[Organ Donation]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=405625</guid>
+		<dc:creator><![CDATA[Kelley Luckstein]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 19:06:13 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Pooja Budhiraja]]></category>
+		<category><![CDATA[Dr. Shennen Mao]]></category>
+		<category><![CDATA[Dr. Ty Diwan]]></category>
+		<category><![CDATA[Florida News Releases]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[National Minority Donor Awareness Month]]></category>
+		<category><![CDATA[Organ Donation]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=405625</guid>
 
-					<description><!--[CDATA[<p-->August is National Minority Donor Awareness Month ROCHESTER, Minn. — Organ donation is a powerful act of generosity and compassion. It is one that can save lives, restore health and offer hope to those facing critical illness. While donation rates vary across different communities, there is a meaningful opportunity in underrepresented communities where donation rates […]<p></p>
+					<description><![CDATA[<p>August is National Minority Donor Awareness Month ROCHESTER, Minn. — Organ donation is a powerful act of generosity and compassion. It is one that can save lives, restore health and offer hope to those facing critical illness. While donation rates vary across different communities, there is a meaningful opportunity in underrepresented communities where donation rates [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/expert-alert-5-reasons-more-diverse-organ-donors-are-needed/">Expert alert: 5 reasons more diverse organ donors are needed</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="615" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-1024x615.jpg" alt="A man smiles with his eyes closed as he hugs an older man" class="wp-image-405621" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-1024x615.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-300x180.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-768x462.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-1536x923.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127.jpg 1872w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="615" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-1024x615.jpg" alt="A man smiles with his eyes closed as he hugs an older man" class="wp-image-405621" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-1024x615.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-300x180.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-768x462.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127-1536x923.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127.jpg 1872w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1217,15 +1225,15 @@
 
 
 <ul class="wp-block-list">
-<li><a href="https://www.mayoclinic.org/biographies/diwan-tayyab-ty-s-m-d/bio-20507516?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Ty Diwan, M.D.</a>, is a transplant surgeon at&nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/minnesota?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic in Rochester</a>.</li>
+<li><a href="https://www.mayoclinic.org/biographies/diwan-tayyab-ty-s-m-d/bio-20507516?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Ty Diwan, M.D.</a>, is a transplant surgeon at&amp;nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/minnesota?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic in Rochester</a>.</li>
 
 
 
-<li><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463" target="_blank" rel="noreferrer noopener">Shennen Mao, M.D.</a>, is a transplant surgeon at&nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/florida?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a>.</li>
+<li><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463" target="_blank" rel="noreferrer noopener">Shennen Mao, M.D.</a>, is a transplant surgeon at&amp;nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/florida?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic in Florida</a>.</li>
 
 
 
-<li><a href="https://www.mayoclinic.org/biographies/budhiraja-pooja-m-b-b-s/bio-20486288" target="_blank" rel="noreferrer noopener">Pooja Budhiraja, M.B.B.S.</a>, is a nephrologist at&nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/arizona?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>.</li>
+<li><a href="https://www.mayoclinic.org/biographies/budhiraja-pooja-m-b-b-s/bio-20486288" target="_blank" rel="noreferrer noopener">Pooja Budhiraja, M.B.B.S.</a>, is a nephrologist at&amp;nbsp;<a href="https://www.mayoclinic.org/patient-visitor-guide/arizona?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>.</li>
 </ul>
 
 
@@ -1234,7 +1242,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and to providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -1243,7 +1251,7 @@
 
 
 <ul class="wp-block-list">
-<li>Kelley Luckstein, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Kelley Luckstein, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/expert-alert-5-reasons-more-diverse-organ-donors-are-needed/">Expert alert: 5 reasons more diverse organ donors are needed</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -1252,32 +1260,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/A-man-smiles-with-his-eyes-closed-as-he-hugs-an-older-man_GettyImages-1385054127_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Pooja Budhiraja]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Shennen Mao]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Ty Diwan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[National Minority Donor Awareness Month]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Organ Donation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Pooja Budhiraja]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Shennen Mao]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Ty Diwan]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[National Minority Donor Awareness Month]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Organ Donation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic Minute: Why diverse organ donors are needed</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-why-diverse-organ-donors-are-needed/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-why-diverse-organ-donors-are-needed/</link>
 		
-		<dc:creator><!--[CDATA[Alex Osiadacz]]--></dc:creator>
-		<pubdate>Mon, 11 Aug 2025 12:20:00 +0000</pubdate>
-				<category><!--[CDATA[Diversity]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Shennen Mao]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=372291</guid>
+		<dc:creator><![CDATA[Alex Osiadacz]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 12:20:00 +0000</pubDate>
+				<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Mayo Clinic Minute]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Shennen Mao]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=372291</guid>
 
-					<description><!--[CDATA[<p-->August is National Minority Donor Awareness Month. It's a time of celebrating organ donation and educating people about transplantation by encouraging donor registration and promoting healthy living. Dr. Shennen Mao, a Mayo Clinic transplant surgeon, says having a diverse pool of organ donors will help serve a growing wait list of those in need. Watch: […]<p></p>
+					<description><![CDATA[<p>August is National Minority Donor Awareness Month. It's a time of celebrating organ donation and educating people about transplantation by encouraging donor registration and promoting healthy living. Dr. Shennen Mao, a Mayo Clinic transplant surgeon, says having a diverse pool of organ donors will help serve a growing wait list of those in need. Watch: [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-why-diverse-organ-donors-are-needed/">Mayo Clinic Minute: Why diverse organ donors are needed</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p-->August is <a href="https://donatelife.net/how-you-can-help/national-observances-celebrations/national-minority-donor-awareness-month/" target="_blank" rel="noreferrer noopener">National Minority Donor Awareness Month</a>. It's a time of celebrating organ donation and educating people about transplantation by encouraging donor registration and promoting healthy living.<p></p>
+										<content:encoded><![CDATA[
+<p>August is <a href="https://donatelife.net/how-you-can-help/national-observances-celebrations/national-minority-donor-awareness-month/" target="_blank" rel="noreferrer noopener">National Minority Donor Awareness Month</a>. It's a time of celebrating organ donation and educating people about transplantation by encouraging donor registration and promoting healthy living.</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Shennen Mao</a>, a <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> <a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">transplant</a> surgeon, says having a diverse pool of organ donors will help serve a growing wait list of those in need.</p>
+<p><a href="https://www.mayoclinic.org/biographies/mao-shennen-a-m-d/bio-20439463?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr. Shennen Mao</a>, a <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> <a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">transplant</a> surgeon, says having a diverse pool of organ donors will help serve a growing wait list of those in need.</p>
 
 
 
@@ -1286,12 +1294,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidenImQP2yYEs" title="Mayo Clinic Minute - Why diverse organ donors are needed" width="500" height="281" src="https://www.youtube.com/embed/enImQP2yYEs?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidenImQP2yYEs"  title="Mayo Clinic Minute - Why diverse organ donors are needed" width="500" height="281" src="https://www.youtube.com/embed/enImQP2yYEs?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Broadcast-quality video pkg (1:07) is in the downloads&nbsp;at the end of the post.&nbsp;Please courtesy: "Mayo Clinic News Network."&nbsp;Read the <a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/08/SCRIPT_Mayo-Clinic-Minute-Why-diverse-organ-donors-are-needed.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+<p><strong>Journalists: Broadcast-quality video pkg (1:07) is in the downloads&amp;nbsp;at the end of the post.&amp;nbsp;Please courtesy: "Mayo Clinic News Network."&amp;nbsp;Read the <a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/08/SCRIPT_Mayo-Clinic-Minute-Why-diverse-organ-donors-are-needed.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
 
 
 
@@ -1299,7 +1307,7 @@
 
 
 
-<p>Nearly 60% of people on <a href="https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&amp;lvlid=27#:~:text=In%202021%2C%2018.7%20percent%20of,percent%20of%20white%20living%20donors.">transplant waiting lists</a> come from minority communities, while about 30% of donors are people of color.</p>
+<p>Nearly 60% of people on <a href="https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&amp;amp;lvlid=27#:~:text=In%202021%2C%2018.7%20percent%20of,percent%20of%20white%20living%20donors.">transplant waiting lists</a> come from minority communities, while about 30% of donors are people of color.</p>
 
 
 
@@ -1339,6 +1347,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/PensiveMan1x1.jpeg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/09/PensiveMan16x9.jpeg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Shennen Mao]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Transplant]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Shennen Mao]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Transplant]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
