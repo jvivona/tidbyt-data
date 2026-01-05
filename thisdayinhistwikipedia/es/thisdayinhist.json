@@ -331,10 +331,6 @@
     ],
     "births": [
         {
-            "text": "Favio Dávila, boxeador peruano",
-            "year": 2010
-        },
-        {
             "text": "Ahn Ji-ho, actor surcoreano.",
             "year": 2004
         },
@@ -372,6 +368,10 @@
         },
         {
             "text": "Sam Hickey, boxeador británico.",
+            "year": 2000
+        },
+        {
+            "text": "Gastón Martirena, futbolista uruguayo.",
             "year": 2000
         },
         {
@@ -3133,28 +3133,28 @@
             "title": "Hoy en Historia (Wikipedia)"
         },
         "events": [
-            0,
-            26,
-            73,
-            13,
+            8,
+            55,
+            79,
             75,
-            64,
-            42,
-            44,
-            48,
-            71
+            66,
+            22,
+            69,
+            25,
+            18,
+            13
         ],
         "births": [
-            68,
-            100,
-            43,
-            48
+            274,
+            15,
+            233,
+            70
         ],
         "deaths": [
-            91,
-            143,
-            355,
-            327
+            137,
+            128,
+            226,
+            191
         ]
     }
 }
