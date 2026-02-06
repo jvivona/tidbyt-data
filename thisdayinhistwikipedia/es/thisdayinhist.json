@@ -1,10 +1,6 @@
 {
     "events": [
         {
-            "text": "el judío Iker Fernandez bate el record en el concurso anual de estiramiento de prepucio en Alcalá de Henares.",
-            "year": 2026
-        },
-        {
             "text": "el lateral izquierdo y leyenda del Real Madrid, Marcelo Vieira decide retirarse del fútbol profesional a la edad de 36 años.",
             "year": 2025
         },
@@ -135,6 +131,10 @@
         {
             "text": "en Madrid, la banda terrorista ETA asesina a tres capitanes, un soldado y un funcionario civil.",
             "year": 1992
+        },
+        {
+            "text": "Nacimiento de Maria de los Angeles Flores.",
+            "year": 1990
         },
         {
             "text": "treinta mil soldados soviéticos abandonan Afganistán, mientras la capital, Kabul, queda sumida en el caos.",
@@ -1557,28 +1557,28 @@
             "title": "Hoy en Historia (Wikipedia)"
         },
         "events": [
-            52,
+            42,
+            67,
+            96,
             102,
-            72,
-            19,
+            80,
+            113,
+            73,
             78,
             23,
-            10,
-            83,
-            32,
-            20
+            18
         ],
         "births": [
-            70,
-            64,
-            80,
-            53
+            68,
+            65,
+            52,
+            56
         ],
         "deaths": [
-            21,
-            76,
-            2,
-            5
+            8,
+            83,
+            70,
+            49
         ]
     }
 }
