@@ -1,47 +1,39 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Cancer - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/cancer/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cancer/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/cancer/
 	<description>News Resources</description>
-	<lastBuildDate>Mon, 16 Mar 2026 13:24:53 +0000</lastBuildDate>
+	<lastbuilddate>Mon, 16 Mar 2026 13:24:53 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
 	<item>
 		<title>Mayo Clinic researchers use milk-derived nanoparticles to target aggressive bile duct cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-milk-derived-nanoparticles-to-target-aggressive-bile-duct-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-milk-derived-nanoparticles-to-target-aggressive-bile-duct-cancer/
 		
-		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Rory Smoot]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411722</guid>
+		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
+		<pubdate>Mon, 16 Mar 2026 13:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Rory Smoot]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411722</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have developed a promising new way to deliver treatment directly to cholangiocarcinoma tumors, a rare and aggressive bile duct cancer with limited treatment options, using milk-derived nanoparticles that act like guided delivery vehicles. The findings, published in JHEP Reports, point to a potential targeted genetic therapy designed to attack [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have developed a promising new way to deliver treatment directly to cholangiocarcinoma tumors, a rare and aggressive bile duct cancer with limited treatment options, using milk-derived nanoparticles that act like guided delivery vehicles. The findings, published in JHEP Reports, point to a potential targeted genetic therapy designed to attack […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-milk-derived-nanoparticles-to-target-aggressive-bile-duct-cancer/">Mayo Clinic researchers use milk-derived nanoparticles to target aggressive bile duct cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg" alt="Processing samples using a pipette in a research laboratory" class="wp-image-411775" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg" alt="Processing samples using a pipette in a research laboratory" class="wp-image-411775" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -111,39 +103,39 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Rory Smoot]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Rory Smoot]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;#038;A: What should I know about today&amp;#8217;s chemotherapy?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-should-i-know-about-todays-chemotherapy/</link>
+		<title>Mayo Clinic Q&amp;A: What should I know about today’s chemotherapy?</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-should-i-know-about-todays-chemotherapy/
 		
-		<dc:creator><![CDATA[justingottlieb]]></dc:creator>
-		<pubDate>Mon, 09 Mar 2026 13:13:13 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Chemotherapy]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Javier Munoz]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411098</guid>
+		<dc:creator><!--[CDATA[justingottlieb]]--></dc:creator>
+		<pubdate>Mon, 09 Mar 2026 13:13:13 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Chemotherapy]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Javier Munoz]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411098</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;I recently found out that my aunt was diagnosed with cancer and may need chemotherapy. When I think of chemotherapy, I picture hair loss, nausea and being too sick to maintain anything resembling a normal quality of life. However, friends have told me that chemotherapy isn't what it used to be. What's changed, [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-should-i-know-about-todays-chemotherapy/">Mayo Clinic Q&amp;amp;A: What should I know about today&amp;#8217;s chemotherapy?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I recently found out that my aunt was diagnosed with cancer and may need chemotherapy. When I think of chemotherapy, I picture hair loss, nausea and being too sick to maintain anything resembling a normal quality of life. However, friends have told me that chemotherapy isn't what it used to be. What's changed, […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-should-i-know-about-todays-chemotherapy/">Mayo Clinic Q&amp;A: What should I know about today’s chemotherapy?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-full"><img decoding="async" width="800" height="451" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1.png" alt="Physician assistant and nurse tend to chemotherapy patient" class="wp-image-403294" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1.png 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1-768x433.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
-</div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="aligncenter size-full"><img decoding="async" width="800" height="451" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1.png" alt="Physician assistant and nurse tend to chemotherapy patient" class="wp-image-403294" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1.png 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1-768x433.png 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
 
 
 <p></p>
 
 
 
-<p><strong>DEAR MAYO CLINIC:&amp;nbsp;</strong>I recently found out that my aunt was diagnosed with <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/about-us" target="_blank" rel="noreferrer noopener">cancer</a> and may need <a href="https://www.mayoclinic.org/tests-procedures/chemotherapy/about/pac-20385033" target="_blank" rel="noreferrer noopener">chemotherapy</a>. When I think of chemotherapy, I picture hair loss, nausea and being too sick to maintain anything resembling a normal quality of life. However, friends have told me that chemotherapy isn't what it used to be. What's changed, and what should someone know about today’s chemotherapy before going into it?&amp;nbsp;&amp;nbsp;</p>
+<p><strong>DEAR MAYO CLINIC:&nbsp;</strong>I recently found out that my aunt was diagnosed with <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/about-us" target="_blank" rel="noreferrer noopener">cancer</a> and may need <a href="https://www.mayoclinic.org/tests-procedures/chemotherapy/about/pac-20385033" target="_blank" rel="noreferrer noopener">chemotherapy</a>. When I think of chemotherapy, I picture hair loss, nausea and being too sick to maintain anything resembling a normal quality of life. However, friends have told me that chemotherapy isn't what it used to be. What's changed, and what should someone know about today’s chemotherapy before going into it?&nbsp;&nbsp;</p>
 
 
 
-<p><strong>ANSWER:&amp;nbsp;</strong>Hearing the word "chemotherapy" can be frightening. Many people picture difficult side effects based on stories from decades ago or what they've seen portrayed in movies. While chemotherapy is still an important <a href="https://www.mayoclinic.org/tests-procedures/cancer-treatment/about/pac-20393344" target="_blank" rel="noreferrer noopener">cancer treatment</a>, cancer care today has changed dramatically just within the past 10 years.</p>
+<p><strong>ANSWER:&nbsp;</strong>Hearing the word "chemotherapy" can be frightening. Many people picture difficult side effects based on stories from decades ago or what they've seen portrayed in movies. While chemotherapy is still an important <a href="https://www.mayoclinic.org/tests-procedures/cancer-treatment/about/pac-20393344" target="_blank" rel="noreferrer noopener">cancer treatment</a>, cancer care today has changed dramatically just within the past 10 years.</p>
 
 
 
@@ -159,7 +151,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-1024x574.jpg" alt="chemotherapy drug being administered intravenously by a nurse" class="wp-image-405972" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-1024x574.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-1024x574.jpg" alt="chemotherapy drug being administered intravenously by a nurse" class="wp-image-405972" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-1024x574.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9-1536x862.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/08/chemotherapy-drug-being-administered-intravenously-by-a-nurse_1552844_3779313_0064_16x9.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -183,11 +175,11 @@
 
 
 
-<p>There’s no single chemotherapy experience. Side effects depend on the specific drugs used, the cancer being treated and the person receiving care. Not all chemotherapy causes hair loss, and many newer treatments don’t cause it at all. For those at risk of hair loss, there are therapies that&amp;nbsp;protect&amp;nbsp;the hair follicles to minimize the amount of hair lost.</p>
+<p>There’s no single chemotherapy experience. Side effects depend on the specific drugs used, the cancer being treated and the person receiving care. Not all chemotherapy causes hair loss, and many newer treatments don’t cause it at all. For those at risk of hair loss, there are therapies that&nbsp;protect&nbsp;the hair follicles to minimize the amount of hair lost.</p>
 
 
 
-<p>When nausea occurs, it is often limited to a few days rather than an entire treatment cycle. Many people can continue parts of their normal routines, including work and family activities, with adjustments as needed. Your cancer care team can also provide tips for reducing nausea and other side effects such as constipation and weight loss or gain.&amp;nbsp;</p>
+<p>When nausea occurs, it is often limited to a few days rather than an entire treatment cycle. Many people can continue parts of their normal routines, including work and family activities, with adjustments as needed. Your cancer care team can also provide tips for reducing nausea and other side effects such as constipation and weight loss or gain.&nbsp;</p>
 
 
 
@@ -230,53 +222,53 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-should-i-know-about-todays-chemotherapy/">Mayo Clinic Q&amp;amp;A: What should I know about today&amp;#8217;s chemotherapy?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-should-i-know-about-todays-chemotherapy/">Mayo Clinic Q&amp;A: What should I know about today’s chemotherapy?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-1x1-1.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Physician-assistant-and-nurse-tend-to-chemotherapy-patient_WF5510977_0434-16x9-1.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Chemotherapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Javier Munoz]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Chemotherapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Javier Munoz]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;#038;A: Treating colorectal cancer with surgery</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-treating-colorectal-cancer-with-surgery/</link>
+		<title>Mayo Clinic Q&amp;A: Treating colorectal cancer with surgery</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-treating-colorectal-cancer-with-surgery/
 		
-		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
-		<pubDate>Thu, 05 Mar 2026 14:49:57 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[Surgery]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Colon Cancer]]></category>
-		<category><![CDATA[colorectal cancer]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Eric Dozois]]></category>
-		<category><![CDATA[rectal cancer]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411170</guid>
+		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
+		<pubdate>Thu, 05 Mar 2026 14:49:57 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[Surgery]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Colon Cancer]]--></category>
+		<category><!--[CDATA[colorectal cancer]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Eric Dozois]]--></category>
+		<category><!--[CDATA[rectal cancer]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411170</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;After my brother was diagnosed with colorectal cancer, I read that it's often treated with surgery first. Can you tell me more about the surgery? ANSWER:&amp;#160;When someone is diagnosed with colorectal cancer — which includes both&amp;#160;colon&amp;#160;and&amp;#160;rectal cancers&amp;#160;— many people immediately think "surgery." And it’s true that surgery plays a central role in treatment [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-treating-colorectal-cancer-with-surgery/">Mayo Clinic Q&amp;amp;A: Treating colorectal cancer with surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;After my brother was diagnosed with colorectal cancer, I read that it's often treated with surgery first. Can you tell me more about the surgery? ANSWER:&nbsp;When someone is diagnosed with colorectal cancer — which includes both&nbsp;colon&nbsp;and&nbsp;rectal cancers&nbsp;— many people immediately think "surgery." And it’s true that surgery plays a central role in treatment […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-treating-colorectal-cancer-with-surgery/">Mayo Clinic Q&amp;A: Treating colorectal cancer with surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-1024x576.jpg" alt="Surgery image of colon rectal surgery including Dr. Eric Dozois and team" class="wp-image-362353" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-</div>
-
-
-<p><strong>DEAR MAYO CLINIC:&amp;nbsp;</strong>After my brother was diagnosed with colorectal cancer, I read that it's often treated with surgery first. Can you tell me more about the surgery?</p>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-1024x576.jpg" alt="Surgery image of colon rectal surgery including Dr. Eric Dozois and team" class="wp-image-362353" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9.jpg 1824w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
-<p><strong>ANSWER:&amp;nbsp;</strong>When someone is diagnosed with colorectal cancer — which includes both&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669" target="_blank" rel="noreferrer noopener">colon</a>&amp;nbsp;and&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/rectal-cancer/symptoms-causes/syc-20352884" target="_blank" rel="noreferrer noopener">rectal cancers</a>&amp;nbsp;— many people immediately think "surgery." And it’s true that <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-are-colon-and-rectal-cancers-treated-differently/" target="_blank" rel="noreferrer noopener">surgery</a> plays a central role in treatment for most patients. But whether it comes first, and what it entails, depends on several factors, especially where the cancer is located, how far it has grown into surrounding tissues, and whether it has spread.&amp;nbsp;</p>
+<p><strong>DEAR MAYO CLINIC:&nbsp;</strong>After my brother was diagnosed with colorectal cancer, I read that it's often treated with surgery first. Can you tell me more about the surgery?</p>
 
 
 
-<p>For colon cancer, <a href="https://www.mayoclinic.org/tests-procedures/colon-cancer-surgery/about/pac-20583603" target="_blank" rel="noreferrer noopener">surgery</a> is typically the first and main step when the disease hasn't spread to distant organs. The goal is to remove the cancerous part of the colon along with nearby lymph nodes, which are the first places cancer spreads. After surgery, the removed tissue is examined under a microscope to confirm the stage of the disease and decide whether additional treatment, such as chemotherapy, is needed.&amp;nbsp;</p>
+<p><strong>ANSWER:&nbsp;</strong>When someone is diagnosed with colorectal cancer — which includes both&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669" target="_blank" rel="noreferrer noopener">colon</a>&nbsp;and&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/rectal-cancer/symptoms-causes/syc-20352884" target="_blank" rel="noreferrer noopener">rectal cancers</a>&nbsp;— many people immediately think "surgery." And it’s true that <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-are-colon-and-rectal-cancers-treated-differently/" target="_blank" rel="noreferrer noopener">surgery</a> plays a central role in treatment for most patients. But whether it comes first, and what it entails, depends on several factors, especially where the cancer is located, how far it has grown into surrounding tissues, and whether it has spread.&nbsp;</p>
 
 
 
-<p>In early-stage colon cancer (stages 1and 2), surgery alone may be curative. Many patients won't need further treatment beyond regular follow-ups. In stage 3 disease, chemotherapy after surgery is usually recommended to help reduce the risk of the cancer returning.&amp;nbsp;</p>
+<p>For colon cancer, <a href="https://www.mayoclinic.org/tests-procedures/colon-cancer-surgery/about/pac-20583603" target="_blank" rel="noreferrer noopener">surgery</a> is typically the first and main step when the disease hasn't spread to distant organs. The goal is to remove the cancerous part of the colon along with nearby lymph nodes, which are the first places cancer spreads. After surgery, the removed tissue is examined under a microscope to confirm the stage of the disease and decide whether additional treatment, such as chemotherapy, is needed.&nbsp;</p>
+
+
+
+<p>In early-stage colon cancer (stages 1and 2), surgery alone may be curative. Many patients won't need further treatment beyond regular follow-ups. In stage 3 disease, chemotherapy after surgery is usually recommended to help reduce the risk of the cancer returning.&nbsp;</p>
 
 
 
@@ -284,31 +276,31 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/03/a-medical-illustration-of-colon-cancer-16X9.jpg" alt="a medical illustration of the rectum, sigmoid colon, descending colon, transverse colon, ascending colon and secum, as well as an image of colon cancer seen during colonoscopy" class="wp-image-185207" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/03/a-medical-illustration-of-colon-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/03/a-medical-illustration-of-colon-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/03/a-medical-illustration-of-colon-cancer-16X9.jpg" alt="a medical illustration of the rectum, sigmoid colon, descending colon, transverse colon, ascending colon and secum, as well as an image of colon cancer seen during colonoscopy" class="wp-image-185207" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/03/a-medical-illustration-of-colon-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/03/a-medical-illustration-of-colon-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure>
 </div>
 
 
-<p>Surgery also may be used in more advanced cases, including relieving symptoms like bleeding or bowel obstruction, or removing tumors in other organs, which might help control the disease.&amp;nbsp;</p>
+<p>Surgery also may be used in more advanced cases, including relieving symptoms like bleeding or bowel obstruction, or removing tumors in other organs, which might help control the disease.&nbsp;</p>
 
 
 
-<p>Rectal cancer, found in the last several inches of the large intestine, is often treated differently from colon cancer. Because the rectum is deep in the pelvis next to other organs and structures, such as nerves that control bowel and bladder function, doctors often use a multidisciplinary approach.&amp;nbsp;</p>
+<p>Rectal cancer, found in the last several inches of the large intestine, is often treated differently from colon cancer. Because the rectum is deep in the pelvis next to other organs and structures, such as nerves that control bowel and bladder function, doctors often use a multidisciplinary approach.&nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/07/a-medical-illustration-of-rectal-cancer-16X9.jpg" alt="a medical illustration of rectal cancer" class="wp-image-195705" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/07/a-medical-illustration-of-rectal-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/07/a-medical-illustration-of-rectal-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/07/a-medical-illustration-of-rectal-cancer-16X9.jpg" alt="a medical illustration of rectal cancer" class="wp-image-195705" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/07/a-medical-illustration-of-rectal-cancer-16X9.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/07/a-medical-illustration-of-rectal-cancer-16X9-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure>
 </div>
 
 
-<p>For many rectal cancers, especially those that are locally advanced or close to critical structures, treatment typically begins with chemotherapy and radiation before surgery. The aim is to shrink the tumor so it can be removed more completely and safely and reduce the risk that it will come back.&amp;nbsp;</p>
+<p>For many rectal cancers, especially those that are locally advanced or close to critical structures, treatment typically begins with chemotherapy and radiation before surgery. The aim is to shrink the tumor so it can be removed more completely and safely and reduce the risk that it will come back.&nbsp;</p>
 
 
 
-<p>This sequence, called neoadjuvant therapy, is less common in colon cancer but standard in many cases of rectal cancer, which have a higher risk of local recurrence. It often improves outcomes and, in some carefully selected patients, may even allow preservation of more typical bowel function.&amp;nbsp;</p>
+<p>This sequence, called neoadjuvant therapy, is less common in colon cancer but standard in many cases of rectal cancer, which have a higher risk of local recurrence. It often improves outcomes and, in some carefully selected patients, may even allow preservation of more typical bowel function.&nbsp;</p>
 
 
 
-<p>Rectal cancer care can involve a team of specialists, including colorectal surgeons, medical oncologists and radiation oncologists, who discuss each case together to tailor the best plan for each patient.&amp;nbsp;</p>
+<p>Rectal cancer care can involve a team of specialists, including colorectal surgeons, medical oncologists and radiation oncologists, who discuss each case together to tailor the best plan for each patient.&nbsp;</p>
 
 
 
@@ -316,27 +308,27 @@
 
 
 
-<p>Whether it's for colon or rectal cancer, the basic aim of surgery is the same: to remove the tumor completely, along with a margin of healthy tissue around it and nearby lymph nodes. The surgeon then reconnects the remaining bowel so it can continue normal function.&amp;nbsp;</p>
+<p>Whether it's for colon or rectal cancer, the basic aim of surgery is the same: to remove the tumor completely, along with a margin of healthy tissue around it and nearby lymph nodes. The surgeon then reconnects the remaining bowel so it can continue normal function.&nbsp;</p>
 
 
 
-<p>Many colorectal operations are performed using minimally invasive techniques such as laparoscopy or robotic-assisted surgery. These methods use small incisions and advanced instruments that allow surgeons to work precisely, leading to fewer complications, less pain and a faster recovery than with traditional open surgery.&amp;nbsp;</p>
+<p>Many colorectal operations are performed using minimally invasive techniques such as laparoscopy or robotic-assisted surgery. These methods use small incisions and advanced instruments that allow surgeons to work precisely, leading to fewer complications, less pain and a faster recovery than with traditional open surgery.&nbsp;</p>
 
 
 
-<p>For colon cancer, minimally invasive colectomies are common and, in many patients, can be done through several very small incisions. Recovery may be quicker, with patients beginning to eat soon after surgery and returning home in a few days.&amp;nbsp;</p>
+<p>For colon cancer, minimally invasive colectomies are common and, in many patients, can be done through several very small incisions. Recovery may be quicker, with patients beginning to eat soon after surgery and returning home in a few days.&nbsp;</p>
 
 
 
-<p>For rectal cancer, minimally invasive techniques also are used, but the surgery can be more complex because of the tighter space in the pelvis and the need to preserve nerves. Robotic surgery in particular offers 3D visualization and refined control that can be especially helpful.&amp;nbsp;</p>
+<p>For rectal cancer, minimally invasive techniques also are used, but the surgery can be more complex because of the tighter space in the pelvis and the need to preserve nerves. Robotic surgery in particular offers 3D visualization and refined control that can be especially helpful.&nbsp;</p>
 
 
 
-<p>Surgery for rectal cancer can sometimes affect bowel function. In some patients, a temporary or permanent stoma, an opening on the abdomen for waste to pass, may be necessary depending on the tumor's location and extent.&amp;nbsp;</p>
+<p>Surgery for rectal cancer can sometimes affect bowel function. In some patients, a temporary or permanent stoma, an opening on the abdomen for waste to pass, may be necessary depending on the tumor's location and extent.&nbsp;</p>
 
 
 
-<p>Even with technically successful surgery, some patients experience changes in bowel habits or control (a condition sometimes called low anterior resection syndrome), urinary difficulties or sexual dysfunction. These are important aspects to discuss with your care team.&amp;nbsp;</p>
+<p>Even with technically successful surgery, some patients experience changes in bowel habits or control (a condition sometimes called low anterior resection syndrome), urinary difficulties or sexual dysfunction. These are important aspects to discuss with your care team.&nbsp;</p>
 
 
 
@@ -367,63 +359,63 @@
 
 
 <p><a href="https://www.mayoclinic.org/biographies/dozois-eric-j-m-d/bio-20053346" target="_blank" rel="noreferrer noopener"><em>Eric Dozois, M.D.</em></a><em>,&nbsp;Colon and Rectal Surgery, Mayo Clinic, Rochester, Minnesota</em></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-treating-colorectal-cancer-with-surgery/">Mayo Clinic Q&amp;amp;A: Treating colorectal cancer with surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-treating-colorectal-cancer-with-surgery/">Mayo Clinic Q&amp;A: Treating colorectal cancer with surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-1x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/03/Colon-Rectal-Colorectal-Cancer-Surgery-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Colon Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[colorectal cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eric Dozois]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[rectal cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Surgery]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Colon Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[colorectal cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eric Dozois]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[rectal cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Surgery]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Transforming colon cancer care through precision medicine</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-transforming-colon-cancer-care-through-precision-medicine/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-transforming-colon-cancer-care-through-precision-medicine/
 		
-		<dc:creator><![CDATA[Marty Velasco Hames]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 16:56:47 +0000</pubDate>
-				<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Cancer Patient Stories]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Gastroenterology]]></category>
-		<category><![CDATA[Gastroenterology Patient Stories]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[MC Video pkg]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[Sharing Mayo Clinic]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Colon Cancer]]></category>
-		<category><![CDATA[Colon cancer prevention]]></category>
-		<category><![CDATA[colon cancer screening]]></category>
-		<category><![CDATA[colorectal cancer]]></category>
-		<category><![CDATA[Colorectal Cancer Awareness Month]]></category>
-		<category><![CDATA[Colorectal Cancer Awareness Month. Colorectal cancer screening]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Marty Velasco Hames]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<category><![CDATA[Mayo Clinic Arizona]]></category>
-		<category><![CDATA[precision medicine]]></category>
-		<category><![CDATA[screening for colon cancer]]></category>
-		<category><![CDATA[Social Sensations]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411245</guid>
+		<dc:creator><!--[CDATA[Marty Velasco Hames]]--></dc:creator>
+		<pubdate>Wed, 04 Mar 2026 16:56:47 +0000</pubdate>
+				<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Cancer Patient Stories]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Gastroenterology]]--></category>
+		<category><!--[CDATA[Gastroenterology Patient Stories]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[MC Video pkg]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[Sharing Mayo Clinic]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Colon Cancer]]--></category>
+		<category><!--[CDATA[Colon cancer prevention]]--></category>
+		<category><!--[CDATA[colon cancer screening]]--></category>
+		<category><!--[CDATA[colorectal cancer]]--></category>
+		<category><!--[CDATA[Colorectal Cancer Awareness Month]]--></category>
+		<category><!--[CDATA[Colorectal Cancer Awareness Month. Colorectal cancer screening]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Marty Velasco Hames]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<category><!--[CDATA[Mayo Clinic Arizona]]--></category>
+		<category><!--[CDATA[precision medicine]]--></category>
+		<category><!--[CDATA[screening for colon cancer]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411245</guid>
 
-					<description><![CDATA[<p>Precision medicine is rapidly transforming modern healthcare. It's a personalized approach that tailors prevention and treatment to each individual — moving beyond the traditional one-size-fits-all model. Colorectal cancer is one area where precision medicine is reshaping the standard of care for patients like Eric Minnesota.&amp;#160; At 56, Eric was training for an Ironman triathlon when [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Precision medicine is rapidly transforming modern healthcare. It's a personalized approach that tailors prevention and treatment to each individual — moving beyond the traditional one-size-fits-all model. Colorectal cancer is one area where precision medicine is reshaping the standard of care for patients like Eric Minnesota.&nbsp; At 56, Eric was training for an Ironman triathlon when […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-transforming-colon-cancer-care-through-precision-medicine/">(VIDEO) Transforming colon cancer care through precision medicine</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1920" height="1080" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9.jpg" alt="" class="wp-image-411374" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9.jpg 1920w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-1536x864.jpg 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption"><strong>Paula and Eric Minnesota at the finish line of a half marathon </strong> <strong>Photo courtesy: Minnesota family</strong></figcaption></figure>
-</div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image is-style-center-align-caption"-->
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1920" height="1080" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9.jpg" alt="" class="wp-image-411374" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9.jpg 1920w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-1536x864.jpg 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px"><figcaption class="wp-element-caption"><strong>Paula and Eric Minnesota at the finish line of a half marathon </strong> <strong>Photo courtesy: Minnesota family</strong></figcaption></figure>
+
 
 
 <p><a href="https://newsnetwork.mayoclinic.org/tag/precision-medicine/" id="7458" target="_blank" rel="noreferrer noopener">Precision medicine</a> is rapidly transforming modern healthcare. It's a personalized approach that tailors prevention and treatment to each individual  — moving beyond the traditional one-size-fits-all model.</p>
 
 
 
-<p>Colorectal cancer is one area where precision medicine is reshaping the standard of care for patients like Eric Minnesota.&amp;nbsp;</p>
+<p>Colorectal cancer is one area where precision medicine is reshaping the standard of care for patients like Eric Minnesota.&nbsp;</p>
 
 
 
-<p>At 56, Eric was training for an Ironman triathlon when he got a devastating diagnosis — stage 3 <a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/diagnosis-treatment/drc-20353674">colo</a><a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/diagnosis-treatment/drc-20353674" target="_blank" rel="noreferrer noopener">r</a><a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/diagnosis-treatment/drc-20353674">ectal cancer</a>.&amp;nbsp;</p>
+<p>At 56, Eric was training for an Ironman triathlon when he got a devastating diagnosis — stage 3 <a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/diagnosis-treatment/drc-20353674">colo</a><a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/diagnosis-treatment/drc-20353674" target="_blank" rel="noreferrer noopener">r</a><a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/diagnosis-treatment/drc-20353674">ectal cancer</a>.&nbsp;</p>
 
 
 
@@ -436,7 +428,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubepbSHdjvG3Bk"  title="Transforming colon cancer care through precision medicine - Eric Minnesota&amp;#039;s story" width="500" height="281" src="https://www.youtube.com/embed/pbSHdjvG3Bk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubepbSHdjvG3Bk" title="Transforming colon cancer care through precision medicine - Eric Minnesota's story" width="500" height="281" src="https://www.youtube.com/embed/pbSHdjvG3Bk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -457,7 +449,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg" alt="" class="wp-image-411427" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--300x164.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--768x419.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1536x838.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Eric trained throughout his cancer treatment</strong></figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg" alt="" class="wp-image-411427" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--300x164.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--768x419.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1536x838.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Eric trained throughout his cancer treatment</strong></figcaption></figure>
 </div>
 
 
@@ -477,7 +469,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-1024x576.jpg" alt="" class="wp-image-411444" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Eric and Paula share their battle against colorectal cancer</strong></figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-1024x576.jpg" alt="" class="wp-image-411444" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-and-Paula-Looking-at-Camera.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Eric and Paula share their battle against colorectal cancer</strong></figcaption></figure>
 </div>
 
 
@@ -485,7 +477,7 @@
 
 
 
-<p>In preparation for surgery, Eric and his wife, Paula, turned to <a href="https://www.mayoclinic.org/arizona?customer_id=919-955-2329&amp;amp;mc_id=google&amp;amp;campaign=8927988164&amp;amp;geo=9030072&amp;amp;kw=mayo%20clinic%20hospital&amp;amp;ad=458309235723&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=111165104550&amp;amp;extension=&amp;amp;target=kwd-314018929137&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=9199552329&amp;amp;invsrc=arizona&amp;amp;placementsite=arizona&amp;amp;gad_source=1&amp;amp;gad_campaignid=8927988164&amp;amp;gbraid=0AAAAAD8Qu29rj60rhMLIo8z_Fe3pPqhj6&amp;amp;gclid=CjwKCAiAqprNBhB6EiwAMe3yhhGPcwV36exynUFzHNqhOkXoZ6Hc-EYr0Yjnv0CT4ABIp5SDltdKYBoCTSUQAvD_BwE" id="https://www.mayoclinic.org/arizona?customer_id=919-955-2329&amp;amp;mc_id=google&amp;amp;campaign=8927988164&amp;amp;geo=9030072&amp;amp;kw=mayo%20clinic%20hospital&amp;amp;ad=458309235723&amp;amp;network=g&amp;amp;sitetarget=&amp;amp;adgroup=111165104550&amp;amp;extension=&amp;amp;target=kwd-314018929137&amp;amp;matchtype=p&amp;amp;device=c&amp;amp;account=9199552329&amp;amp;invsrc=arizona&amp;amp;placementsite=arizona&amp;amp;gad_source=1&amp;amp;gad_campaignid=8927988164&amp;amp;gbraid=0AAAAAD8Qu29rj60rhMLIo8z_Fe3pPqhj6&amp;amp;gclid=CjwKCAiAqprNBhB6EiwAMe3yhhGPcwV36exynUFzHNqhOkXoZ6Hc-EYr0Yjnv0CT4ABIp5SDltdKYBoCTSUQAvD_BwE" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>. "The doctor at Mayo said a team of specialists would convene as a group to review my case. Mayo was quicker than I ever imagined. The following week they called me to discuss my treatment plan," says Eric.</p>
+<p>In preparation for surgery, Eric and his wife, Paula, turned to <a href="https://www.mayoclinic.org/arizona?customer_id=919-955-2329&amp;mc_id=google&amp;campaign=8927988164&amp;geo=9030072&amp;kw=mayo%20clinic%20hospital&amp;ad=458309235723&amp;network=g&amp;sitetarget=&amp;adgroup=111165104550&amp;extension=&amp;target=kwd-314018929137&amp;matchtype=p&amp;device=c&amp;account=9199552329&amp;invsrc=arizona&amp;placementsite=arizona&amp;gad_source=1&amp;gad_campaignid=8927988164&amp;gbraid=0AAAAAD8Qu29rj60rhMLIo8z_Fe3pPqhj6&amp;gclid=CjwKCAiAqprNBhB6EiwAMe3yhhGPcwV36exynUFzHNqhOkXoZ6Hc-EYr0Yjnv0CT4ABIp5SDltdKYBoCTSUQAvD_BwE" id="https://www.mayoclinic.org/arizona?customer_id=919-955-2329&amp;mc_id=google&amp;campaign=8927988164&amp;geo=9030072&amp;kw=mayo%20clinic%20hospital&amp;ad=458309235723&amp;network=g&amp;sitetarget=&amp;adgroup=111165104550&amp;extension=&amp;target=kwd-314018929137&amp;matchtype=p&amp;device=c&amp;account=9199552329&amp;invsrc=arizona&amp;placementsite=arizona&amp;gad_source=1&amp;gad_campaignid=8927988164&amp;gbraid=0AAAAAD8Qu29rj60rhMLIo8z_Fe3pPqhj6&amp;gclid=CjwKCAiAqprNBhB6EiwAMe3yhhGPcwV36exynUFzHNqhOkXoZ6Hc-EYr0Yjnv0CT4ABIp5SDltdKYBoCTSUQAvD_BwE" target="_blank" rel="noreferrer noopener">Mayo Clinic in Arizona</a>. "The doctor at Mayo said a team of specialists would convene as a group to review my case. Mayo was quicker than I ever imagined. The following week they called me to discuss my treatment plan," says Eric.</p>
 
 
 
@@ -493,7 +485,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-1024x576.jpg" alt="" class="wp-image-411430" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-1024x576.jpg" alt="" class="wp-image-411430" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Immunotherapy-2.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -505,7 +497,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="559" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-1024x559.jpg" alt="" class="wp-image-411448" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-1024x559.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-300x164.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-768x419.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-1536x838.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Dr. Jewel Samadder points to the cancer on Eric's colonoscopy before treatment. To the left is the photo after treatment free of the tumor</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-style-center-align-caption"><img loading="lazy" decoding="async" width="1024" height="559" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-1024x559.jpg" alt="" class="wp-image-411448" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-1024x559.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-300x164.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-768x419.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9-1536x838.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Jewel-J.-Samadder-16-x-9.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Dr. Jewel Samadder points to the cancer on Eric's colonoscopy before treatment. To the left is the photo after treatment free of the tumor</strong></figcaption></figure>
 
 
 
@@ -517,7 +509,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg" alt="" class="wp-image-411427" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--300x164.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--768x419.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1536x838.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Eric was able to exercise throughout his treatment</strong></figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg" alt="" class="wp-image-411427" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1024x559.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--300x164.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--768x419.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9--1536x838.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Eric was able to exercise throughout his treatment</strong></figcaption></figure>
 </div>
 
 
@@ -553,11 +545,11 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-1024x576.jpg" alt="" class="wp-image-411381" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Eric, Paula and their daughter, Zoe</strong></figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-1024x576.jpg" alt="" class="wp-image-411381" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Family-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><strong>Eric, Paula and their daughter, Zoe</strong></figcaption></figure>
 </div>
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity">
 
 
 
@@ -566,7 +558,7 @@
 
 
 <ul class="wp-block-list">
-<li><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FlJyk_o3y38k&amp;amp;data=05%7C02%7CHames.Marty%40mayo.edu%7Cffc4777a0eaf40e9295708de7981435f%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C639081793251782597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=DAdUh6PbNW%2FMfoYnJVCz8%2FzmA1cOf60wFDGVFtjdYi0%3D&amp;amp;reserved=0" id="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FlJyk_o3y38k&amp;amp;data=05%7C02%7CHames.Marty%40mayo.edu%7Cffc4777a0eaf40e9295708de7981435f%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C639081793251782597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=DAdUh6PbNW%2FMfoYnJVCz8%2FzmA1cOf60wFDGVFtjdYi0%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">Eric and Paula Minnesota with a special message to Mayo Clinic</a></li>
+<li><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FlJyk_o3y38k&amp;data=05%7C02%7CHames.Marty%40mayo.edu%7Cffc4777a0eaf40e9295708de7981435f%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C639081793251782597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=DAdUh6PbNW%2FMfoYnJVCz8%2FzmA1cOf60wFDGVFtjdYi0%3D&amp;reserved=0" id="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FlJyk_o3y38k&amp;data=05%7C02%7CHames.Marty%40mayo.edu%7Cffc4777a0eaf40e9295708de7981435f%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C639081793251782597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=DAdUh6PbNW%2FMfoYnJVCz8%2FzmA1cOf60wFDGVFtjdYi0%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">Eric and Paula Minnesota with a special message to Mayo Clinic</a></li>
 
 
 
@@ -591,29 +583,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Paula-and-Eric-Minnesota-marathon-finish-line.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Eric-Minnesota-Race-Day-16-x9-.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Colon Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Colon cancer prevention]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[colon cancer screening]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[colorectal cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Colorectal Cancer Awareness Month]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Colorectal Cancer Awareness Month. Colorectal cancer screening]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Marty Velasco Hames]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Arizona]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[precision medicine]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[screening for colon cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Social Sensations]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Colon Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Colon cancer prevention]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[colon cancer screening]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[colorectal cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Colorectal Cancer Awareness Month]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Colorectal Cancer Awareness Month. Colorectal cancer screening]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Marty Velasco Hames]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Arizona]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[precision medicine]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[screening for colon cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Tomorrow&amp;#8217;s Cure: The quiet beginnings of leukemia</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-the-quiet-beginnings-of-leukemia/</link>
+		<title>Tomorrow’s Cure: The quiet beginnings of leukemia</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-the-quiet-beginnings-of-leukemia/
 		
-		<dc:creator><![CDATA[jftmayo]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 13:26:13 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Susan Slager]]></category>
-		<category><![CDATA[leukemia]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[Tomorrow's Cure]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411321</guid>
+		<dc:creator><!--[CDATA[jftmayo]]--></dc:creator>
+		<pubdate>Wed, 04 Mar 2026 13:26:13 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Susan Slager]]--></category>
+		<category><!--[CDATA[leukemia]]--></category>
+		<category><!--[CDATA[podcast]]--></category>
+		<category><!--[CDATA[Tomorrow's Cure]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411321</guid>
 
-					<description><![CDATA[<p>This&amp;#160;episode&amp;#160;of "Tomorrow's Cure" explores how a type of blood cancer, chronic lymphocytic leukemia (CLL), is hard to detect early in its development and how monoclonal B-cell lymphocytosis (MBL) may be a precursor to CLL. The discussion focuses on how genetics can help shape the understanding of how likely people are to develop CLL from MBL [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-the-quiet-beginnings-of-leukemia/">Tomorrow&amp;#8217;s Cure: The quiet beginnings of leukemia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->This&nbsp;episode&nbsp;of "Tomorrow's Cure" explores how a type of blood cancer, chronic lymphocytic leukemia (CLL), is hard to detect early in its development and how monoclonal B-cell lymphocytosis (MBL) may be a precursor to CLL. The discussion focuses on how genetics can help shape the understanding of how likely people are to develop CLL from MBL […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-the-quiet-beginnings-of-leukemia/">Tomorrow’s Cure: The quiet beginnings of leukemia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-1024x576.jpg" alt="Tomorrow's Cure: The quiet beginnings of leukemia graphic" class="wp-image-411325" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-1024x576.jpg" alt="Tomorrow's Cure: The quiet beginnings of leukemia graphic" class="wp-image-411325" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -621,21 +613,21 @@
 
 
 
-<p>This&amp;nbsp;<a href="https://www.youtube.com/watch?v=Oy5ZuYj-ikk" target="_blank" rel="noreferrer noopener">episode</a>&amp;nbsp;of "Tomorrow's Cure" explores how a type of blood cancer, <a href="https://www.mayoclinic.org/diseases-conditions/chronic-lymphocytic-leukemia/symptoms-causes/syc-20352428" target="_blank" rel="noreferrer noopener">chronic lymphocytic leukemia (CLL)</a>, is hard to detect early in its development and how monoclonal B-cell lymphocytosis (MBL) may be a precursor to CLL. The discussion focuses on how genetics can help shape the understanding of how likely people are to develop CLL from MBL and the cell analysis that aids this discovery.&amp;nbsp;</p>
+<p>This&nbsp;<a href="https://www.youtube.com/watch?v=Oy5ZuYj-ikk" target="_blank" rel="noreferrer noopener">episode</a>&nbsp;of "Tomorrow's Cure" explores how a type of blood cancer, <a href="https://www.mayoclinic.org/diseases-conditions/chronic-lymphocytic-leukemia/symptoms-causes/syc-20352428" target="_blank" rel="noreferrer noopener">chronic lymphocytic leukemia (CLL)</a>, is hard to detect early in its development and how monoclonal B-cell lymphocytosis (MBL) may be a precursor to CLL. The discussion focuses on how genetics can help shape the understanding of how likely people are to develop CLL from MBL and the cell analysis that aids this discovery.&nbsp;</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;experts&amp;nbsp;<a href="https://www.mayoclinic.org/biographies/parikh-sameer-a-m-b-b-s/bio-20096684" target="_blank" rel="noreferrer noopener">Sameer Parikh, M.B.B.S,</a>&amp;nbsp;a hematologist, and&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/slager-susan-l-ph-d/bio-00083823" target="_blank" rel="noreferrer noopener">Susan Slager, Ph.D.</a>, a lymphoma researcher, join Gerald Marti, M.D., a hematologist for the National Institutes of Health as they talk about Dr. Marti's discovery and naming of MBL. Dr. Marti recounts how MBL was first identified in the late 1990s when researchers studied blood samples from people linked to hazardous waste Superfund site investigations, using lab methods to classify immune cells by their "fingerprints."&amp;nbsp;</p>
+<p><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;experts&nbsp;<a href="https://www.mayoclinic.org/biographies/parikh-sameer-a-m-b-b-s/bio-20096684" target="_blank" rel="noreferrer noopener">Sameer Parikh, M.B.B.S,</a>&nbsp;a hematologist, and&nbsp;<a href="https://www.mayo.edu/research/faculty/slager-susan-l-ph-d/bio-00083823" target="_blank" rel="noreferrer noopener">Susan Slager, Ph.D.</a>, a lymphoma researcher, join Gerald Marti, M.D., a hematologist for the National Institutes of Health as they talk about Dr. Marti's discovery and naming of MBL. Dr. Marti recounts how MBL was first identified in the late 1990s when researchers studied blood samples from people linked to hazardous waste Superfund site investigations, using lab methods to classify immune cells by their "fingerprints."&nbsp;</p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidOy5ZuYjikk"  title="The Quiet Beginnings of Leukemia | Tomorrow&amp;#039;s Cure Season 4 Episode 7" width="500" height="281" src="https://www.youtube.com/embed/Oy5ZuYj-ikk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidOy5ZuYjikk" title="The Quiet Beginnings of Leukemia | Tomorrow's Cure Season 4 Episode 7" width="500" height="281" src="https://www.youtube.com/embed/Oy5ZuYj-ikk?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
 
-<p>A routine blood test for complete blood count can reveal many things to healthcare professionals, but in this CLL and MBL research, the teams explain how flow cytometry, a more detailed way to "scan" individual blood cells to learn more, comes into play.&amp;nbsp;</p>
+<p>A routine blood test for complete blood count can reveal many things to healthcare professionals, but in this CLL and MBL research, the teams explain how flow cytometry, a more detailed way to "scan" individual blood cells to learn more, comes into play.&nbsp;</p>
 
 
 
@@ -643,55 +635,55 @@
 
 
 
-<p>The conversation highlights where the guests think things could go next, including AI tools that might speed up cell analysis or help detect subtle warning signs earlier, while Mayo Clinic programs like the&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/hematology/sections/overview/ovc-20201283" target="_blank" rel="noreferrer noopener">Hematology Precursor Clinic</a>— and the broader Precure initiative — work to identify risk earlier and, over time, develop better ways to counsel and support patients.</p>
+<p>The conversation highlights where the guests think things could go next, including AI tools that might speed up cell analysis or help detect subtle warning signs earlier, while Mayo Clinic programs like the&nbsp;<a href="https://www.mayoclinic.org/departments-centers/hematology/sections/overview/ovc-20201283" target="_blank" rel="noreferrer noopener">Hematology Precursor Clinic</a>— and the broader Precure initiative — work to identify risk earlier and, over time, develop better ways to counsel and support patients.</p>
 
 
 
-<p>The researchers talk with host&amp;nbsp;<a href="https://www.mprnews.org/people/cathy-wurzer" target="_blank" rel="noreferrer noopener">Cathy Wurzer</a>&amp;nbsp;about where genomic testing and treatments are headed and what it will take to achieve these insights at scale.</p>
+<p>The researchers talk with host&nbsp;<a href="https://www.mprnews.org/people/cathy-wurzer" target="_blank" rel="noreferrer noopener">Cathy Wurzer</a>&nbsp;about where genomic testing and treatments are headed and what it will take to achieve these insights at scale.</p>
 
 
 
-<p>Listen to the latest episode of "Tomorrow's Cure" wherever you get your podcasts. You can explore the full library of episodes and guests on the show's&amp;nbsp;<a href="https://www.youtube.com/playlist?list=PLSWR1ylG_6JZd7nHPPgpIaoq_iRHgXRoF" target="_blank" rel="noreferrer noopener">page</a>.</p>
+<p>Listen to the latest episode of "Tomorrow's Cure" wherever you get your podcasts. You can explore the full library of episodes and guests on the show's&nbsp;<a href="https://www.youtube.com/playlist?list=PLSWR1ylG_6JZd7nHPPgpIaoq_iRHgXRoF" target="_blank" rel="noreferrer noopener">page</a>.</p>
 
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-the-quiet-beginnings-of-leukemia/">Tomorrow&amp;#8217;s Cure: The quiet beginnings of leukemia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-the-quiet-beginnings-of-leukemia/">Tomorrow’s Cure: The quiet beginnings of leukemia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_Episode-Art_3000x3000.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/TC_CLL-Leukemia_YT-Thumbnail_1280x720.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Susan Slager]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[leukemia]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[podcast]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Tomorrow's Cure]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Susan Slager]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[leukemia]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[podcast]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Tomorrow's Cure]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic expert highlights improved survival in muscle-invasive bladder cancer and kidney cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-expert-highlights-improved-survival-in-muscle-invasive-bladder-cancer-and-kidney-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-expert-highlights-improved-survival-in-muscle-invasive-bladder-cancer-and-kidney-cancer/
 		
-		<dc:creator><![CDATA[brittanycordeiro]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 15:21:52 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[bladder cancer]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Yousef Zakharia]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411145</guid>
+		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
+		<pubdate>Fri, 27 Feb 2026 15:21:52 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[bladder cancer]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Yousef Zakharia]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411145</guid>
 
-					<description><![CDATA[<p>Dr. Yousef Zakharia discusses research expanding treatment options for patients with bladder and kidney cancers. Cancers of the reproductive and urinary organs, known as genitourinary cancers, affect millions of people worldwide each year. At Mayo Clinic, Yousef Zakharia, M.D., a medical oncologist and chair of the Genitourinary Disease Group at the Mayo Clinic Comprehensive Cancer [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Dr. Yousef Zakharia discusses research expanding treatment options for patients with bladder and kidney cancers. Cancers of the reproductive and urinary organs, known as genitourinary cancers, affect millions of people worldwide each year. At Mayo Clinic, Yousef Zakharia, M.D., a medical oncologist and chair of the Genitourinary Disease Group at the Mayo Clinic Comprehensive Cancer […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-expert-highlights-improved-survival-in-muscle-invasive-bladder-cancer-and-kidney-cancer/">Mayo Clinic expert highlights improved survival in muscle-invasive bladder cancer and kidney cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg" alt="An older male patient sits in through in a casual seating area by a large window." class="wp-image-411155" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-</div>
+										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg" alt="An older male patient sits in through in a casual seating area by a large window." class="wp-image-411155" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+
 
 
 <p><br><em>Dr. Yousef Zakharia discusses research expanding treatment options for patients with bladder and kidney cancers.</em><br><br>Cancers of the reproductive and urinary organs, known as genitourinary cancers, affect millions of people worldwide each year. At Mayo Clinic, <a href="https://www.mayoclinic.org/biographies/zakharia-yousef-m-d/bio-20572326" target="_blank" rel="noreferrer noopener">Yousef Zakharia, M.D.</a>, a medical oncologist and chair of the Genitourinary Disease Group at the <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>, leads clinical research aimed at improving outcomes for patients with <a href="https://www.mayoclinic.org/diseases-conditions/kidney-cancer/diagnosis-treatment/drc-20352669" target="_blank" rel="noreferrer noopener">kidney</a>, <a href="https://www.mayoclinic.org/diseases-conditions/bladder-cancer/symptoms-causes/syc-20356104" target="_blank" rel="noreferrer noopener">bladder</a> and <a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/diagnosis-treatment/drc-20353093" target="_blank" rel="noreferrer noopener">prostate</a> cancers.<br><br>In addition to overseeing the disease group, he serves as leader of the Experimental Therapeutics Program at Mayo Clinic in Arizona, where he develops and evaluates new treatments for patients whose cancer has progressed after standard therapies.</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-1024x1024.jpg" alt="Yousef Zakharia, M.D., a medical oncologist and chair of the Genitourinary Disease Group at the Mayo Clinic Comprehensive Cancer Center" class="wp-image-411152" style="width:256px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Yousef Zakharia</figcaption></figure>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-1024x1024.jpg" alt="Yousef Zakharia, M.D., a medical oncologist and chair of the Genitourinary Disease Group at the Mayo Clinic Comprehensive Cancer Center" class="wp-image-411152" style="width:256px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-1536x1536.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Yousef Zakharia</figcaption></figure>
 </div>
 
 
@@ -759,45 +751,45 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Zakharia-Yousef-M.D.-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[bladder cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Yousef Zakharia]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Research]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[bladder cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Yousef Zakharia]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Research]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Study&nbsp;identifies&nbsp;potential immunotherapy strategy for early-stage prostate cancer&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/study-identifies-potential-immunotherapy-strategy-for-early-stage-prostate-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/study-identifies-potential-immunotherapy-strategy-for-early-stage-prostate-cancer/
 		
-		<dc:creator><![CDATA[Jessica Saenz]]></dc:creator>
-		<pubDate>Thu, 26 Feb 2026 16:00:00 +0000</pubDate>
-				<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Arizona News Releases]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Casey Ager]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411012</guid>
+		<dc:creator><!--[CDATA[Jessica Saenz]]--></dc:creator>
+		<pubdate>Thu, 26 Feb 2026 16:00:00 +0000</pubdate>
+				<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Arizona News Releases]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Casey Ager]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411012</guid>
 
-					<description><![CDATA[<p>Researchers found that pairing a next-generation&nbsp;immunotherapy with standard hormone therapy before surgery may help overcome a long-standing barrier in early-stage&nbsp;prostate cancer&nbsp;treatment.&nbsp;</p>
+					<description><!--[CDATA[<p-->Researchers found that pairing a next-generation&nbsp;immunotherapy with standard hormone therapy before surgery may help overcome a long-standing barrier in early-stage&nbsp;prostate cancer&nbsp;treatment.&nbsp;<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/study-identifies-potential-immunotherapy-strategy-for-early-stage-prostate-cancer/">Study&nbsp;identifies&nbsp;potential immunotherapy strategy for early-stage prostate cancer&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-1024x576.jpg" alt="Image of man looking out into distance" class="wp-image-411014" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-1024x576.jpg" alt="Image of man looking out into distance" class="wp-image-411014" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p>PHOENIX&amp;nbsp;—&amp;nbsp;A multi-institutional&amp;nbsp;<a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cell.com%2Fcell-reports-medicine%2Ffulltext%2FS2666-3791(26)00055-8&amp;amp;data=05%7C02%7CSatake.Alison%40mayo.edu%7C159a4508e53f4406b84708de6eb64a48%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C639069926647235680%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=SZlYrU1MaS%2BIRDBxxTcjyIynVogiIr864AAh5PeuUwY%3D&amp;amp;reserved=0" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;led by&amp;nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;and published in Cell Reports Medicine reports that pairing a next-generation&amp;nbsp;immunotherapy with standard hormone therapy before surgery may help overcome a long-standing barrier in early-stage&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/symptoms-causes/syc-20353087" target="_blank" rel="noreferrer noopener">prostate cancer</a>&amp;nbsp;treatment.&amp;nbsp;</p>
+<p>PHOENIX&nbsp;—&nbsp;A multi-institutional&nbsp;<a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cell.com%2Fcell-reports-medicine%2Ffulltext%2FS2666-3791(26)00055-8&amp;data=05%7C02%7CSatake.Alison%40mayo.edu%7C159a4508e53f4406b84708de6eb64a48%7Ca25fff9c3f634fb29a8ad9bdd0321f9a%7C0%7C0%7C639069926647235680%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=SZlYrU1MaS%2BIRDBxxTcjyIynVogiIr864AAh5PeuUwY%3D&amp;reserved=0" target="_blank" rel="noreferrer noopener">study</a>&nbsp;led by&nbsp;<a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;and published in Cell Reports Medicine reports that pairing a next-generation&nbsp;immunotherapy with standard hormone therapy before surgery may help overcome a long-standing barrier in early-stage&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/prostate-cancer/symptoms-causes/syc-20353087" target="_blank" rel="noreferrer noopener">prostate cancer</a>&nbsp;treatment.&nbsp;</p>
 
 
 
-<p>Immunotherapy has been&amp;nbsp;generally ineffective&amp;nbsp;for prostate cancer&amp;nbsp;because the tumors are considered immunologically&amp;nbsp;"cold,"&amp;nbsp;meaning they do not attract enough&amp;nbsp;immune cells to mount a strong&amp;nbsp;attack.&amp;nbsp;Hormone therapy&amp;nbsp;commonly used&amp;nbsp;for prostate cancer, called&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/hormone-therapy-for-prostate-cancer/about/pac-20384737" target="_blank" rel="noreferrer noopener">androgen deprivation therapy</a>&amp;nbsp;(ADT), can temporarily make tumors more responsive by drawing immune cells into&amp;nbsp;the cancer. But that benefit is short-lived: the treatment also increases levels of&amp;nbsp;<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/regulatory-t-cell" target="_blank" rel="noreferrer noopener">regulatory T cells</a>&amp;nbsp;(Tregs),&amp;nbsp;which act as brakes on the immune system and blunt its anti-cancer effects.&amp;nbsp;&amp;nbsp;</p>
+<p>Immunotherapy has been&nbsp;generally ineffective&nbsp;for prostate cancer&nbsp;because the tumors are considered immunologically&nbsp;"cold,"&nbsp;meaning they do not attract enough&nbsp;immune cells to mount a strong&nbsp;attack.&nbsp;Hormone therapy&nbsp;commonly used&nbsp;for prostate cancer, called&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/hormone-therapy-for-prostate-cancer/about/pac-20384737" target="_blank" rel="noreferrer noopener">androgen deprivation therapy</a>&nbsp;(ADT), can temporarily make tumors more responsive by drawing immune cells into&nbsp;the cancer. But that benefit is short-lived: the treatment also increases levels of&nbsp;<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/regulatory-t-cell" target="_blank" rel="noreferrer noopener">regulatory T cells</a>&nbsp;(Tregs),&nbsp;which act as brakes on the immune system and blunt its anti-cancer effects.&nbsp;&nbsp;</p>
 
 
 
-<p>In&amp;nbsp;the first-in-human, early-phase randomized trial, researchers&amp;nbsp;tested whether adding a next-generation immunotherapy to hormone therapy before surgery could counteract&amp;nbsp;that&amp;nbsp;immune-suppression.&amp;nbsp;The combination reduced&amp;nbsp;Treg&amp;nbsp;levels inside prostate tumors. Patients whose tumors showed the greatest reductions were more likely to remain cancer-free during follow-up.&amp;nbsp;</p>
+<p>In&nbsp;the first-in-human, early-phase randomized trial, researchers&nbsp;tested whether adding a next-generation immunotherapy to hormone therapy before surgery could counteract&nbsp;that&nbsp;immune-suppression.&nbsp;The combination reduced&nbsp;Treg&nbsp;levels inside prostate tumors. Patients whose tumors showed the greatest reductions were more likely to remain cancer-free during follow-up.&nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-819x1024.jpg" alt="Photo of Dr. Casey Ager" class="wp-image-411015" style="aspect-ratio:0.7999761911847861;width:208px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Casey Ager, Ph.D.</figcaption></figure>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-819x1024.jpg" alt="Photo of Dr. Casey Ager" class="wp-image-411015" style="aspect-ratio:0.7999761911847861;width:208px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Ager-Casey-R._30233437_20230201-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Casey Ager, Ph.D.</figcaption></figure>
 </div>
 
 
@@ -805,7 +797,7 @@
 
 
 
-<p>ADT&amp;nbsp;starves cancer cells of male hormones like testosterone, which they use as fuel.&amp;nbsp;Desirable immune effects of ADT are&amp;nbsp;cut short by&amp;nbsp;Tregs, which&amp;nbsp;normally&amp;nbsp;keep the immune system from overreacting to substances and attacking the body. In the case of prostate cancer, Dr. Ager says they limit immunotherapy effectiveness.&amp;nbsp;</p>
+<p>ADT&nbsp;starves cancer cells of male hormones like testosterone, which they use as fuel.&nbsp;Desirable immune effects of ADT are&nbsp;cut short by&nbsp;Tregs, which&nbsp;normally&nbsp;keep the immune system from overreacting to substances and attacking the body. In the case of prostate cancer, Dr. Ager says they limit immunotherapy effectiveness.&nbsp;</p>
 
 
 
@@ -813,15 +805,15 @@
 
 
 
-<p>The study, which was designed to evaluate safety and biological effects, enrolled 24 men with high-risk, localized prostate cancer and found that adding the investigational Fc-enhanced anti-CTLA-4 antibody BMS-986218 to hormone therapy significantly reduced&amp;nbsp;Tregs&amp;nbsp;inside tumors compared with hormone therapy alone.&amp;nbsp;</p>
+<p>The study, which was designed to evaluate safety and biological effects, enrolled 24 men with high-risk, localized prostate cancer and found that adding the investigational Fc-enhanced anti-CTLA-4 antibody BMS-986218 to hormone therapy significantly reduced&nbsp;Tregs&nbsp;inside tumors compared with hormone therapy alone.&nbsp;</p>
 
 
 
-<p>"Selective&amp;nbsp;Treg&amp;nbsp;depletion in&amp;nbsp;tumors&amp;nbsp;has been a&amp;nbsp;long-sought&amp;nbsp;goal&amp;nbsp;of the&amp;nbsp;oncology&amp;nbsp;field for&amp;nbsp;some time.&amp;nbsp;We had the opportunity to test a drug&amp;nbsp;that's&amp;nbsp;been engineered to better deplete&amp;nbsp;Tregs&amp;nbsp;than the drugs we previously had. It targets CTLA-4, which is highly expressed on&amp;nbsp;Tregs, particularly within tumors," says Dr. Ager.&amp;nbsp;</p>
+<p>"Selective&nbsp;Treg&nbsp;depletion in&nbsp;tumors&nbsp;has been a&nbsp;long-sought&nbsp;goal&nbsp;of the&nbsp;oncology&nbsp;field for&nbsp;some time.&nbsp;We had the opportunity to test a drug&nbsp;that's&nbsp;been engineered to better deplete&nbsp;Tregs&nbsp;than the drugs we previously had. It targets CTLA-4, which is highly expressed on&nbsp;Tregs, particularly within tumors," says Dr. Ager.&nbsp;</p>
 
 
 
-<p>The findings provide the first clinical evidence that an engineered anti-CTLA-4 therapy can deplete regulatory T cells within prostate tumors.&amp;nbsp;</p>
+<p>The findings provide the first clinical evidence that an engineered anti-CTLA-4 therapy can deplete regulatory T cells within prostate tumors.&nbsp;</p>
 
 
 
@@ -829,27 +821,27 @@
 
 
 
-<p>"These findings&amp;nbsp;establish the clinical feasibility of immunotherapy in&amp;nbsp;early-stage prostate cancer, and&amp;nbsp;they&amp;nbsp;provide an invaluable dataset from which to&amp;nbsp;develop&amp;nbsp;and deploy&amp;nbsp;new,&amp;nbsp;evidence-based immunotherapy&amp;nbsp;approaches&amp;nbsp;in these patients,"&amp;nbsp;says&amp;nbsp;Dr. Ager.&amp;nbsp;</p>
+<p>"These findings&nbsp;establish the clinical feasibility of immunotherapy in&nbsp;early-stage prostate cancer, and&nbsp;they&nbsp;provide an invaluable dataset from which to&nbsp;develop&nbsp;and deploy&nbsp;new,&nbsp;evidence-based immunotherapy&nbsp;approaches&nbsp;in these patients,"&nbsp;says&nbsp;Dr. Ager.&nbsp;</p>
 
 
 
-<figure class="wp-block-pullquote" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--40);padding-right:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0;font-size:24px"><blockquote><p>"If we can make a difference in this early setting, we may be able to prevent patients from progressing to metastatic disease, where treatment becomes&amp;nbsp;less effective,&amp;nbsp;more intensive&amp;nbsp;and can significantly affect quality of life."</p><cite>Casey Ager, Ph.D.</cite></blockquote></figure>
+<figure class="wp-block-pullquote" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--40);padding-right:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0;font-size:24px"><blockquote><p>"If we can make a difference in this early setting, we may be able to prevent patients from progressing to metastatic disease, where treatment becomes&nbsp;less effective,&nbsp;more intensive&nbsp;and can significantly affect quality of life."</p><cite>Casey Ager, Ph.D.</cite></blockquote></figure>
 
 
 
-<p>For a complete list of authors, disclosures and funding, review the&amp;nbsp;<a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00055-8" target="_blank" rel="noreferrer noopener">study</a>.&amp;nbsp;</p>
+<p>For a complete list of authors, disclosures and funding, review the&nbsp;<a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00055-8" target="_blank" rel="noreferrer noopener">study</a>.&nbsp;</p>
 
 
 
-<p>###&amp;nbsp;</p>
+<p>###&nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong>&amp;nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion,&amp;nbsp;expertise&amp;nbsp;and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for&amp;nbsp;additional&amp;nbsp;Mayo Clinic news.&amp;nbsp;&amp;nbsp;</p>
+<p><strong>About Mayo Clinic</strong>&nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion,&nbsp;expertise&nbsp;and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for&nbsp;additional&nbsp;Mayo Clinic news.&nbsp;&nbsp;</p>
 
 
 
-<p><strong>Media contact:</strong>&amp;nbsp;</p>
+<p><strong>Media contact:</strong>&nbsp;</p>
 
 
 
@@ -863,33 +855,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/GettyImages-1684148972-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Casey Ager]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Casey Ager]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;#038;A:&nbsp;What do I need to know about lung cancer?&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-i-need-to-know-about-lung-cancer/</link>
+		<title>Mayo Clinic Q&amp;A:&nbsp;What do I need to know about lung cancer?&nbsp;</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-i-need-to-know-about-lung-cancer/
 		
-		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 13:42:56 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
-		<category><![CDATA[Rochester]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Luis Tapias Vargas]]></category>
-		<category><![CDATA[Lung Cancer]]></category>
-		<category><![CDATA[Surgery]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410288</guid>
+		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
+		<pubdate>Wed, 25 Feb 2026 13:42:56 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
+		<category><!--[CDATA[Rochester]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Luis Tapias Vargas]]--></category>
+		<category><!--[CDATA[Lung Cancer]]--></category>
+		<category><!--[CDATA[Surgery]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410288</guid>
 
-					<description><![CDATA[<p>DEAR MAYO CLINIC:&nbsp;As a nonsmoker lung cancer&nbsp;hasn't&nbsp;been a concern of mine, but I recently heard it can affect people who have never smoked. If someone is concerned about lung cancer, what symptoms should they watch for, how is it diagnosed,&nbsp;and what treatment options are available today?&nbsp; ANSWER:&nbsp;It&nbsp;can be surprising to learn that&nbsp;lung cancer&nbsp;can&nbsp;develop&nbsp;in&nbsp;people who have [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-i-need-to-know-about-lung-cancer/">Mayo Clinic Q&amp;amp;A:&nbsp;What do I need to know about lung cancer?&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;As a nonsmoker lung cancer&nbsp;hasn't&nbsp;been a concern of mine, but I recently heard it can affect people who have never smoked. If someone is concerned about lung cancer, what symptoms should they watch for, how is it diagnosed,&nbsp;and what treatment options are available today?&nbsp; ANSWER:&nbsp;It&nbsp;can be surprising to learn that&nbsp;lung cancer&nbsp;can&nbsp;develop&nbsp;in&nbsp;people who have […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-i-need-to-know-about-lung-cancer/">Mayo Clinic Q&amp;A:&nbsp;What do I need to know about lung cancer?&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p></p>
+										<content:encoded><!--[CDATA[
+<p--><p></p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="5200" height="2925" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1.jpg" alt="an older white woman, coughing, grimacing and looking unwell" class="wp-image-266501" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1.jpg 5200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 5200px) 100vw, 5200px" /></figure>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="5200" height="2925" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1.jpg" alt="an older white woman, coughing, grimacing and looking unwell" class="wp-image-266501" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1.jpg 5200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 5200px) 100vw, 5200px"></figure>
 </div>
 
 
@@ -905,46 +897,46 @@
 
 
 
-<p>One&amp;nbsp;of the&amp;nbsp;challenges&amp;nbsp;with lung cancer is that it often&amp;nbsp;doesn't&amp;nbsp;cause symptoms&amp;nbsp;in its&amp;nbsp;early stages. When symptoms do&amp;nbsp;appear, the&amp;nbsp;disease is often&amp;nbsp;more advanced, which is why&amp;nbsp;early detection is&amp;nbsp;so important.&amp;nbsp;Currently, people between the ages of 50 and 80&amp;nbsp;with a significant smoking history&amp;nbsp;may&amp;nbsp;qualify for&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/lung-cancer-screening/about/pac-20385024" target="_blank" rel="noreferrer noopener">lung cancer screening</a>,&amp;nbsp;but&amp;nbsp;you should pay attention to symptoms regardless of smoking status.&amp;nbsp;</p>
+<p>One&nbsp;of the&nbsp;challenges&nbsp;with lung cancer is that it often&nbsp;doesn't&nbsp;cause symptoms&nbsp;in its&nbsp;early stages. When symptoms do&nbsp;appear, the&nbsp;disease is often&nbsp;more advanced, which is why&nbsp;early detection is&nbsp;so important.&nbsp;Currently, people between the ages of 50 and 80&nbsp;with a significant smoking history&nbsp;may&nbsp;qualify for&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/lung-cancer-screening/about/pac-20385024" target="_blank" rel="noreferrer noopener">lung cancer screening</a>,&nbsp;but&nbsp;you should pay attention to symptoms regardless of smoking status.&nbsp;</p>
 
 
 
-<p>Symptoms that&amp;nbsp;occur&amp;nbsp;in or around the lungs include:&amp;nbsp;</p>
+<p>Symptoms that&nbsp;occur&nbsp;in or around the lungs include:&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>A new cough that&amp;nbsp;doesn’t&amp;nbsp;go away&amp;nbsp;</li>
+<li>A new cough that&nbsp;doesn’t&nbsp;go away&nbsp;</li>
 
 
 
-<li>Chest pain&amp;nbsp;</li>
+<li>Chest pain&nbsp;</li>
 
 
 
-<li>Coughing up blood,&amp;nbsp;even a small amount&amp;nbsp;</li>
+<li>Coughing up blood,&nbsp;even a small amount&nbsp;</li>
 
 
 
-<li>Hoarseness&amp;nbsp;</li>
+<li>Hoarseness&nbsp;</li>
 
 
 
-<li>Shortness of breath&amp;nbsp;</li>
+<li>Shortness of breath&nbsp;</li>
 
 
 
-<li>Wheezing&amp;nbsp;&amp;nbsp;</li>
+<li>Wheezing&nbsp;&nbsp;</li>
 </ul>
 
 
 
-<p>If lung cancer spreads to other parts of the body, symptoms can include:&amp;nbsp;</p>
+<p>If lung cancer spreads to other parts of the body, symptoms can include:&nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Bone pain&amp;nbsp;</li>
+<li>Bone pain&nbsp;</li>
 
 
 
@@ -952,113 +944,113 @@
 
 
 
-<li>Unplanned weight loss or loss of appetite&amp;nbsp;</li>
+<li>Unplanned weight loss or loss of appetite&nbsp;</li>
 
 
 
-<li>Swelling in the face or neck&amp;nbsp;&amp;nbsp;</li>
+<li>Swelling in the face or neck&nbsp;&nbsp;</li>
 </ul>
 
 
 
-<p>If&amp;nbsp;you&amp;nbsp;experience&amp;nbsp;new,&amp;nbsp;persistent&amp;nbsp;or worsening&amp;nbsp;symptoms,&amp;nbsp;make&amp;nbsp;an appointment with a healthcare professional&amp;nbsp;and ask&amp;nbsp;about&amp;nbsp;appropriate screening&amp;nbsp;or diagnostic options.&amp;nbsp;</p>
+<p>If&nbsp;you&nbsp;experience&nbsp;new,&nbsp;persistent&nbsp;or worsening&nbsp;symptoms,&nbsp;make&nbsp;an appointment with a healthcare professional&nbsp;and ask&nbsp;about&nbsp;appropriate screening&nbsp;or diagnostic options.&nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Advanced diagnostics&amp;nbsp;and staging</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Advanced diagnostics&nbsp;and staging</strong>&nbsp;</h2>
 
 
 
-<p><a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/diagnosis-treatment/drc-20374627" target="_blank" rel="noreferrer noopener">Diagnosis</a>&amp;nbsp;often starts with imaging. If someone has symptoms, a clinician may begin with a&amp;nbsp;chest&amp;nbsp;X-ray and then move to more detailed imaging,&amp;nbsp;such as a CT scan.&amp;nbsp;Sometimes lung cancer is discovered incidentally, when a CT scan performed for another reason reveals a&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/expert-answers/lung-nodules/faq-20058445" target="_blank" rel="noreferrer noopener">lung nodule</a>.&amp;nbsp;&amp;nbsp;</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/16-x-9-lung-CT-1.jpg" alt="a medical illustration of a CT lung cancer screening" class="wp-image-216709" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/16-x-9-lung-CT-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/16-x-9-lung-CT-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px" /></figure>
-</div>
-
-
-<p>The next step is&amp;nbsp;determining&amp;nbsp;whether&amp;nbsp;a&amp;nbsp;nodule is cancerous&amp;nbsp;or benign.&amp;nbsp;Doctors&amp;nbsp;often&amp;nbsp;can&amp;nbsp;use&amp;nbsp;information&amp;nbsp;from the&amp;nbsp;CT scan to&amp;nbsp;guide&amp;nbsp;next&amp;nbsp;steps. PET&amp;nbsp;scans&amp;nbsp;also&amp;nbsp;may&amp;nbsp;be&amp;nbsp;used to diagnose&amp;nbsp;lung cancer and&amp;nbsp;determine&amp;nbsp;whether it has spread.&amp;nbsp;</p>
-
-
-
-<p>In some cases, a&amp;nbsp;biopsy&amp;nbsp;is&amp;nbsp;needed&amp;nbsp;to&amp;nbsp;confirm&amp;nbsp;the presence of cancer cells.&amp;nbsp;Biopsies can be performed in several ways.&amp;nbsp;A&amp;nbsp;biopsy&amp;nbsp;guided by&amp;nbsp;CT&amp;nbsp;scan&amp;nbsp;uses a&amp;nbsp;needle inserted&amp;nbsp;through the chest wall to&amp;nbsp;collect&amp;nbsp;tissue, while a&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/bronchoscopy/about/pac-20384746" target="_blank" rel="noreferrer noopener">bronchoscopy</a>&amp;nbsp;involves guiding&amp;nbsp;a scope&amp;nbsp;through the mouth&amp;nbsp;and airways&amp;nbsp;to reach the suspicious spot&amp;nbsp;in&amp;nbsp;the lung.&amp;nbsp;&amp;nbsp;</p>
+<p><a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/diagnosis-treatment/drc-20374627" target="_blank" rel="noreferrer noopener">Diagnosis</a>&nbsp;often starts with imaging. If someone has symptoms, a clinician may begin with a&nbsp;chest&nbsp;X-ray and then move to more detailed imaging,&nbsp;such as a CT scan.&nbsp;Sometimes lung cancer is discovered incidentally, when a CT scan performed for another reason reveals a&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/expert-answers/lung-nodules/faq-20058445" target="_blank" rel="noreferrer noopener">lung nodule</a>.&nbsp;&nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-1024x576.jpg" alt="The screen on a robotic-assisted bronchoscopy machine shows a diagram of a patient's lungs." class="wp-image-410300" style="width:580px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1.jpg 1603w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Screen on a robotic-assisted bronchoscopy machine shows diagram of a patient's lungs.</figcaption></figure>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="550" height="309" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/16-x-9-lung-CT-1.jpg" alt="a medical illustration of a CT lung cancer screening" class="wp-image-216709" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/16-x-9-lung-CT-1.jpg 550w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/09/16-x-9-lung-CT-1-300x169.jpg 300w" sizes="auto, (max-width: 550px) 100vw, 550px"></figure>
 </div>
 
 
-<p>Advanced&amp;nbsp;tools have&amp;nbsp;improved accuracy. For example,&amp;nbsp;<a href="https://www.mayoclinic.org/medical-professionals/cancer/news/a-more-accurate-lung-nodule-biopsy-combining-shape-sensing-bronchoscopy-with-mobile-3d-imaging/mac-20553757" target="_blank" rel="noreferrer noopener">robotic bronchoscopy</a>&amp;nbsp;allows physicians to reach&amp;nbsp;nodules throughout the lungs&amp;nbsp;through the airways&amp;nbsp;and obtain&amp;nbsp;tissue samples more precisely. This&amp;nbsp;approach&amp;nbsp;also&amp;nbsp;can&amp;nbsp;enable&amp;nbsp;lymph node evaluation during the same procedure, which is&amp;nbsp;critical fordetermining&amp;nbsp;the stage of cancer and&amp;nbsp;developing&amp;nbsp;the&amp;nbsp;best&amp;nbsp;treatment plan.&amp;nbsp;&amp;nbsp;</p>
+<p>The next step is&nbsp;determining&nbsp;whether&nbsp;a&nbsp;nodule is cancerous&nbsp;or benign.&nbsp;Doctors&nbsp;often&nbsp;can&nbsp;use&nbsp;information&nbsp;from the&nbsp;CT scan to&nbsp;guide&nbsp;next&nbsp;steps. PET&nbsp;scans&nbsp;also&nbsp;may&nbsp;be&nbsp;used to diagnose&nbsp;lung cancer and&nbsp;determine&nbsp;whether it has spread.&nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Treatment approaches and tissue-sparing options</strong>&amp;nbsp;</h2>
+<p>In some cases, a&nbsp;biopsy&nbsp;is&nbsp;needed&nbsp;to&nbsp;confirm&nbsp;the presence of cancer cells.&nbsp;Biopsies can be performed in several ways.&nbsp;A&nbsp;biopsy&nbsp;guided by&nbsp;CT&nbsp;scan&nbsp;uses a&nbsp;needle inserted&nbsp;through the chest wall to&nbsp;collect&nbsp;tissue, while a&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/bronchoscopy/about/pac-20384746" target="_blank" rel="noreferrer noopener">bronchoscopy</a>&nbsp;involves guiding&nbsp;a scope&nbsp;through the mouth&nbsp;and airways&nbsp;to reach the suspicious spot&nbsp;in&nbsp;the lung.&nbsp;&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-1024x576.jpg" alt="The screen on a robotic-assisted bronchoscopy machine shows a diagram of a patient's lungs." class="wp-image-410300" style="width:580px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Robotic-bronchoscopy-16x9-1.jpg 1603w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Screen on a robotic-assisted bronchoscopy machine shows diagram of a patient's lungs.</figcaption></figure>
+</div>
+
+
+<p>Advanced&nbsp;tools have&nbsp;improved accuracy. For example,&nbsp;<a href="https://www.mayoclinic.org/medical-professionals/cancer/news/a-more-accurate-lung-nodule-biopsy-combining-shape-sensing-bronchoscopy-with-mobile-3d-imaging/mac-20553757" target="_blank" rel="noreferrer noopener">robotic bronchoscopy</a>&nbsp;allows physicians to reach&nbsp;nodules throughout the lungs&nbsp;through the airways&nbsp;and obtain&nbsp;tissue samples more precisely. This&nbsp;approach&nbsp;also&nbsp;can&nbsp;enable&nbsp;lymph node evaluation during the same procedure, which is&nbsp;critical fordetermining&nbsp;the stage of cancer and&nbsp;developing&nbsp;the&nbsp;best&nbsp;treatment plan.&nbsp;&nbsp;</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/tests-procedures/cancer-treatment/about/pac-20393344" target="_blank" rel="noreferrer noopener">Treatment</a>&amp;nbsp;for lung cancer&amp;nbsp;depends on&amp;nbsp;several factors, including the cancer type,&amp;nbsp;stage&amp;nbsp;and the person's overall health.&amp;nbsp;Options often include surgery, radiation therapy&amp;nbsp;(like&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/sbrt/pyc-20446794" target="_blank" rel="noreferrer noopener">stereotactic radiation therapy</a>), chemotherapy,&amp;nbsp;targeted therapy,&amp;nbsp;immunotherapy&amp;nbsp;or&amp;nbsp;a&amp;nbsp;combination.&amp;nbsp;&amp;nbsp;</p>
+<h2 class="wp-block-heading"><strong>Treatment approaches and tissue-sparing options</strong>&nbsp;</h2>
 
 
 
-<p>Surgery&amp;nbsp;is the&amp;nbsp;mainstay&amp;nbsp;for treating&amp;nbsp;early-stage lung cancer.&amp;nbsp;Increased screening has led to more cancer being detected earlier, allowing more patients to&amp;nbsp;benefit&amp;nbsp;from&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/minimally-invasive-surgery/about/pac-20384771" target="_blank" rel="noreferrer noopener">minimally invasive surgical&amp;nbsp;techniques</a>.&amp;nbsp;These procedures often use&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/video-assisted-thoracic-surgery/about/pac-20384922" target="_blank" rel="noreferrer noopener">video-assisted thoracic surgery (VATS)</a>&amp;nbsp;or&amp;nbsp;<a href="https://www.mayoclinic.org/tests-procedures/robotic-surgery/about/pac-20394974" target="_blank" rel="noreferrer noopener">robotic surgery</a>&amp;nbsp;approaches,and&amp;nbsp;they&amp;nbsp;may involve lung-sparing techniques, such as wedge resections and segmentectomies. Preserving as&amp;nbsp;much&amp;nbsp;healthy lung tissue as possible is important for long-term&amp;nbsp;breathing&amp;nbsp;function and lung health.&amp;nbsp;</p>
+<p><a href="https://www.mayoclinic.org/tests-procedures/cancer-treatment/about/pac-20393344" target="_blank" rel="noreferrer noopener">Treatment</a>&nbsp;for lung cancer&nbsp;depends on&nbsp;several factors, including the cancer type,&nbsp;stage&nbsp;and the person's overall health.&nbsp;Options often include surgery, radiation therapy&nbsp;(like&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/sbrt/pyc-20446794" target="_blank" rel="noreferrer noopener">stereotactic radiation therapy</a>), chemotherapy,&nbsp;targeted therapy,&nbsp;immunotherapy&nbsp;or&nbsp;a&nbsp;combination.&nbsp;&nbsp;</p>
 
 
 
-<p>Depending on the extent of the disease, surgeons may remove&amp;nbsp;part of a&amp;nbsp;lung, an entire lobe&amp;nbsp;or,&amp;nbsp;in&amp;nbsp;some&amp;nbsp;cases,&amp;nbsp;the whole lung.&amp;nbsp;During surgery,&amp;nbsp;teams&amp;nbsp;also&amp;nbsp;can&amp;nbsp;use rapid,&amp;nbsp;<a href="https://www.mayoclinic.org/medical-professionals/surgery/news/frozen-section-pathology-enhances-intraoperative-decision-making-in-early-stage-lung-cancer-surgery/mac-20591180" target="_blank" rel="noreferrer noopener">real-time pathology</a>&amp;nbsp;to&amp;nbsp;confirm&amp;nbsp;complete&amp;nbsp;tumor&amp;nbsp;removal and better understand the extent of the disease.&amp;nbsp;&amp;nbsp;</p>
+<p>Surgery&nbsp;is the&nbsp;mainstay&nbsp;for treating&nbsp;early-stage lung cancer.&nbsp;Increased screening has led to more cancer being detected earlier, allowing more patients to&nbsp;benefit&nbsp;from&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/minimally-invasive-surgery/about/pac-20384771" target="_blank" rel="noreferrer noopener">minimally invasive surgical&nbsp;techniques</a>.&nbsp;These procedures often use&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/video-assisted-thoracic-surgery/about/pac-20384922" target="_blank" rel="noreferrer noopener">video-assisted thoracic surgery (VATS)</a>&nbsp;or&nbsp;<a href="https://www.mayoclinic.org/tests-procedures/robotic-surgery/about/pac-20394974" target="_blank" rel="noreferrer noopener">robotic surgery</a>&nbsp;approaches,and&nbsp;they&nbsp;may involve lung-sparing techniques, such as wedge resections and segmentectomies. Preserving as&nbsp;much&nbsp;healthy lung tissue as possible is important for long-term&nbsp;breathing&nbsp;function and lung health.&nbsp;</p>
 
 
 
-<p>In certain situations, treatments such as chemotherapy, radiation&amp;nbsp;therapy&amp;nbsp;or&amp;nbsp;immunotherapy&amp;nbsp;may be&amp;nbsp;given&amp;nbsp;before surgery to shrink the&amp;nbsp;tumor.&amp;nbsp;This&amp;nbsp;approach, known as&amp;nbsp;neoadjuvant therapy,&amp;nbsp;can&amp;nbsp;make surgery possible&amp;nbsp;sometimes&amp;nbsp;for patients who were not previously candidates.&amp;nbsp;&amp;nbsp;</p>
+<p>Depending on the extent of the disease, surgeons may remove&nbsp;part of a&nbsp;lung, an entire lobe&nbsp;or,&nbsp;in&nbsp;some&nbsp;cases,&nbsp;the whole lung.&nbsp;During surgery,&nbsp;teams&nbsp;also&nbsp;can&nbsp;use rapid,&nbsp;<a href="https://www.mayoclinic.org/medical-professionals/surgery/news/frozen-section-pathology-enhances-intraoperative-decision-making-in-early-stage-lung-cancer-surgery/mac-20591180" target="_blank" rel="noreferrer noopener">real-time pathology</a>&nbsp;to&nbsp;confirm&nbsp;complete&nbsp;tumor&nbsp;removal and better understand the extent of the disease.&nbsp;&nbsp;</p>
 
 
 
-<p>Lung cancer care&amp;nbsp;often&amp;nbsp;involves&amp;nbsp;multiple&amp;nbsp;specialties.&amp;nbsp;Seeking care at an&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/lung-cancer-program/home/orc-20474481" target="_blank" rel="noreferrer noopener">experienced center</a>,&amp;nbsp;where multidisciplinary teams collaborate closely, helps ensure treatments are tailored to each patient's specific cancer and overall needs.&amp;nbsp;&amp;nbsp;</p>
+<p>In certain situations, treatments such as chemotherapy, radiation&nbsp;therapy&nbsp;or&nbsp;immunotherapy&nbsp;may be&nbsp;given&nbsp;before surgery to shrink the&nbsp;tumor.&nbsp;This&nbsp;approach, known as&nbsp;neoadjuvant therapy,&nbsp;can&nbsp;make surgery possible&nbsp;sometimes&nbsp;for patients who were not previously candidates.&nbsp;&nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Stay in tune with your body</strong>&amp;nbsp;</h2>
+<p>Lung cancer care&nbsp;often&nbsp;involves&nbsp;multiple&nbsp;specialties.&nbsp;Seeking care at an&nbsp;<a href="https://www.mayoclinic.org/departments-centers/lung-cancer-program/home/orc-20474481" target="_blank" rel="noreferrer noopener">experienced center</a>,&nbsp;where multidisciplinary teams collaborate closely, helps ensure treatments are tailored to each patient's specific cancer and overall needs.&nbsp;&nbsp;</p>
 
 
 
-<p>Even if&amp;nbsp;you've&amp;nbsp;never smoked,&amp;nbsp;awareness of lung cancer is important. Pay attention to symptoms that&amp;nbsp;don't&amp;nbsp;resolve, new or worsening breathing problems, or changes that feel unusual. Talk with a healthcare professional if something&amp;nbsp;doesn't&amp;nbsp;seem right.&amp;nbsp;&amp;nbsp;</p>
+<h2 class="wp-block-heading"><strong>Stay in tune with your body</strong>&nbsp;</h2>
 
 
 
-<p>If a lung nodule or other concern is found, today's advanced diagnostic tools&amp;nbsp;can help&amp;nbsp;determine&amp;nbsp;whether it is cancer and guide&amp;nbsp;next&amp;nbsp;steps. Treatment options&amp;nbsp;continue to&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-why-some-lung-tumors-respond-well-to-immunotherapy/" target="_blank" rel="noreferrer noopener">advance</a>, with many people&amp;nbsp;benefiting&amp;nbsp;from minimally invasive surgery and newer drug therapies that are&amp;nbsp;improving&amp;nbsp;outcomes and quality of life.&amp;nbsp;</p>
+<p>Even if&nbsp;you've&nbsp;never smoked,&nbsp;awareness of lung cancer is important. Pay attention to symptoms that&nbsp;don't&nbsp;resolve, new or worsening breathing problems, or changes that feel unusual. Talk with a healthcare professional if something&nbsp;doesn't&nbsp;seem right.&nbsp;&nbsp;</p>
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/tapias-vargas-luis-f-m-d/bio-20507233" target="_blank" rel="noreferrer noopener"><em>Luis Tapias Vargas, M.D.</em></a><em>, Thoracic Surgery, Mayo Clinic, Rochester, Minnesota</em>&amp;nbsp;</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-i-need-to-know-about-lung-cancer/">Mayo Clinic Q&amp;amp;A:&nbsp;What do I need to know about lung cancer?&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>If a lung nodule or other concern is found, today's advanced diagnostic tools&nbsp;can help&nbsp;determine&nbsp;whether it is cancer and guide&nbsp;next&nbsp;steps. Treatment options&nbsp;continue to&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-identify-why-some-lung-tumors-respond-well-to-immunotherapy/" target="_blank" rel="noreferrer noopener">advance</a>, with many people&nbsp;benefiting&nbsp;from minimally invasive surgery and newer drug therapies that are&nbsp;improving&nbsp;outcomes and quality of life.&nbsp;</p>
+
+
+
+<p><a href="https://www.mayoclinic.org/biographies/tapias-vargas-luis-f-m-d/bio-20507233" target="_blank" rel="noreferrer noopener"><em>Luis Tapias Vargas, M.D.</em></a><em>, Thoracic Surgery, Mayo Clinic, Rochester, Minnesota</em>&nbsp;</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-do-i-need-to-know-about-lung-cancer/">Mayo Clinic Q&amp;A:&nbsp;What do I need to know about lung cancer?&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/03/shutterstock_732055678_Fotor-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Luis Tapias Vargas]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Lung Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Surgery]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Luis Tapias Vargas]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Lung Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Surgery]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic study identifies mechanism behind immunotherapy resistance in lung cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-identifies-mechanism-behind-immunotherapy-resistance-in-lung-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-identifies-mechanism-behind-immunotherapy-resistance-in-lung-cancer/
 		
-		<dc:creator><![CDATA[rebeccabromelkamp]]></dc:creator>
-		<pubDate>Thu, 19 Feb 2026 14:32:27 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[Arizona News Releases]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Henrique Borges da Silva]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410851</guid>
+		<dc:creator><!--[CDATA[rebeccabromelkamp]]--></dc:creator>
+		<pubdate>Thu, 19 Feb 2026 14:32:27 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Arizona News Releases]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Henrique Borges da Silva]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410851</guid>
 
-					<description><![CDATA[<p>PHOENIX — Mayo Clinic researchers and collaborators have identified a previously unrecognized way lung tumors weaken the immune system, helping explain why many patients do not respond to immunotherapy and pointing to a potential new approach to make those treatments more effective. The study, published in Cancer Immunology Research, focuses on regulatory T cells, immune [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->PHOENIX — Mayo Clinic researchers and collaborators have identified a previously unrecognized way lung tumors weaken the immune system, helping explain why many patients do not respond to immunotherapy and pointing to a potential new approach to make those treatments more effective. The study, published in Cancer Immunology Research, focuses on regulatory T cells, immune […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-identifies-mechanism-behind-immunotherapy-resistance-in-lung-cancer/">Mayo Clinic study identifies mechanism behind immunotherapy resistance in lung cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-1024x683.jpg" alt="A woman with closed eyes tips her head back and takes a deep breath while standing outdoors." class="wp-image-410853" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-1024x683.jpg" alt="A woman with closed eyes tips her head back and takes a deep breath while standing outdoors." class="wp-image-410853" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty</figcaption>
 
 
 
@@ -1140,29 +1132,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Woman-taking-deep-breath-outdoors-GettyImages-1717121461_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Henrique Borges da Silva]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Henrique Borges da Silva]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>3 things to know about cancer and your heart: Mayo Clinic expert shares tips to reduce risk</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/3-things-to-know-about-cancer-and-your-heart-mayo-clinic-expert-shares-tips-to-reduce-risk/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/3-things-to-know-about-cancer-and-your-heart-mayo-clinic-expert-shares-tips-to-reduce-risk/
 		
-		<dc:creator><![CDATA[Sharon Theimer]]></dc:creator>
-		<pubDate>Wed, 18 Feb 2026 14:05:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Joerg Herrmann]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410203</guid>
+		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
+		<pubdate>Wed, 18 Feb 2026 14:05:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Joerg Herrmann]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410203</guid>
 
-					<description><![CDATA[<p>February is Heart Month ROCHESTER, Minn. — As cancer therapies improve and increasingly achieve cures or recurring periods of remission, preventing and managing damage to organs from cancer treatment has become a top concern. That includes injury to the heart, says Joerg Herrmann, M.D., a cardiologist and the founder and director of the Cardio-Oncology Clinic [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->February is Heart Month ROCHESTER, Minn. — As cancer therapies improve and increasingly achieve cures or recurring periods of remission, preventing and managing damage to organs from cancer treatment has become a top concern. That includes injury to the heart, says Joerg Herrmann, M.D., a cardiologist and the founder and director of the Cardio-Oncology Clinic […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/3-things-to-know-about-cancer-and-your-heart-mayo-clinic-expert-shares-tips-to-reduce-risk/">3 things to know about cancer and your heart: Mayo Clinic expert shares tips to reduce risk</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg" alt="" class="wp-image-410122" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Physical activity is  important to reduce heart damage risk during cancer treatment, help prevent cancer recurrence and improve cardiovascular outcomes.</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg" alt="" class="wp-image-410122" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Physical activity is  important to reduce heart damage risk during cancer treatment, help prevent cancer recurrence and improve cardiovascular outcomes.</figcaption>
 
 
 
@@ -1202,7 +1194,7 @@
 
 
 
-<p>Cancer and heart disease can actually be risk factors <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000001303?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed" target="_blank" rel="noreferrer noopener">for each other</a>.</p>
+<p>Cancer and heart disease can actually be risk factors <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000001303?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed" target="_blank" rel="noreferrer noopener">for each other</a>.</p>
 
 
 
@@ -1231,7 +1223,7 @@
 
 
 
-<li>Use techniques to shield healthy tissue during <a href="https://www.mayoclinic.org/tests-procedures/radiation-therapy/care-at-mayo-clinic/pcc-20385164" target="_blank" rel="noreferrer noopener">radiation therapy</a>, such as body positioning and breath-holding to provide greater separation between the tumor and the heart.&amp;nbsp;</li>
+<li>Use techniques to shield healthy tissue during <a href="https://www.mayoclinic.org/tests-procedures/radiation-therapy/care-at-mayo-clinic/pcc-20385164" target="_blank" rel="noreferrer noopener">radiation therapy</a>, such as body positioning and breath-holding to provide greater separation between the tumor and the heart.&nbsp;</li>
 </ul>
 
 
@@ -1290,6 +1282,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/1x1-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Joerg Herrmann]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Joerg Herrmann]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
