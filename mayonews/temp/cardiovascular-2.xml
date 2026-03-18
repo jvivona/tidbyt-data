@@ -1,38 +1,46 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Cardiovascular - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/cardiovascular-2/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/cardiovascular-2/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Tue, 17 Mar 2026 12:36:10 +0000</lastbuilddate>
+	<lastBuildDate>Tue, 17 Mar 2026 12:36:10 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
 	<item>
 		<title>Mayo Clinic remembers Dr. Amir Lerman, visionary cardiovascular researcher</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-dr-amir-lerman-visionary-cardiovascular-researcher/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-dr-amir-lerman-visionary-cardiovascular-researcher/</link>
 		
-		<dc:creator><!--[CDATA[Julie Vera]]--></dc:creator>
-		<pubdate>Tue, 17 Mar 2026 12:23:20 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Amir Lerman]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411671</guid>
+		<dc:creator><![CDATA[Julie Vera]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 12:23:20 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Amir Lerman]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411671</guid>
 
-					<description><!--[CDATA[<p-->Amir Lerman, M.D., a cardiovascular physician-scientist, mentor, research leader and active Mayo Clinic staff member, passed away Feb. 23 at age 69. During his nearly 40 years at Mayo Clinic, he became one of the world’s foremost authorities on microvascular function and cardiovascular disease. Dr. Lerman earned his doctor of science degree and M.D. in […]<p></p>
+					<description><![CDATA[<p>Amir Lerman, M.D., a cardiovascular physician-scientist, mentor, research leader and active Mayo Clinic staff member, passed away Feb. 23 at age 69. During his nearly 40 years at Mayo Clinic, he became one of the world’s foremost authorities on microvascular function and cardiovascular disease. Dr. Lerman earned his doctor of science degree and M.D. in [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-dr-amir-lerman-visionary-cardiovascular-researcher/">Mayo Clinic remembers Dr. Amir Lerman, visionary cardiovascular researcher</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg" alt="Headshot, Dr. Amir Lerman, cardiovascular" class="wp-image-411670" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1.jpg 1603w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Amir Lerman</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg" alt="Headshot, Dr. Amir Lerman, cardiovascular" class="wp-image-411670" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1.jpg 1603w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Amir Lerman</figcaption></figure>
 
 
 
@@ -88,32 +96,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Amir Lerman]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Amir Lerman]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>When caregivers become patients: A story of heart, healing and friendship</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/when-caregivers-become-patients-a-story-of-heart-healing-and-friendship/
+		<link>https://newsnetwork.mayoclinic.org/discussion/when-caregivers-become-patients-a-story-of-heart-healing-and-friendship/</link>
 		
-		<dc:creator><!--[CDATA[christinefleming]]--></dc:creator>
-		<pubdate>Tue, 17 Mar 2026 11:27:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Health System]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Fearghas O'Cochlain]]--></category>
-		<category><!--[CDATA[SCAD]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411759</guid>
+		<dc:creator><![CDATA[christinefleming]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 11:27:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Health System]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Fearghas O'Cochlain]]></category>
+		<category><![CDATA[SCAD]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411759</guid>
 
-					<description><!--[CDATA[<p-->Jenny Gottfredsen and Shar Ballentine were accustomed to being on the other side of the hospital bed.&nbsp; Both nurses at Mayo Clinic Health System in Eau Claire,&nbsp;Wisconsin,&nbsp;spent their days teaching, supporting colleagues and&nbsp;advocating for&nbsp;patients.&nbsp;Within days of one another, however, both began navigating serious diagnoses of their own — experiences that strengthened their friendship and deepened […]<p></p>
+					<description><![CDATA[<p>Jenny Gottfredsen and Shar Ballentine were accustomed to being on the other side of the hospital bed.&amp;#160; Both nurses at Mayo Clinic Health System in Eau Claire,&nbsp;Wisconsin,&nbsp;spent their days teaching, supporting colleagues and&nbsp;advocating for&nbsp;patients.&nbsp;Within days of one another, however, both began navigating serious diagnoses of their own — experiences that strengthened their friendship and deepened [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/when-caregivers-become-patients-a-story-of-heart-healing-and-friendship/">When caregivers become patients: A story of heart, healing and friendship</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-1024x576.jpg" alt="Jenny Gottfredsen (left), nurse educator, and Shar Ballentine, nurse, work side-by-side in cardiology, combining education and hands-on patient care to support people and families navigating heart health." class="wp-image-411766" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Jenny Gottfredsen (left), nurse educator, and Shar Ballentine, nurse, work side-by-side in cardiology, combining education and hands-on patient care to support people and families navigating heart health.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-1024x576.jpg" alt="Jenny Gottfredsen (left), nurse educator, and Shar Ballentine, nurse, work side-by-side in cardiology, combining education and hands-on patient care to support people and families navigating heart health." class="wp-image-411766" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Jenny Gottfredsen (left), nurse educator, and Shar Ballentine, nurse, work side-by-side in cardiology, combining education and hands-on patient care to support people and families navigating heart health.</figcaption></figure>
 
 
 
-<p>Jenny Gottfredsen and Shar Ballentine were accustomed to being on the other side of the hospital bed.&nbsp;</p>
+<p>Jenny Gottfredsen and Shar Ballentine were accustomed to being on the other side of the hospital bed.&amp;nbsp;</p>
 
 
 
@@ -121,7 +129,7 @@
 
 
 
-<h2 class="wp-block-heading"><strong>Careers&nbsp;grounded in&nbsp;care</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Careers&amp;nbsp;grounded in&amp;nbsp;care</strong>&amp;nbsp;</h2>
 
 
 
@@ -129,19 +137,19 @@
 
 
 
-<p>Shar brings decades of experience&nbsp;in healthcare.&nbsp;After more than 20 years in academic medicine in Madison,&nbsp;Wisconsin,&nbsp;she&nbsp;relocated&nbsp;to the Eau Claire area in 2021 to be closer to family and begin a new chapter.&nbsp;As a&nbsp;seasoned nurse and team&nbsp;lead, she quickly became a mentor to colleagues — including Jenny, who leaned on Shar's experience&nbsp;as she transitioned&nbsp;into an educator role.&nbsp;</p>
+<p>Shar brings decades of experience&amp;nbsp;in healthcare.&amp;nbsp;After more than 20 years in academic medicine in Madison,&amp;nbsp;Wisconsin,&amp;nbsp;she&amp;nbsp;relocated&amp;nbsp;to the Eau Claire area in 2021 to be closer to family and begin a new chapter.&amp;nbsp;As a&amp;nbsp;seasoned nurse and team&amp;nbsp;lead, she quickly became a mentor to colleagues — including Jenny, who leaned on Shar's experience&amp;nbsp;as she transitioned&amp;nbsp;into an educator role.&amp;nbsp;</p>
 
 
 
-<p>What began as&nbsp;a&nbsp;professional collaboration grew into a close friendship built on trust,&nbsp;humor&nbsp;and shared values.&nbsp;</p>
+<p>What began as&amp;nbsp;a&amp;nbsp;professional collaboration grew into a close friendship built on trust,&amp;nbsp;humor&amp;nbsp;and shared values.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>A&nbsp;conversation and an&nbsp;unexpected&nbsp;turn</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>A&amp;nbsp;conversation and an&amp;nbsp;unexpected&amp;nbsp;turn</strong>&amp;nbsp;</h2>
 
 
 
-<p>That trust mattered the day Shar asked Jenny to meet privately.&nbsp;</p>
+<p>That trust mattered the day Shar asked Jenny to meet privately.&amp;nbsp;</p>
 
 
 
@@ -149,7 +157,7 @@
 
 
 
-<p>Moments later, Jenny began experiencing chest pain and arm discomfort.&nbsp;She initially attributed it to anxiety and hesitated to seek care. Shar listened carefully. She asked questions, reflected Jenny's words back to her and stayed present — a familiar Mayo Clinic approach rooted in listening first.&nbsp;</p>
+<p>Moments later, Jenny began experiencing chest pain and arm discomfort.&amp;nbsp;She initially attributed it to anxiety and hesitated to seek care. Shar listened carefully. She asked questions, reflected Jenny's words back to her and stayed present — a familiar Mayo Clinic approach rooted in listening first.&amp;nbsp;</p>
 
 
 
@@ -157,19 +165,19 @@
 
 
 
-<p>"Unfortunately, it happens more often than we'd like. Especially in younger, otherwise healthy people, the first thought is usually,&nbsp;'It's a pulled muscle,'&nbsp;or&nbsp;'It's something else.'&nbsp;Heart disease&nbsp;isn't&nbsp;top of&nbsp;mind. Most people&nbsp;haven't&nbsp;experienced what cardiac pain feels like before —&nbsp;it's&nbsp;internal,&nbsp;unfamiliar&nbsp;and hard to describe — so they explain it away," Dr.&nbsp;O'Cochlain&nbsp;says.&nbsp;</p>
+<p>"Unfortunately, it happens more often than we'd like. Especially in younger, otherwise healthy people, the first thought is usually,&amp;nbsp;'It's a pulled muscle,'&amp;nbsp;or&amp;nbsp;'It's something else.'&amp;nbsp;Heart disease&amp;nbsp;isn't&amp;nbsp;top of&amp;nbsp;mind. Most people&amp;nbsp;haven't&amp;nbsp;experienced what cardiac pain feels like before —&amp;nbsp;it's&amp;nbsp;internal,&amp;nbsp;unfamiliar&amp;nbsp;and hard to describe — so they explain it away," Dr.&amp;nbsp;O'Cochlain&amp;nbsp;says.&amp;nbsp;</p>
 
 
 
-<p>"We do see women, in particular, attributing symptoms to anxiety. Anxiety is real, but it typically&nbsp;doesn't&nbsp;come out of nowhere and&nbsp;feel&nbsp;completely different from anything&nbsp;you've&nbsp;experienced before," he adds.&nbsp;"New, persistent or escalating symptoms — especially chest tightness, arm pain or shortness of breath — shouldn't be ignored. We would much rather see someone in the emergency department and reassure them than ask later why they&nbsp;didn't&nbsp;come in sooner. Care begins with the call."&nbsp;</p>
+<p>"We do see women, in particular, attributing symptoms to anxiety. Anxiety is real, but it typically&amp;nbsp;doesn't&amp;nbsp;come out of nowhere and&amp;nbsp;feel&amp;nbsp;completely different from anything&amp;nbsp;you've&amp;nbsp;experienced before," he adds.&amp;nbsp;"New, persistent or escalating symptoms — especially chest tightness, arm pain or shortness of breath — shouldn't be ignored. We would much rather see someone in the emergency department and reassure them than ask later why they&amp;nbsp;didn't&amp;nbsp;come in sooner. Care begins with the call."&amp;nbsp;</p>
 
 
 
-<p>Shar allowed Jenny time to process while gently encouraging her to get checked.&nbsp;Eventually, Jenny agreed to go to the emergency department —&nbsp;as long as&nbsp;Shar went with her.&nbsp;</p>
+<p>Shar allowed Jenny time to process while gently encouraging her to get checked.&amp;nbsp;Eventually, Jenny agreed to go to the emergency department —&amp;nbsp;as long as&amp;nbsp;Shar went with her.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>From&nbsp;educator to&nbsp;patient</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>From&amp;nbsp;educator to&amp;nbsp;patient</strong>&amp;nbsp;</h2>
 
 
 
@@ -181,15 +189,15 @@
 
 
 
-<p>The diagnosis was unexpected. Jenny was active, health-conscious&nbsp;and well-versed in cardiology — yet she suddenly found herself on the other side of a&nbsp;condition she had rarely&nbsp;encountered&nbsp;in&nbsp;nursing.&nbsp;</p>
+<p>The diagnosis was unexpected. Jenny was active, health-conscious&amp;nbsp;and well-versed in cardiology — yet she suddenly found herself on the other side of a&amp;nbsp;condition she had rarely&amp;nbsp;encountered&amp;nbsp;in&amp;nbsp;nursing.&amp;nbsp;</p>
 
 
 
-<p>That surprise is common, Dr.&nbsp;O'Cochlain&nbsp;says, and underscores an important message about awareness — even for people who appear otherwise healthy.&nbsp;</p>
+<p>That surprise is common, Dr.&amp;nbsp;O'Cochlain&amp;nbsp;says, and underscores an important message about awareness — even for people who appear otherwise healthy.&amp;nbsp;</p>
 
 
 
-<p>"Everyone needs to be aware of the signs and pay attention to their own body — especially what feels different," he says.&nbsp;"You're healthy until you're not. Even young, active women are not immune.&nbsp;It's&nbsp;not productive to live in constant fear of a diagnosis, but it is important to know&nbsp;what's&nbsp;normal for you. When symptoms come out of the blue or feel irregular, they deserve to be evaluated."&nbsp;</p>
+<p>"Everyone needs to be aware of the signs and pay attention to their own body — especially what feels different," he says.&amp;nbsp;"You're healthy until you're not. Even young, active women are not immune.&amp;nbsp;It's&amp;nbsp;not productive to live in constant fear of a diagnosis, but it is important to know&amp;nbsp;what's&amp;nbsp;normal for you. When symptoms come out of the blue or feel irregular, they deserve to be evaluated."&amp;nbsp;</p>
 
 
 
@@ -202,35 +210,35 @@
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-1024x576.jpg" alt="Shar Ballentine and Jenny Gottfredsen, both Mayo Clinic nurses,
- share a quiet moment, leaning on one another with the same compassion they offer their patients every day." class="wp-image-411769" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Mayo Clinic nurses Shar Ballentine and Jenny Gottfredsen share a quiet moment, leaning on one another with the same compassion they offer their patients every day.</figcaption></figure>
+ share a quiet moment, leaning on one another with the same compassion they offer their patients every day." class="wp-image-411769" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employee-support-each-other-Eau-Claire-16x9-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Mayo Clinic nurses Shar Ballentine and Jenny Gottfredsen share a quiet moment, leaning on one another with the same compassion they offer their patients every day.</figcaption></figure>
 </div>
 
 
-<h2 class="wp-block-heading"><strong>Parallel&nbsp;paths,&nbsp;shared&nbsp;support</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Parallel&amp;nbsp;paths,&amp;nbsp;shared&amp;nbsp;support</strong>&amp;nbsp;</h2>
 
 
 
-<p>As Jenny began cardiac rehabilitation, Shar showed up,&nbsp;standing nearby during workouts, offering encouragement and conversation. When Shar began chemotherapy, Jenny checked in before and after each treatment, understanding the mental weight of waiting for labs,&nbsp;results&nbsp;and side effects.&nbsp;</p>
+<p>As Jenny began cardiac rehabilitation, Shar showed up,&amp;nbsp;standing nearby during workouts, offering encouragement and conversation. When Shar began chemotherapy, Jenny checked in before and after each treatment, understanding the mental weight of waiting for labs,&amp;nbsp;results&amp;nbsp;and side effects.&amp;nbsp;</p>
 
 
 
-<p>Both were learning how to stay present in their own experiences while continuing to support one another.&nbsp;They made space for difficult days, talked&nbsp;openly&nbsp;and continued moving forward together.&nbsp;"This was chosen for us,"&nbsp;Shar says.&nbsp;"So&nbsp;we choose how we're going to make it through."&nbsp;</p>
+<p>Both were learning how to stay present in their own experiences while continuing to support one another.&amp;nbsp;They made space for difficult days, talked&amp;nbsp;openly&amp;nbsp;and continued moving forward together.&amp;nbsp;"This was chosen for us,"&amp;nbsp;Shar says.&amp;nbsp;"So&amp;nbsp;we choose how we're going to make it through."&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Living Mayo Clinic&nbsp;values&nbsp;together</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Living Mayo Clinic&amp;nbsp;values&amp;nbsp;together</strong>&amp;nbsp;</h2>
 
 
 
-<p>Throughout their care, Mayo Clinic's team-based approach was&nbsp;evident. Jenny&nbsp;benefited&nbsp;from close coordination between local cardiology teams and specialists&nbsp;at&nbsp;Mayo&nbsp;Clinic&nbsp;in Rochester, Minnesota.&nbsp;&nbsp;</p>
+<p>Throughout their care, Mayo Clinic's team-based approach was&amp;nbsp;evident. Jenny&amp;nbsp;benefited&amp;nbsp;from close coordination between local cardiology teams and specialists&amp;nbsp;at&amp;nbsp;Mayo&amp;nbsp;Clinic&amp;nbsp;in Rochester, Minnesota.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>That collaboration is intentional, Dr.&nbsp;O'Cochlain&nbsp;says, and especially important in complex cardiac events like SCAD.&nbsp;</p>
+<p>That collaboration is intentional, Dr.&amp;nbsp;O'Cochlain&amp;nbsp;says, and especially important in complex cardiac events like SCAD.&amp;nbsp;</p>
 
 
 
-<p>"The Mayo&nbsp;Model of&nbsp;Care is what we strive for every day," he says.&nbsp;"We work as a group to care for the patient in front of us, and that means having world experts readily available to one another. It allows us to&nbsp;leverage&nbsp;the best knowledge at the best time in the best way for the patient.&nbsp;</p>
+<p>"The Mayo&amp;nbsp;Model of&amp;nbsp;Care is what we strive for every day," he says.&amp;nbsp;"We work as a group to care for the patient in front of us, and that means having world experts readily available to one another. It allows us to&amp;nbsp;leverage&amp;nbsp;the best knowledge at the best time in the best way for the patient.&amp;nbsp;</p>
 
 
 
@@ -238,31 +246,31 @@
 
 
 
-<p>Shar's oncology care reflected careful attention to both treatment and quality of life.&nbsp;</p>
+<p>Shar's oncology care reflected careful attention to both treatment and quality of life.&amp;nbsp;</p>
 
 
 
-<p>Equally meaningful was how colleagues lived Mayo Clinic values in everyday moments — listening,&nbsp;advocating&nbsp;and showing up as people first.&nbsp;</p>
+<p>Equally meaningful was how colleagues lived Mayo Clinic values in everyday moments — listening,&amp;nbsp;advocating&amp;nbsp;and showing up as people first.&amp;nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Moving&nbsp;forward</strong>&nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Moving&amp;nbsp;forward</strong>&amp;nbsp;</h2>
 
 
 
-<p>Today, Jenny is feeling well and continuing&nbsp;follow-up care locally. She continues to share her story to raise awareness about SCAD and the importance of listening to symptoms, even when they&nbsp;don't&nbsp;seem to fit expectations.&nbsp;</p>
+<p>Today, Jenny is feeling well and continuing&amp;nbsp;follow-up care locally. She continues to share her story to raise awareness about SCAD and the importance of listening to symptoms, even when they&amp;nbsp;don't&amp;nbsp;seem to fit expectations.&amp;nbsp;</p>
 
 
 
-<p>Shar’s treatment continues, now transitioning to radiation and ongoing immune therapy, but so does her optimism and her friendship with Jenny. She encourages others to stay current on recommended screenings, especially mammograms.&nbsp;</p>
+<p>Shar’s treatment continues, now transitioning to radiation and ongoing immune therapy, but so does her optimism and her friendship with Jenny. She encourages others to stay current on recommended screenings, especially mammograms.&amp;nbsp;</p>
 
 
 
-<p>Their relationship, shaped by mentorship and strengthened through shared experience, reflects the power of connection in healing.&nbsp;</p>
+<p>Their relationship, shaped by mentorship and strengthened through shared experience, reflects the power of connection in healing.&amp;nbsp;</p>
 
 
 
-<p>They&nbsp;remain&nbsp;nurses and advocates,&nbsp;with a deeper understanding of what it means to be a patient and what it looks like when care begins with listening.&nbsp;</p>
+<p>They&amp;nbsp;remain&amp;nbsp;nurses and advocates,&amp;nbsp;with a deeper understanding of what it means to be a patient and what it looks like when care begins with listening.&amp;nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/when-caregivers-become-patients-a-story-of-heart-healing-and-friendship/">When caregivers become patients: A story of heart, healing and friendship</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -270,31 +278,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCAD-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Employees-support-each-other-SCARD-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Fearghas O'Cochlain]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Health System]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[SCAD]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Fearghas O'Cochlain]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic Health System]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[SCAD]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Study: 1 dose of non-prescribed Adderall raises blood pressure, heart rate in healthy young adults</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/study-1-dose-of-non-prescribed-adderall-raises-blood-pressure-heart-rate-in-healthy-young-adults/
+		<link>https://newsnetwork.mayoclinic.org/discussion/study-1-dose-of-non-prescribed-adderall-raises-blood-pressure-heart-rate-in-healthy-young-adults/</link>
 		
-		<dc:creator><!--[CDATA[Vincent Jacobbi]]--></dc:creator>
-		<pubdate>Mon, 02 Mar 2026 11:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Anna Svatikova]]--></category>
-		<category><!--[CDATA[Dr. Kiran Somers]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<category><!--[CDATA[News app]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411226</guid>
+		<dc:creator><![CDATA[Vincent Jacobbi]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Anna Svatikova]]></category>
+		<category><![CDATA[Dr. Kiran Somers]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<category><![CDATA[News app]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411226</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A single 25 mg dose of a combination of amphetamine-dextroamphetamine salts (Adderall) can have measurable cardiovascular effects in healthy young adults, a Mayo Clinic study found. Researchers, whose findings are published in Mayo Clinic Proceedings, aimed to better understand how the stimulant affects those who use it without a medical prescription. "The […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A single 25 mg dose of a combination of amphetamine-dextroamphetamine salts (Adderall) can have measurable cardiovascular effects in healthy young adults, a Mayo Clinic study found. Researchers, whose findings are published in Mayo Clinic Proceedings, aimed to better understand how the stimulant affects those who use it without a medical prescription. "The [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/study-1-dose-of-non-prescribed-adderall-raises-blood-pressure-heart-rate-in-healthy-young-adults/">Study: 1 dose of non-prescribed Adderall raises blood pressure, heart rate in healthy young adults</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="722" height="480" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/mss_00009614201.jpg" alt="pill bottle and pills spilled over electrocardiogram" class="wp-image-134664" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/mss_00009614201.jpg 722w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/mss_00009614201-300x199.jpg 300w" sizes="auto, (max-width: 722px) 100vw, 722px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="722" height="480" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/mss_00009614201.jpg" alt="pill bottle and pills spilled over electrocardiogram" class="wp-image-134664" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/mss_00009614201.jpg 722w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/mss_00009614201-300x199.jpg 300w" sizes="auto, (max-width: 722px) 100vw, 722px" /></figure>
 
 
 
@@ -338,7 +346,7 @@
 
 
 
-<p>###&nbsp;</p>
+<p>###&amp;nbsp;</p>
 
 
 
@@ -360,45 +368,45 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/pill-bottle-and-pills-spilled-over-electrocardiogram-1x1-square.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/05/mss_00009614201.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Anna Svatikova]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Kiran Somers]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News app]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Anna Svatikova]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Kiran Somers]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News app]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;A: Is my racing heart an arrhythmia?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-my-racing-heart-an-arrhythmia/
+		<title>Mayo Clinic Q&amp;#038;A: Is my racing heart an arrhythmia?</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-my-racing-heart-an-arrhythmia/</link>
 		
-		<dc:creator><!--[CDATA[pattymiller]]--></dc:creator>
-		<pubdate>Fri, 20 Feb 2026 14:23:20 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Health System]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[AfFib]]--></category>
-		<category><!--[CDATA[Arrhythmia]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Divya Korpu]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410134</guid>
+		<dc:creator><![CDATA[pattymiller]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 14:23:20 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Health System]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[AfFib]]></category>
+		<category><![CDATA[Arrhythmia]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Divya Korpu]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410134</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I've noticed that sometimes my heart races or skips a beat. What causes this? Is there treatment for it? ANSWER:&nbsp;What you're experiencing may be an abnormal heart rhythm, also known as an&nbsp;arrhythmia. Arrhythmias fall into two categories: too fast or too slow. A racing heart or a skipped beat typically falls into the […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-my-racing-heart-an-arrhythmia/">Mayo Clinic Q&amp;A: Is my racing heart an arrhythmia?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;I've noticed that sometimes my heart races or skips a beat. What causes this? Is there treatment for it? ANSWER:&amp;#160;What you're experiencing may be an abnormal heart rhythm, also known as an&amp;#160;arrhythmia. Arrhythmias fall into two categories: too fast or too slow. A racing heart or a skipped beat typically falls into the [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-my-racing-heart-an-arrhythmia/">Mayo Clinic Q&amp;amp;A: Is my racing heart an arrhythmia?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[<div class="wp-block-image"-->
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-1024x576.jpg" alt="a middle aged Asian woman sitting on a couch near a window with her hand on her chest, heart,  looking worried, sad, perhaps in pain, " class="wp-image-282966" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+										<content:encoded><![CDATA[<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-1024x576.jpg" alt="a middle aged Asian woman sitting on a couch near a window with her hand on her chest, heart,  looking worried, sad, perhaps in pain, " class="wp-image-282966" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+<p><strong>DEAR MAYO CLINIC:&amp;nbsp;</strong>I've noticed that sometimes my heart races or skips a beat. What causes this? Is there treatment for it?</p>
 
 
 
-<p><strong>DEAR MAYO CLINIC:&nbsp;</strong>I've noticed that sometimes my heart races or skips a beat. What causes this? Is there treatment for it?</p>
+<p><strong>ANSWER:&amp;nbsp;</strong>What you're experiencing may be an abnormal heart rhythm, also known as an&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/symptoms-causes/syc-20350668" target="_blank" rel="noreferrer noopener">arrhythmia</a>. Arrhythmias fall into two categories: too fast or too slow. A racing heart or a skipped beat typically falls into the "too fast" category. When an abnormal heartbeat interrupts the normal rhythm, you may feel palpitations — sensations that your heart is racing, fluttering, skipping a beat — or a sense of panic. Often these symptoms are more noticeable at night or when lying down.&amp;nbsp;</p>
 
 
 
-<p><strong>ANSWER:&nbsp;</strong>What you're experiencing may be an abnormal heart rhythm, also known as an&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/symptoms-causes/syc-20350668" target="_blank" rel="noreferrer noopener">arrhythmia</a>. Arrhythmias fall into two categories: too fast or too slow. A racing heart or a skipped beat typically falls into the "too fast" category. When an abnormal heartbeat interrupts the normal rhythm, you may feel palpitations — sensations that your heart is racing, fluttering, skipping a beat — or a sense of panic. Often these symptoms are more noticeable at night or when lying down.&nbsp;</p>
+<p>In younger people, typically those in their 20s to 50s, the heart may suddenly speed up from a normal rate to 180-200 beats per minute. This rapid heartbeat can cause lightheadedness, dizziness, anxiety or, in some cases, fainting.&amp;nbsp;</p>
 
 
 
-<p>In younger people, typically those in their 20s to 50s, the heart may suddenly speed up from a normal rate to 180-200 beats per minute. This rapid heartbeat can cause lightheadedness, dizziness, anxiety or, in some cases, fainting.&nbsp;</p>
-
-
-
-<p>Fast or skipped heartbeats can originate in either the upper or lower chambers of the heart. Those that begin in the top chamber are called premature atrial contractions (PACs), while those starting in the bottom chambers are&nbsp;<a href="http://premature%20ventricular%20contractions%20(PVCs)" target="_blank" rel="noreferrer noopener">premature ventricular contractions (PVCs)</a>. Although they can feel alarming, PACs and PVCs generally aren't dangerous or life-threatening. They don't cause heart attacks, strokes or increase the risk of death.&nbsp;</p>
+<p>Fast or skipped heartbeats can originate in either the upper or lower chambers of the heart. Those that begin in the top chamber are called premature atrial contractions (PACs), while those starting in the bottom chambers are&amp;nbsp;<a href="http://premature%20ventricular%20contractions%20(PVCs)" target="_blank" rel="noreferrer noopener">premature ventricular contractions (PVCs)</a>. Although they can feel alarming, PACs and PVCs generally aren't dangerous or life-threatening. They don't cause heart attacks, strokes or increase the risk of death.&amp;nbsp;</p>
 
 
 
@@ -444,11 +452,11 @@
 
 
 
-<p>PACs and PVCs are most common in younger people. For older adults, the most common fast rhythm is&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624" target="_blank" rel="noreferrer noopener">atrial fibrillation (AFib)</a>&nbsp;or atrial flutter. These are different types of heart rhythms which become increasingly common with age.</p>
+<p>PACs and PVCs are most common in younger people. For older adults, the most common fast rhythm is&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624" target="_blank" rel="noreferrer noopener">atrial fibrillation (AFib)</a>&amp;nbsp;or atrial flutter. These are different types of heart rhythms which become increasingly common with age.</p>
 
 
 
-<p><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-atrial-fibrillation/" target="_blank" rel="noreferrer noopener">AFib</a>&nbsp;can cause irregular heartbeat, palpitations, chest discomfort, lightheadedness, dizziness, fatigue and sometimes passing out. Some people have no symptoms, and the condition is discovered during routine care or procedures.</p>
+<p><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-what-is-atrial-fibrillation/" target="_blank" rel="noreferrer noopener">AFib</a>&amp;nbsp;can cause irregular heartbeat, palpitations, chest discomfort, lightheadedness, dizziness, fatigue and sometimes passing out. Some people have no symptoms, and the condition is discovered during routine care or procedures.</p>
 
 
 
@@ -478,11 +486,11 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/tests-procedures/atrial-fibrillation-ablation/about/pac-20384969" target="_blank" rel="noreferrer noopener">Ablation</a>&nbsp;for AFib is done under general anesthesia. It's a minimally invasive procedure in which doctors access the heart through the groin and target areas on the left side of the heart responsible for triggering or sustaining the abnormal rhythm. Traditionally, two types of energy — radiofrequency (heat) and cryoablation (cold) — have been used for ablation.&nbsp;</p>
+<p><a href="https://www.mayoclinic.org/tests-procedures/atrial-fibrillation-ablation/about/pac-20384969" target="_blank" rel="noreferrer noopener">Ablation</a>&amp;nbsp;for AFib is done under general anesthesia. It's a minimally invasive procedure in which doctors access the heart through the groin and target areas on the left side of the heart responsible for triggering or sustaining the abnormal rhythm. Traditionally, two types of energy — radiofrequency (heat) and cryoablation (cold) — have been used for ablation.&amp;nbsp;</p>
 
 
 
-<p>Most recently, a new, nonthermal option —&nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-offers-new-innovative-therapy-to-treat-atrial-fibrillation/" target="_blank" rel="noreferrer noopener">pulsed field ablation</a>&nbsp;— has been introduced. This energy source selectively targets heart muscle cells. This reduces the risk of serious or life-threatening damage to the surrounding structures, such as the esophagus and the phrenic nerve, which controls the diaphragm and breathing.</p>
+<p>Most recently, a new, nonthermal option —&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-offers-new-innovative-therapy-to-treat-atrial-fibrillation/" target="_blank" rel="noreferrer noopener">pulsed field ablation</a>&amp;nbsp;— has been introduced. This energy source selectively targets heart muscle cells. This reduces the risk of serious or life-threatening damage to the surrounding structures, such as the esophagus and the phrenic nerve, which controls the diaphragm and breathing.</p>
 
 
 
@@ -494,41 +502,41 @@
 
 
 
-<p>If you're experiencing a racing heart, noticing skipped beats or symptoms of an irregular heart rhythm, consult with your&nbsp;<a href="https://www.mayoclinic.org/departments-centers/heart-rhythm-clinic/overview/ovc-20442477" target="_blank" rel="noreferrer noopener">healthcare professional</a>&nbsp;or a cardiologist to determine whether further evaluation or treatment is needed.</p>
+<p>If you're experiencing a racing heart, noticing skipped beats or symptoms of an irregular heart rhythm, consult with your&amp;nbsp;<a href="https://www.mayoclinic.org/departments-centers/heart-rhythm-clinic/overview/ovc-20442477" target="_blank" rel="noreferrer noopener">healthcare professional</a>&amp;nbsp;or a cardiologist to determine whether further evaluation or treatment is needed.</p>
 
 
 
 <p><a href="https://www.mayoclinichealthsystem.org/providers/divya-korpu-mbbs" target="_blank" rel="noreferrer noopener"><em>Divya Korpu, M.B.B.S.</em></a><em>, Cardiovascular Medicine, Mayo Clinic Health System, Eau Claire, Wisconsin</em></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-my-racing-heart-an-arrhythmia/">Mayo Clinic Q&amp;A: Is my racing heart an arrhythmia?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-is-my-racing-heart-an-arrhythmia/">Mayo Clinic Q&amp;amp;A: Is my racing heart an arrhythmia?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/10/a-middle-aged-Asian-woman-sitting-on-a-couch-near-a-window-with-her-hand-on-her-chest-looking-worried-sad-perhaps-in-pain-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[AfFib]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arrhythmia]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Divya Korpu]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[AfFib]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arrhythmia]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Divya Korpu]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>3 things to know about cancer and your heart: Mayo Clinic expert shares tips to reduce risk</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/3-things-to-know-about-cancer-and-your-heart-mayo-clinic-expert-shares-tips-to-reduce-risk/
+		<link>https://newsnetwork.mayoclinic.org/discussion/3-things-to-know-about-cancer-and-your-heart-mayo-clinic-expert-shares-tips-to-reduce-risk/</link>
 		
-		<dc:creator><!--[CDATA[Sharon Theimer]]--></dc:creator>
-		<pubdate>Wed, 18 Feb 2026 14:05:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Joerg Herrmann]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410203</guid>
+		<dc:creator><![CDATA[Sharon Theimer]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2026 14:05:00 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Joerg Herrmann]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410203</guid>
 
-					<description><!--[CDATA[<p-->February is Heart Month ROCHESTER, Minn. — As cancer therapies improve and increasingly achieve cures or recurring periods of remission, preventing and managing damage to organs from cancer treatment has become a top concern. That includes injury to the heart, says Joerg Herrmann, M.D., a cardiologist and the founder and director of the Cardio-Oncology Clinic […]<p></p>
+					<description><![CDATA[<p>February is Heart Month ROCHESTER, Minn. — As cancer therapies improve and increasingly achieve cures or recurring periods of remission, preventing and managing damage to organs from cancer treatment has become a top concern. That includes injury to the heart, says Joerg Herrmann, M.D., a cardiologist and the founder and director of the Cardio-Oncology Clinic [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/3-things-to-know-about-cancer-and-your-heart-mayo-clinic-expert-shares-tips-to-reduce-risk/">3 things to know about cancer and your heart: Mayo Clinic expert shares tips to reduce risk</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg" alt="" class="wp-image-410122" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Physical activity is  important to reduce heart damage risk during cancer treatment, help prevent cancer recurrence and improve cardiovascular outcomes.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg" alt="" class="wp-image-410122" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Physical activity is  important to reduce heart damage risk during cancer treatment, help prevent cancer recurrence and improve cardiovascular outcomes.</figcaption></figure>
 
 
 
@@ -568,7 +576,7 @@
 
 
 
-<p>Cancer and heart disease can actually be risk factors <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000001303?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed" target="_blank" rel="noreferrer noopener">for each other</a>.</p>
+<p>Cancer and heart disease can actually be risk factors <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000001303?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed" target="_blank" rel="noreferrer noopener">for each other</a>.</p>
 
 
 
@@ -597,7 +605,7 @@
 
 
 
-<li>Use techniques to shield healthy tissue during <a href="https://www.mayoclinic.org/tests-procedures/radiation-therapy/care-at-mayo-clinic/pcc-20385164" target="_blank" rel="noreferrer noopener">radiation therapy</a>, such as body positioning and breath-holding to provide greater separation between the tumor and the heart.&nbsp;</li>
+<li>Use techniques to shield healthy tissue during <a href="https://www.mayoclinic.org/tests-procedures/radiation-therapy/care-at-mayo-clinic/pcc-20385164" target="_blank" rel="noreferrer noopener">radiation therapy</a>, such as body positioning and breath-holding to provide greater separation between the tumor and the heart.&amp;nbsp;</li>
 </ul>
 
 
@@ -656,35 +664,35 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/1x1-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/16x9-feat-image-for-Dr-Herrmann-cancer-and-heart-expert-alert-GettyImages-1441981570.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Joerg Herrmann]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Joerg Herrmann]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;A: What is pulsed field ablation?</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-is-pulsed-field-ablation/
+		<title>Mayo Clinic Q&amp;#038;A: What is pulsed field ablation?</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-is-pulsed-field-ablation/</link>
 		
-		<dc:creator><!--[CDATA[pattymiller]]--></dc:creator>
-		<pubdate>Mon, 16 Feb 2026 13:35:18 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[atrial fibrilation]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Christopher DeSimone]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410309</guid>
+		<dc:creator><![CDATA[pattymiller]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 13:35:18 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[atrial fibrilation]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Christopher DeSimone]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410309</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC:&nbsp;I have atrial fibrillation, and I've heard there's a new kind of ablation that could relieve my symptoms. Can you tell me about it? ANSWER:&nbsp;If you have atrial fibrillation (AFib), you're not alone — it's the most common heart rhythm disorder, affecting millions around the world. AFib occurs when the heart's upper chambers […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-is-pulsed-field-ablation/">Mayo Clinic Q&amp;A: What is pulsed field ablation?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC:&amp;#160;I have atrial fibrillation, and I've heard there's a new kind of ablation that could relieve my symptoms. Can you tell me about it? ANSWER:&amp;#160;If you have atrial fibrillation (AFib), you're not alone — it's the most common heart rhythm disorder, affecting millions around the world. AFib occurs when the heart's upper chambers [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-is-pulsed-field-ablation/">Mayo Clinic Q&amp;amp;A: What is pulsed field ablation?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-16-x-9.jpg" alt="photograph of middle-aged Black woman in pink shirt, outside, smiling" class="wp-image-366395" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-16-x-9.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 760px) 100vw, 760px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="760" height="428" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-16-x-9.jpg" alt="photograph of middle-aged Black woman in pink shirt, outside, smiling" class="wp-image-366395" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-16-x-9.jpg 760w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-16-x-9-300x169.jpg 300w" sizes="auto, (max-width: 760px) 100vw, 760px" /></figure>
 
 
 
-<p><strong>DEAR MAYO CLINIC:</strong>&nbsp;I have <a href="https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624" target="_blank" rel="noreferrer noopener">atrial fibrillation</a>, and I've heard there's a new kind of <a href="https://www.mayoclinic.org/tests-procedures/atrial-fibrillation-ablation/about/pac-20384969" target="_blank" rel="noreferrer noopener">ablation</a> that could relieve my symptoms. Can you tell me about it?</p>
+<p><strong>DEAR MAYO CLINIC:</strong>&amp;nbsp;I have <a href="https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624" target="_blank" rel="noreferrer noopener">atrial fibrillation</a>, and I've heard there's a new kind of <a href="https://www.mayoclinic.org/tests-procedures/atrial-fibrillation-ablation/about/pac-20384969" target="_blank" rel="noreferrer noopener">ablation</a> that could relieve my symptoms. Can you tell me about it?</p>
 
 
 
-<p><strong>ANSWER:</strong>&nbsp;If you have atrial fibrillation (AFib), you're not alone — it's the most common heart rhythm disorder, affecting millions around the world. AFib occurs when the heart's upper chambers beat in a fast, irregular way, which can cause symptoms such as palpitations, fatigue, shortness of breath, dizziness and/or reduced ability to exercise.&nbsp;</p>
+<p><strong>ANSWER:</strong>&amp;nbsp;If you have atrial fibrillation (AFib), you're not alone — it's the most common heart rhythm disorder, affecting millions around the world. AFib occurs when the heart's upper chambers beat in a fast, irregular way, which can cause symptoms such as palpitations, fatigue, shortness of breath, dizziness and/or reduced ability to exercise.&amp;nbsp;</p>
 
 
 
@@ -692,19 +700,19 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-1024x576.jpg" alt="Atrial fibrillation can lead to the development of blood clots in the heart that can break off, travel to and block arteries supplying the brain with blood. This can result in the most common type of stroke (ischemic stroke" class="wp-image-398081" style="width:667px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1.jpg 1886w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-1024x576.jpg" alt="Atrial fibrillation can lead to the development of blood clots in the heart that can break off, travel to and block arteries supplying the brain with blood. This can result in the most common type of stroke (ischemic stroke" class="wp-image-398081" style="width:667px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2022/12/Atrial-fibrillation-Mayo-16-x-9-1.jpg 1886w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 
 
-<p>Catheter ablation is a minimally invasive procedure used to treat abnormal heart rhythms such as AFib. During the procedure, doctors guide thin, flexible tubes, called catheters, through blood vessels in the groin up to and into your heart.&nbsp;&nbsp;</p>
+<p>Catheter ablation is a minimally invasive procedure used to treat abnormal heart rhythms such as AFib. During the procedure, doctors guide thin, flexible tubes, called catheters, through blood vessels in the groin up to and into your heart.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>For AFib ablation, patients are put under anesthesia, and depending on the complexity of the rhythms, the procedure can take several hours. The treatment usually focuses on ablation of muscle tissue that can generate electrical signals and trigger AFib.&nbsp;</p>
+<p>For AFib ablation, patients are put under anesthesia, and depending on the complexity of the rhythms, the procedure can take several hours. The treatment usually focuses on ablation of muscle tissue that can generate electrical signals and trigger AFib.&amp;nbsp;</p>
 
 
 
-<p>This muscle tissue is found inside the pulmonary veins, which drain blood from the lungs into the left upper chamber of the heart, called the left atrium. By destroying these small areas of the heart, the main electrical impulses that set off AFib are isolated from the rest of the heart.&nbsp;&nbsp;</p>
+<p>This muscle tissue is found inside the pulmonary veins, which drain blood from the lungs into the left upper chamber of the heart, called the left atrium. By destroying these small areas of the heart, the main electrical impulses that set off AFib are isolated from the rest of the heart.&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -717,11 +725,11 @@
 
 
 <ul class="wp-block-list">
-<li>Heat (radiofrequency ablation).&nbsp;</li>
+<li>Heat (radiofrequency ablation).&amp;nbsp;</li>
 
 
 
-<li>Extreme cold (cryoablation).&nbsp;</li>
+<li>Extreme cold (cryoablation).&amp;nbsp;</li>
 </ul>
 
 
@@ -735,11 +743,11 @@
 
 
 
-<li>Narrowing of the pulmonary veins.&nbsp;</li>
+<li>Narrowing of the pulmonary veins.&amp;nbsp;</li>
 
 
 
-<li>Damage to the phrenic nerve, which controls the diaphragm and breathing.&nbsp;</li>
+<li>Damage to the phrenic nerve, which controls the diaphragm and breathing.&amp;nbsp;</li>
 </ul>
 
 
@@ -748,11 +756,11 @@
 
 
 
-<p>The electrical pulses delivered by the catheter create tiny openings in the membranes of heart muscle cells — a process called electroporation. These openings cause targeted cells to stop functioning, eventually die and become scar tissue.&nbsp;</p>
+<p>The electrical pulses delivered by the catheter create tiny openings in the membranes of heart muscle cells — a process called electroporation. These openings cause targeted cells to stop functioning, eventually die and become scar tissue.&amp;nbsp;</p>
 
 
 
-<p>One of the biggest advantages of PFA is the ability to selectively disable cardiac cells.&nbsp;</p>
+<p>One of the biggest advantages of PFA is the ability to selectively disable cardiac cells.&amp;nbsp;</p>
 
 
 
@@ -760,7 +768,7 @@
 
 
 
-<p>So far, studies suggest that PFA is as effective as traditional ablation techniques. About 65% to 75% of patients remain free of AFib one year after a single procedure without antiarrhythmic medications. Success rates may improve with repeated procedures, continued medication use and other factors.&nbsp;</p>
+<p>So far, studies suggest that PFA is as effective as traditional ablation techniques. About 65% to 75% of patients remain free of AFib one year after a single procedure without antiarrhythmic medications. Success rates may improve with repeated procedures, continued medication use and other factors.&amp;nbsp;</p>
 
 
 
@@ -780,45 +788,45 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/desimone-christopher-v-m-d-ph-d/bio-20209047" target="_blank" rel="noreferrer noopener"><em>Christopher DeSimone, M.D., Ph.D.,</em></a><em>&nbsp;Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota</em><br><br></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-is-pulsed-field-ablation/">Mayo Clinic Q&amp;A: What is pulsed field ablation?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p><a href="https://www.mayoclinic.org/biographies/desimone-christopher-v-m-d-ph-d/bio-20209047" target="_blank" rel="noreferrer noopener"><em>Christopher DeSimone, M.D., Ph.D.,</em></a><em>&amp;nbsp;Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota</em><br><br></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-is-pulsed-field-ablation/">Mayo Clinic Q&amp;amp;A: What is pulsed field ablation?</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-1-x-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2023/05/Adult-Black-Woman-Smiling-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[atrial fibrilation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Christopher DeSimone]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[atrial fibrilation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Christopher DeSimone]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Bariatric surgery paves way for heart transplant after end-stage heart failure&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/bariatric-surgery-paves-way-for-heart-transplant-after-end-stage-heart-failure/
+		<link>https://newsnetwork.mayoclinic.org/discussion/bariatric-surgery-paves-way-for-heart-transplant-after-end-stage-heart-failure/</link>
 		
-		<dc:creator><!--[CDATA[ltedesco7]]--></dc:creator>
-		<pubdate>Fri, 13 Feb 2026 14:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cardiology Patient Stories]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Sharing Mayo Clinic]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[Transplant Patient Stories]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[bariatric surgery]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Adrian da Silva de Abreu]]--></category>
-		<category><!--[CDATA[Dr. Omar Ghanem]]--></category>
-		<category><!--[CDATA[Dr. Philip spencer]]--></category>
-		<category><!--[CDATA[Heart Transplant]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410374</guid>
+		<dc:creator><![CDATA[ltedesco7]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Cardiology Patient Stories]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Sharing Mayo Clinic]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[Transplant Patient Stories]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[bariatric surgery]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Adrian da Silva de Abreu]]></category>
+		<category><![CDATA[Dr. Omar Ghanem]]></category>
+		<category><![CDATA[Dr. Philip spencer]]></category>
+		<category><![CDATA[Heart Transplant]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410374</guid>
 
-					<description><!--[CDATA[<p-->With a failing heart and little hope of healing, Alan Lewis sunk into depression, gaining 330 pounds. After he came to Mayo, bariatric surgery enabled the transplant he'd sought for so many years. &nbsp;&nbsp; Alan Lewis was lying on the floor — the only position that eased his discomfort — watching a football game. When […]<p></p>
+					<description><![CDATA[<p>With a failing heart and little hope of healing, Alan Lewis sunk into depression, gaining 330 pounds. After he came to Mayo, bariatric surgery enabled the transplant he'd sought for so many years. &amp;#160;&amp;#160; Alan Lewis was lying on the floor — the only position that eased his discomfort — watching a football game. When [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/bariatric-surgery-paves-way-for-heart-transplant-after-end-stage-heart-failure/">Bariatric surgery paves way for heart transplant after end-stage heart failure&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--1024x576.jpg" alt="Alan and VIda Lewis,. Alan, heart transplant patient who underwent bariatric surgery " class="wp-image-410482" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--1024x576.jpg" alt="Alan and VIda Lewis,. Alan, heart transplant patient who underwent bariatric surgery " class="wp-image-410482" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9--2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p><strong><em>With a failing heart and little hope of healing, Alan Lewis sunk into depression, gaining 330 pounds. After he came to Mayo, bariatric surgery enabled the transplant he'd sought for so many years. &nbsp;&nbsp;</em></strong></p>
+<p><strong><em>With a failing heart and little hope of healing, Alan Lewis sunk into depression, gaining 330 pounds. After he came to Mayo, bariatric surgery enabled the transplant he'd sought for so many years. &amp;nbsp;&amp;nbsp;</em></strong></p>
 
 
 
@@ -830,7 +838,7 @@
 
 
 
-<p>With heart failure sapping his strength, Alan had begun to doubt there was an "other side" to his condition. At age 41, he'd already lived a decade with a poorly pumping heart, diagnosed during a hospital visit for a broken ankle.&nbsp;</p>
+<p>With heart failure sapping his strength, Alan had begun to doubt there was an "other side" to his condition. At age 41, he'd already lived a decade with a poorly pumping heart, diagnosed during a hospital visit for a broken ankle.&amp;nbsp;</p>
 
 
 
@@ -898,7 +906,7 @@
 
 
 <div class="wp-block-image is-style-center-align-caption">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-1024x576.jpg" alt="Alan and Vida Lewis" class="wp-image-410481" style="width:644px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Throughout Alan's journey, his wife, Vida, advocated for his care.</figcaption></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-1024x576.jpg" alt="Alan and Vida Lewis" class="wp-image-410481" style="width:644px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16-x9-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Throughout Alan's journey, his wife, Vida, advocated for his care.</figcaption></figure>
 </div>
 
 
@@ -906,7 +914,7 @@
 
 
 
-<p>The team said Alan needed to adopt a healthier lifestyle before a second bariatric surgery — a necessary step toward transplant. So Vida signed them up for a gym. She walked next to him on a treadmill, urging him on. She made healthy meals. She pored over the lengthy care plan, still shocked that they had one. &nbsp;&nbsp;&nbsp;</p>
+<p>The team said Alan needed to adopt a healthier lifestyle before a second bariatric surgery — a necessary step toward transplant. So Vida signed them up for a gym. She walked next to him on a treadmill, urging him on. She made healthy meals. She pored over the lengthy care plan, still shocked that they had one. &amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -938,11 +946,11 @@
 
 
 
-<p>Dr. Ghanem knew the already complex surgery would be even more challenging in Alan's case. &nbsp;</p>
+<p>Dr. Ghanem knew the already complex surgery would be even more challenging in Alan's case. &amp;nbsp;</p>
 
 
 
-<p>With his heart essentially outside his body, monitoring — and maintaining — his vitals would be difficult. Blood thinners to prevent clots in his LVAD would also elevate his risk of bleeding. Then there was the looming infection, suppressed but still active, only curable if the LVAD was removed. &nbsp;</p>
+<p>With his heart essentially outside his body, monitoring — and maintaining — his vitals would be difficult. Blood thinners to prevent clots in his LVAD would also elevate his risk of bleeding. Then there was the looming infection, suppressed but still active, only curable if the LVAD was removed. &amp;nbsp;</p>
 
 
 
@@ -958,11 +966,11 @@
 
 
 
-<p>Despite its complexity, the revision was a success, and so was the recovery.&nbsp;Within months, Alan lost enough weight to qualify for a heart. He was finally on the transplant list. &nbsp;</p>
+<p>Despite its complexity, the revision was a success, and so was the recovery.&amp;nbsp;Within months, Alan lost enough weight to qualify for a heart. He was finally on the transplant list. &amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-1024x1024.jpg" alt="Alan Lewis before and after image" class="wp-image-410516" style="width:353px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1.jpg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-1024x1024.jpg" alt="Alan Lewis before and after image" class="wp-image-410516" style="width:353px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Lifestyle-changes-1-x-1.jpg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 
 
@@ -986,7 +994,7 @@
 
 
 
-<p>"We had an infection to deal with. And there was scarring within his chest," says Dr. Spencer. "But, once the LVAD was out, it went very well." &nbsp;</p>
+<p>"We had an infection to deal with. And there was scarring within his chest," says Dr. Spencer. "But, once the LVAD was out, it went very well." &amp;nbsp;</p>
 
 
 
@@ -1014,7 +1022,7 @@
 
 
 
-<p>For Alan, that means showing his gratitude for everyone who supported him — his family, his close friends and, of course, Vida. Every day, he focuses on caring for her in every way possible. &nbsp;</p>
+<p>For Alan, that means showing his gratitude for everyone who supported him — his family, his close friends and, of course, Vida. Every day, he focuses on caring for her in every way possible. &amp;nbsp;</p>
 
 
 
@@ -1052,28 +1060,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-VIda-Lewis-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Alan-and-Vida-Lewis-16x9-.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[bariatric surgery]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Adrian da Silva de Abreu]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Omar Ghanem]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Philip spencer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Transplant]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[bariatric surgery]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Adrian da Silva de Abreu]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Omar Ghanem]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Philip spencer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Transplant]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic Q&amp;A: What to know about pregnancy and heart valve disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-pregnancy-and-heart-valve-disease/
+		<title>Mayo Clinic Q&amp;#038;A: What to know about pregnancy and heart valve disease</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-pregnancy-and-heart-valve-disease/</link>
 		
-		<dc:creator><!--[CDATA[pattymiller]]--></dc:creator>
-		<pubdate>Fri, 06 Feb 2026 11:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Q & A]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Katie Young]]--></category>
-		<category><!--[CDATA[Heart Disease]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410047</guid>
+		<dc:creator><![CDATA[pattymiller]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Mayo Clinic Q &amp; A]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Katie Young]]></category>
+		<category><![CDATA[Heart Disease]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410047</guid>
 
-					<description><!--[CDATA[<p-->DEAR MAYO CLINIC: I found out during my pregnancy that I have mitral valve stenosis. How common is valve disease, and what should I know about it? ANSWER: Valve disease affects how blood moves through the heart, and pregnancy is often a time when symptoms first appear or become more noticeable. Learning about a heart […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-pregnancy-and-heart-valve-disease/">Mayo Clinic Q&amp;A: What to know about pregnancy and heart valve disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>DEAR MAYO CLINIC: I found out during my pregnancy that I have mitral valve stenosis. How common is valve disease, and what should I know about it? ANSWER: Valve disease affects how blood moves through the heart, and pregnancy is often a time when symptoms first appear or become more noticeable. Learning about a heart [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-pregnancy-and-heart-valve-disease/">Mayo Clinic Q&amp;amp;A: What to know about pregnancy and heart valve disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="942" height="529" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1.jpg" alt="a pregnant woman with her partner, husband, father of baby placing his hands on her stomach in the shape of a heart" class="wp-image-262202" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1.jpg 942w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1-768x431.jpg 768w" sizes="auto, (max-width: 942px) 100vw, 942px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="942" height="529" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1.jpg" alt="a pregnant woman with her partner, husband, father of baby placing his hands on her stomach in the shape of a heart" class="wp-image-262202" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1.jpg 942w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1-300x168.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/02/a-pregnant-woman-with-her-partner-husband-father-of-baby-placing-his-hands-on-her-stomach-in-the-shape-of-a-heart-16x9-1-768x431.jpg 768w" sizes="auto, (max-width: 942px) 100vw, 942px" /></figure>
 
 
 
@@ -1226,38 +1234,38 @@
 
 
 <p><a href="https://www.mayoclinic.org/biographies/young-katie-a-m-d/bio-20533690"><em>Katie Young, M.D.</em></a><em>, Cardio-Obstetrics, Mayo Clinic, Rochester, Minnesota</em></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-pregnancy-and-heart-valve-disease/">Mayo Clinic Q&amp;A: What to know about pregnancy and heart valve disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-what-to-know-about-pregnancy-and-heart-valve-disease/">Mayo Clinic Q&amp;amp;A: What to know about pregnancy and heart valve disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/a-pregnant-young-woman-standing-by-a-crib-holding-her-belly-and-smiling-1X1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/09/a-pregnant-young-woman-standing-by-a-crib-holding-her-belly-and-smiling-16X9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Katie Young]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Disease]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Katie Young]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Disease]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Heart disease in women: 4 things a Mayo Clinic cardiologist wants you to know</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/video-heart-disease-in-women-4-things-a-mayo-clinic-cardiologist-wants-you-to-know/
+		<link>https://newsnetwork.mayoclinic.org/discussion/video-heart-disease-in-women-4-things-a-mayo-clinic-cardiologist-wants-you-to-know/</link>
 		
-		<dc:creator><!--[CDATA[Deb Balzer]]--></dc:creator>
-		<pubdate>Wed, 04 Feb 2026 14:21:16 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Cycle]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Sharonne N. Hayes]]--></category>
-		<category><!--[CDATA[Heart Disease]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=409612</guid>
+		<dc:creator><![CDATA[Deb Balzer]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 14:21:16 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Cycle]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Sharonne N. Hayes]]></category>
+		<category><![CDATA[Heart Disease]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=409612</guid>
 
-					<description><!--[CDATA[<p-->Editor's note: February is American Heart Month Heart disease affects women differently than men, and understanding those differences can be lifesaving. Dr.&nbsp;Sharonne N. Hayes, a Mayo Clinic cardiologist and leading expert in the field of women’s heart health, says progress in research, treatment and prevention has accelerated but women still need better information. Here are […]<p></p>
+					<description><![CDATA[<p>Editor's note: February is American Heart Month Heart disease affects women differently than men, and understanding those differences can be lifesaving. Dr.&amp;#160;Sharonne N. Hayes, a Mayo Clinic cardiologist and leading expert in the field of women’s heart health, says progress in research, treatment and prevention has accelerated but women still need better information. Here are [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/video-heart-disease-in-women-4-things-a-mayo-clinic-cardiologist-wants-you-to-know/">(VIDEO) Heart disease in women: 4 things a Mayo Clinic cardiologist wants you to know</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<p--><p></p>
+										<content:encoded><![CDATA[
+<p></p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-1024x576.jpg" alt="a diverse group of happy, smiling women standing near a brick wall for a background" class="wp-image-225072" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-1024x576.jpg" alt="a diverse group of happy, smiling women standing near a brick wall for a background" class="wp-image-225072" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1265,7 +1273,7 @@
 
 
 
-<p><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">Heart disease</a> affects women differently than men, and understanding those differences can be lifesaving. <a href="https://www.mayoclinic.org/biographies/hayes-sharonne-n-m-d/bio-20053532?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr.&nbsp;Sharonne N. Hayes</a>, a Mayo Clinic cardiologist and leading expert in the field of women’s heart health, says progress in research, treatment and prevention has accelerated but women still need better information.</p>
+<p><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">Heart disease</a> affects women differently than men, and understanding those differences can be lifesaving. <a href="https://www.mayoclinic.org/biographies/hayes-sharonne-n-m-d/bio-20053532?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=content&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Dr.&amp;nbsp;Sharonne N. Hayes</a>, a Mayo Clinic cardiologist and leading expert in the field of women’s heart health, says progress in research, treatment and prevention has accelerated but women still need better information.</p>
 
 
 
@@ -1278,12 +1286,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidoac3VY87WaM" title="Heart disease in women: Four things a Mayo Clinic cardiologist wants you to know" width="500" height="281" src="https://www.youtube.com/embed/oac3VY87WaM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidoac3VY87WaM"  title="Heart disease in women: Four things a Mayo Clinic cardiologist wants you to know" width="500" height="281" src="https://www.youtube.com/embed/oac3VY87WaM?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p><strong>Journalists: Video sound bites are available in the downloads at the end of the post. Please courtesy: "Sharonne N. Hayes, M.D./Cardiovascular Medicine/Mayo Clinic"&nbsp;</strong></p>
+<p><strong>Journalists: Video sound bites are available in the downloads at the end of the post. Please courtesy: "Sharonne N. Hayes, M.D./Cardiovascular Medicine/Mayo Clinic"&amp;nbsp;</strong></p>
 
 
 
@@ -1291,11 +1299,11 @@
 
 
 
-<p>Dr.&nbsp;Hayes says there are conditions that disproportionately affect women including heart failure with preserved ejection fraction, microvascular dysfunction and heart attacks due to <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-hope-for-spontaneous-coronary-artery-dissection-scad/" target="_blank" rel="noreferrer noopener">spontaneous coronary artery dissection (SCAD)</a>. As a result, women with chest pain or shortness of breath were sometimes told their hearts were fine, only to learn later they did have heart disease.</p>
+<p>Dr.&amp;nbsp;Hayes says there are conditions that disproportionately affect women including heart failure with preserved ejection fraction, microvascular dysfunction and heart attacks due to <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-hope-for-spontaneous-coronary-artery-dissection-scad/" target="_blank" rel="noreferrer noopener">spontaneous coronary artery dissection (SCAD)</a>. As a result, women with chest pain or shortness of breath were sometimes told their hearts were fine, only to learn later they did have heart disease.</p>
 
 
 
-<p>Women were also historically excluded from clinical trials, meaning researchers are still closing evidence gaps today. Dr.&nbsp;Hayes says women should trust their symptoms and continue advocating for answers when something does not feel right.</p>
+<p>Women were also historically excluded from clinical trials, meaning researchers are still closing evidence gaps today. Dr.&amp;nbsp;Hayes says women should trust their symptoms and continue advocating for answers when something does not feel right.</p>
 
 
 
@@ -1303,7 +1311,7 @@
 
 
 
-<p>One of the most encouraging changes Dr.&nbsp;Hayes has seen is the rise of patient advocacy and access to health information. Women are more engaged, more informed and more willing to ask questions.</p>
+<p>One of the most encouraging changes Dr.&amp;nbsp;Hayes has seen is the rise of patient advocacy and access to health information. Women are more engaged, more informed and more willing to ask questions.</p>
 
 
 
@@ -1311,7 +1319,7 @@
 
 
 
-<p>Dr.&nbsp;Hayes describes the transformation as powerful, driven by knowledge and by the support women find in one another.</p>
+<p>Dr.&amp;nbsp;Hayes describes the transformation as powerful, driven by knowledge and by the support women find in one another.</p>
 
 
 
@@ -1319,7 +1327,7 @@
 
 
 
-<p>Advances in cardiology are moving quickly. Dr.&nbsp;Hayes says <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124" target="_blank" rel="noreferrer noopener">treatments</a> that once required open-heart surgery may now be replaced by less invasive procedures, and emerging therapies offer hope that future outcomes may differ from those of past generations.</p>
+<p>Advances in cardiology are moving quickly. Dr.&amp;nbsp;Hayes says <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124" target="_blank" rel="noreferrer noopener">treatments</a> that once required open-heart surgery may now be replaced by less invasive procedures, and emerging therapies offer hope that future outcomes may differ from those of past generations.</p>
 
 
 
@@ -1331,7 +1339,7 @@
 
 
 
-<p>Dr.&nbsp;Hayes emphasizes that it is never too early or too late to improve heart health. Healthy habits adopted in childhood reduce future risk, and starting an exercise program later in life still improves heart health.</p>
+<p>Dr.&amp;nbsp;Hayes emphasizes that it is never too early or too late to improve heart health. Healthy habits adopted in childhood reduce future risk, and starting an exercise program later in life still improves heart health.</p>
 
 
 
@@ -1343,12 +1351,12 @@
 
 
 
-<p><strong>To interview Dr. Sharonne N. Hayes, contact:</strong>&nbsp;</p>
+<p><strong>To interview Dr. Sharonne N. Hayes, contact:</strong>&amp;nbsp;</p>
 
 
 
 <ul class="wp-block-list">
-<li>Terri Malloy, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
+<li>Terri Malloy, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
 
 
@@ -1361,26 +1369,26 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2017/10/a-diverse-group-of-women-standing-together-and-smiling-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2018/12/shutterstock_486606706_Fotor-16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Sharonne N. Hayes]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Heart Disease]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Sharonne N. Hayes]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Heart Disease]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Tomorrow’s Cure: Obesity, behavior and the heart</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-obesity-behavior-and-the-heart/
+		<title>Tomorrow&amp;#8217;s Cure: Obesity, behavior and the heart</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-obesity-behavior-and-the-heart/</link>
 		
-		<dc:creator><!--[CDATA[jftmayo]]--></dc:creator>
-		<pubdate>Wed, 04 Feb 2026 13:29:11 +0000</pubdate>
-				<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[obesity]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=410016</guid>
+		<dc:creator><![CDATA[jftmayo]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 13:29:11 +0000</pubDate>
+				<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[obesity]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=410016</guid>
 
-					<description><!--[CDATA[<p-->This&nbsp;episode&nbsp;of "Tomorrow's Cure"&nbsp;delivers an&nbsp;American Heart Month&nbsp;discussion&nbsp;as&nbsp;the guests talk about&nbsp;heart health and how listeners can make improvements to their cardiovascular&nbsp;well-being&nbsp;at any age.&nbsp;Dr. Andres Acosta,&nbsp;Delaney Family Director, Nutrition Obesity Research Program at&nbsp;Mayo Clinic;&nbsp;Dr. Kevin Volpp, scientific lead for the&nbsp;Food Is Medicine&nbsp;initiative&nbsp;through the American Heart Association (AHA);&nbsp;and&nbsp;Nancy Brown,&nbsp;CEO&nbsp;of the&nbsp;AHA,&nbsp;offer&nbsp;perspectives&nbsp;on both the&nbsp;persistent challenges and emerging opportunities in cardiovascular health.&nbsp;Cardiovascular […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-obesity-behavior-and-the-heart/">Tomorrow’s Cure: Obesity, behavior and the heart</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>This&nbsp;episode&nbsp;of "Tomorrow's Cure"&nbsp;delivers an&nbsp;American Heart Month&nbsp;discussion&nbsp;as&nbsp;the guests talk about&nbsp;heart health and how listeners can make improvements to their cardiovascular&nbsp;well-being&nbsp;at any age.&nbsp;Dr. Andres Acosta,&nbsp;Delaney Family Director, Nutrition Obesity Research Program at&nbsp;Mayo Clinic;&nbsp;Dr. Kevin Volpp, scientific lead for the&nbsp;Food Is Medicine&nbsp;initiative&nbsp;through the American Heart Association (AHA);&nbsp;and&nbsp;Nancy Brown,&nbsp;CEO&nbsp;of the&nbsp;AHA,&nbsp;offer&nbsp;perspectives&nbsp;on both the&nbsp;persistent challenges and emerging opportunities in cardiovascular health.&nbsp;Cardiovascular [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-obesity-behavior-and-the-heart/">Tomorrow&amp;#8217;s Cure: Obesity, behavior and the heart</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-1024x576.jpg" alt="Graphic: Episode 3 Tomorrow's Cure obesity, behaviors heart" class="wp-image-410021" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-1024x576.jpg" alt="Graphic: Episode 3 Tomorrow's Cure obesity, behaviors heart" class="wp-image-410021" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1388,16 +1396,16 @@
 
 
 
-<p>Millions of Americans continue to face <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">cardiovascular disease</a> despite significant improvements in mortality&nbsp;rates related to the&nbsp;disease&nbsp;over the past century.&nbsp;Rising rates of obesity,&nbsp;hypertension&nbsp;and diabetes contribute to this burden.&nbsp;Family history&nbsp;remains&nbsp;a critical predictor, underscoring the importance of early awareness and risk assessment.&nbsp;</p>
+<p>Millions of Americans continue to face <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118" target="_blank" rel="noreferrer noopener">cardiovascular disease</a> despite significant improvements in mortality&amp;nbsp;rates related to the&amp;nbsp;disease&amp;nbsp;over the past century.&amp;nbsp;Rising rates of obesity,&amp;nbsp;hypertension&amp;nbsp;and diabetes contribute to this burden.&amp;nbsp;Family history&amp;nbsp;remains&amp;nbsp;a critical predictor, underscoring the importance of early awareness and risk assessment.&amp;nbsp;</p>
 
 
 
-<p>At the heart&nbsp;of this&nbsp;episode's&nbsp;discussion&nbsp;is&nbsp;the evolving understanding of obesity as a chronic, multifactorial disease. Dr. Acosta emphasizes&nbsp;the need for <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-pave-the-way-for-individualized-obesity-therapy-tailoring-interventions-to-a-persons-needs/" target="_blank" rel="noreferrer noopener">individualized</a> approaches&nbsp;and notes&nbsp;that people develop obesity for different biological reasons.&nbsp;"Understanding&nbsp;the biology&nbsp;and going down to the root cause of obesity changes the conversation," Dr. Acosta says. "It helps patients see why they struggle and why tailored interventions work."&nbsp;His research&nbsp;demonstrates&nbsp;that phenotype-based treatment strategies produce more effective and sustainable weight loss than standard models, reinforcing the importance of personalized care in addressing one of the most significant contributors to cardiovascular&nbsp;disease.&nbsp;</p>
+<p>At the heart&amp;nbsp;of this&amp;nbsp;episode's&amp;nbsp;discussion&amp;nbsp;is&amp;nbsp;the evolving understanding of obesity as a chronic, multifactorial disease. Dr. Acosta emphasizes&amp;nbsp;the need for <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-pave-the-way-for-individualized-obesity-therapy-tailoring-interventions-to-a-persons-needs/" target="_blank" rel="noreferrer noopener">individualized</a> approaches&amp;nbsp;and notes&amp;nbsp;that people develop obesity for different biological reasons.&amp;nbsp;"Understanding&amp;nbsp;the biology&amp;nbsp;and going down to the root cause of obesity changes the conversation," Dr. Acosta says. "It helps patients see why they struggle and why tailored interventions work."&amp;nbsp;His research&amp;nbsp;demonstrates&amp;nbsp;that phenotype-based treatment strategies produce more effective and sustainable weight loss than standard models, reinforcing the importance of personalized care in addressing one of the most significant contributors to cardiovascular&amp;nbsp;disease.&amp;nbsp;</p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidrfnq5jc5QSg" title="Obesity, Behavior, and the Heart: How We Fix It | Tomorrow's Cure Season 4 Episode 3" width="500" height="281" src="https://www.youtube.com/embed/rfnq5jc5QSg?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidrfnq5jc5QSg"  title="Obesity, Behavior, and the Heart: How We Fix It | Tomorrow&amp;#039;s Cure Season 4 Episode 3" width="500" height="281" src="https://www.youtube.com/embed/rfnq5jc5QSg?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -1406,27 +1414,23 @@
 
 
 
-<p>The role of nutrition&nbsp;is&nbsp;another focus of this&nbsp;episode. Dr. Volpp&nbsp;points to&nbsp;the AHA's Food Is Medicine initiative, which is building evidence&nbsp;to treat healthy food like a medical therapy, especially for people with conditions such as heart failure,&nbsp;diabetes&nbsp;or obesity. Programs that provide medically tailored meals, produce prescriptions or nutrition coaching have shown promise in improving health and reducing hospital visits, sometimes within just weeks.&nbsp;</p>
+<p>The role of nutrition&amp;nbsp;is&amp;nbsp;another focus of this&amp;nbsp;episode. Dr. Volpp&amp;nbsp;points to&amp;nbsp;the AHA's Food Is Medicine initiative, which is building evidence&amp;nbsp;to treat healthy food like a medical therapy, especially for people with conditions such as heart failure,&amp;nbsp;diabetes&amp;nbsp;or obesity. Programs that provide medically tailored meals, produce prescriptions or nutrition coaching have shown promise in improving health and reducing hospital visits, sometimes within just weeks.&amp;nbsp;</p>
 
 
 
-<p>The panelists note that improvements in cardiovascular health are achievable at any age. Modest changes, such as increased consumption of&nbsp;nutrient-dense&nbsp;foods and consistent physical activity, can have significant positive&nbsp;effects, particularly among older adults. Research&nbsp;demonstrates&nbsp;that even short-term dietary interventions can yield measurable improvements in stability and quality of life for patients with established cardiovascular&nbsp;conditions.&nbsp;&nbsp;</p>
+<p>The panelists note that improvements in cardiovascular health are achievable at any age. Modest changes, such as increased consumption of&amp;nbsp;nutrient-dense&amp;nbsp;foods and consistent physical activity, can have significant positive&amp;nbsp;effects, particularly among older adults. Research&amp;nbsp;demonstrates&amp;nbsp;that even short-term dietary interventions can yield measurable improvements in stability and quality of life for patients with established cardiovascular&amp;nbsp;conditions.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>Looking ahead, precision nutrition&nbsp;represents&nbsp;a promising advancement. Ongoing national research&nbsp;is focused on developing individualized dietary recommendations based on genetics,&nbsp;metabolism&nbsp;and microbiome data. As these tools evolve, they are expected to reduce reliance on&nbsp;trial-and-error&nbsp;approaches&nbsp;and support more effective&nbsp;long-term&nbsp;weight and risk&nbsp;management.&nbsp;&nbsp;</p>
+<p>Looking ahead, precision nutrition&amp;nbsp;represents&amp;nbsp;a promising advancement. Ongoing national research&amp;nbsp;is focused on developing individualized dietary recommendations based on genetics,&amp;nbsp;metabolism&amp;nbsp;and microbiome data. As these tools evolve, they are expected to reduce reliance on&amp;nbsp;trial-and-error&amp;nbsp;approaches&amp;nbsp;and support more effective&amp;nbsp;long-term&amp;nbsp;weight and risk&amp;nbsp;management.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p>The discussion highlights&nbsp;a clear path forward: advance&nbsp;personalized care, expand access to nutrition-focused&nbsp;interventions&nbsp;and&nbsp;strengthen&nbsp;preventive strategies across populations. Together, these efforts offer significant potential to reduce the burden of cardiovascular disease and improve health outcomes in the years ahead.&nbsp;</p>
+<p>The discussion highlights&amp;nbsp;a clear path forward: advance&amp;nbsp;personalized care, expand access to nutrition-focused&amp;nbsp;interventions&amp;nbsp;and&amp;nbsp;strengthen&amp;nbsp;preventive strategies across populations. Together, these efforts offer significant potential to reduce the burden of cardiovascular disease and improve health outcomes in the years ahead.&amp;nbsp;</p>
 
 
 
-<p>Listen to the latest episode of "<a href="https://careinfo.mayoclinic.org/tomorrows-cure-podcast?mc_id=global&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=tcseasonthreeepisodeone&amp;utm_campaign=mayoclinic&amp;geo=global&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=193335" target="_blank" rel="noreferrer noopener">Tomorrow's Cure</a>" wherever you get your podcasts. You can explore the full library of episodes and guests on the&nbsp;show's&nbsp;<a href="https://www.youtube.com/playlist?list=PLSWR1ylG_6JZd7nHPPgpIaoq_iRHgXRoF" target="_blank" rel="noreferrer noopener">page</a>.&nbsp;&nbsp;&nbsp;</p>
-
-
-
-<p></p>
+<p>Listen to the latest episode of "<a href="https://careinfo.mayoclinic.org/tomorrows-cure-podcast?mc_id=global&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_content=tcseasonthreeepisodeone&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=global&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=193335" target="_blank" rel="noreferrer noopener">Tomorrow's Cure</a>" wherever you get your podcasts. You can explore the full library of episodes and guests on the&amp;nbsp;show's&amp;nbsp;<a href="https://www.youtube.com/playlist?list=PLSWR1ylG_6JZd7nHPPgpIaoq_iRHgXRoF" target="_blank" rel="noreferrer noopener">page</a>.&amp;nbsp;&amp;nbsp;&amp;nbsp;</p>
 
 
 
@@ -1443,13 +1447,17 @@
 
 
 <p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-obesity-behavior-and-the-heart/">Tomorrow’s Cure: Obesity, behavior and the heart</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/tomorrows-cure-obesity-behavior-and-the-heart/">Tomorrow&amp;#8217;s Cure: Obesity, behavior and the heart</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_Episode-Art_3000x3000.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/01/TC_Cardio_YT-Thumbnail_1280x720.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cardiovascular]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[obesity]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Cardiovascular]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[obesity]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss> 
