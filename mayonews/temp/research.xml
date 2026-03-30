@@ -1,49 +1,41 @@
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:mayoclinic="http://mayoclinic.org"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
+	<link>https://newsnetwork.mayoclinic.org/category/research/
 	<description>News Resources</description>
-	<lastBuildDate>Mon, 30 Mar 2026 15:58:03 +0000</lastBuildDate>
+	<lastbuilddate>Mon, 30 Mar 2026 15:58:03 +0000</lastbuilddate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
 	<item>
 		<title>Including AI-derived heart fat measurement improves accuracy of cardiovascular disease risk prediction</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/including-ai-derived-heart-fat-measurement-improves-accuracy-of-cardiovascular-disease-risk-prediction/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/including-ai-derived-heart-fat-measurement-improves-accuracy-of-cardiovascular-disease-risk-prediction/
 		
-		<dc:creator><![CDATA[Terri Malloy]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 15:58:02 +0000</pubDate>
-				<category><![CDATA[AI and Digital Health]]></category>
-		<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Francisco Lopez-Jimenez]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=412542</guid>
+		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
+		<pubdate>Mon, 30 Mar 2026 15:58:02 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Francisco Lopez-Jimenez]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=412542</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic research identified a powerful new way to improve the prediction of a patient's long-term cardiovascular disease risk by enhancing a routinely performed imaging test with artificial intelligence (AI). Heart disease develops over time and remains the leading cause of death worldwide, so identifying risk early is critical to preventing heart [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic research identified a powerful new way to improve the prediction of a patient's long-term cardiovascular disease risk by enhancing a routinely performed imaging test with artificial intelligence (AI). Heart disease develops over time and remains the leading cause of death worldwide, so identifying risk early is critical to preventing heart […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/including-ai-derived-heart-fat-measurement-improves-accuracy-of-cardiovascular-disease-risk-prediction/">Including AI-derived heart fat measurement improves accuracy of cardiovascular disease risk prediction</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-1024x576.png" alt="" class="wp-image-407711" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-1024x576.png" alt="" class="wp-image-407711" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -127,32 +119,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/1x1-cardiology-researcher.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/11/cardiology-researcher-22.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Francisco Lopez-Jimenez]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Francisco Lopez-Jimenez]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic study finds wearable data may help predict patient engagement in remote COPD rehabilitation</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-wearable-data-may-help-predict-patient-engagement-in-remote-copd-rehabilitation/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-wearable-data-may-help-predict-patient-engagement-in-remote-copd-rehabilitation/
 		
-		<dc:creator><![CDATA[Mayo Clinic Staff]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 16:06:36 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Healthcare Delivery]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Emma Fortune Ngufor]]></category>
-		<category><![CDATA[Dr. Roberto Benzo]]></category>
-		<category><![CDATA[Dr. Stephanie Zawada]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=412394</guid>
+		<dc:creator><!--[CDATA[Mayo Clinic Staff]]--></dc:creator>
+		<pubdate>Thu, 26 Mar 2026 16:06:36 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Healthcare Delivery]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Emma Fortune Ngufor]]--></category>
+		<category><!--[CDATA[Dr. Roberto Benzo]]--></category>
+		<category><!--[CDATA[Dr. Stephanie Zawada]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=412394</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Sleep data captured with a wearable device could help clinicians better tailor care by identifying patients with chronic obstructive pulmonary disease (COPD) who may need additional support to participate in pulmonary rehabilitation, according to new research published in Mayo Clinic Proceedings: Digital Health. COPD is a long-term lung disease that makes it [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Sleep data captured with a wearable device could help clinicians better tailor care by identifying patients with chronic obstructive pulmonary disease (COPD) who may need additional support to participate in pulmonary rehabilitation, according to new research published in Mayo Clinic Proceedings: Digital Health. COPD is a long-term lung disease that makes it […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-wearable-data-may-help-predict-patient-engagement-in-remote-copd-rehabilitation/">Mayo Clinic study finds wearable data may help predict patient engagement in remote COPD rehabilitation</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>ROCHESTER, Minn. — Sleep data captured with a wearable device could help clinicians better tailor care by identifying patients with chronic obstructive pulmonary disease (COPD) who may need additional support to participate in pulmonary rehabilitation, according to new research <a href="https://www.mcpdigitalhealth.org/article/S2949-7612(26)00011-8/fulltext" target="_blank" rel="noreferrer noopener">published</a> in Mayo Clinic Proceedings: Digital Health.</p>
+										<content:encoded><!--[CDATA[
+<p-->ROCHESTER, Minn. — Sleep data captured with a wearable device could help clinicians better tailor care by identifying patients with chronic obstructive pulmonary disease (COPD) who may need additional support to participate in pulmonary rehabilitation, according to new research <a href="https://www.mcpdigitalhealth.org/article/S2949-7612(26)00011-8/fulltext" target="_blank" rel="noreferrer noopener">published</a> in Mayo Clinic Proceedings: Digital Health.<p></p>
 
 
 
@@ -164,7 +156,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428-240x300.jpg" alt="" class="wp-image-402614" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428.jpg 640w" sizes="(max-width: 240px) 100vw, 240px" /><figcaption class="wp-element-caption"><sup>Dr. Stephanie Zawada</sup></figcaption></figure>
+<figure class="alignright size-medium"><img decoding="async" width="240" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428-240x300.jpg" alt="" class="wp-image-402614" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/05/Zawada-Stephanie-K._30026706_202501151428.jpg 640w" sizes="(max-width: 240px) 100vw, 240px"><figcaption class="wp-element-caption"><sup>Dr. Stephanie Zawada</sup></figcaption></figure>
 </div>
 
 
@@ -184,7 +176,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088-200x300.jpg" alt="Portrait of Dr. Emma Fortune Ngufor" class="wp-image-412401" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088.jpg 750w" sizes="(max-width: 200px) 100vw, 200px" /><figcaption class="wp-element-caption"><sup>Dr. Emma Fortune Ngufor</sup></figcaption></figure>
+<figure class="alignleft size-medium"><img decoding="async" width="200" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088-200x300.jpg" alt="Portrait of Dr. Emma Fortune Ngufor" class="wp-image-412401" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/WF7110901_0088.jpg 750w" sizes="(max-width: 200px) 100vw, 200px"><figcaption class="wp-element-caption"><sup>Dr. Emma Fortune Ngufor</sup></figcaption></figure>
 </div>
 
 
@@ -222,33 +214,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Virtual-interface-with-lung-graphics_GettyImages-1439259946_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Virtual-interface-with-lung-graphics_GettyImages-1439259946_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Emma Fortune Ngufor]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Roberto Benzo]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Stephanie Zawada]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mcthumb >https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Virtual-interface-with-lung-graphics_GettyImages-1439259946-150x150.jpg</mayoclinic:mcthumb >	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Emma Fortune Ngufor]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Roberto Benzo]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Stephanie Zawada]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mcthumb>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Virtual-interface-with-lung-graphics_GettyImages-1439259946-150x150.jpg</mayoclinic:mcthumb>	</item>
 		<item>
 		<title>Vitamin D linked to immune response to gut microbiome in inflammatory bowel disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/vitamin-d-linked-to-immune-response-to-gut-microbiome-in-inflammatory-bowel-disease/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/vitamin-d-linked-to-immune-response-to-gut-microbiome-in-inflammatory-bowel-disease/
 		
-		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Gastroenterology]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Translational Science]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. John Mark Gubatan]]></category>
-		<category><![CDATA[Florida News Releases]]></category>
-		<category><![CDATA[gut microbiome]]></category>
-		<category><![CDATA[vitamin D]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=412355</guid>
+		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
+		<pubdate>Thu, 26 Mar 2026 15:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[Gastroenterology]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Translational Science]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. John Mark Gubatan]]--></category>
+		<category><!--[CDATA[Florida News Releases]]--></category>
+		<category><!--[CDATA[gut microbiome]]--></category>
+		<category><!--[CDATA[vitamin D]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=412355</guid>
 
-					<description><![CDATA[<p>Vitamin D supplementation may help shape how the immune system responds to gut bacteria in people with inflammatory bowel disease (IBD), according to a Mayo Clinic–led study published in Cell Reports Medicine.</p>
+					<description><!--[CDATA[<p-->Vitamin D supplementation may help shape how the immune system responds to gut bacteria in people with inflammatory bowel disease (IBD), according to a Mayo Clinic–led study published in Cell Reports Medicine.<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/vitamin-d-linked-to-immune-response-to-gut-microbiome-in-inflammatory-bowel-disease/">Vitamin D linked to immune response to gut microbiome in inflammatory bowel disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>JACKSONVILLE, Fla. — <a href="https://www.mayoclinic.org/drugs-supplements-vitamin-d/art-20363792" target="_blank" rel="noreferrer noopener">Vitamin D</a> supplementation may help shape how the immune system responds to gut bacteria in people with <a href="https://www.mayoclinic.org/diseases-conditions/inflammatory-bowel-disease/symptoms-causes/syc-20353315" target="_blank" rel="noreferrer noopener">inflammatory bowel disease (IBD)</a>, according to a <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>–led study published in <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00120-5" target="_blank" rel="noreferrer noopener">Cell Reports Medicine</a>.</p>
+										<content:encoded><!--[CDATA[
+<p-->JACKSONVILLE, Fla. — <a href="https://www.mayoclinic.org/drugs-supplements-vitamin-d/art-20363792" target="_blank" rel="noreferrer noopener">Vitamin D</a> supplementation may help shape how the immune system responds to gut bacteria in people with <a href="https://www.mayoclinic.org/diseases-conditions/inflammatory-bowel-disease/symptoms-causes/syc-20353315" target="_blank" rel="noreferrer noopener">inflammatory bowel disease (IBD)</a>, according to a <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>–led study published in <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00120-5" target="_blank" rel="noreferrer noopener">Cell Reports Medicine</a>.<p></p>
 
 
 
@@ -268,7 +260,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-819x1024.jpg" alt="" class="wp-image-412378" style="aspect-ratio:0.799815831880817;width:242px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804.jpg 900w" sizes="auto, (max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">John Mark Gubatan, M.D.</figcaption></figure>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-819x1024.jpg" alt="" class="wp-image-412378" style="aspect-ratio:0.799815831880817;width:242px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Gubatan-John-Mark-Bugarin._30442403_20250804.jpg 900w" sizes="auto, (max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">John Mark Gubatan, M.D.</figcaption></figure>
 </div>
 
 
@@ -326,33 +318,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/1x1-for-IBD-VitD-study-post-GettyImages-675022587.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-for-IBD-VitD-study-post-GettyImages-675022587.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. John Mark Gubatan]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[gut microbiome]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[vitamin D]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. John Mark Gubatan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[gut microbiome]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[vitamin D]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Immunotherapy boosts chemotherapy in combating stage 3 colon cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/immunotherapy-boosts-chemotherapy-in-combating-stage-3-colon-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/immunotherapy-boosts-chemotherapy-in-combating-stage-3-colon-cancer/
 		
-		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 21:05:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[ASCO25]]></category>
-		<category><![CDATA[Chemotherapy]]></category>
-		<category><![CDATA[Colon Cancer]]></category>
-		<category><![CDATA[deficient DNA mismatch repair (dMMR)]]></category>
-		<category><![CDATA[Dr. Frank Sinicrope]]></category>
-		<category><![CDATA[immunotherapy]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<category><![CDATA[stage 3]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=403282</guid>
+		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
+		<pubdate>Wed, 25 Mar 2026 21:05:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[ASCO25]]--></category>
+		<category><!--[CDATA[Chemotherapy]]--></category>
+		<category><!--[CDATA[Colon Cancer]]--></category>
+		<category><!--[CDATA[deficient DNA mismatch repair (dMMR)]]--></category>
+		<category><!--[CDATA[Dr. Frank Sinicrope]]--></category>
+		<category><!--[CDATA[immunotherapy]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[stage 3]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=403282</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Colon cancer is the third most prevalent form of cancer in the U.S., and its incidence is increasing among younger adults, particularly those younger than 50. While colon cancer screening has helped prevent and detect it before spreading, major advancements in treating colon cancer have been limited. Now, new research led by [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Colon cancer is the third most prevalent form of cancer in the U.S., and its incidence is increasing among younger adults, particularly those younger than 50. While colon cancer screening has helped prevent and detect it before spreading, major advancements in treating colon cancer have been limited. Now, new research led by […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/immunotherapy-boosts-chemotherapy-in-combating-stage-3-colon-cancer/">Immunotherapy boosts chemotherapy in combating stage 3 colon cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="1080" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9.jpg" alt="Mayo Clinic physician meets with patient" class="wp-image-412351" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9.jpg 1920w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-1536x864.jpg 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="1920" height="1080" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9.jpg" alt="Mayo Clinic physician meets with patient" class="wp-image-412351" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9.jpg 1920w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9-1536x864.jpg 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px">
 
 
 
@@ -364,7 +356,7 @@
 
 
 
-<p>"The findings from our study represent a major advance in the adjuvant treatment of dMMR stage 3 colon cancer and will now change clinical practice," says <a href="https://www.mayo.edu/research/faculty/sinicrope-frank-a-m-d/bio-00028129" target="_blank" rel="noreferrer noopener">Frank Sinicrope, M.D.</a>, a Mayo Clinic oncologist who led the <a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2507874" target="_blank" rel="noreferrer noopener">study</a>&amp;nbsp;published in the New England Journal of Medicine. "It's very rewarding to be able to offer our patients a new treatment regimen that can reduce the risk of recurrence and improve their chances of survival."</p>
+<p>"The findings from our study represent a major advance in the adjuvant treatment of dMMR stage 3 colon cancer and will now change clinical practice," says <a href="https://www.mayo.edu/research/faculty/sinicrope-frank-a-m-d/bio-00028129" target="_blank" rel="noreferrer noopener">Frank Sinicrope, M.D.</a>, a Mayo Clinic oncologist who led the <a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2507874" target="_blank" rel="noreferrer noopener">study</a>&nbsp;published in the New England Journal of Medicine. "It's very rewarding to be able to offer our patients a new treatment regimen that can reduce the risk of recurrence and improve their chances of survival."</p>
 
 
 
@@ -377,7 +369,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoid3sJgLvlwpQ"  title="Dr. Frank Sinicrope - Mayo Clinic immunotherapy study – Stage 3 colon cancer" width="500" height="281" src="https://www.youtube.com/embed/3sJgL-vlwpQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoid3sJgLvlwpQ" title="Dr. Frank Sinicrope - Mayo Clinic immunotherapy study – Stage 3 colon cancer" width="500" height="281" src="https://www.youtube.com/embed/3sJgL-vlwpQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -390,11 +382,11 @@
 
 
 
-<p>Dr. Sinicrope and others previously studied patients with the type of colon cancer evaluated in the clinical trial, in which tumor cells cannot properly repair errors that occur when DNA is copied, due to dMMR. They noted that these patients' tumors showed a striking increase in inflammatory cells, including immune cells that are targets of immune checkpoint inhibitors. These findings provided the rationale for using immune checkpoint inhibitors as a strategy to enable immune cells to be more effective in attacking and killing cancer cells.&amp;nbsp;&amp;nbsp;</p>
+<p>Dr. Sinicrope and others previously studied patients with the type of colon cancer evaluated in the clinical trial, in which tumor cells cannot properly repair errors that occur when DNA is copied, due to dMMR. They noted that these patients' tumors showed a striking increase in inflammatory cells, including immune cells that are targets of immune checkpoint inhibitors. These findings provided the rationale for using immune checkpoint inhibitors as a strategy to enable immune cells to be more effective in attacking and killing cancer cells.&nbsp;&nbsp;</p>
 
 
 
-<p>Based on the data from the clinical trial, the combination of atezolizumab and chemotherapy represents a new standard treatment for stage 3 deficient mismatch repair colon cancer. The guidelines developed by the National Comprehensive Cancer Network, a nonprofit organization consisting of 33 leading cancer centers, including Mayo Clinic, have been updated to include this treatment recommendation. The guidelines also include patients with high-risk stage 2 colon cancer where the tumor invades or adheres to adjacent structures but does not involve lymph nodes.&amp;nbsp;</p>
+<p>Based on the data from the clinical trial, the combination of atezolizumab and chemotherapy represents a new standard treatment for stage 3 deficient mismatch repair colon cancer. The guidelines developed by the National Comprehensive Cancer Network, a nonprofit organization consisting of 33 leading cancer centers, including Mayo Clinic, have been updated to include this treatment recommendation. The guidelines also include patients with high-risk stage 2 colon cancer where the tumor invades or adheres to adjacent structures but does not involve lymph nodes.&nbsp;</p>
 
 
 
@@ -418,7 +410,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.<br><br><strong>About Mayo Clinic Comprehensive Cancer Center&amp;nbsp;</strong><br>Designated as a comprehensive cancer center by the National Cancer Institute, Mayo Clinic Comprehensive Cancer Center&amp;nbsp;is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs&amp;nbsp;in cancer detection, prevention and treatment to change lives.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.<br><br><strong>About Mayo Clinic Comprehensive Cancer Center&nbsp;</strong><br>Designated as a comprehensive cancer center by the National Cancer Institute, Mayo Clinic Comprehensive Cancer Center&nbsp;is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs&nbsp;in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -440,34 +432,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/Mayo-physician-and-patient16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[ASCO25]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Chemotherapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Colon Cancer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[deficient DNA mismatch repair (dMMR)]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Frank Sinicrope]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[immunotherapy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Research]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[stage 3]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[ASCO25]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Chemotherapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Colon Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[deficient DNA mismatch repair (dMMR)]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Frank Sinicrope]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[immunotherapy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Research]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[stage 3]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>(VIDEO) Mayo Clinic uses DNA screening to prevent life-threatening reactions during anesthesia</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-uses-dna-screening-to-prevent-life-threatening-reactions-during-anesthesia/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-uses-dna-screening-to-prevent-life-threatening-reactions-during-anesthesia/
 		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Individualized Medicine]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Rochester]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Adam Jacob]]></category>
-		<category><![CDATA[Dr. Timothy Curry]]></category>
-		<category><![CDATA[Mayo Clinic]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411072</guid>
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Wed, 25 Mar 2026 10:00:00 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Rochester]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Adam Jacob]]--></category>
+		<category><!--[CDATA[Dr. Timothy Curry]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411072</guid>
 
-					<description><![CDATA[<p>Dr. Adam Jacob&amp;#160;has spent his career keeping patients safe in the operating room. As a Mayo Clinic anesthesiologist, he closely&amp;#160;monitors&amp;#160;every heartbeat and breath, adjusting anesthesia and responding to subtle changes in the body&amp;#160;during surgery. Watch: Mayo Clinic uses DNA screening to prevent life-threatening reactions during anesthesia Video by: Kevin Sullivan, Senior Communications Specialist, Mayo Clinic [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Dr. Adam Jacob&nbsp;has spent his career keeping patients safe in the operating room. As a Mayo Clinic anesthesiologist, he closely&nbsp;monitors&nbsp;every heartbeat and breath, adjusting anesthesia and responding to subtle changes in the body&nbsp;during surgery. Watch: Mayo Clinic uses DNA screening to prevent life-threatening reactions during anesthesia Video by: Kevin Sullivan, Senior Communications Specialist, Mayo Clinic […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-uses-dna-screening-to-prevent-life-threatening-reactions-during-anesthesia/">(VIDEO) Mayo Clinic uses DNA screening to prevent life-threatening reactions during anesthesia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-1024x683.jpeg" alt="" class="wp-image-411073" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-1024x683.jpeg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-300x200.jpeg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-768x512.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-1536x1024.jpeg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-2048x1365.jpeg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-1024x683.jpeg" alt="" class="wp-image-411073" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-1024x683.jpeg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-300x200.jpeg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-768x512.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-1536x1024.jpeg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/JACOBS-FAMILY-2048x1365.jpeg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
-<p><a href="https://www.mayoclinic.org/biographies/jacob-adam-k-m-d/bio-20055114" target="_blank" rel="noreferrer noopener">Dr. Adam Jacob</a>&amp;nbsp;has spent his career keeping patients safe in the operating room. As a Mayo Clinic anesthesiologist, he closely&amp;nbsp;monitors&amp;nbsp;every heartbeat and breath, adjusting anesthesia and responding to subtle changes in the body&amp;nbsp;during surgery.</p>
+<p><a href="https://www.mayoclinic.org/biographies/jacob-adam-k-m-d/bio-20055114" target="_blank" rel="noreferrer noopener">Dr. Adam Jacob</a>&nbsp;has spent his career keeping patients safe in the operating room. As a Mayo Clinic anesthesiologist, he closely&nbsp;monitors&nbsp;every heartbeat and breath, adjusting anesthesia and responding to subtle changes in the body&nbsp;during surgery.</p>
 
 
 
@@ -476,7 +468,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubekFnlgReQlUA"  title="Mayo Clinic uses DNA screening to prevent life-threatening reactions during anesthesia" width="500" height="281" src="https://www.youtube.com/embed/kFnlgReQlUA?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubekFnlgReQlUA" title="Mayo Clinic uses DNA screening to prevent life-threatening reactions during anesthesia" width="500" height="281" src="https://www.youtube.com/embed/kFnlgReQlUA?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -485,15 +477,15 @@
 
 
 
-<p>But one&amp;nbsp;risk does not appear on monitors or in a patient's medical history:&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/malignant-hyperthermia/symptoms-causes/syc-20353750" target="_blank" rel="noreferrer noopener">malignant hyperthermia</a>. The rare, inherited condition can be triggered by certain anesthesia drugs, causing rapid muscle breakdown and a dangerous rise in body temperature. </p>
+<p>But one&nbsp;risk does not appear on monitors or in a patient's medical history:&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/malignant-hyperthermia/symptoms-causes/syc-20353750" target="_blank" rel="noreferrer noopener">malignant hyperthermia</a>. The rare, inherited condition can be triggered by certain anesthesia drugs, causing rapid muscle breakdown and a dangerous rise in body temperature. </p>
 
 
 
-<p>Without prompt treatment, it can be fatal.&amp;nbsp;Anesthesia teams are trained to recognize malignant hyperthermia, and a&amp;nbsp;lifesaving&amp;nbsp;antidote is kept in&amp;nbsp;every location where anesthesia is administered.&amp;nbsp;</p>
+<p>Without prompt treatment, it can be fatal.&nbsp;Anesthesia teams are trained to recognize malignant hyperthermia, and a&nbsp;lifesaving&nbsp;antidote is kept in&nbsp;every location where anesthesia is administered.&nbsp;</p>
 
 
 
-<p>The risk is written into a person's DNA.&amp;nbsp;</p>
+<p>The risk is written into a person's DNA.&nbsp;</p>
 
 
 
@@ -501,63 +493,63 @@
 
 
 
-<p>Until recently, Dr. Jacob did not know he carried&amp;nbsp;that genetic risk. Like many people with malignant hyperthermia susceptibility, he had undergone anesthesia before without incident — the reaction is only triggered by certain drugs.&amp;nbsp;</p>
+<p>Until recently, Dr. Jacob did not know he carried&nbsp;that genetic risk. Like many people with malignant hyperthermia susceptibility, he had undergone anesthesia before without incident — the reaction is only triggered by certain drugs.&nbsp;</p>
 
 
 
-<p>"I had no symptoms, no family&amp;nbsp;history and no reason to suspect anything,"&amp;nbsp;Dr. Jacob says.&amp;nbsp;"If I hadn't been part of a research study, my first sign could have been an emergency in the operating room."&amp;nbsp;</p>
+<p>"I had no symptoms, no family&nbsp;history and no reason to suspect anything,"&nbsp;Dr. Jacob says.&nbsp;"If I hadn't been part of a research study, my first sign could have been an emergency in the operating room."&nbsp;</p>
 
 
 
-<p>An estimated <a href="https://www.mhaus.org/about/press-releases/march-is-malignant-hyperthermia-awareness-and-training-month/">1 in 2,000 to 3,000 people </a>carry genetic susceptibility to malignant hyperthermia, most without knowing it. Actual reactions are less common and can be prevented when the risk is&amp;nbsp;identified&amp;nbsp;in advance.&amp;nbsp;</p>
+<p>An estimated <a href="https://www.mhaus.org/about/press-releases/march-is-malignant-hyperthermia-awareness-and-training-month/">1 in 2,000 to 3,000 people </a>carry genetic susceptibility to malignant hyperthermia, most without knowing it. Actual reactions are less common and can be prevented when the risk is&nbsp;identified&nbsp;in advance.&nbsp;</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-1024x576.jpg" alt="" class="wp-image-412141" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Timothy Curry (left) and Dr. Adam Jacob (right) review data on a monitor inside a Mayo Clinic operating room.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-1024x576.jpg" alt="" class="wp-image-412141" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/DR.-CURRY-DDR.-JACOB.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Timothy Curry (left) and Dr. Adam Jacob (right) review data on a monitor inside a Mayo Clinic operating room.</figcaption></figure>
 
 
 
-<p>More than a decade ago, Dr. Jacob donated his DNA as part of a Mayo Clinic research study, with no expectation the data would ever circle back to him personally.&amp;nbsp;</p>
+<p>More than a decade ago, Dr. Jacob donated his DNA as part of a Mayo Clinic research study, with no expectation the data would ever circle back to him personally.&nbsp;</p>
 
 
 
-<p>Recent advances in genomics changed that.&amp;nbsp;Through a new study,&amp;nbsp;Dr. Jacob received a letter&amp;nbsp;from&amp;nbsp;Mayo&amp;nbsp;Clinic, followed by a call with a genetic counselor. He learned he carries a variant in&amp;nbsp;RYR1, the gene&amp;nbsp;most commonly linked&amp;nbsp;to malignant hyperthermia.&amp;nbsp;</p>
+<p>Recent advances in genomics changed that.&nbsp;Through a new study,&nbsp;Dr. Jacob received a letter&nbsp;from&nbsp;Mayo&nbsp;Clinic, followed by a call with a genetic counselor. He learned he carries a variant in&nbsp;RYR1, the gene&nbsp;most commonly linked&nbsp;to malignant hyperthermia.&nbsp;</p>
 
 
 
-<p>Because the condition is hereditary, Dr. Jacob had his two teenage sons tested. Both carry the same variant. Their medical records were updated to guide future anesthesia care, and they now wear medical ID bracelets.&amp;nbsp;</p>
+<p>Because the condition is hereditary, Dr. Jacob had his two teenage sons tested. Both carry the same variant. Their medical records were updated to guide future anesthesia care, and they now wear medical ID bracelets.&nbsp;</p>
 
 
 
-<p>Dr. Jacob's wife, Kelly Jacob, is a&amp;nbsp;nurse anesthetist, underscoring that even families deeply familiar with anesthesia care can carry this risk without knowing it.&amp;nbsp;</p>
+<p>Dr. Jacob's wife, Kelly Jacob, is a&nbsp;nurse anesthetist, underscoring that even families deeply familiar with anesthesia care can carry this risk without knowing it.&nbsp;</p>
 
 
 
-<p>Dr. Jacob's experience also shows how identifying&amp;nbsp;risks&amp;nbsp;in one person can help protect an entire family.&amp;nbsp;</p>
+<p>Dr. Jacob's experience also shows how identifying&nbsp;risks&nbsp;in one person can help protect an entire family.&nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Identifying&amp;nbsp;risk before the operating room</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Identifying&nbsp;risk before the operating room</strong>&nbsp;</h2>
 
 
 
-<p>The effort to&amp;nbsp;understand the&amp;nbsp;prevalence&amp;nbsp;of&amp;nbsp;malignant hyperthermia susceptibility&amp;nbsp;is led by&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/curry-timothy-b-m-d-ph-d/bio-00027853" target="_blank" rel="noreferrer noopener">Dr. Timothy Curry,</a>&amp;nbsp;a Mayo Clinic anesthesiologist and physician-scientist, and one of Dr. Jacob's longtime colleagues.&amp;nbsp;</p>
+<p>The effort to&nbsp;understand the&nbsp;prevalence&nbsp;of&nbsp;malignant hyperthermia susceptibility&nbsp;is led by&nbsp;<a href="https://www.mayo.edu/research/faculty/curry-timothy-b-m-d-ph-d/bio-00027853" target="_blank" rel="noreferrer noopener">Dr. Timothy Curry,</a>&nbsp;a Mayo Clinic anesthesiologist and physician-scientist, and one of Dr. Jacob's longtime colleagues.&nbsp;</p>
 
 
 
-<p>Dr. Curry studies genetic risk at scale through Mayo Clinic's Research Data Atlas, a research platform that connects genomic data with clinical records across the institution. In an analysis of&amp;nbsp;nearly 150,000&amp;nbsp;individuals, he&amp;nbsp;identified&amp;nbsp;134&amp;nbsp;people with variants linked to malignant hyperthermia susceptibility, most of whom were previously unaware&amp;nbsp;</p>
+<p>Dr. Curry studies genetic risk at scale through Mayo Clinic's Research Data Atlas, a research platform that connects genomic data with clinical records across the institution. In an analysis of&nbsp;nearly 150,000&nbsp;individuals, he&nbsp;identified&nbsp;134&nbsp;people with variants linked to malignant hyperthermia susceptibility, most of whom were previously unaware&nbsp;</p>
 
 
 
 <div class="wp-block-columns has-background has-small-font-size is-layout-flex wp-container-core-columns-is-layout-37f4a46a wp-block-columns-is-layout-flex" style="border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;background-color:#d8d8d8;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)">
 <div class="wp-block-column is-layout-flow wp-container-core-column-is-layout-b2a27621 wp-block-column-is-layout-flow" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large is-resized has-custom-border"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-819x1024.jpg" alt="" class="wp-image-400009" style="border-width:10px;border-top-left-radius:33px;border-top-right-radius:33px;border-bottom-left-radius:33px;border-bottom-right-radius:33px;aspect-ratio:0.7998284681594021;width:280px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px" /></figure>
+<figure class="aligncenter size-large is-resized has-custom-border"><img loading="lazy" decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-819x1024.jpg" alt="" class="wp-image-400009" style="border-width:10px;border-top-left-radius:33px;border-top-right-radius:33px;border-bottom-left-radius:33px;border-bottom-right-radius:33px;aspect-ratio:0.7998284681594021;width:280px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-1229x1536.jpg 1229w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/02/Curry-Timothy-B._13601211_20240624-1638x2048.jpg 1638w" sizes="auto, (max-width: 819px) 100vw, 819px"></figure>
 </div></div>
 
 
 
 <div class="wp-block-column has-medium-font-size is-layout-flow wp-container-core-column-is-layout-92d440f1 wp-block-column-is-layout-flow" style="padding-top:0;padding-bottom:0">
-<figure class="wp-block-pullquote has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-bottom:0"><blockquote><p>"Traditionally, malignant hyperthermia declares itself in the operating room. By starting with genetics, we're able to find the risk long before that moment, and that opens the door to prevention rather than reaction."&amp;nbsp; - Dr. Timothy Curry</p></blockquote></figure>
+<figure class="wp-block-pullquote has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-bottom:0"><blockquote><p>"Traditionally, malignant hyperthermia declares itself in the operating room. By starting with genetics, we're able to find the risk long before that moment, and that opens the door to prevention rather than reaction."&nbsp; - Dr. Timothy Curry</p></blockquote></figure>
 </div>
 </div>
 
@@ -567,57 +559,57 @@
 
 
 
-<p>The two physicians trained together early in their careers. When Dr. Curry realized that Dr. Jacob was among those&amp;nbsp;identified, the work became personal, he says.&amp;nbsp;</p>
+<p>The two physicians trained together early in their careers. When Dr. Curry realized that Dr. Jacob was among those&nbsp;identified, the work became personal, he says.&nbsp;</p>
 
 
 
-<p>Dr. Curry's goal is to&amp;nbsp;identify&amp;nbsp;people with previously unrecognized malignant hyperthermia risk before they ever need anesthesia.&amp;nbsp;That early knowledge matters because anesthesia drugs linked to malignant hyperthermia remain essential in emergencies, including trauma cases or when clinicians must quickly secure a patient's airway.&amp;nbsp;</p>
+<p>Dr. Curry's goal is to&nbsp;identify&nbsp;people with previously unrecognized malignant hyperthermia risk before they ever need anesthesia.&nbsp;That early knowledge matters because anesthesia drugs linked to malignant hyperthermia remain essential in emergencies, including trauma cases or when clinicians must quickly secure a patient's airway.&nbsp;</p>
 
 
 
-<p>"Traditionally, malignant hyperthermia declares itself in the operating room,"&amp;nbsp;Dr. Curry says.&amp;nbsp;"By starting with genetics, we're able to find the risk long before that moment, and that opens the door to prevention rather than reaction."&amp;nbsp;</p>
+<p>"Traditionally, malignant hyperthermia declares itself in the operating room,"&nbsp;Dr. Curry says.&nbsp;"By starting with genetics, we're able to find the risk long before that moment, and that opens the door to prevention rather than reaction."&nbsp;</p>
 
 
 
-<p>In parallel,&amp;nbsp;Dr. Curry and his team are&amp;nbsp;reviewing medical records for the people&amp;nbsp;identified&amp;nbsp;to see whether any experienced anesthesia reactions before the risk was known.&amp;nbsp;</p>
+<p>In parallel,&nbsp;Dr. Curry and his team are&nbsp;reviewing medical records for the people&nbsp;identified&nbsp;to see whether any experienced anesthesia reactions before the risk was known.&nbsp;</p>
 
 
 
-<h2 class="wp-block-heading"><strong>Turning genetic findings into&amp;nbsp;clinical guidance</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Turning genetic findings into&nbsp;clinical guidance</strong>&nbsp;</h2>
 
 
 
-<p>Identifying&amp;nbsp;genetic&amp;nbsp;risk&amp;nbsp;is&amp;nbsp;only the first step.&amp;nbsp;Making sure it informs care requires ongoing education for providers,&amp;nbsp;patients&amp;nbsp;and families.&amp;nbsp;</p>
+<p>Identifying&nbsp;genetic&nbsp;risk&nbsp;is&nbsp;only the first step.&nbsp;Making sure it informs care requires ongoing education for providers,&nbsp;patients&nbsp;and families.&nbsp;</p>
 
 
 
-<p>That work involves&amp;nbsp;<a href="https://www.mayo.edu/research/faculty/pinto-e-vairo-filippo-m-d-ph-d/bio-20503559" target="_blank" rel="noreferrer noopener">Dr. Filippo Pinto e Vairo</a>, medical director of Mayo Clinic's Program for Rare and Undiagnosed Diseases, along with a team of genetic counselors.&amp;nbsp;When a potential genetic risk is&amp;nbsp;identified,&amp;nbsp;this team works with patients and families to confirm the finding and explain what it means for their care. The result is then integrated into the medical record so anesthesia teams can plan future care and avoid triggering drugs.&amp;nbsp;</p>
+<p>That work involves&nbsp;<a href="https://www.mayo.edu/research/faculty/pinto-e-vairo-filippo-m-d-ph-d/bio-20503559" target="_blank" rel="noreferrer noopener">Dr. Filippo Pinto e Vairo</a>, medical director of Mayo Clinic's Program for Rare and Undiagnosed Diseases, along with a team of genetic counselors.&nbsp;When a potential genetic risk is&nbsp;identified,&nbsp;this team works with patients and families to confirm the finding and explain what it means for their care. The result is then integrated into the medical record so anesthesia teams can plan future care and avoid triggering drugs.&nbsp;</p>
 
 
 
 <div class="wp-block-columns has-background is-layout-flex wp-container-core-columns-is-layout-8d88fe0f wp-block-columns-is-layout-flex" style="background-color:#d9d9d9;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="wp-block-image">
-<figure class="aligncenter size-large is-resized has-custom-border"><img loading="lazy" decoding="async" width="715" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-715x1024.jpg" alt="" class="wp-image-401683" style="border-width:10px;border-top-left-radius:33px;border-top-right-radius:33px;border-bottom-left-radius:33px;border-bottom-right-radius:33px;aspect-ratio:0.6982484289343495;width:257px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-715x1024.jpg 715w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-209x300.jpg 209w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-768x1100.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1.jpg 1047w" sizes="auto, (max-width: 715px) 100vw, 715px" /></figure>
+<figure class="aligncenter size-large is-resized has-custom-border"><img loading="lazy" decoding="async" width="715" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-715x1024.jpg" alt="" class="wp-image-401683" style="border-width:10px;border-top-left-radius:33px;border-top-right-radius:33px;border-bottom-left-radius:33px;border-bottom-right-radius:33px;aspect-ratio:0.6982484289343495;width:257px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-715x1024.jpg 715w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-209x300.jpg 209w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1-768x1100.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/04/Pinto-e-Vairo-Filippo_20135475_202107070119-1-1.jpg 1047w" sizes="auto, (max-width: 715px) 100vw, 715px"></figure>
 </div></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-pullquote has-small-font-size" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"This is an extraordinary time in genomics. At Mayo Clinic, we're increasingly integrating genomics into clinical care at scale, and it's changing what's possible across healthcare."&amp;nbsp;- Dr. Pinto e Vairo</p></blockquote></figure>
+<figure class="wp-block-pullquote has-small-font-size" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"This is an extraordinary time in genomics. At Mayo Clinic, we're increasingly integrating genomics into clinical care at scale, and it's changing what's possible across healthcare."&nbsp;- Dr. Pinto e Vairo</p></blockquote></figure>
 </div>
 </div>
 
 
 
-<p>That same approach extends beyond malignant hyperthermia. Dr. Pinto e Vairo&amp;nbsp;and the&amp;nbsp;team&amp;nbsp;apply&amp;nbsp;it to a growing range of genetic findings that can meaningfully change care.&amp;nbsp;</p>
+<p>That same approach extends beyond malignant hyperthermia. Dr. Pinto e Vairo&nbsp;and the&nbsp;team&nbsp;apply&nbsp;it to a growing range of genetic findings that can meaningfully change care.&nbsp;</p>
 
 
 
-<p>"This is an extraordinary time in genomics,"&amp;nbsp;Dr. Pinto e Vairo says.&amp;nbsp;"At Mayo Clinic, we're increasingly integrating genomics into clinical care at scale, and it's changing what's possible across healthcare."&amp;nbsp;</p>
+<p>"This is an extraordinary time in genomics,"&nbsp;Dr. Pinto e Vairo says.&nbsp;"At Mayo Clinic, we're increasingly integrating genomics into clinical care at scale, and it's changing what's possible across healthcare."&nbsp;</p>
 
 
 
-<p>In addition to malignant hyperthermia, Mayo Clinic researchers are returning genetic results linked to hereditary cancers, heart disease, metabolic diseases&amp;nbsp;and other risks where early knowledge can guide care.&amp;nbsp;</p>
+<p>In addition to malignant hyperthermia, Mayo Clinic researchers are returning genetic results linked to hereditary cancers, heart disease, metabolic diseases&nbsp;and other risks where early knowledge can guide care.&nbsp;</p>
 
 
 
@@ -625,15 +617,15 @@
 
 
 
-<p>Genetic testing for malignant hyperthermia risk is now incorporated into Mayo Clinic's preoperative care pathways, shifting anesthesia care from reaction to prevention.&amp;nbsp;</p>
+<p>Genetic testing for malignant hyperthermia risk is now incorporated into Mayo Clinic's preoperative care pathways, shifting anesthesia care from reaction to prevention.&nbsp;</p>
 
 
 
-<p>For Dr. Jacob and his family, that shift transformed&amp;nbsp;a hidden, life-threatening risk into one that can be&amp;nbsp;anticipated, planned&amp;nbsp;for&amp;nbsp;and prevented.&amp;nbsp;</p>
+<p>For Dr. Jacob and his family, that shift transformed&nbsp;a hidden, life-threatening risk into one that can be&nbsp;anticipated, planned&nbsp;for&nbsp;and prevented.&nbsp;</p>
 
 
 
-<p>"This knowledge gives us peace of mind,&amp;nbsp;and a way forward,"&amp;nbsp;Dr. Jacob says.</p>
+<p>"This knowledge gives us peace of mind,&nbsp;and a way forward,"&nbsp;Dr. Jacob says.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-uses-dna-screening-to-prevent-life-threatening-reactions-during-anesthesia/">(VIDEO) Mayo Clinic uses DNA screening to prevent life-threatening reactions during anesthesia</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -641,29 +633,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/1x1JACOB-FAMILY.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-JACOB-FAMILY.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Adam Jacob]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Timothy Curry]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Mayo Clinic]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Adam Jacob]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Timothy Curry]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>A century of discovery: Mayo Clinic Proceedings marks 100 years of advancing medical research, education and practice</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/a-century-of-discovery-mayo-clinic-proceedings-marks-100-years-of-advancing-medical-research-education-and-practice/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/a-century-of-discovery-mayo-clinic-proceedings-marks-100-years-of-advancing-medical-research-education-and-practice/
 		
-		<dc:creator><![CDATA[Jay Furst]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 15:31:34 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Karl Nath]]></category>
-		<category><![CDATA[Dr. S. Vincent Rajkumar]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=412072</guid>
+		<dc:creator><!--[CDATA[Jay Furst]]--></dc:creator>
+		<pubdate>Mon, 23 Mar 2026 15:31:34 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Karl Nath]]--></category>
+		<category><!--[CDATA[Dr. S. Vincent Rajkumar]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=412072</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — For 100 years, Mayo Clinic Proceedings has helped shape the course of modern medicine — publishing discoveries that move from the page to the bedside and improve care for patients around the world. As the journal approaches its centennial in April 2026, Mayo Clinic is marking the milestone with events, exhibitions and [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — For 100 years, Mayo Clinic Proceedings has helped shape the course of modern medicine — publishing discoveries that move from the page to the bedside and improve care for patients around the world. As the journal approaches its centennial in April 2026, Mayo Clinic is marking the milestone with events, exhibitions and […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/a-century-of-discovery-mayo-clinic-proceedings-marks-100-years-of-advancing-medical-research-education-and-practice/">A century of discovery: Mayo Clinic Proceedings marks 100 years of advancing medical research, education and practice</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-1024x576.jpg" alt="" class="wp-image-412130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings.jpg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-1024x576.jpg" alt="" class="wp-image-412130" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings.jpg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -683,7 +675,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-300x200.jpg" alt="Portrait of Dr. Karl Nath outdoors" class="wp-image-412133" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005.jpg 1687w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Karl Nath, M.B., Ch.B., M.D.</figcaption></figure>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-300x200.jpg" alt="Portrait of Dr. Karl Nath outdoors" class="wp-image-412133" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Karl-Nath_WF597869_0005.jpg 1687w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Karl Nath, M.B., Ch.B., M.D.</figcaption></figure>
 </div>
 
 
@@ -703,7 +695,7 @@
 
 
 
-<p>The journal, which has featured cutting-edge work on artificial intelligence in cardiology, digital health innovation and physician well-being, has two open-access expansion journals: <a href="https://www.mcpiqojournal.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Proceedings: Innovations, Quality &amp;amp; Outcomes</a> and <a href="https://www.mcpdigitalhealth.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Proceedings: Digital Health</a>. Both have been accepted by Clarivate for Impact Factor ratings, a marker of influence and quality in academic publishing.</p>
+<p>The journal, which has featured cutting-edge work on artificial intelligence in cardiology, digital health innovation and physician well-being, has two open-access expansion journals: <a href="https://www.mcpiqojournal.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Proceedings: Innovations, Quality &amp; Outcomes</a> and <a href="https://www.mcpdigitalhealth.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Proceedings: Digital Health</a>. Both have been accepted by Clarivate for Impact Factor ratings, a marker of influence and quality in academic publishing.</p>
 
 
 
@@ -741,7 +733,7 @@
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -759,28 +751,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Proceedings.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Karl Nath]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. S. Vincent Rajkumar]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Karl Nath]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. S. Vincent Rajkumar]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic remembers Dr. Amir Lerman, visionary cardiovascular researcher</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-dr-amir-lerman-visionary-cardiovascular-researcher/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-dr-amir-lerman-visionary-cardiovascular-researcher/
 		
-		<dc:creator><![CDATA[Julie Vera]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 12:23:20 +0000</pubDate>
-				<category><![CDATA[Cardiovascular]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Medical Innovation]]></category>
-		<category><![CDATA[News Cycle]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Amir Lerman]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411671</guid>
+		<dc:creator><!--[CDATA[Julie Vera]]--></dc:creator>
+		<pubdate>Tue, 17 Mar 2026 12:23:20 +0000</pubdate>
+				<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Medical Innovation]]--></category>
+		<category><!--[CDATA[News Cycle]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Amir Lerman]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411671</guid>
 
-					<description><![CDATA[<p>Amir Lerman, M.D., a cardiovascular physician-scientist, mentor, research leader and active Mayo Clinic staff member, passed away Feb. 23 at age 69. During his nearly 40 years at Mayo Clinic, he became one of the world’s foremost authorities on microvascular function and cardiovascular disease. Dr. Lerman earned his doctor of science degree and M.D. in [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->Amir Lerman, M.D., a cardiovascular physician-scientist, mentor, research leader and active Mayo Clinic staff member, passed away Feb. 23 at age 69. During his nearly 40 years at Mayo Clinic, he became one of the world’s foremost authorities on microvascular function and cardiovascular disease. Dr. Lerman earned his doctor of science degree and M.D. in […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-dr-amir-lerman-visionary-cardiovascular-researcher/">Mayo Clinic remembers Dr. Amir Lerman, visionary cardiovascular researcher</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg" alt="Headshot, Dr. Amir Lerman, cardiovascular" class="wp-image-411670" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1.jpg 1603w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Amir Lerman</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg" alt="Headshot, Dr. Amir Lerman, cardiovascular" class="wp-image-411670" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1.jpg 1603w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Amir Lerman</figcaption>
 
 
 
@@ -836,29 +828,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.-Amir-Lerman-WF5489718-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Amir Lerman]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Amir Lerman]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers use milk-derived nanoparticles to target aggressive bile duct cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-milk-derived-nanoparticles-to-target-aggressive-bile-duct-cancer/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-milk-derived-nanoparticles-to-target-aggressive-bile-duct-cancer/
 		
-		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Rory Smoot]]></category>
-		<category><![CDATA[Minnesota News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411722</guid>
+		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
+		<pubdate>Mon, 16 Mar 2026 13:00:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Rory Smoot]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411722</guid>
 
-					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have developed a promising new way to deliver treatment directly to cholangiocarcinoma tumors, a rare and aggressive bile duct cancer with limited treatment options, using milk-derived nanoparticles that act like guided delivery vehicles. The findings, published in JHEP Reports, point to a potential targeted genetic therapy designed to attack [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have developed a promising new way to deliver treatment directly to cholangiocarcinoma tumors, a rare and aggressive bile duct cancer with limited treatment options, using milk-derived nanoparticles that act like guided delivery vehicles. The findings, published in JHEP Reports, point to a potential targeted genetic therapy designed to attack […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-use-milk-derived-nanoparticles-to-target-aggressive-bile-duct-cancer/">Mayo Clinic researchers use milk-derived nanoparticles to target aggressive bile duct cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg" alt="Processing samples using a pipette in a research laboratory" class="wp-image-411775" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg" alt="Processing samples using a pipette in a research laboratory" class="wp-image-411775" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -928,30 +920,30 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Processing-samples-using-a-pipette_1677355_3886456_0037_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Rory Smoot]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Rory Smoot]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic team takes quantum leap to win global competition&nbsp;with brain-signal model</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-team-takes-quantum-leap-to-win-global-competition-with-brain-signal-model/</link>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-team-takes-quantum-leap-to-win-global-competition-with-brain-signal-model/
 		
-		<dc:creator><![CDATA[Susan Murphy]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 13:21:59 +0000</pubDate>
-				<category><![CDATA[Discovery Science]]></category>
-		<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[International]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Dr. Charles Bruce]]></category>
-		<category><![CDATA[Dr. Rickey Carter]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411604</guid>
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Wed, 11 Mar 2026 13:21:59 +0000</pubdate>
+				<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[International]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Charles Bruce]]--></category>
+		<category><!--[CDATA[Dr. Rickey Carter]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411604</guid>
 
-					<description><![CDATA[<p>On a global stage in Berlin, surrounded by leading scientists and engineers in quantum computing, a Mayo Clinic team earned first place at the Berlin Quantum Hackathon 2026. The five-week hackathon challenged six finalist teams to prove that quantum computing — one of science's newest and most complex frontiers — can solve meaningful problems beyond [&amp;#8230;]</p>
+					<description><!--[CDATA[<p-->On a global stage in Berlin, surrounded by leading scientists and engineers in quantum computing, a Mayo Clinic team earned first place at the Berlin Quantum Hackathon 2026. The five-week hackathon challenged six finalist teams to prove that quantum computing — one of science's newest and most complex frontiers — can solve meaningful problems beyond […]<p></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-team-takes-quantum-leap-to-win-global-competition-with-brain-signal-model/">Mayo Clinic team takes quantum leap to win global competition&nbsp;with brain-signal model</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-1024x576.png" alt="" class="wp-image-411608" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Rickey Carter (left) and Dr. Charles Bruce (right) hold a first-place sign after Mayo Clinic’s team won the Berlin Quantum Hackathon on March 5, 2026. Photo by Hugo Paquin, Kipu Quantum.</figcaption></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-1024x576.png" alt="" class="wp-image-411608" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Rickey Carter (left) and Dr. Charles Bruce (right) hold a first-place sign after Mayo Clinic’s team won the Berlin Quantum Hackathon on March 5, 2026. Photo by Hugo Paquin, Kipu Quantum.</figcaption>
 
 
 
@@ -963,7 +955,7 @@
 
 
 
-<p>The Mayo team built a novel quantum-powered model capable of detecting movement intention directly from brain activity.&amp;nbsp;</p>
+<p>The Mayo team built a novel quantum-powered model capable of detecting movement intention directly from brain activity.&nbsp;</p>
 
 
 
@@ -971,7 +963,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="593" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-1024x593.jpg" alt="" class="wp-image-411619" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-1024x593.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-300x174.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-768x445.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-1536x890.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99.jpg 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Attendees watch a team presentation during the Berlin Quantum Hackathon 2026. Photo by Hugo Paquin, Kipu Quantum.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="593" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-1024x593.jpg" alt="" class="wp-image-411619" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-1024x593.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-300x174.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-768x445.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99-1536x890.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Quantum99.jpg 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Attendees watch a team presentation during the Berlin Quantum Hackathon 2026. Photo by Hugo Paquin, Kipu Quantum.</figcaption></figure>
 
 
 
@@ -987,7 +979,7 @@
 
 
 
-<figure class="wp-block-pullquote has-background" style="background-color:#0056b80f;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><blockquote><p>"When our model&amp;nbsp;executed&amp;nbsp;successfully on a quantum computer, it felt like stepping into the next&amp;nbsp;chapter&amp;nbsp;of science.&amp;nbsp;In that moment, we realized we weren't just observing this field — we were helping shape it."&amp;nbsp;</p><cite>Miko Wieczorek</cite></blockquote></figure>
+<figure class="wp-block-pullquote has-background" style="background-color:#0056b80f;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><blockquote><p>"When our model&nbsp;executed&nbsp;successfully on a quantum computer, it felt like stepping into the next&nbsp;chapter&nbsp;of science.&nbsp;In that moment, we realized we weren't just observing this field — we were helping shape it."&nbsp;</p><cite>Miko Wieczorek</cite></blockquote></figure>
 
 
 
@@ -1023,11 +1015,11 @@
 
 
 
-<h2 class="wp-block-heading"><strong>At the leading edge of discovery</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>At the leading edge of discovery</strong>&nbsp;</h2>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="246" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-1024x246.jpeg" alt="" class="wp-image-411617" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-1024x246.jpeg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-300x72.jpeg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-768x184.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-1536x369.jpeg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-2048x492.jpeg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Left to right: Dr. Rickey Carter, Dr. Charles Bruce, Dr. Michele Dougherty, Miko Wieczorek and Dr. Feifei Li</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="246" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-1024x246.jpeg" alt="" class="wp-image-411617" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-1024x246.jpeg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-300x72.jpeg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-768x184.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-1536x369.jpeg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/QUANTUM-MAYO-2048x492.jpeg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Left to right: Dr. Rickey Carter, Dr. Charles Bruce, Dr. Michele Dougherty, Miko Wieczorek and Dr. Feifei Li</figcaption></figure>
 
 
 
@@ -1043,7 +1035,7 @@
 
 
 
-<figure class="wp-block-pullquote has-background" style="background-color:#0056b814;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"Some&amp;nbsp;scientific questions remain&amp;nbsp;unsolved not because we lack data, but because of how&amp;nbsp;difficult they are to model. Quantum computing gives us a different way to approach that complexity."&amp;nbsp;</p><cite>Dr. Feifei li</cite></blockquote></figure>
+<figure class="wp-block-pullquote has-background" style="background-color:#0056b814;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"Some&nbsp;scientific questions remain&nbsp;unsolved not because we lack data, but because of how&nbsp;difficult they are to model. Quantum computing gives us a different way to approach that complexity."&nbsp;</p><cite>Dr. Feifei li</cite></blockquote></figure>
 
 
 
@@ -1083,7 +1075,7 @@
 
 
 
-<h2 class="wp-block-heading"><strong>Shaping the frontier</strong>&amp;nbsp;</h2>
+<h2 class="wp-block-heading"><strong>Shaping the frontier</strong>&nbsp;</h2>
 
 
 
@@ -1099,27 +1091,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/1x1-Quantum-hackathon.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/16x9-4quantum-hackathon.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Charles Bruce]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Rickey Carter]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Charles Bruce]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Rickey Carter]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic researchers find combination therapy reduces effects of &amp;#8216;zombie cells&amp;#8217; in diabetic kidney disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-combination-therapy-reduces-effects-of-zombie-cells-in-diabetic-kidney-disease/</link>
+		<title>Mayo Clinic researchers find combination therapy reduces effects of ‘zombie cells’ in diabetic kidney disease</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-combination-therapy-reduces-effects-of-zombie-cells-in-diabetic-kidney-disease/
 		
-		<dc:creator><![CDATA[Kate Ledger]]></dc:creator>
-		<pubDate>Thu, 05 Mar 2026 16:22:02 +0000</pubDate>
-				<category><![CDATA[Featured News]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[News Releases]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[#Newsapp]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[Florida News Releases]]></category>
-		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=411306</guid>
+		<dc:creator><!--[CDATA[Kate Ledger]]--></dc:creator>
+		<pubdate>Thu, 05 Mar 2026 16:22:02 +0000</pubdate>
+				<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Florida]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Florida News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=411306</guid>
 
-					<description><![CDATA[<p>JACKSONVILLE, Fla. — Mayo Clinic researchers have identified a drug-and-supplement combination therapy that is capable of reducing the harmful effects of senescent cells – also known as "zombie cells" – in diabetic kidney disease. In eBioMedicine, a publication of The Lancet, the team reported that the combination of the cancer drug dasatanib and a naturally [&amp;#8230;]</p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-combination-therapy-reduces-effects-of-zombie-cells-in-diabetic-kidney-disease/">Mayo Clinic researchers find combination therapy reduces effects of &amp;#8216;zombie cells&amp;#8217; in diabetic kidney disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><!--[CDATA[<p-->JACKSONVILLE, Fla. — Mayo Clinic researchers have identified a drug-and-supplement combination therapy that is capable of reducing the harmful effects of senescent cells – also known as "zombie cells" – in diabetic kidney disease. In eBioMedicine, a publication of The Lancet, the team reported that the combination of the cancer drug dasatanib and a naturally […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-combination-therapy-reduces-effects-of-zombie-cells-in-diabetic-kidney-disease/">Mayo Clinic researchers find combination therapy reduces effects of ‘zombie cells’ in diabetic kidney disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-1024x682.jpg" alt="Setting up specimens with a calibrated pipette in a medical lab for testing of samples and performing research analysis." class="wp-image-411536" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-1024x682.jpg" alt="Setting up specimens with a calibrated pipette in a medical lab for testing of samples and performing research analysis." class="wp-image-411536" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -1131,7 +1123,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="225" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.LaTonyaHicksonPREFERREDphoto-225x300.jpg" alt="Portrait of Dr. LaTonya Hickson" class="wp-image-411534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.LaTonyaHicksonPREFERREDphoto-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.LaTonyaHicksonPREFERREDphoto.jpg 600w" sizes="auto, (max-width: 225px) 100vw, 225px" /><figcaption class="wp-element-caption">LaTonya Hickson, M.D.</figcaption></figure>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="225" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.LaTonyaHicksonPREFERREDphoto-225x300.jpg" alt="Portrait of Dr. LaTonya Hickson" class="wp-image-411534" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.LaTonyaHicksonPREFERREDphoto-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Dr.LaTonyaHicksonPREFERREDphoto.jpg 600w" sizes="auto, (max-width: 225px) 100vw, 225px"><figcaption class="wp-element-caption">LaTonya Hickson, M.D.</figcaption></figure>
 </div>
 
 
@@ -1143,7 +1135,7 @@
 
 
 
-<p>In a previously conducted, pilot clinical trial, Dr. Hickson and Mayo Clinic researchers <a href="https://www.sciencedirect.com/science/article/pii/S2352396419305912?via%3Dihub" target="_blank" rel="noreferrer noopener">found</a> that the combination of dasatanib and quercetin <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(19)30591-2/fulltext" target="_blank" rel="noreferrer noopener">reduced</a> senescent cells in skin and fat tissues in patients with diabetic kidney disease. However, the effect of the combination therapy on senescence and protective factors in the diabetic kidney had not yet been described. &amp;nbsp;</p>
+<p>In a previously conducted, pilot clinical trial, Dr. Hickson and Mayo Clinic researchers <a href="https://www.sciencedirect.com/science/article/pii/S2352396419305912?via%3Dihub" target="_blank" rel="noreferrer noopener">found</a> that the combination of dasatanib and quercetin <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(19)30591-2/fulltext" target="_blank" rel="noreferrer noopener">reduced</a> senescent cells in skin and fat tissues in patients with diabetic kidney disease. However, the effect of the combination therapy on senescence and protective factors in the diabetic kidney had not yet been described. &nbsp;</p>
 
 
 
@@ -1163,11 +1155,11 @@
 
 
 
-<p>###&amp;nbsp;</p>
+<p>###&nbsp;</p>
 
 
 
-<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -1178,13 +1170,13 @@
 <ul class="wp-block-list">
 <li>Kelley Luckstein, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-combination-therapy-reduces-effects-of-zombie-cells-in-diabetic-kidney-disease/">Mayo Clinic researchers find combination therapy reduces effects of &amp;#8216;zombie cells&amp;#8217; in diabetic kidney disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-find-combination-therapy-reduces-effects-of-zombie-cells-in-diabetic-kidney-disease/">Mayo Clinic researchers find combination therapy reduces effects of ‘zombie cells’ in diabetic kidney disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/03/Clinical-Laboratory-for-Research-or-Specimen-Analysis_WF200354_0006_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
-	</channel>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+	</atom:link></channel>
 </rss> 
