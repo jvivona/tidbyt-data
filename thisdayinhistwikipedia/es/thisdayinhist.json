@@ -1,5 +1,170 @@
 {
-    "events": [],
+    "events": [
+        {
+            "text": "se llevaron a cabo las elecciones presidenciales en Francia, Emmanuel Macron y Marine Le Pen pasaron a segunda vuelta.",
+            "year": 2022
+        },
+        {
+            "text": "la banda neoyorquina The Strokes lanza The New Abnormal, tras 7 años de ausencia.",
+            "year": 2020
+        },
+        {
+            "text": "el consorcio internacional Event Horizon Telescope presentó la primera imagen jamás capturada de un agujero negro ubicado en el centro de la galaxia M87.",
+            "year": 2019
+        },
+        {
+            "text": "en Perú, se lleva a cabo la primera vuelta de las elecciones generales, en la cual pasaron a la segunda vuelta Keiko Fujimori y Pedro Pablo Kuczynski.",
+            "year": 2016
+        },
+        {
+            "text": "en Nicaragua, un terremoto de 6.2 grados en la escala Richter, con epicentro en el lago de Managua, causa 1 muerto, 38 heridos y varias casas dañadas en los departamentos de León y Managua.",
+            "year": 2014
+        },
+        {
+            "text": "en Uruguay se aprueba la Ley de matrimonio igualitario.",
+            "year": 2013
+        },
+        {
+            "text": "en Perú, se desarrolla la primera vuelta de las elecciones generales. Los candidatos Ollanta Humala y Keiko Fujimori, pasan a la segunda vuelta.",
+            "year": 2011
+        },
+        {
+            "text": "se estrella un avión Túpolev Tu-154, durante la maniobra de aterrizaje en la base aérea de Smolensk, falleciendo todos sus ocupantes, entre ellos el presidente polaco Lech Kaczyński y la cúpula militar del ejército polaco.",
+            "year": 2010
+        },
+        {
+            "text": "se inaugura el puente atirantado Príncipe de Viana en Lérida.",
+            "year": 2010
+        },
+        {
+            "text": "se crea la página de programación competitiva Codeforces.",
+            "year": 2009
+        },
+        {
+            "text": "se lanza Mario Kart Wii, un videojuego de carreras para las plataformas de Wii. Esta entrega se convierte en la más vendida de la serie Mario Kart y aquí apareció por primera vez el accesorio Wii Wheel.",
+            "year": 2008
+        },
+        {
+            "text": "en Argentina se estrena la telenovela Patito Feo.",
+            "year": 2007
+        },
+        {
+            "text": "se produce el saqueo del Museo Nacional de Bagdad en el curso de la invasión de Irak de 2003.",
+            "year": 2003
+        },
+        {
+            "text": "en Belfast (Irlanda del Norte) se firma el Acuerdo de Viernes Santo.",
+            "year": 1998
+        },
+        {
+            "text": "en Colombia se estrenan dos nuevos canales de televisión: R.T.I. y Colombiana de Televisión.",
+            "year": 1995
+        },
+        {
+            "text": "se celebran en Argentina las elecciones a la Convención Nacional Constituyente de 1994 encargada de la reforma parcial de la constitución.",
+            "year": 1994
+        },
+        {
+            "text": "en la ciudad de Maraghar (República de Nagorno Karabaj), en el marco de la Guerra de Nagorno Karabaj y en venganza por la masacre de Khojaly, soldados del ejército de Azerbaiyán asesinan a 45 armenios y secuestran a 100 mujeres y niños. (Masacre de Maraghar).",
+            "year": 1992
+        },
+        {
+            "text": "se inaugura el actual edificio de la Biblioteca Nacional de Argentina.",
+            "year": 1992
+        },
+        {
+            "text": "alrededor de 300 000 personas llenan la Plaza de Mayo en respaldo a la reocupación argentina de Malvinas.",
+            "year": 1982
+        },
+        {
+            "text": "Golda Meir renuncia como primer ministro de Israel. La reemplaza Yitzhak Rabin.",
+            "year": 1974
+        },
+        {
+            "text": "Oberdan Sallustro, cargo del Grupo Fiat, luego de 20 días de secuestro en Buenos Aires, es ejecutado por guerrilleros del ERP.",
+            "year": 1972
+        },
+        {
+            "text": "Paul McCartney anuncia la separación de The Beatles.",
+            "year": 1970
+        },
+        {
+            "text": "el cantautor británico Elton John, publica su segundo álbum de estudio, Elton John.",
+            "year": 1970
+        },
+        {
+            "text": "en Nueva York se estrena House of Wax, la segunda película 3-D producida por las grandes compañías cinematográficas, tan solo dos días después de que se estrenó la primera, \"Man in the dark\" (en inglés), el 8 de abril de 1953, de la Columbia Pictures. Incluso en 1922 se proyectó un largometraje en cine 3D.",
+            "year": 1953
+        },
+        {
+            "text": "en la aldea de Deir Yassin, en las afueras al oeste de Jerusalén, decenas de hombres de las bandas terroristas israelíes Irgún y Leji atacan a la población civil, secuestran a 254 pobladores ―entre ellos 30 bebés―, violan a las mujeres y las niñas, y los asesinan (masacre de Deir Yassin).",
+            "year": 1948
+        },
+        {
+            "text": "en Alemania, el presidente Paul von Hindenburg es reelecto, derrotando por amplia mayoría a Adolf Hitler en la tercera y la última elección presidencial de Alemania (de carácter popular).",
+            "year": 1932
+        },
+        {
+            "text": "en Montevideo (Uruguay) se inaugura el Salus Football Club.",
+            "year": 1928
+        },
+        {
+            "text": "en Nueva York (Estados Unidos) se publica por primera vez la novela The Great Gatsby, de F. Scott Fitzgerald.",
+            "year": 1925
+        },
+        {
+            "text": "en México es asesinado Emiliano Zapata, uno de los líderes de la Revolución Mexicana.",
+            "year": 1919
+        },
+        {
+            "text": "el transatlántico Titanic sale del puerto de Southampton (Reino Unido) con destino a Nueva York (Estados Unidos).",
+            "year": 1912
+        },
+        {
+            "text": "en la calle de Caishikou, en la ciudad de Pekín (China) sucede la ejecución (mediante la muerte por mil cortes) de Fu-zhu-li, condenado por matar a un príncipe. Doce fotografías de esta ejecución recorrerán el mundo como tarjetas postales.",
+            "year": 1905
+        },
+        {
+            "text": "en Sevilla (España) tiene lugar el primer ensayo español del telégrafo sin hilos.",
+            "year": 1899
+        },
+        {
+            "text": "en Cuba, José Martí funda el Partido Revolucionario Cubano (PRC).",
+            "year": 1892
+        },
+        {
+            "text": "en Buenos Aires se inaugura el primer Congreso Pedagógico celebrado en América Latina.",
+            "year": 1882
+        },
+        {
+            "text": "en Guáimaro, Camagüey, se redacta la primera Constitución de la República de Cuba.",
+            "year": 1869
+        },
+        {
+            "text": "se estrena el Un réquiem alemán (Ein deutsches requiem) de Johannes Brahms.",
+            "year": 1868
+        },
+        {
+            "text": "en Madrid la policía desata una represión sangrienta contra protestas estudiantiles de la Universidad Central de Madrid. (Noche de San Daniel).",
+            "year": 1865
+        },
+        {
+            "text": "en México, el archiduque Maximiliano de Habsburgo es nombrado emperador de México.",
+            "year": 1864
+        },
+        {
+            "text": "en Hawái se abre el primer hotel.",
+            "year": 1825
+        },
+        {
+            "text": "en las islas menores de la Sonda (Indonesia) entra en erupción el volcán Tambora, dejando un saldo de 82 000 víctimas fatales.",
+            "year": 1815
+        },
+        {
+            "text": "en Gran Bretaña, entra en vigencia la primera ley sobre copyright, el Estatuto de Ana.",
+            "year": 1710
+        }
+    ],
     "births": [
         {
             "text": "Isabella García, actriz colombiana.",
@@ -1207,30 +1372,61 @@
             "d": "f",
             "title": "Hoy en Historia (Wikipedia)"
         },
-        "events": [],
-        "births": [
-            143,
-            208,
-            224,
+        "events": [
+            1,
+            10,
+            3,
+            34,
+            9,
+            35,
+            11,
+            19,
+            31,
+            38,
             26,
-            171,
-            149,
-            110,
-            29,
-            194,
-            156
+            15,
+            6,
+            14,
+            28,
+            33,
+            22,
+            2,
+            16,
+            17,
+            23,
+            18,
+            20,
+            40,
+            36,
+            27,
+            39,
+            30,
+            5,
+            37
+        ],
+        "births": [
+            71,
+            74,
+            133,
+            12,
+            132,
+            122,
+            64,
+            160,
+            112,
+            82
         ],
         "deaths": [
-            15,
-            39,
-            4,
-            59,
-            50,
-            24,
-            58,
+            41,
             66,
-            16,
-            63
+            49,
+            21,
+            56,
+            8,
+            43,
+            46,
+            0,
+            61
         ]
     }
 }
