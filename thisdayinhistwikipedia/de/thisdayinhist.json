@@ -291,10 +291,6 @@
             "year": 2002
         },
         {
-            "text": "Friedrich Stammbach, deutscher Generalmajor und Präsident des Bundesamtes für Wehrtechnik und Beschaffung",
-            "year": 1997
-        },
-        {
             "text": "Hugo Gießler, deutscher Schauspieler",
             "year": 1997
         },
@@ -411,7 +407,7 @@
             "year": 1987
         },
         {
-            "text": "Paul di Resta, britischer Rennfahrer",
+            "text": "Paul di Resta, britischer Automobilrennfahrer",
             "year": 1986
         },
         {
@@ -447,7 +443,7 @@
             "year": 1983
         },
         {
-            "text": "James Winslow, britischer Rennfahrer",
+            "text": "James Winslow, britischer Automobilrennfahrer",
             "year": 1983
         },
         {
@@ -471,7 +467,7 @@
             "year": 1980
         },
         {
-            "text": "Christijan Albers, niederländischer Formel-1-Rennfahrer",
+            "text": "Christijan Albers, niederländischer Automobilrennfahrer",
             "year": 1979
         },
         {
@@ -743,15 +739,15 @@
             "year": 1962
         },
         {
-            "text": "Lukas Lichtner-Hoyer, österreichischer Unternehmer und Autorennfahrer",
+            "text": "Lukas Lichtner-Hoyer, österreichischer Unternehmer und Automobilrennfahrer",
             "year": 1962
         },
         {
-            "text": "Ian MacKaye, US-amerikanischer Musiker und Labelgründer",
+            "text": "Ian MacKaye, US-amerikanischer Musiker und Unternehmer",
             "year": 1962
         },
         {
-            "text": "Matthias Röhr, deutscher Gitarrist (Böhse Onkelz)",
+            "text": "Matthias Röhr, deutscher Gitarrist",
             "year": 1962
         },
         {
@@ -915,7 +911,7 @@
             "year": 1950
         },
         {
-            "text": "Thierry Perrier, französischer Autorennfahrer",
+            "text": "Thierry Perrier, französischer Automobilrennfahrer",
             "year": 1950
         },
         {
@@ -959,7 +955,7 @@
             "year": 1944
         },
         {
-            "text": "Frank Williams, Teamchef und Mitinhaber des Williams F1 Rennteams",
+            "text": "Frank Williams, britischer Unternehmer und Sportmanager",
             "year": 1942
         },
         {
@@ -1311,7 +1307,7 @@
             "year": 1900
         },
         {
-            "text": "Louis Gérard, französischer Unternehmer und Autorennfahrer",
+            "text": "Louis Gérard, französischer Unternehmer und Automobilrennfahrer",
             "year": 1899
         },
         {
@@ -1335,7 +1331,11 @@
             "year": 1897
         },
         {
-            "text": "Pierre Goutte, französischer Autorennfahrer",
+            "text": "Pierre Goutte, französischer Automobilrennfahrer",
+            "year": 1897
+        },
+        {
+            "text": "Friedrich Stammbach, deutscher Generalmajor und Präsident des Bundesamtes für Wehrtechnik und Beschaffung",
             "year": 1897
         },
         {
@@ -1415,7 +1415,7 @@
             "year": 1881
         },
         {
-            "text": "Léon Théry, französischer Rennfahrer",
+            "text": "Léon Théry, französischer Automobilrennfahrer",
             "year": 1879
         },
         {
@@ -2085,7 +2085,7 @@
             "year": 1989
         },
         {
-            "text": "José Dolhem, französischer Autorennfahrer",
+            "text": "José Dolhem, französischer Automobilrennfahrer",
             "year": 1988
         },
         {
@@ -2181,7 +2181,7 @@
             "year": 1958
         },
         {
-            "text": "Jean de Marguenat, französischer Regisseur, Drehbuchautor und Autorennfahrer",
+            "text": "Jean de Marguenat, französischer Regisseur, Drehbuchautor und Automobilrennfahrer",
             "year": 1956
         },
         {
@@ -2713,60 +2713,60 @@
             "title": "Geschichte heute (Wikipedia)"
         },
         "events": [
-            47,
+            65,
+            64,
             55,
-            61,
-            6,
-            62,
-            41,
-            30,
-            24,
-            39,
-            46,
-            27,
-            7,
-            4,
-            5,
-            21,
-            13,
-            50,
-            25,
-            53,
-            9,
-            10,
-            49,
-            22,
-            43,
-            52,
+            14,
+            54,
             44,
-            63,
+            2,
+            20,
+            8,
+            18,
+            11,
+            16,
+            30,
+            19,
+            13,
+            58,
+            26,
+            7,
+            25,
+            1,
+            49,
+            59,
+            46,
+            31,
             67,
-            3,
-            59
+            50,
+            39,
+            28,
+            63,
+            57
         ],
         "births": [
-            245,
-            77,
-            100,
-            92,
-            380,
-            127,
-            329,
-            353,
-            99,
-            135
+            101,
+            141,
+            61,
+            81,
+            22,
+            183,
+            124,
+            249,
+            144,
+            240
         ],
         "deaths": [
-            51,
-            5,
-            181,
-            67,
-            15,
-            195,
-            200,
-            92,
-            183,
-            105
+            122,
+            29,
+            26,
+            138,
+            53,
+            34,
+            210,
+            161,
+            57,
+            58
         ]
     }
 }
