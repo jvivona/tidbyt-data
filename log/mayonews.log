@@ -181,3 +181,30 @@ Traceback (most recent call last):
     raise CalledProcessError(retcode, process.args,
                              output=stdout, stderr=stderr)
 subprocess.CalledProcessError: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 1.
+[2026-05-05T09:12:02] start mayonews
+[2026-05-05T09:12:02] mayonews: fetching mayo-clinic-minute-2
+[2026-05-05T09:12:02] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/mayo-clinic-minute-2/feed/
+[2026-05-05T09:12:10] wrote /home/jvivona/agents/tidbyt-data/mayonews/mayo-clinic-minute-2.xml
+[2026-05-05T09:12:10] mayonews: fetching cancer
+[2026-05-05T09:12:10] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cancer/feed/
+[2026-05-05T09:12:13] wrote /home/jvivona/agents/tidbyt-data/mayonews/cancer.xml
+[2026-05-05T09:12:13] mayonews: fetching cardiovascular-2
+[2026-05-05T09:12:13] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/
+[2026-05-05T09:12:16] wrote /home/jvivona/agents/tidbyt-data/mayonews/cardiovascular-2.xml
+[2026-05-05T09:12:16] mayonews: fetching gastrointestinal-90
+[2026-05-05T09:12:16] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/
+[2026-05-05T09:12:20] wrote /home/jvivona/agents/tidbyt-data/mayonews/gastrointestinal-90.xml
+[2026-05-05T09:12:20] mayonews: fetching orthopedics-sports
+[2026-05-05T09:12:20] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/orthopedics-sports/feed/
+[2026-05-05T09:12:23] wrote /home/jvivona/agents/tidbyt-data/mayonews/orthopedics-sports.xml
+[2026-05-05T09:12:23] mayonews: fetching research
+[2026-05-05T09:12:23] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/research/feed/
+[2026-05-05T09:12:26] wrote /home/jvivona/agents/tidbyt-data/mayonews/research.xml
+[2026-05-05T09:12:26] mayonews: fetching transplant
+[2026-05-05T09:12:26] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/transplant/feed/
+[2026-05-05T09:12:32] wrote /home/jvivona/agents/tidbyt-data/mayonews/transplant.xml
+[2026-05-05T09:12:32] mayonews: fetching health-and-wellness
+[2026-05-05T09:12:32] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/
+[2026-05-05T09:12:36] wrote /home/jvivona/agents/tidbyt-data/mayonews/health-and-wellness.xml
+[2026-05-05T09:12:36] renamed research.xml -> research-2.xml
+[2026-05-05T09:12:36] git add --all in /home/jvivona/agents/tidbyt-data
