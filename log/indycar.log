@@ -129,3 +129,54 @@
 [2026-05-05T05:24:04] wrote /home/jvivona/agents/tidbyt-data/indycar/nxt/drv.json (24 drivers)
 [2026-05-05T05:24:04] wrote /home/jvivona/agents/tidbyt-data/indycar/nxt/nri.json (next race: Grand Prix of Indianapolis Race 1)
 [2026-05-05T05:24:04] git add --all in /home/jvivona/agents/tidbyt-data
+[2026-05-05T05:24:04] git commit -m 'IndyCar/NXT Update'
+[main d316db9aa] IndyCar/NXT Update
+ Committer: jvivona <jvivona@joe-agent.ajcomputers.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 6882 insertions(+), 5224 deletions(-)
+ create mode 100644 log/aadailyreflection.log
+ create mode 100644 log/formula1.log
+ create mode 100644 log/indycar.log
+ create mode 100644 log/mayonews.log
+ create mode 100644 log/nascar.log
+ create mode 100644 log/nationalday.log
+ create mode 100644 log/thisdayinhistwikipedia.log
+[2026-05-05T05:24:04] git push origin main
+To https://github.com/jvivona/tidbyt-data.git
+ ! [rejected]            main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/jvivona/tidbyt-data.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-05-05T05:24:04] ERROR: topic 'indycar' failed: CalledProcessError(1, ['git', 'push', 'origin', 'main'])
+[2026-05-05T05:24:04] notify: failure email sent to joe@ajcomputers.com
+[2026-05-05T05:24:04] finished indycar
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/__main__.py", line 3, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/cli.py", line 46, in main
+    commit_and_push(ctx.data_repo_path, ctx.commit_msg, dry_run=ctx.dry_run)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/publish.py", line 32, in commit_and_push
+    subprocess.run(["git", "push", "origin", "main"], cwd=data_repo_path, check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 1.
