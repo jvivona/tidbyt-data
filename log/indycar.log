@@ -454,3 +454,23 @@ To https://github.com/jvivona/tidbyt-data.git
 [2026-05-05T14:24:03] wrote /home/jvivona/agents/tidbyt-data/indycar/nxt/drv.json (24 drivers)
 [2026-05-05T14:24:03] wrote /home/jvivona/agents/tidbyt-data/indycar/nxt/nri.json (next race: Grand Prix of Indianapolis Race 1)
 [2026-05-05T14:24:03] git add --all in /home/jvivona/agents/tidbyt-data
+[2026-05-05T14:24:03] git commit -m 'IndyCar/NXT Update'
+[main 887b0fa8a] IndyCar/NXT Update
+ Committer: jvivona <jvivona@joe-agent.ajcomputers.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 30 insertions(+)
+[2026-05-05T14:24:03] git push origin main
+To https://github.com/jvivona/tidbyt-data.git
+   938f39af6..887b0fa8a  main -> main
+[2026-05-05T14:24:04] finished indycar
