@@ -259,10 +259,6 @@
             "year": 1991
         },
         {
-            "text": "Chris Brown, American singer-songwriter, dancer, and actor",
-            "year": 1989
-        },
-        {
             "text": "Agnes Knochenhauer, Swedish curler",
             "year": 1989
         },
@@ -271,12 +267,12 @@
             "year": 1988
         },
         {
-            "text": "Graham Dorrans, Scottish footballer",
-            "year": 1987
+            "text": "Mervyn Westfield, English cricketer",
+            "year": 1988
         },
         {
-            "text": "Shoko Nakagawa, Japanese actress and singer",
-            "year": 1985
+            "text": "Graham Dorrans, Scottish footballer",
+            "year": 1987
         },
         {
             "text": "Emanuele Giaccherini, Italian footballer",
@@ -285,6 +281,10 @@
         {
             "text": "P. J. Tucker, American basketball player",
             "year": 1985
+        },
+        {
+            "text": "James Anyon, English cricketer",
+            "year": 1983
         },
         {
             "text": "Henry Cavill, English actor",
@@ -309,14 +309,6 @@
         {
             "text": "Yossi Benayoun, Israeli footballer",
             "year": 1980
-        },
-        {
-            "text": "Hank Green, American entrepreneur, educator, and vlogger",
-            "year": 1980
-        },
-        {
-            "text": "Vincent Kartheiser, American actor",
-            "year": 1979
         },
         {
             "text": "Tiffany Roberts, American footballer",
@@ -383,23 +375,7 @@
             "year": 1964
         },
         {
-            "text": "Don Payne, American screenwriter and producer (died 2013)",
-            "year": 1964
-        },
-        {
-            "text": "Minami Takayama, Japanese voice actress and singer",
-            "year": 1964
-        },
-        {
             "text": "James LaBrie, Canadian singer-songwriter",
-            "year": 1963
-        },
-        {
-            "text": "Simon Rimmer, English chef and author",
-            "year": 1963
-        },
-        {
-            "text": "Scott Westerfeld, American author and composer",
             "year": 1963
         },
         {
@@ -428,6 +404,10 @@
         },
         {
             "text": "Robert DiPierdomenico, Australian footballer and sportscaster",
+            "year": 1958
+        },
+        {
+            "text": "Vanessa Downing, Australian actress",
             "year": 1958
         },
         {
@@ -567,7 +547,7 @@
             "year": 1921
         },
         {
-            "text": "Georgios Papadopoulos, Greek colonel and politician, 169th Prime Minister of Greece (died 1999)",
+            "text": "Georgios Papadopoulos, Greek colonel and politician, Prime Minister of Greece (died 1999)",
             "year": 1919
         },
         {
@@ -619,10 +599,6 @@
             "year": 1900
         },
         {
-            "text": "Freeman Gosden, American actor and screenwriter (died 1982)",
-            "year": 1899
-        },
-        {
             "text": "Elsie Eaves, American engineer (died 1983)",
             "year": 1898
         },
@@ -641,14 +617,6 @@
         {
             "text": "Herbie Taylor, South African cricketer and soldier (died 1973)",
             "year": 1889
-        },
-        {
-            "text": "Mervyn S. Bennion, American captain, Medal of Honor recipient (died 1941)",
-            "year": 1887
-        },
-        {
-            "text": "Kingsley Fairbridge, South African-Australian scholar and politician  (died 1924)",
-            "year": 1885
         },
         {
             "text": "Chief Bender, American baseball player and coach (died 1954)",
@@ -796,6 +764,10 @@
         }
     ],
     "deaths": [
+        {
+            "text": "Chris Phelan, Irish-Australian rugby league player (born 1955)",
+            "year": 2026
+        },
         {
             "text": "Jeannie Epper, American stuntwoman and actress (born 1941)",
             "year": 2024
@@ -1021,7 +993,7 @@
             "year": 1941
         },
         {
-            "text": "Glen Kidston, English pilot and race car driver (born 1899)",
+            "text": "Glen Kidston, English pilot and racing driver (born 1899)",
             "year": 1931
         },
         {
@@ -1185,60 +1157,60 @@
             "title": "This Day in History (Wikipedia)"
         },
         "events": [
-            11,
-            26,
-            36,
-            23,
-            12,
-            8,
-            10,
-            22,
-            9,
-            48,
-            29,
-            19,
-            37,
-            47,
-            34,
-            21,
-            14,
-            20,
-            46,
-            43,
-            6,
-            27,
-            28,
-            0,
-            18,
-            42,
-            16,
-            1,
             35,
-            5
+            12,
+            50,
+            4,
+            40,
+            34,
+            31,
+            22,
+            5,
+            18,
+            45,
+            8,
+            26,
+            3,
+            0,
+            46,
+            17,
+            32,
+            44,
+            7,
+            49,
+            43,
+            29,
+            20,
+            23,
+            41,
+            2,
+            9,
+            6,
+            11
         ],
         "births": [
-            40,
+            36,
+            100,
             84,
-            138,
-            11,
-            23,
-            64,
-            106,
-            77,
-            55,
-            25
+            81,
+            6,
+            110,
+            114,
+            71,
+            116,
+            124
         ],
         "deaths": [
-            34,
-            93,
-            45,
-            40,
-            89,
-            67,
-            35,
-            1,
-            64,
-            11
+            78,
+            37,
+            5,
+            16,
+            63,
+            32,
+            77,
+            6,
+            84,
+            89
         ]
     }
 }
