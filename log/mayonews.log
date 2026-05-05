@@ -1,0 +1,112 @@
+[2026-05-04T18:12:02] start mayonews
+[2026-05-04T18:12:02] mayonews: fetching mayo-clinic-minute-2
+[2026-05-04T18:12:02] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/mayo-clinic-minute-2/feed/
+[2026-05-04T18:12:08] wrote /home/jvivona/agents/tidbyt-data/mayonews/mayo-clinic-minute-2.xml
+[2026-05-04T18:12:08] mayonews: fetching cancer
+[2026-05-04T18:12:08] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cancer/feed/
+[2026-05-04T18:12:11] wrote /home/jvivona/agents/tidbyt-data/mayonews/cancer.xml
+[2026-05-04T18:12:11] mayonews: fetching cardiovascular-2
+[2026-05-04T18:12:11] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/
+[2026-05-04T18:12:14] wrote /home/jvivona/agents/tidbyt-data/mayonews/cardiovascular-2.xml
+[2026-05-04T18:12:14] mayonews: fetching gastrointestinal-90
+[2026-05-04T18:12:14] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/
+[2026-05-04T18:12:18] wrote /home/jvivona/agents/tidbyt-data/mayonews/gastrointestinal-90.xml
+[2026-05-04T18:12:18] mayonews: fetching orthopedics-sports
+[2026-05-04T18:12:18] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/orthopedics-sports/feed/
+[2026-05-04T18:12:21] wrote /home/jvivona/agents/tidbyt-data/mayonews/orthopedics-sports.xml
+[2026-05-04T18:12:21] mayonews: fetching research
+[2026-05-04T18:12:21] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/research/feed/
+[2026-05-04T18:12:24] wrote /home/jvivona/agents/tidbyt-data/mayonews/research.xml
+[2026-05-04T18:12:24] mayonews: fetching transplant
+[2026-05-04T18:12:24] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/transplant/feed/
+[2026-05-04T18:12:29] wrote /home/jvivona/agents/tidbyt-data/mayonews/transplant.xml
+[2026-05-04T18:12:29] mayonews: fetching health-and-wellness
+[2026-05-04T18:12:29] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/
+[2026-05-04T18:12:31] wrote /home/jvivona/agents/tidbyt-data/mayonews/health-and-wellness.xml
+[2026-05-04T18:12:31] renamed research.xml -> research-2.xml
+[2026-05-04T18:12:31] [dry-run] would: git add+commit+push in /home/jvivona/agents/tidbyt-data: 'Mayo News Update'
+[2026-05-04T18:12:31] finished mayonews
+[2026-05-04T21:12:02] start mayonews
+[2026-05-04T21:12:02] mayonews: fetching mayo-clinic-minute-2
+[2026-05-04T21:12:02] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/mayo-clinic-minute-2/feed/
+[2026-05-04T21:12:09] wrote /home/jvivona/agents/tidbyt-data/mayonews/mayo-clinic-minute-2.xml
+[2026-05-04T21:12:09] mayonews: fetching cancer
+[2026-05-04T21:12:09] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cancer/feed/
+[2026-05-04T21:12:12] wrote /home/jvivona/agents/tidbyt-data/mayonews/cancer.xml
+[2026-05-04T21:12:12] mayonews: fetching cardiovascular-2
+[2026-05-04T21:12:12] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/
+[2026-05-04T21:12:15] wrote /home/jvivona/agents/tidbyt-data/mayonews/cardiovascular-2.xml
+[2026-05-04T21:12:15] mayonews: fetching gastrointestinal-90
+[2026-05-04T21:12:15] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/
+[2026-05-04T21:12:20] wrote /home/jvivona/agents/tidbyt-data/mayonews/gastrointestinal-90.xml
+[2026-05-04T21:12:20] mayonews: fetching orthopedics-sports
+[2026-05-04T21:12:20] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/orthopedics-sports/feed/
+[2026-05-04T21:12:23] wrote /home/jvivona/agents/tidbyt-data/mayonews/orthopedics-sports.xml
+[2026-05-04T21:12:23] mayonews: fetching research
+[2026-05-04T21:12:23] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/research/feed/
+[2026-05-04T21:12:27] wrote /home/jvivona/agents/tidbyt-data/mayonews/research.xml
+[2026-05-04T21:12:27] mayonews: fetching transplant
+[2026-05-04T21:12:27] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/transplant/feed/
+[2026-05-04T21:12:32] wrote /home/jvivona/agents/tidbyt-data/mayonews/transplant.xml
+[2026-05-04T21:12:32] mayonews: fetching health-and-wellness
+[2026-05-04T21:12:32] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/
+[2026-05-04T21:12:35] wrote /home/jvivona/agents/tidbyt-data/mayonews/health-and-wellness.xml
+[2026-05-04T21:12:35] renamed research.xml -> research-2.xml
+[2026-05-04T21:12:35] [dry-run] would: git add+commit+push in /home/jvivona/agents/tidbyt-data: 'Mayo News Update'
+[2026-05-04T21:12:35] finished mayonews
+[2026-05-05T00:12:01] start mayonews
+[2026-05-05T00:12:01] mayonews: fetching mayo-clinic-minute-2
+[2026-05-05T00:12:01] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/mayo-clinic-minute-2/feed/
+[2026-05-05T00:12:09] wrote /home/jvivona/agents/tidbyt-data/mayonews/mayo-clinic-minute-2.xml
+[2026-05-05T00:12:09] mayonews: fetching cancer
+[2026-05-05T00:12:09] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cancer/feed/
+[2026-05-05T00:12:12] wrote /home/jvivona/agents/tidbyt-data/mayonews/cancer.xml
+[2026-05-05T00:12:12] mayonews: fetching cardiovascular-2
+[2026-05-05T00:12:12] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/
+[2026-05-05T00:12:15] wrote /home/jvivona/agents/tidbyt-data/mayonews/cardiovascular-2.xml
+[2026-05-05T00:12:15] mayonews: fetching gastrointestinal-90
+[2026-05-05T00:12:15] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/
+[2026-05-05T00:12:19] wrote /home/jvivona/agents/tidbyt-data/mayonews/gastrointestinal-90.xml
+[2026-05-05T00:12:19] mayonews: fetching orthopedics-sports
+[2026-05-05T00:12:19] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/orthopedics-sports/feed/
+[2026-05-05T00:12:22] wrote /home/jvivona/agents/tidbyt-data/mayonews/orthopedics-sports.xml
+[2026-05-05T00:12:22] mayonews: fetching research
+[2026-05-05T00:12:22] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/research/feed/
+[2026-05-05T00:12:26] wrote /home/jvivona/agents/tidbyt-data/mayonews/research.xml
+[2026-05-05T00:12:26] mayonews: fetching transplant
+[2026-05-05T00:12:26] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/transplant/feed/
+[2026-05-05T00:12:31] wrote /home/jvivona/agents/tidbyt-data/mayonews/transplant.xml
+[2026-05-05T00:12:31] mayonews: fetching health-and-wellness
+[2026-05-05T00:12:31] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/
+[2026-05-05T00:12:34] wrote /home/jvivona/agents/tidbyt-data/mayonews/health-and-wellness.xml
+[2026-05-05T00:12:34] renamed research.xml -> research-2.xml
+[2026-05-05T00:12:34] [dry-run] would: git add+commit+push in /home/jvivona/agents/tidbyt-data: 'Mayo News Update'
+[2026-05-05T00:12:34] finished mayonews
+[2026-05-05T03:12:01] start mayonews
+[2026-05-05T03:12:01] mayonews: fetching mayo-clinic-minute-2
+[2026-05-05T03:12:01] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/mayo-clinic-minute-2/feed/
+[2026-05-05T03:12:09] wrote /home/jvivona/agents/tidbyt-data/mayonews/mayo-clinic-minute-2.xml
+[2026-05-05T03:12:09] mayonews: fetching cancer
+[2026-05-05T03:12:09] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cancer/feed/
+[2026-05-05T03:12:11] wrote /home/jvivona/agents/tidbyt-data/mayonews/cancer.xml
+[2026-05-05T03:12:11] mayonews: fetching cardiovascular-2
+[2026-05-05T03:12:11] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/
+[2026-05-05T03:12:12] wrote /home/jvivona/agents/tidbyt-data/mayonews/cardiovascular-2.xml
+[2026-05-05T03:12:12] mayonews: fetching gastrointestinal-90
+[2026-05-05T03:12:12] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/
+[2026-05-05T03:12:14] wrote /home/jvivona/agents/tidbyt-data/mayonews/gastrointestinal-90.xml
+[2026-05-05T03:12:14] mayonews: fetching orthopedics-sports
+[2026-05-05T03:12:14] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/orthopedics-sports/feed/
+[2026-05-05T03:12:16] wrote /home/jvivona/agents/tidbyt-data/mayonews/orthopedics-sports.xml
+[2026-05-05T03:12:16] mayonews: fetching research
+[2026-05-05T03:12:16] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/research/feed/
+[2026-05-05T03:12:18] wrote /home/jvivona/agents/tidbyt-data/mayonews/research.xml
+[2026-05-05T03:12:18] mayonews: fetching transplant
+[2026-05-05T03:12:18] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/transplant/feed/
+[2026-05-05T03:12:19] wrote /home/jvivona/agents/tidbyt-data/mayonews/transplant.xml
+[2026-05-05T03:12:19] mayonews: fetching health-and-wellness
+[2026-05-05T03:12:19] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/
+[2026-05-05T03:12:22] wrote /home/jvivona/agents/tidbyt-data/mayonews/health-and-wellness.xml
+[2026-05-05T03:12:22] renamed research.xml -> research-2.xml
+[2026-05-05T03:12:22] [dry-run] would: git add+commit+push in /home/jvivona/agents/tidbyt-data: 'Mayo News Update'
+[2026-05-05T03:12:22] finished mayonews
