@@ -483,3 +483,36 @@ Traceback (most recent call last):
     raise CalledProcessError(retcode, process.args,
                              output=stdout, stderr=stderr)
 subprocess.CalledProcessError: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 1.
+[2026-05-05T06:48:01] start nascar
+[2026-05-05T06:48:01] nascar year=2026
+[2026-05-05T06:48:01] nascar[cup] fetching schedule + points feeds
+[2026-05-05T06:48:01] GET https://cf.nascar.com/cacher/2026/1/schedule-combined-feed.json
+[2026-05-05T06:48:02] GET https://cf.nascar.com/cacher/2026/1/final/1-drivers-points.json
+[2026-05-05T06:48:02] GET https://cf.nascar.com/cacher/2026/1/final/1-owners-points.json
+[2026-05-05T06:48:02] GET https://cf.nascar.com/cacher/2026/1/final/1-manufacturer-points.json
+[2026-05-05T06:48:02] wrote /home/jvivona/agents/tidbyt-data/nascar/cup/nri.json (next race: Go Bowling at The Glen)
+[2026-05-05T06:48:02] wrote /home/jvivona/agents/tidbyt-data/nascar/cup/drv.json (51 drivers)
+[2026-05-05T06:48:02] wrote /home/jvivona/agents/tidbyt-data/nascar/cup/ply.json (0 playoff drivers)
+[2026-05-05T06:48:02] wrote /home/jvivona/agents/tidbyt-data/nascar/cup/own.json (46 owners)
+[2026-05-05T06:48:02] wrote /home/jvivona/agents/tidbyt-data/nascar/cup/mfg.json (3 manufacturers)
+[2026-05-05T06:48:02] nascar[xfinity] fetching schedule + points feeds
+[2026-05-05T06:48:02] GET https://cf.nascar.com/cacher/2026/2/schedule-combined-feed.json
+[2026-05-05T06:48:02] GET https://cf.nascar.com/cacher/2026/2/final/2-drivers-points.json
+[2026-05-05T06:48:03] GET https://cf.nascar.com/cacher/2026/2/final/2-owners-points.json
+[2026-05-05T06:48:03] GET https://cf.nascar.com/cacher/2026/2/final/2-manufacturer-points.json
+[2026-05-05T06:48:03] wrote /home/jvivona/agents/tidbyt-data/nascar/xfinity/nri.json (next race: Mission 200 at The Glen)
+[2026-05-05T06:48:03] wrote /home/jvivona/agents/tidbyt-data/nascar/xfinity/drv.json (76 drivers)
+[2026-05-05T06:48:03] wrote /home/jvivona/agents/tidbyt-data/nascar/xfinity/ply.json (12 playoff drivers)
+[2026-05-05T06:48:03] wrote /home/jvivona/agents/tidbyt-data/nascar/xfinity/own.json (47 owners)
+[2026-05-05T06:48:03] wrote /home/jvivona/agents/tidbyt-data/nascar/xfinity/mfg.json (3 manufacturers)
+[2026-05-05T06:48:03] nascar[trucks] fetching schedule + points feeds
+[2026-05-05T06:48:03] GET https://cf.nascar.com/cacher/2026/3/schedule-combined-feed.json
+[2026-05-05T06:48:03] GET https://cf.nascar.com/cacher/2026/3/final/3-drivers-points.json
+[2026-05-05T06:48:03] GET https://cf.nascar.com/cacher/2026/3/final/3-owners-points.json
+[2026-05-05T06:48:03] GET https://cf.nascar.com/cacher/2026/3/final/3-manufacturer-points.json
+[2026-05-05T06:48:04] wrote /home/jvivona/agents/tidbyt-data/nascar/trucks/nri.json (next race: Bully Hill Vineyards 176 at The Glen)
+[2026-05-05T06:48:04] wrote /home/jvivona/agents/tidbyt-data/nascar/trucks/drv.json (79 drivers)
+[2026-05-05T06:48:04] wrote /home/jvivona/agents/tidbyt-data/nascar/trucks/ply.json (12 playoff drivers)
+[2026-05-05T06:48:04] wrote /home/jvivona/agents/tidbyt-data/nascar/trucks/own.json (46 owners)
+[2026-05-05T06:48:04] wrote /home/jvivona/agents/tidbyt-data/nascar/trucks/mfg.json (4 manufacturers)
+[2026-05-05T06:48:04] git add --all in /home/jvivona/agents/tidbyt-data
