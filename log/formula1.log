@@ -1865,3 +1865,48 @@ To https://github.com/jvivona/tidbyt-data.git
 [2026-05-05T18:49:06] GET https://api.jolpi.ca/ergast/f1/2026/6/results.json
 [2026-05-05T18:49:06] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/6/results.json (187 bytes)
 [2026-05-05T18:49:06] git add --all in /home/jvivona/agents/tidbyt-data
+[2026-05-05T18:49:07] git commit -m 'Formula1 Update'
+[main 4619f8f5a] Formula1 Update
+ Committer: jvivona <jvivona@joe-agent.ajcomputers.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 45 insertions(+)
+[2026-05-05T18:49:07] git push origin main
+To https://github.com/jvivona/tidbyt-data.git
+   8c41822d6..4619f8f5a  main -> main
+[2026-05-05T18:49:08] finished formula1
+[2026-05-05T19:19:02] start formula1
+[2026-05-05T19:19:02] formula1 year=2026
+[2026-05-05T19:19:02] GET https://api.jolpi.ca/ergast/f1/2026/next
+[2026-05-05T19:19:03] wrote /home/jvivona/agents/tidbyt-data/formula1/next.json (791 bytes)
+[2026-05-05T19:19:03] GET https://api.jolpi.ca/ergast/f1/2026/races.json
+[2026-05-05T19:19:03] wrote /home/jvivona/agents/tidbyt-data/formula1/races.json (13658 bytes)
+[2026-05-05T19:19:03] GET https://api.jolpi.ca/ergast/f1/2026/results.json
+[2026-05-05T19:19:03] wrote /home/jvivona/agents/tidbyt-data/formula1/current/last/results.json (17853 bytes)
+[2026-05-05T19:19:03] GET https://api.jolpi.ca/ergast/f1/2026/constructorstandings
+[2026-05-05T19:19:04] wrote /home/jvivona/agents/tidbyt-data/formula1/constructorStandings.json (2492 bytes)
+[2026-05-05T19:19:04] GET https://api.jolpi.ca/ergast/f1/2026/driverstandings
+[2026-05-05T19:19:04] wrote /home/jvivona/agents/tidbyt-data/formula1/driverStandings.json (9563 bytes)
+[2026-05-05T19:19:04] GET https://api.jolpi.ca/ergast/f1/2026/4/qualifying.json
+[2026-05-05T19:19:05] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/4/qualifying.json (9953 bytes)
+[2026-05-05T19:19:05] GET https://api.jolpi.ca/ergast/f1/2026/4/results.json
+[2026-05-05T19:19:05] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/4/results.json (13061 bytes)
+[2026-05-05T19:19:05] GET https://api.jolpi.ca/ergast/f1/2026/5/qualifying.json
+[2026-05-05T19:19:06] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/5/qualifying.json (190 bytes)
+[2026-05-05T19:19:06] GET https://api.jolpi.ca/ergast/f1/2026/5/results.json
+[2026-05-05T19:19:06] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/5/results.json (187 bytes)
+[2026-05-05T19:19:06] GET https://api.jolpi.ca/ergast/f1/2026/6/qualifying.json
+[2026-05-05T19:19:06] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/6/qualifying.json (190 bytes)
+[2026-05-05T19:19:06] GET https://api.jolpi.ca/ergast/f1/2026/6/results.json
+[2026-05-05T19:19:07] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/6/results.json (187 bytes)
+[2026-05-05T19:19:07] git add --all in /home/jvivona/agents/tidbyt-data
