@@ -230,3 +230,29 @@ Traceback (most recent call last):
     raise CalledProcessError(retcode, process.args,
                              output=stdout, stderr=stderr)
 subprocess.CalledProcessError: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 1.
+[2026-05-05T08:01:01] start thisdayinhistwikipedia
+[2026-05-05T08:01:01] thisdayinhist[en] https://en.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:01] GET https://en.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:02] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/thisdayinhist.json
+[2026-05-05T08:01:02] thisdayinhist[es] https://es.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:02] GET https://es.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:05] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/es/thisdayinhist.json
+[2026-05-05T08:01:05] thisdayinhist[de] https://de.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:05] GET https://de.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:10] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/de/thisdayinhist.json
+[2026-05-05T08:01:10] thisdayinhist[it] https://it.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:10] GET https://it.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:13] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/it/thisdayinhist.json
+[2026-05-05T08:01:13] thisdayinhist[zh] https://zh.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:13] GET https://zh.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:14] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-05T08:01:14] thisdayinhist[fr] https://fr.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:14] GET https://fr.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:17] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-05T08:01:17] thisdayinhist[sv] https://sv.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:17] GET https://sv.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:19] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-05T08:01:19] thisdayinhist[ar] https://ar.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:19] GET https://ar.wikipedia.org/api/rest_v1/feed/onthisday/all/05/05
+[2026-05-05T08:01:20] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-05T08:01:20] git add --all in /home/jvivona/agents/tidbyt-data
