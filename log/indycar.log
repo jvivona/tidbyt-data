@@ -354,3 +354,13 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jvivona/tidbyt-data.git
    67dbc7c32..f78962262  main -> main
 [2026-05-05T10:24:04] finished indycar
+[2026-05-05T11:24:02] start indycar
+[2026-05-05T11:24:02] indycar[car] scraping standings from https://www.indycar.com/Standings
+[2026-05-05T11:24:02] GET https://www.indycar.com/Standings
+[2026-05-05T11:24:02] wrote /home/jvivona/agents/tidbyt-data/indycar/car/drv.json (33 drivers)
+[2026-05-05T11:24:02] wrote /home/jvivona/agents/tidbyt-data/indycar/car/nri.json (next race: Grand Prix of Indianapolis)
+[2026-05-05T11:24:02] indycar[nxt] scraping standings from https://www.indynxt.com/Standings
+[2026-05-05T11:24:02] GET https://www.indynxt.com/Standings
+[2026-05-05T11:24:03] wrote /home/jvivona/agents/tidbyt-data/indycar/nxt/drv.json (24 drivers)
+[2026-05-05T11:24:03] wrote /home/jvivona/agents/tidbyt-data/indycar/nxt/nri.json (next race: Grand Prix of Indianapolis Race 1)
+[2026-05-05T11:24:03] git add --all in /home/jvivona/agents/tidbyt-data
