@@ -920,3 +920,9 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jvivona/tidbyt-data.git
    57a37ec1c..3efed3ee5  main -> main
 [2026-05-06T12:01:19] finished thisdayinhistwikipedia
+[2026-05-06T14:01:02] start thisdayinhistwikipedia
+[2026-05-06T14:01:02] thisdayinhist[en] https://en.wikipedia.org/api/rest_v1/feed/onthisday/all/05/06
+[2026-05-06T14:01:02] GET https://en.wikipedia.org/api/rest_v1/feed/onthisday/all/05/06
+[2026-05-06T14:01:02] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/thisdayinhist.json
+[2026-05-06T14:01:02] thisdayinhist[es] https://es.wikipedia.org/api/rest_v1/feed/onthisday/all/05/06
+[2026-05-06T14:01:02] GET https://es.wikipedia.org/api/rest_v1/feed/onthisday/all/05/06
