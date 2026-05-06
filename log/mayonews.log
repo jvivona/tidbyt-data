@@ -651,3 +651,30 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jvivona/tidbyt-data.git
    a4e4dedfc..b94835927  main -> main
 [2026-05-06T12:12:33] finished mayonews
+[2026-05-06T15:12:02] start mayonews
+[2026-05-06T15:12:02] mayonews: fetching mayo-clinic-minute-2
+[2026-05-06T15:12:02] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/mayo-clinic-minute-2/feed/
+[2026-05-06T15:12:10] wrote /home/jvivona/agents/tidbyt-data/mayonews/mayo-clinic-minute-2.xml
+[2026-05-06T15:12:10] mayonews: fetching cancer
+[2026-05-06T15:12:10] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cancer/feed/
+[2026-05-06T15:12:12] wrote /home/jvivona/agents/tidbyt-data/mayonews/cancer.xml
+[2026-05-06T15:12:12] mayonews: fetching cardiovascular-2
+[2026-05-06T15:12:12] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/
+[2026-05-06T15:12:15] wrote /home/jvivona/agents/tidbyt-data/mayonews/cardiovascular-2.xml
+[2026-05-06T15:12:15] mayonews: fetching gastrointestinal-90
+[2026-05-06T15:12:15] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/
+[2026-05-06T15:12:19] wrote /home/jvivona/agents/tidbyt-data/mayonews/gastrointestinal-90.xml
+[2026-05-06T15:12:19] mayonews: fetching orthopedics-sports
+[2026-05-06T15:12:19] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/orthopedics-sports/feed/
+[2026-05-06T15:12:23] wrote /home/jvivona/agents/tidbyt-data/mayonews/orthopedics-sports.xml
+[2026-05-06T15:12:23] mayonews: fetching research
+[2026-05-06T15:12:23] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/research/feed/
+[2026-05-06T15:12:27] wrote /home/jvivona/agents/tidbyt-data/mayonews/research.xml
+[2026-05-06T15:12:27] mayonews: fetching transplant
+[2026-05-06T15:12:27] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/transplant/feed/
+[2026-05-06T15:12:32] wrote /home/jvivona/agents/tidbyt-data/mayonews/transplant.xml
+[2026-05-06T15:12:32] mayonews: fetching health-and-wellness
+[2026-05-06T15:12:32] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/
+[2026-05-06T15:12:36] wrote /home/jvivona/agents/tidbyt-data/mayonews/health-and-wellness.xml
+[2026-05-06T15:12:36] renamed research.xml -> research-2.xml
+[2026-05-06T15:12:36] git add --all in /home/jvivona/agents/tidbyt-data
