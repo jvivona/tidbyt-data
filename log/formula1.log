@@ -5530,3 +5530,28 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jvivona/tidbyt-data.git
    9547cc9a6..45585e7f4  main -> main
 [2026-05-07T11:19:08] finished formula1
+[2026-05-07T11:49:01] start formula1
+[2026-05-07T11:49:01] formula1 year=2026
+[2026-05-07T11:49:01] GET https://api.jolpi.ca/ergast/f1/2026/next
+[2026-05-07T11:49:02] wrote /home/jvivona/agents/tidbyt-data/formula1/next.json (791 bytes)
+[2026-05-07T11:49:02] GET https://api.jolpi.ca/ergast/f1/2026/races.json
+[2026-05-07T11:49:02] wrote /home/jvivona/agents/tidbyt-data/formula1/races.json (13658 bytes)
+[2026-05-07T11:49:02] GET https://api.jolpi.ca/ergast/f1/2026/results.json
+[2026-05-07T11:49:03] wrote /home/jvivona/agents/tidbyt-data/formula1/current/last/results.json (17853 bytes)
+[2026-05-07T11:49:03] GET https://api.jolpi.ca/ergast/f1/2026/constructorstandings
+[2026-05-07T11:49:03] wrote /home/jvivona/agents/tidbyt-data/formula1/constructorStandings.json (2492 bytes)
+[2026-05-07T11:49:03] GET https://api.jolpi.ca/ergast/f1/2026/driverstandings
+[2026-05-07T11:49:04] wrote /home/jvivona/agents/tidbyt-data/formula1/driverStandings.json (9563 bytes)
+[2026-05-07T11:49:04] GET https://api.jolpi.ca/ergast/f1/2026/4/qualifying.json
+[2026-05-07T11:49:04] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/4/qualifying.json (9953 bytes)
+[2026-05-07T11:49:04] GET https://api.jolpi.ca/ergast/f1/2026/4/results.json
+[2026-05-07T11:49:04] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/4/results.json (13061 bytes)
+[2026-05-07T11:49:04] GET https://api.jolpi.ca/ergast/f1/2026/5/qualifying.json
+[2026-05-07T11:49:05] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/5/qualifying.json (190 bytes)
+[2026-05-07T11:49:05] GET https://api.jolpi.ca/ergast/f1/2026/5/results.json
+[2026-05-07T11:49:05] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/5/results.json (187 bytes)
+[2026-05-07T11:49:05] GET https://api.jolpi.ca/ergast/f1/2026/6/qualifying.json
+[2026-05-07T11:49:05] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/6/qualifying.json (190 bytes)
+[2026-05-07T11:49:05] GET https://api.jolpi.ca/ergast/f1/2026/6/results.json
+[2026-05-07T11:49:06] wrote /home/jvivona/agents/tidbyt-data/formula1/2026/6/results.json (187 bytes)
+[2026-05-07T11:49:06] git add --all in /home/jvivona/agents/tidbyt-data
