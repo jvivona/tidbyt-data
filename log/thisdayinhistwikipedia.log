@@ -2714,3 +2714,29 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jvivona/tidbyt-data.git
    a14560215..af14503b8  main -> main
 [2026-05-09T18:01:20] finished thisdayinhistwikipedia
+[2026-05-09T20:01:02] start thisdayinhistwikipedia
+[2026-05-09T20:01:02] thisdayinhist[en] https://en.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:02] GET https://en.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:05] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/thisdayinhist.json
+[2026-05-09T20:01:05] thisdayinhist[es] https://es.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:05] GET https://es.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:08] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/es/thisdayinhist.json
+[2026-05-09T20:01:08] thisdayinhist[de] https://de.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:08] GET https://de.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:12] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/de/thisdayinhist.json
+[2026-05-09T20:01:12] thisdayinhist[it] https://it.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:12] GET https://it.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:14] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/it/thisdayinhist.json
+[2026-05-09T20:01:14] thisdayinhist[zh] https://zh.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:14] GET https://zh.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:16] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-09T20:01:16] thisdayinhist[fr] https://fr.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:16] GET https://fr.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:19] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-09T20:01:19] thisdayinhist[sv] https://sv.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:19] GET https://sv.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:21] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-09T20:01:21] thisdayinhist[ar] https://ar.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:21] GET https://ar.wikipedia.org/api/rest_v1/feed/onthisday/all/05/10
+[2026-05-09T20:01:21] wrote /home/jvivona/agents/tidbyt-data/thisdayinhistwikipedia/testing/thisdayinhist.json
+[2026-05-09T20:01:21] git add --all in /home/jvivona/agents/tidbyt-data
