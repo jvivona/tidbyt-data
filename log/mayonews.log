@@ -2014,3 +2014,35 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/jvivona/tidbyt-data.git
    b3db90109..225ca7393  main -> main
 [2026-05-10T03:12:35] finished mayonews
+[2026-05-10T06:12:02] start mayonews
+[2026-05-10T06:12:02] mayonews: fetching mayo-clinic-minute-2
+[2026-05-10T06:12:02] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/mayo-clinic-minute-2/feed/
+[2026-05-10T06:12:09] wrote /home/jvivona/agents/tidbyt-data/mayonews/mayo-clinic-minute-2.xml
+[2026-05-10T06:12:09] mayonews: fetching cancer
+[2026-05-10T06:12:09] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cancer/feed/
+[2026-05-10T06:12:12] wrote /home/jvivona/agents/tidbyt-data/mayonews/cancer.xml
+[2026-05-10T06:12:12] mayonews: fetching cardiovascular-2
+[2026-05-10T06:12:12] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/
+[2026-05-10T06:12:14] wrote /home/jvivona/agents/tidbyt-data/mayonews/cardiovascular-2.xml
+[2026-05-10T06:12:14] mayonews: fetching gastrointestinal-90
+[2026-05-10T06:12:14] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/gastrointestinal-90/feed/
+[2026-05-10T06:12:18] wrote /home/jvivona/agents/tidbyt-data/mayonews/gastrointestinal-90.xml
+[2026-05-10T06:12:18] mayonews: fetching orthopedics-sports
+[2026-05-10T06:12:18] chrome --dump-dom https://newsnetwork.mayoclinic.org/category/orthopedics-sports/feed/
+[2026-05-10T06:12:20] ERROR: topic 'mayonews' failed: RuntimeError('no <rss>...</rss> block found in chrome output')
+[2026-05-10T06:12:20] notify: failure email sent to joe@ajcomputers.com
+[2026-05-10T06:12:20] finished mayonews
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/__main__.py", line 3, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/cli.py", line 45, in main
+    topic_mod.run(ctx)
+    ~~~~~~~~~~~~~^^^^^
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/topics/mayonews.py", line 84, in run
+    rss_block = _trim_to_rss(dom)
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/topics/mayonews.py", line 71, in _trim_to_rss
+    raise RuntimeError("no <rss>...</rss> block found in chrome output")
+RuntimeError: no <rss>...</rss> block found in chrome output
