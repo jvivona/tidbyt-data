@@ -147,3 +147,28 @@ To https://github.com/jvivona/tidbyt-data.git
 [2026-05-11T10:03:01] GET https://www.aa.org/api/reflections/05/11
 [2026-05-11T10:03:02] wrote /home/jvivona/agents/tidbyt-data/aa/dailyreflection.json
 [2026-05-11T10:03:02] git add --all in /home/jvivona/agents/tidbyt-data
+[2026-05-11T10:03:02] git commit -m 'AA Daily Reflection'
+[main 6caa2419d] AA Daily Reflection
+ 2 files changed, 12 insertions(+)
+[2026-05-11T10:03:02] git push origin main
+remote: Internal Server Error
+fatal: unable to access 'https://github.com/jvivona/tidbyt-data.git/': The requested URL returned error: 500
+[2026-05-11T10:03:13] ERROR: topic 'aadailyreflection' failed: CalledProcessError(128, ['git', 'push', 'origin', 'main'])
+[2026-05-11T10:03:13] notify: failure email sent to joe@ajcomputers.com
+[2026-05-11T10:03:13] finished aadailyreflection
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/__main__.py", line 3, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/cli.py", line 46, in main
+    commit_and_push(ctx.data_repo_path, ctx.commit_msg, dry_run=ctx.dry_run)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jvivona/agents/tidbyt-data-scripts/tidbytdata/publish.py", line 32, in commit_and_push
+    subprocess.run(["git", "push", "origin", "main"], cwd=data_repo_path, check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
