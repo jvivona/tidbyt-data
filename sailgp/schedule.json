@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "source_url": "https://sailgp.com/general/2026/calendar/",
+  "retrieved_at": "2026-06-02T16:03:07Z",
+  "season": "2026",
+  "season_id": 6,
+  "events": [
+    {
+      "round": 1,
+      "name": "Oracle Perth Sail Grand Prix",
+      "short_name": "Oracle Perth Sail Grand Prix",
+      "location": "Perth",
+      "regatta_id": "67",
+      "start": "2026-01-17T13:00:00.000+08:00",
+      "end": "2026-01-18T14:30:00.000+08:00",
+      "status": "completed",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/LEXYrcqN1InOeXKC8WNmh/425c28e975d2d8ceb104f24a80267162/Perth_2026_Season_Event_Mark_White.webp"
+    },
+    {
+      "round": 2,
+      "name": "ITM New Zealand Sail Grand Prix",
+      "short_name": "ITM New Zealand Sail Grand Prix",
+      "location": "Auckland",
+      "regatta_id": "68",
+      "start": "2026-02-14T16:00:00.000+13:00",
+      "end": "2026-02-15T13:00:00.000+13:00",
+      "status": "completed",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/5LkCbWPr1uY7ODcFlNiOca/3fa9b441d631a2c64a5f197dba6dd12e/Auckland_2026_Season_Event_Mark_White.webp"
+    },
+    {
+      "round": 3,
+      "name": "KPMG Sydney Sail Grand Prix",
+      "short_name": "KPMG Sydney Sail Grand Prix",
+      "location": "Sydney",
+      "regatta_id": "69",
+      "start": "2026-02-28T17:30:00.000+11:00",
+      "end": "2026-03-01T19:00:00.000+11:00",
+      "status": "completed",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/4w3QPrNVjawcVY2RosUU7b/994c4b1fb24e8751390f086926d3e3b9/Sydney_2026_Season_Event_Mark_White.webp"
+    },
+    {
+      "round": 4,
+      "name": "ENEL Rio Sail Grand Prix",
+      "short_name": "ENEL Rio Sail Grand Prix",
+      "location": "Rio",
+      "regatta_id": "70",
+      "start": "2026-04-11T15:00:00.000-03:00",
+      "end": "2026-04-12T16:30:00.000-03:00",
+      "status": "completed",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/2BkO3M3G3EIBogCsmYOCSx/c1f5d48462e51949e91c2e3189334905/Enel_-_Brazil_RIO_Negative_Landscape.png"
+    },
+    {
+      "round": 5,
+      "name": "Apex Group Bermuda Sail Grand Prix",
+      "short_name": "Apex Group Bermuda Sail Grand Prix",
+      "location": "Bermuda",
+      "regatta_id": "71",
+      "start": "2026-05-09T14:00:00.000-03:00",
+      "end": "2026-05-10T15:30:00.000-03:00",
+      "status": "completed",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/1076Li5DHm2ztcn4pgK8nZ/a072dfe61d145088ea4d61ce10f12d83/BDA26_Negative_Landscape.png"
+    },
+    {
+      "round": 6,
+      "name": "Mubadala New York Sail Grand Prix",
+      "short_name": "Mubadala New York Sail Grand Prix",
+      "location": "New York",
+      "regatta_id": "72",
+      "start": "2026-05-31T13:30:00.000-04:00",
+      "end": "2026-05-31T17:00:00.000-04:00",
+      "status": "completed",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/1FncbJYU9lSzzRBOiayIvL/951ae7aae2f95f37333ff4f2803d7df7/S5_Mubadala_NYC_Event_Mark_Negative_Landscape.svg"
+    },
+    {
+      "round": 7,
+      "name": "Canada Sail Grand Prix",
+      "short_name": "Canada Sail Grand Prix",
+      "location": "Halifax",
+      "regatta_id": "73",
+      "start": "2026-06-20T13:00:00.000-03:00",
+      "end": "2026-06-21T14:30:00.000-03:00",
+      "status": "upcoming",
+      "logo": null
+    },
+    {
+      "round": 8,
+      "name": "Emirates Great Britain Sail Grand Prix",
+      "short_name": "Emirates Great Britain Sail Grand Prix",
+      "location": "Portsmouth",
+      "regatta_id": "74",
+      "start": "2026-07-25T13:00:00.000+01:00",
+      "end": "2026-07-26T14:30:00.000-01:00",
+      "status": "upcoming",
+      "logo": null
+    },
+    {
+      "round": 9,
+      "name": "ROCKWOOL Germany Sail Grand Prix",
+      "short_name": "ROCKWOOL Germany Sail Grand Prix",
+      "location": "Sassnitz",
+      "regatta_id": "75",
+      "start": "2026-08-22T13:00:00.000+01:00",
+      "end": "2026-08-23T14:30:00.000-01:00",
+      "status": "upcoming",
+      "logo": null
+    },
+    {
+      "round": 10,
+      "name": "Spain Sail Grand Prix",
+      "short_name": "Spain Sail Grand Prix",
+      "location": "Valencia",
+      "regatta_id": "76",
+      "start": "2026-09-05T13:00:00.000+02:00",
+      "end": "2026-09-06T14:30:00.000+02:00",
+      "status": "upcoming",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/2vDcudM6fHCqagEZlP2aII/e305fdc594993d2dbb1ec8fb2fcdb71c/Spain_Cadiz_Negative_Landscape.png"
+    },
+    {
+      "round": 11,
+      "name": "Rolex Switzerland Sail Grand Prix",
+      "short_name": "Rolex Switzerland Sail Grand Prix",
+      "location": "Geneva",
+      "regatta_id": "77",
+      "start": "2026-09-19T14:00:00.000+01:00",
+      "end": "2026-09-20T15:30:00.000+01:00",
+      "status": "upcoming",
+      "logo": "https://images.ctfassets.net/2lppn7hwgzta/7oYq8z4nx1IJqPRHZTt2g1/2c80fc8e27872fb84a9dd4b02036a3b6/Geneva_2026_Event_Mark_Negative.png"
+    },
+    {
+      "round": 12,
+      "name": "Emirates Dubai Sail Grand Prix",
+      "short_name": "Emirates Dubai Sail Grand Prix",
+      "location": "Dubai",
+      "regatta_id": "79",
+      "start": "2026-11-21T13:00:00.000+04:00",
+      "end": "2026-11-22T14:30:00.000+04:00",
+      "status": "upcoming",
+      "logo": null
+    },
+    {
+      "round": 13,
+      "name": "Mubadala Abu Dhabi Sail Grand Prix 2026 Season Grand Final",
+      "short_name": "Mubadala Abu Dhabi Sail Grand Prix 2026 Season Grand Final",
+      "location": "Abu Dhabi",
+      "regatta_id": "80",
+      "start": "2026-11-28T13:00:00.000+04:00",
+      "end": "2026-11-29T14:30:00.000+04:00",
+      "status": "upcoming",
+      "logo": null
+    }
+  ]
+}
