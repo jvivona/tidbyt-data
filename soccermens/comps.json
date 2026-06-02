@@ -107,6 +107,10 @@
         "display" : "Italian Serie A",
         "value" : "ita.1"
     },
+	{
+		"display" : "Men's Intl Friendly",
+		"value" : "fifa.friendly"
+	},
     {
         "display" : "Mexican Liga BBVA MX",
         "value" : "mex.1"
@@ -186,9 +190,5 @@
 	{
 		"display" : "World Cup Qualifying: UEFA",
 		"value" : "fifa.worldq.uefa"
-	},
-	{
-		"display" : "Men's Intl Friendly",
-		"value" : "fifa.friendly"
 	}
 ]
