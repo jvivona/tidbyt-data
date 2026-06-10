@@ -1,16 +1,16 @@
 {
   "station_name": "402c",
-  "measure_time": "2026-06-09T10:07:35.000Z",
-  "water_temp": 77,
+  "measure_time": "2026-06-10T10:07:36.000Z",
+  "water_temp": 78,
   "free_chlorine": {
-    "value": 9.3,
+    "value": 9.0,
     "color": "#FF3B30"
   },
   "ph": {
-    "value": 8.0,
-    "color": "#FF3B30"
+    "value": 7.6,
+    "color": "#23B8DC"
   },
   "fc_text": "C: DECR CL",
-  "ph_text": "P: +4.8 cups Acid",
-  "updated_utc": "2026-06-09T11:10:09Z"
+  "ph_text": "P: No Action",
+  "updated_utc": "2026-06-10T10:10:08Z"
 }
