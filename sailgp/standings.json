@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
   "source_url": "https://sailgp.com/results/all-seasons/",
-  "retrieved_at": "2026-06-20T16:34:02Z",
+  "retrieved_at": "2026-06-21T04:34:02Z",
   "season": "2026",
   "season_id": 6,
   "leaderboard_type": "championship",
-  "status": "Official",
-  "latest_regatta_id": 72,
+  "status": "Active",
+  "latest_regatta_id": 73,
   "standings": [
     {
       "position": 1,
       "team_code": "AUS",
       "team": "Australia",
       "driver": "Tom Slingsby",
-      "points": 55,
+      "points": 75,
       "points_adjustment": 0,
       "rank_delta": 0
     },
@@ -22,108 +22,108 @@
       "team_code": "GBR",
       "team": "Great Britain",
       "driver": "Dylan Fletcher",
-      "points": 44,
+      "points": 57,
       "points_adjustment": 0,
       "rank_delta": 0
     },
     {
       "position": 3,
-      "team_code": "USA",
-      "team": "United States",
-      "driver": "Taylor Canfield",
-      "points": 36,
+      "team_code": "ESP",
+      "team": "Spain",
+      "driver": "Diego Botín",
+      "points": 40,
       "points_adjustment": 0,
       "rank_delta": 1
     },
     {
       "position": 4,
-      "team_code": "ESP",
-      "team": "Spain",
-      "driver": "Diego Botín",
-      "points": 34,
-      "points_adjustment": 0,
-      "rank_delta": -1
-    },
-    {
-      "position": 5,
-      "team_code": "FRA",
-      "team": "France",
-      "driver": "Quentin Delapierre",
-      "points": 32,
-      "points_adjustment": 5,
-      "rank_delta": 0
-    },
-    {
-      "position": 6,
       "team_code": "SWE",
       "team": "Sweden",
       "driver": "Nathan Outteridge",
-      "points": 29,
+      "points": 38,
       "points_adjustment": 0,
-      "rank_delta": 1
+      "rank_delta": 2
+    },
+    {
+      "position": 5,
+      "team_code": "USA",
+      "team": "United States",
+      "driver": "Taylor Canfield",
+      "points": 36,
+      "points_adjustment": 0,
+      "rank_delta": -2
+    },
+    {
+      "position": 6,
+      "team_code": "FRA",
+      "team": "France",
+      "driver": "Quentin Delapierre",
+      "points": 35,
+      "points_adjustment": 5,
+      "rank_delta": -1
     },
     {
       "position": 7,
       "team_code": "GER",
       "team": "Germany",
       "driver": "Erik Heil",
-      "points": 23,
+      "points": 28,
+      "points_adjustment": 0,
+      "rank_delta": 1
+    },
+    {
+      "position": 8,
+      "team_code": "CAN",
+      "team": "Canada",
+      "driver": "Giles Scott",
+      "points": 28,
       "points_adjustment": 0,
       "rank_delta": -1
     },
     {
-      "position": 8,
-      "team_code": "DEN",
-      "team": "Denmark",
-      "driver": "Nicolai Sehested",
+      "position": 9,
+      "team_code": "ITA",
+      "team": "Italy",
+      "driver": "Phil Robertson",
       "points": 22,
       "points_adjustment": 0,
       "rank_delta": 1
     },
     {
-      "position": 9,
-      "team_code": "CAN",
-      "team": "Canada",
-      "driver": "Giles Scott",
-      "points": 20,
-      "points_adjustment": 0,
-      "rank_delta": 1
-    },
-    {
       "position": 10,
-      "team_code": "ITA",
-      "team": "Italy",
-      "driver": "Phil Robertson",
-      "points": 20,
+      "team_code": "DEN",
+      "team": "Denmark",
+      "driver": "Nicolai Sehested",
+      "points": 22,
       "points_adjustment": 0,
-      "rank_delta": -2
+      "rank_delta": -1
     },
     {
       "position": 11,
       "team_code": "SUI",
       "team": "Switzerland",
       "driver": "Sébastien Schneiter",
-      "points": 10,
+      "points": 18,
       "points_adjustment": 0,
       "rank_delta": 0
     },
     {
       "position": 12,
-      "team_code": "BRA",
-      "team": "Brazil",
-      "driver": "Martine Grael",
-      "points": 8,
+      "team_code": "NZL",
+      "team": "New Zealand",
+      "driver": "Peter Burling",
+      "points": 9,
       "points_adjustment": 0,
-      "rank_delta": 0
+      "rank_delta": 1
     },
     {
       "position": 13,
-      "team_code": "NZL",
-      "team": "New Zealand",
-      "driver": " ",
-      "points": 2,
+      "team_code": "BRA",
+      "team": "Brazil",
+      "driver": "Paul Goodison",
+      "points": 9,
       "points_adjustment": 0,
-      "rank_delta": 0
+      "rank_delta": -1
     }
   ]
 }
