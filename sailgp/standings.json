@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "source_url": "https://sailgp.com/results/all-seasons/",
-  "retrieved_at": "2026-06-21T16:34:01Z",
+  "retrieved_at": "2026-06-22T04:34:02Z",
   "season": "2026",
   "season_id": 6,
   "leaderboard_type": "championship",
-  "status": "Active",
+  "status": "Provisional",
   "latest_regatta_id": 73,
   "standings": [
     {
@@ -13,52 +13,52 @@
       "team_code": "AUS",
       "team": "Australia",
       "driver": "Tom Slingsby",
-      "points": 75,
+      "points": 62,
       "points_adjustment": 0,
       "rank_delta": 0
     },
     {
       "position": 2,
-      "team_code": "GBR",
-      "team": "Great Britain",
-      "driver": "Dylan Fletcher",
-      "points": 57,
-      "points_adjustment": 0,
-      "rank_delta": 0
-    },
-    {
-      "position": 3,
       "team_code": "ESP",
       "team": "Spain",
       "driver": "Diego Botín",
-      "points": 40,
+      "points": 44,
       "points_adjustment": 0,
-      "rank_delta": 1
+      "rank_delta": 2
+    },
+    {
+      "position": 3,
+      "team_code": "GBR",
+      "team": "Great Britain",
+      "driver": "Dylan Fletcher",
+      "points": 44,
+      "points_adjustment": 0,
+      "rank_delta": -1
     },
     {
       "position": 4,
+      "team_code": "USA",
+      "team": "United States",
+      "driver": "Taylor Canfield",
+      "points": 41,
+      "points_adjustment": 0,
+      "rank_delta": -1
+    },
+    {
+      "position": 5,
       "team_code": "SWE",
       "team": "Sweden",
       "driver": "Nathan Outteridge",
       "points": 38,
       "points_adjustment": 0,
-      "rank_delta": 2
-    },
-    {
-      "position": 5,
-      "team_code": "USA",
-      "team": "United States",
-      "driver": "Taylor Canfield",
-      "points": 36,
-      "points_adjustment": 0,
-      "rank_delta": -2
+      "rank_delta": 1
     },
     {
       "position": 6,
       "team_code": "FRA",
       "team": "France",
       "driver": "Quentin Delapierre",
-      "points": 35,
+      "points": 33,
       "points_adjustment": 5,
       "rank_delta": -1
     },
@@ -67,18 +67,18 @@
       "team_code": "GER",
       "team": "Germany",
       "driver": "Erik Heil",
-      "points": 28,
+      "points": 27,
       "points_adjustment": 0,
-      "rank_delta": 1
+      "rank_delta": 0
     },
     {
       "position": 8,
       "team_code": "CAN",
       "team": "Canada",
       "driver": "Giles Scott",
-      "points": 28,
+      "points": 23,
       "points_adjustment": 0,
-      "rank_delta": -1
+      "rank_delta": 1
     },
     {
       "position": 9,
@@ -96,7 +96,7 @@
       "driver": "Nicolai Sehested",
       "points": 22,
       "points_adjustment": 0,
-      "rank_delta": -1
+      "rank_delta": -2
     },
     {
       "position": 11,
@@ -112,7 +112,7 @@
       "team_code": "NZL",
       "team": "New Zealand",
       "driver": "Peter Burling",
-      "points": 9,
+      "points": 8,
       "points_adjustment": 0,
       "rank_delta": 1
     },
@@ -121,7 +121,7 @@
       "team_code": "BRA",
       "team": "Brazil",
       "driver": "Paul Goodison",
-      "points": 9,
+      "points": 8,
       "points_adjustment": 0,
       "rank_delta": -1
     }
