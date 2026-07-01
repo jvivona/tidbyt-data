@@ -1,39 +1,311 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/research/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Tue, 30 Jun 2026 16:30:26 +0000</lastbuilddate>
+	<lastBuildDate>Wed, 01 Jul 2026 17:04:14 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0</generator>
 	<item>
-		<title>Mayo Clinic summit explores the next phase of healthcare AI (VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-summit-explores-the-next-phase-of-healthcare-ai-video/
+		<title>Mayo Clinic study identifies new brain targets for individualized epilepsy treatment</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-identifies-new-brain-targets-for-individualized-epilepsy-treatment/</link>
 		
-		<dc:creator><!--[CDATA[krisschanilec1]]--></dc:creator>
-		<pubdate>Mon, 29 Jun 2026 14:44:24 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Cui Tao]]--></category>
-		<category><!--[CDATA[Matt Redlon]]--></category>
-		<category><!--[CDATA[Micky Tripathi]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416096</guid>
+		<dc:creator><![CDATA[brittanycordeiro]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2026 17:04:12 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Dora Hermes]]></category>
+		<category><![CDATA[Dr. Dora Hermes Miller]]></category>
+		<category><![CDATA[Dr. Gregory Worrell]]></category>
+		<category><![CDATA[Dr. Nick Gregg]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416289</guid>
 
-					<description><!--[CDATA[<p-->Healthcare AI is evolving beyond predicting outcomes to helping clinicians and researchers make informed decisions. This shift was a key focus of Mayo Clinic's AI Research Summit, where more than 750 researchers, clinicians, AI scientists, engineers, students and other innovators gathered June 4–5 in Rochester, Minnesota, and online. "The future of healthcare AI is not […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have created a detailed map of the pulvinar, a deep brain region that could help doctors more precisely target brain stimulation therapies for people with drug-resistant epilepsy. The findings, published in the Journal of Neuroscience, reveal that brain regions separated by only a few millimeters connect to entirely different [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-identifies-new-brain-targets-for-individualized-epilepsy-treatment/">Mayo Clinic study identifies new brain targets for individualized epilepsy treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014-1024x683.jpg" alt="Dr. Nick Gregg, neurologist, and Dr. Dora Hermes Miller, biomedical engineer, look at brain imaging on a computer in the Multimodal Neuroimaging lab." class="wp-image-416298" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Nick Gregg, neurologist, and Dr. Dora Hermes Miller, biomedical engineer, look at brain imaging on a computer in the Multimodal Neuroimaging lab.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/locations/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721">Mayo Clinic</a> researchers have created a detailed map of the pulvinar, a deep brain region that could help doctors more precisely target brain stimulation therapies for people with drug-resistant <a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">epilepsy</a>.</p>
+
+
+
+<p class="wp-block-paragraph">The <a href="https://www.jneurosci.org/content/early/2026/06/02/JNEUROSCI.1604-25.2026" target="_blank" rel="noreferrer noopener">findings</a>, published in the Journal of Neuroscience, reveal that brain regions separated by only a few millimeters connect to entirely different brain networks. The discovery provides a blueprint for placing electrodes more precisely during deep brain stimulation, an emerging treatment for epilepsy.</p>
+
+
+
+<p class="wp-block-paragraph">The researchers studied people with drug-resistant epilepsy who already had temporary electrodes implanted as part of their clinical care. By delivering small electrical pulses to different parts of the pulvinar and measuring the brain's responses, the team created a map showing how this largely unexplored region communicates with the rest of the brain.</p>
+
+
+
+<p class="wp-block-paragraph">The pulvinar is part of the <a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/in-depth/brain/art-20546821/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721">thalamus</a>, a deep brain structure that relays and coordinates information from sight, sound, touch and other senses. Because it lies deep within the brain, scientists have had limited opportunities to study how its different regions connect to other brain networks.</p>
+
+
+
+<p class="wp-block-paragraph">"We were surprised by how large, detailed and complex this deep brain structure is, and by its potential role in guiding epilepsy treatments," says <a href="https://www.mayo.edu/research/faculty/hermes-miller-dora-ph-d/bio-20471548" target="_blank" rel="noreferrer noopener">Dora Hermes Miller, Ph.D.</a>, a biomedical engineer at Mayo Clinic and senior author of the study.</p>
+
+
+
+<p class="wp-block-paragraph">The findings have immediate relevance for clinical care and build upon <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-physicians-map-patients-brain-waves-to-personalize-epilepsy-treatment/" target="_blank" rel="noreferrer noopener">ongoing research</a> to develop personalized treatment for people with drug-resistant epilepsy. "We are already using the pulvinar maps to help individualize pulvinar deep brain stimulation targeting in patients with drug-resistant epilepsy, while continuing to study how these maps relate to long-term outcomes," says co-author <a href="https://www.mayoclinic.org/biographies/gregg-nick-m-m-d/bio-20544357?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Nick Gregg, M.D.</a>, a neurologist at Mayo Clinic.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Why researchers studied the pulvinar</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Researchers recognized the pulvinar's therapeutic potential when they were caring for patients with drug-resistant epilepsy. As part of their clinical care, patients had electrodes placed in several brain regions, including the pulvinar, to evaluate whether stimulation could reduce seizures.</p>
+
+
+
+<p class="wp-block-paragraph">"When we stimulated the pulvinar, we expected to see the same brain networks respond each time," Dr. Hermes says. "Instead, some patients showed activation of visual brain areas while others didn't. That unexpected finding led us to ask why."</p>
+
+
+
+<p class="wp-block-paragraph">By studying 30 patients, the researchers discovered that the pulvinar is not a single, uniform structure. Instead, it contains specialized regions connected to different brain networks involved in vision, memory, language and attention.</p>
+
+
+
+<p class="wp-block-paragraph">The distances between these pulvinar subregions were remarkably small. Brain regions separated by as little as 3 millimeters connected to completely different brain networks.</p>
+
+
+
+<p class="wp-block-paragraph">"That level of detail means that if neurologists want to suppress the seizures coming from those areas, they have to place electrodes in the precise right spot. And these findings provide a guide towards that spot," Dr. Hermes says.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="567" height="319" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Pulvinar-Mapping_16x9.jpg" alt="Figure showing pulvinar mapping" class="wp-image-416294" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Pulvinar-Mapping_16x9.jpg 567w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Pulvinar-Mapping_16x9-300x169.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" /><figcaption class="wp-element-caption">Stimulating different parts of the pulvinar activates different brain networks. <strong>Left (yellow):</strong> Stimulating the outer (lateral) part of the pulvinar primarily activates areas involved in vision. <strong>Middle (red):</strong> Stimulating the lower middle (ventral-medial) part activates brain regions involved in memory, language and recognizing objects. <strong>Right (orange):</strong> Stimulating the upper middle (dorsal-medial) part activates regions involved in attention, spatial awareness and planning.</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>What the study means for personalized epilepsy treatments</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Epilepsy affects more than 50 million people worldwide. About one-third continue to have seizures despite medication. For many of these patients, <a href="https://newsnetwork.mayoclinic.org/discussion/advancing-epilepsy-care-mayo-clinic-neurologist-dr-gregory-worrell/" target="_blank" rel="noreferrer noopener">neuromodulation</a> — a treatment that uses electrical stimulation to regulate brain activity — can help reduce seizures.</p>
+
+
+
+<p class="wp-block-paragraph">"These findings provide data that enables exploration of tailoring neuromodulation therapies in a more personalized way, targeting each patient's specific epilepsy networks," says <a href="https://www.mayoclinic.org/biographies/worrell-gregory-a-m-d-ph-d/bio-20054429?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Gregory Worrell, M.D., Ph.D.</a>, a study co-author and neurologist at Mayo Clinic.</p>
+
+
+
+<p class="wp-block-paragraph">Researchers are now investigating which parts of the pulvinar should be stimulated — and at what frequencies — to better control seizures while minimizing side effects.</p>
+
+
+
+<p class="wp-block-paragraph">"Our aim is to make therapy more precise, more consistent and ultimately more effective," Dr. Gregg says.</p>
+
+
+
+<p class="wp-block-paragraph">The study highlights the collaborative mission of Mayo Clinic's Bioelectronic Neuromodulation Innovation to Cure (BIONIC) initiative, which unites clinicians, scientists and engineers to translate advances in brain science into personalized neuromodulation therapies.</p>
+
+
+
+<p class="wp-block-paragraph">For a complete list of authors, disclosures and funding, review the <a href="https://www.jneurosci.org/content/early/2026/06/02/JNEUROSCI.1604-25.2026" target="_blank" rel="noreferrer noopener">study</a>.</p>
+
+
+
+<p class="wp-block-paragraph">###</p>
+
+
+
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Media contact:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Tia Ford, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-identifies-new-brain-targets-for-individualized-epilepsy-treatment/">Mayo Clinic study identifies new brain targets for individualized epilepsy treatment</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014_1x1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Researchers-look-at-brain-imaging-WF2273314_0014_16x9.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Dora Hermes]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Dora Hermes Miller]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Gregory Worrell]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Nick Gregg]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+		<item>
+		<title>Rethinking aging: Why &amp;#8216;healthspan&amp;#8217; matters as much as lifespan</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/rethinking-aging-why-healthspan-matters-as-much-as-lifespan/</link>
+		
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2026 13:23:43 +0000</pubDate>
+				<category><![CDATA[Aging]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Health &amp; Wellness]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Christina Chen]]></category>
+		<category><![CDATA[Dr. Sara Bonnes]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=413703</guid>
+
+					<description><![CDATA[<p>Christina Chen, M.D., a Mayo Clinic physician in internal medicine and geriatrics, is working to change how clinicians and patients think about aging. In a publication in Mayo Clinic Proceedings, coauthored with Sara Bonnes, M.D., she outlines a new framework for "healthspan" — the years of life spent in good health, with preserved function, cognition and independence. Here, Dr. Chen explains why living longer is not the same as living well, and how that distinction could reshape medical care.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/rethinking-aging-why-healthspan-matters-as-much-as-lifespan/">Rethinking aging: Why &amp;#8216;healthspan&amp;#8217; matters as much as lifespan</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124-1024x682.jpg" alt="Three older people exercise together using resistance bands and exercise balls." class="wp-image-416309" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Shutterstock</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Mayo Clinic physicians are working hard to change how clinicians and patients think about aging. A new <a href="https://www.mayoclinicproceedings.org/article/S0025-6196(26)18477-8/fulltext" target="_blank" rel="noreferrer noopener">publication</a> in Mayo Clinic Proceedings outlines a new framework for "healthspan" — the years of life spent in good health, with preserved function, cognition and independence. The paper, coauthored by <a href="https://www.mayoclinic.org/biographies/chen-christina-m-d/bio-20182093?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Christina Chen, M.D.</a>, a <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> physician in internal medicine and geriatrics, and <a href="https://www.mayoclinic.org/biographies/bonnes-sara-l-m-d-m-s/bio-20193585?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Sara Bonnes, M.D.</a>, argues that living longer is not necessarily the same as living well and explores how a greater focus on healthspan could reshape medical care. Here, Dr. Chen discusses the research and its implications for patients and clinicians.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/04/WF766354_0003-1-1024x682.jpg" alt="" class="wp-image-413755" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/04/WF766354_0003-1-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/04/WF766354_0003-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/04/WF766354_0003-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/04/WF766354_0003-1-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/04/WF766354_0003-1.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Christina Chen, M.D.</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>What is 'healthspan,' and how is it different from lifespan or longevity?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Patients often say, 'I want to live to be 100,' and that is a meaningful goal. But living longer may not be the same as living well.</p>
+
+
+
+<p class="wp-block-paragraph">Healthspan is about how well you live during those years — your ability to function independently, think clearly, and <a href="https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/aging/art-20046070?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">maintain a good quality of life</a>. It shifts the focus from simply adding years to making sure those years are meaningful.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Why does this distinction matter now?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Doctors have been very successful at extending lifespan, but less effective at preserving the quality of those added years.</p>
+
+
+
+<p class="wp-block-paragraph">What we are seeing in clinical practice is that many people are living longer with chronic disease, reduced mobility, cognitive impairment and increasing dependence. That gap between years lived and years lived well is growing, and it is something clinicians see every day.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>What are clinicians missing in today’s approach to care?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">When we equate living longer with living better, care can become too focused on disease alone. We may not pay enough attention to one’s functional abilities, cognitive health, the ability to remain independent at home — the things patients value most.</p>
+
+
+
+<p class="wp-block-paragraph">Traditional measures like lab values or survival rates do not tell us whether someone can manage their daily activities, stay socially connected or continue living safely and independently. That is a critical gap in how we define success in medicine.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>How can healthspan be measured in clinical practice?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Healthspan becomes actionable when we start measuring additional domains like physical function, cognitive health and independence in a consistent way.</p>
+
+
+
+<p class="wp-block-paragraph">We already have practical tools to do this — things like gait speed, grip strength, balance assessments, cognitive screening and patient-reported outcomes. These are validated measures that can be incorporated into routine care and give us a much clearer picture of how patients are actually doing.</p>
+
+
+
+<p class="wp-block-paragraph">When we also prioritize measuring these domains alongside thoughtful preventive care, we can track them over time and use them to guide clinical decisions in a way that aligns with what patients care about most.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>How could a focus on healthspan change patient care?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">A healthspan-focused approach shifts the goal of care toward helping patients stay independent, mobile and clear-minded for as long as possible.</p>
+
+
+
+<p class="wp-block-paragraph">It also changes how we talk to patients. Instead of focusing only on treating disease, we can frame care around how to preserve function, cognition and overall well-being so they are able to live well with dignity. That shift helps patients better understand the purpose behind recommendations and can improve engagement in their care.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>What should patients and clinicians be thinking about differently?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">We can start by changing the conversation, it begins with the words we use. Instead of asking only how to extend life, we can ask how to help patients live well, what are their goals and how can we help them reach those goals.</p>
+
+
+
+<p class="wp-block-paragraph">That includes preserving the ability to perform everyday activities, maintain social connections and continue living independently. Small changes in how we talk about care can help patients see that the goal is not just longevity, but living with quality, dignity and purpose.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>What are the next steps for this research?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Our goal is to make healthspan something we can measure and track in everyday clinical practice. If we can do that, we can better align care with outcomes that truly impact patients' lives.</p>
+
+
+
+<p class="wp-block-paragraph">The next steps include developing standardized metrics, integrating them across specialties and designing care models that prioritize function, independence and long-term quality of life.</p>
+
+
+
+<p class="wp-block-paragraph">Review the&nbsp;<a href="https://www.mayoclinicproceedings.org/article/S0025-6196(26)18477-8/fulltext" target="_blank" rel="noreferrer noopener">study</a>&nbsp;for a complete list of authors,&nbsp;disclosures&nbsp;and funding.</p>
+
+
+
+<p class="wp-block-paragraph"><a id="_msocom_1"></a></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/rethinking-aging-why-healthspan-matters-as-much-as-lifespan/">Rethinking aging: Why &amp;#8216;healthspan&amp;#8217; matters as much as lifespan</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124_1x1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Seniors-exercising-Shutterstock-1313302124_16x9.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Christina Chen]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Sara Bonnes]]></mayoclinic:mctag>	</item>
+		<item>
+		<title>Mayo Clinic summit explores the next phase of healthcare AI (VIDEO)</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-summit-explores-the-next-phase-of-healthcare-ai-video/</link>
+		
+		<dc:creator><![CDATA[krisschanilec1]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 14:44:24 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Cui Tao]]></category>
+		<category><![CDATA[Matt Redlon]]></category>
+		<category><![CDATA[Micky Tripathi]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416096</guid>
+
+					<description><![CDATA[<p>Healthcare AI is evolving beyond predicting outcomes to helping clinicians and researchers make informed decisions. This shift was a key focus of Mayo Clinic's AI Research Summit, where more than 750 researchers, clinicians, AI scientists, engineers, students and other innovators gathered June 4–5 in Rochester, Minnesota, and online. "The future of healthcare AI is not [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-summit-explores-the-next-phase-of-healthcare-ai-video/">Mayo Clinic summit explores the next phase of healthcare AI (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-1024x683.jpg" alt="" class="wp-image-416157" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1.jpg 1620w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-1024x683.jpg" alt="" class="wp-image-416157" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1.jpg 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -98,7 +370,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidhttpsyoutubeXrRlLwzJ4Hc" title="Mayo Clinic summit highlights shift in healthcare AI research" width="500" height="281" src="https://www.youtube.com/embed/XrRlLwzJ4Hc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeXrRlLwzJ4Hc"  title="Mayo Clinic summit highlights shift in healthcare AI research" width="500" height="281" src="https://www.youtube.com/embed/XrRlLwzJ4Hc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -147,11 +419,11 @@
 
 
 
-<p class="wp-block-paragraph">Other experts, including <a href="https://www.linkedin.com/in/yi-qian-1ab54aa8/" target="_blank" rel="noreferrer noopener">Yi Qian</a>, vice president of Global Real World Evidence at Johnson &amp; Johnson, highlighted approaches to creating trusted evidence and insights for clinical care.</p>
+<p class="wp-block-paragraph">Other experts, including <a href="https://www.linkedin.com/in/yi-qian-1ab54aa8/" target="_blank" rel="noreferrer noopener">Yi Qian</a>, vice president of Global Real World Evidence at Johnson &amp;amp; Johnson, highlighted approaches to creating trusted evidence and insights for clinical care.</p>
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity">
+<hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
 
@@ -160,7 +432,7 @@
 
 
 <ul class="wp-block-list">
-<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-and-microsoft-collaborate-to-develop-a-frontier-ai-model-for-healthcare/" target="_blank" rel="noreferrer noopener">Mayo Clinic and Microsoft collaborate to develop a frontier AI model for healthcare</a>&nbsp;</li>
+<li><a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-and-microsoft-collaborate-to-develop-a-frontier-ai-model-for-healthcare/" target="_blank" rel="noreferrer noopener">Mayo Clinic and Microsoft collaborate to develop a frontier AI model for healthcare</a>&amp;nbsp;</li>
 
 
 
@@ -177,33 +449,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-600x600-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/AI-Research-Summit-WF8531850_0168-1920x1080-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Cui Tao]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Matt Redlon]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Micky Tripathi]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Cui Tao]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Matt Redlon]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Micky Tripathi]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic study finds common drug may help prevent life-threatening liver failure after surgery</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-common-drug-may-help-prevent-life-threatening-liver-failure-after-surgery/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-common-drug-may-help-prevent-life-threatening-liver-failure-after-surgery/</link>
 		
-		<dc:creator><!--[CDATA[Chloe Corey]]--></dc:creator>
-		<pubdate>Thu, 25 Jun 2026 14:50:24 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Surgery]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Patrick Starlinger]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416194</guid>
+		<dc:creator><![CDATA[Chloe Corey]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 14:50:24 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Surgery]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Patrick Starlinger]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416194</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A multi-center study, co-led by researchers at Mayo Clinic and Michigan State University, found that patients who received tranexamic acid&nbsp;during liver surgery were three times less likely to develop post-hepatectomy liver failure than patients who received a placebo. The findings were published in Blood. Post-hepatectomy liver failure is one of the most […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A multi-center study, co-led by researchers at Mayo Clinic and Michigan State University, found that patients who received tranexamic acid&nbsp;during liver surgery were three times less likely to develop post-hepatectomy liver failure than patients who received a placebo. The findings were published in Blood. Post-hepatectomy liver failure is one of the most [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-common-drug-may-help-prevent-life-threatening-liver-failure-after-surgery/">Mayo Clinic study finds common drug may help prevent life-threatening liver failure after surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-1024x682.jpg" alt="Dr. Patrick Starlinger and Dr. Timucin Taner are shown during a surgical operation." class="wp-image-416195" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127.jpg 1688w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Patrick Starlinger performing surgery.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-1024x682.jpg" alt="Dr. Patrick Starlinger and Dr. Timucin Taner are shown during a surgical operation." class="wp-image-416195" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Patrick Starlinger performing surgery.</figcaption></figure>
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — A multi-center study, co-led by researchers at <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> and Michigan State University, found that patients who received tranexamic acid&nbsp;during liver surgery were three times less likely to develop post-hepatectomy liver failure than patients who received a placebo. The findings were published in <a href="https://ashpublications.org/blood/article/doi/10.1182/blood.2025029780/569093/Anti-fibrinolytic-strategies-improve-liver" target="_blank" rel="noreferrer noopener">Blood</a>.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — A multi-center study, co-led by researchers at <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> and Michigan State University, found that patients who received tranexamic acid&nbsp;during liver surgery were three times less likely to develop post-hepatectomy liver failure than patients who received a placebo. The findings were published in <a href="https://ashpublications.org/blood/article/doi/10.1182/blood.2025029780/569093/Anti-fibrinolytic-strategies-improve-liver" target="_blank" rel="noreferrer noopener">Blood</a>.</p>
 
 
 
@@ -215,7 +487,7 @@
 
 
 
-<p class="wp-block-paragraph">"The possibility that a widely available, low-cost medication could substantially reduce this risk is exciting because it has the potential to improve outcomes for patients undergoing surgery for liver cancer and other serious liver diseases," says <a href="https://www.mayoclinic.org/biographies/starlinger-patrick-p-m-d-ph-d/bio-20533712?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Patrick Starlinger, M.D., Ph.D.</a>, a hepatobiliary and pancreas surgeon at Mayo Clinic in Rochester and co-senior author of the study.</p>
+<p class="wp-block-paragraph">"The possibility that a widely available, low-cost medication could substantially reduce this risk is exciting because it has the potential to improve outcomes for patients undergoing surgery for liver cancer and other serious liver diseases," says <a href="https://www.mayoclinic.org/biographies/starlinger-patrick-p-m-d-ph-d/bio-20533712?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Patrick Starlinger, M.D., Ph.D.</a>, a hepatobiliary and pancreas surgeon at Mayo Clinic in Rochester and co-senior author of the study.</p>
 
 
 
@@ -251,7 +523,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -269,33 +541,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Physician-in-surgery-Starlinger-WF3405965_0127_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Patrick Starlinger]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Patrick Starlinger]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers uncover critical link in the immune response to cancer</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-uncover-critical-link-in-the-immune-response-to-cancer/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-uncover-critical-link-in-the-immune-response-to-cancer/</link>
 		
-		<dc:creator><!--[CDATA[rebeccabromelkamp]]--></dc:creator>
-		<pubdate>Wed, 24 Jun 2026 17:53:54 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Haidong Dong]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416088</guid>
+		<dc:creator><![CDATA[rebeccabromelkamp]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2026 17:53:54 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Haidong Dong]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416088</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Researchers at Mayo Clinic have uncovered a previously hidden step in how the immune system prepares to fight cancer, a discovery that could help scientists develop more effective and longer-lasting cancer immunotherapies. Published in Nature Communications, the study found that some cancer-fighting immune cells begin preparing for their role much earlier than […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Researchers at Mayo Clinic have uncovered a previously hidden step in how the immune system prepares to fight cancer, a discovery that could help scientists develop more effective and longer-lasting cancer immunotherapies. Published in Nature Communications, the study found that some cancer-fighting immune cells begin preparing for their role much earlier than [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-uncover-critical-link-in-the-immune-response-to-cancer/">Mayo Clinic researchers uncover critical link in the immune response to cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-1024x576.jpg" alt="A doctor or scientist wearing gloves, protective face mask, and safety glasses, looking at a chemical sample through a microscope." class="wp-image-416175" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9.jpg 1846w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Shutterstock</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-1024x576.jpg" alt="A doctor or scientist wearing gloves, protective face mask, and safety glasses, looking at a chemical sample through a microscope." class="wp-image-416175" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9.jpg 1846w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Shutterstock</figcaption></figure>
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — Researchers at <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> have uncovered a previously hidden step in how the immune system prepares to fight cancer, a discovery that could help scientists develop more effective and longer-lasting cancer immunotherapies.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — Researchers at <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> have uncovered a previously hidden step in how the immune system prepares to fight cancer, a discovery that could help scientists develop more effective and longer-lasting cancer immunotherapies.</p>
 
 
 
@@ -327,11 +599,11 @@
 
 
 
-<p class="wp-block-paragraph">"Understanding how these immune cells are programmed at the earliest stages of development gives us a new way to think about improving cancer treatment," says <a href="https://www.mayo.edu/research/faculty/dong-haidong-m-d-ph-d/bio-00027557" target="_blank" rel="noreferrer noopener">Haidong Dong, M.D., Ph.D.</a>, an Iris and Winston Clement&nbsp;Professor of Research at Mayo Clinic and senior author of the study.</p>
+<p class="wp-block-paragraph">"Understanding how these immune cells are programmed at the earliest stages of development gives us a new way to think about improving cancer treatment," says <a href="https://www.mayo.edu/research/faculty/dong-haidong-m-d-ph-d/bio-00027557" target="_blank" rel="noreferrer noopener">Haidong Dong, M.D., Ph.D.</a>, an Iris and Winston Clement&amp;nbsp;Professor of Research at Mayo Clinic and senior author of the study.</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-1024x682.jpg" alt="Students and lab staff working in Dr. Haidong Dong's lab." class="wp-image-416173" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption"><sup>Dr. Haidong Dong&nbsp;speaking to a group.&nbsp;</sup></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-1024x682.jpg" alt="Students and lab staff working in Dr. Haidong Dong&amp;apos;s lab." class="wp-image-416173" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1639822_3898385_0037.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><sup>Dr. Haidong Dong&nbsp;speaking to a group.&nbsp;</sup></figcaption></figure>
 
 
 
@@ -369,31 +641,31 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-using-microscope-shutterstock_1224025519_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Haidong Dong]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Haidong Dong]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic researchers map key protein linked to cancer, neurological diseases</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-map-key-protein-linked-to-cancer-neurological-diseases/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-map-key-protein-linked-to-cancer-neurological-diseases/</link>
 		
-		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
-		<pubdate>Tue, 23 Jun 2026 16:48:40 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Matthew Goetz]]--></category>
-		<category><!--[CDATA[Dr. Matthew Schellenberg]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416084</guid>
+		<dc:creator><![CDATA[brittanycordeiro]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 16:48:40 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Matthew Goetz]]></category>
+		<category><![CDATA[Dr. Matthew Schellenberg]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416084</guid>
 
-					<description><!--[CDATA[<p-->Study uncovers structure of protein that helps cells communicate, a potential drug target ROCHESTER, Minn. — After nearly four decades of research, Mayo Clinic scientists have revealed the molecular structures of protein kinase C beta (PKCβ), a key protein linked to cancer and neurological diseases. The findings, published in Nature Communications, provide the first detailed […]<p></p>
+					<description><![CDATA[<p>Study uncovers structure of protein that helps cells communicate, a potential drug target ROCHESTER, Minn. — After nearly four decades of research, Mayo Clinic scientists have revealed the molecular structures of protein kinase C beta (PKCβ), a key protein linked to cancer and neurological diseases. The findings, published in Nature Communications, provide the first detailed [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-map-key-protein-linked-to-cancer-neurological-diseases/">Mayo Clinic researchers map key protein linked to cancer, neurological diseases</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="659" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-1024x659.jpg" alt="A laboratory technician pipettes a sample into a Petri dish in a darkened laboratory." class="wp-image-416151" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-1024x659.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-300x193.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-768x494.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-1536x988.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660.jpg 1749w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="659" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-1024x659.jpg" alt="A laboratory technician pipettes a sample into a Petri dish in a darkened laboratory." class="wp-image-416151" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-1024x659.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-300x193.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-768x494.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660-1536x988.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660.jpg 1749w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty</figcaption></figure>
 
 
 
@@ -401,15 +673,15 @@
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — After nearly four decades of research, <a href="https://www.mayoclinic.org/locations?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> scientists have revealed the molecular structures of protein kinase C beta (PKCβ), a key protein linked to <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">cancer</a> and <a href="https://www.mayoclinic.org/departments-centers/neurology/sections/conditions-treated/orc-20117075?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">neurological</a> diseases. The <a href="https://www.nature.com/articles/s41467-026-73413-5" target="_blank" rel="noreferrer noopener">findings</a>, published in Nature Communications, provide the first detailed view of how the protein works and how the <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">breast cancer</a> drug <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-highlight-advances-in-breast-cancer-research-decreasing-the-need-for-chemotherapy-and-reducing-the-intensity-of-radiation-therapy/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">endoxifen</a> can target this protein.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — After nearly four decades of research, <a href="https://www.mayoclinic.org/locations?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> scientists have revealed the molecular structures of protein kinase C beta (PKCβ), a key protein linked to <a href="https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">cancer</a> and <a href="https://www.mayoclinic.org/departments-centers/neurology/sections/conditions-treated/orc-20117075?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">neurological</a> diseases. The <a href="https://www.nature.com/articles/s41467-026-73413-5" target="_blank" rel="noreferrer noopener">findings</a>, published in Nature Communications, provide the first detailed view of how the protein works and how the <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">breast cancer</a> drug <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-highlight-advances-in-breast-cancer-research-decreasing-the-need-for-chemotherapy-and-reducing-the-intensity-of-radiation-therapy/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">endoxifen</a> can target this protein.</p>
 
 
 
-<p class="wp-block-paragraph">PKCs are a family of proteins that help cells communicate. They act as molecular switches that regulate cell growth, survival and behavior. Because they play a role in many diseases like <a href="https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Alzheimer's</a> and cancers like <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">breast</a>, <a href="https://www.mayoclinic.org/diseases-conditions/lymphoma/symptoms-causes/syc-20352638?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">lymphoma</a> and <a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">colorectal</a>, scientists have long viewed them as promising drug targets. However, without understanding their structure, designing effective therapies has been difficult.</p>
+<p class="wp-block-paragraph">PKCs are a family of proteins that help cells communicate. They act as molecular switches that regulate cell growth, survival and behavior. Because they play a role in many diseases like <a href="https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Alzheimer's</a> and cancers like <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/diagnosis-treatment/drc-20352475?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">breast</a>, <a href="https://www.mayoclinic.org/diseases-conditions/lymphoma/symptoms-causes/syc-20352638?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">lymphoma</a> and <a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">colorectal</a>, scientists have long viewed them as promising drug targets. However, without understanding their structure, designing effective therapies has been difficult.</p>
 
 
 
-<p class="wp-block-paragraph">"For decades, scientists have been trying to understand how these proteins function," says study co-author <a href="https://www.mayoclinic.org/biographies/goetz-matthew-p-m-d/bio-20054460?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Matthew Goetz, M.D.</a>, a medical oncologist at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>. "These findings create new opportunities to develop more precise therapies for cancer and other diseases."</p>
+<p class="wp-block-paragraph">"For decades, scientists have been trying to understand how these proteins function," says study co-author <a href="https://www.mayoclinic.org/biographies/goetz-matthew-p-m-d/bio-20054460?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Matthew Goetz, M.D.</a>, a medical oncologist at <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a>. "These findings create new opportunities to develop more precise therapies for cancer and other diseases."</p>
 
 
 
@@ -473,7 +745,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic">May</a><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">o</a><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener"> Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic">May</a><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">o</a><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener"> Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -491,27 +763,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Scientist-pipetting-sample-in-laboratory-GettyImages-2254140660_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Goetz]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Matthew Schellenberg]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Goetz]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Matthew Schellenberg]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Inside new efforts at Mayo Clinic to decode and repair the brain using data (VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/inside-new-efforts-at-mayo-clinic-to-decode-and-repair-the-brain-using-data-video/
+		<link>https://newsnetwork.mayoclinic.org/discussion/inside-new-efforts-at-mayo-clinic-to-decode-and-repair-the-brain-using-data-video/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Mon, 22 Jun 2026 13:58:12 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Gelareh Zadeh]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416056</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 13:58:12 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Gelareh Zadeh]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416056</guid>
 
-					<description><!--[CDATA[<p-->At Mayo Clinic, neuroscientists are seeking to understand — and ultimately restore — brain function through advanced computational tools, neuromodulation technologies and multidisciplinary collaboration. These new efforts are led by Gelareh Zadeh, M.D., Ph.D., a neurosurgeon and scientist. Dr. Zadeh specializes in neuro-oncology and has clinical expertise in treating brain tumors such as gliomas and […]<p></p>
+					<description><![CDATA[<p>At Mayo Clinic, neuroscientists are seeking to understand — and ultimately restore — brain function through advanced computational tools, neuromodulation technologies and multidisciplinary collaboration. These new efforts are led by Gelareh Zadeh, M.D., Ph.D., a neurosurgeon and scientist. Dr. Zadeh specializes in neuro-oncology and has clinical expertise in treating brain tumors such as gliomas and [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/inside-new-efforts-at-mayo-clinic-to-decode-and-repair-the-brain-using-data-video/">Inside new efforts at Mayo Clinic to decode and repair the brain using data (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-1024x768.jpg" alt="" class="wp-image-416060" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-2048x1536.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-1024x768.jpg" alt="" class="wp-image-416060" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab-2048x1536.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -519,11 +791,11 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="225" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-225x300.jpg" alt="Portrait of Dr. Gelareh Zadeh" class="wp-image-416063" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-1536x2048.jpg 1536w" sizes="auto, (max-width: 225px) 100vw, 225px"><figcaption class="wp-element-caption"><sup>Gelareh Zadeh, M.D., Ph.D.</sup></figcaption></figure>
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="225" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-225x300.jpg" alt="Portrait of Dr. Gelareh Zadeh" class="wp-image-416063" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_portrait-1536x2048.jpg 1536w" sizes="auto, (max-width: 225px) 100vw, 225px" /><figcaption class="wp-element-caption"><sup>Gelareh Zadeh, M.D., Ph.D.</sup></figcaption></figure>
 </div>
 
 
-<p class="wp-block-paragraph">These new efforts are led by <a href="https://www.mayo.edu/research/faculty/zadeh-gelareh-m-d-ph-d/bio-20579723" target="_blank" rel="noreferrer noopener">Gelareh Zadeh, M.D., Ph.D.</a>, a neurosurgeon and scientist. Dr. Zadeh specializes in neuro-oncology and has clinical expertise in treating brain tumors such as <a href="https://www.mayoclinic.org/diseases-conditions/glioma/symptoms-causes/syc-20350251?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">gliomas</a> and <a href="https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">meningiomas</a>. Her research focuses on the molecular and genomic landscape of these tumors to advance precision medicine and improve targeted therapies.</p>
+<p class="wp-block-paragraph">These new efforts are led by <a href="https://www.mayo.edu/research/faculty/zadeh-gelareh-m-d-ph-d/bio-20579723" target="_blank" rel="noreferrer noopener">Gelareh Zadeh, M.D., Ph.D.</a>, a neurosurgeon and scientist. Dr. Zadeh specializes in neuro-oncology and has clinical expertise in treating brain tumors such as <a href="https://www.mayoclinic.org/diseases-conditions/glioma/symptoms-causes/syc-20350251?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">gliomas</a> and <a href="https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">meningiomas</a>. Her research focuses on the molecular and genomic landscape of these tumors to advance precision medicine and improve targeted therapies.</p>
 
 
 
@@ -531,7 +803,7 @@
 
 
 
-<p class="wp-block-paragraph">In this conversation, Dr. Zadeh reflects on the path that led her to neurosurgery, what&nbsp;inspires her and why she believes the medical field is at a turning point in its ability to diagnose, treat and even prevent neurodegenerative diseases.</p>
+<p class="wp-block-paragraph">In this conversation, Dr. Zadeh reflects on the path that led her to neurosurgery, what&amp;nbsp;inspires her and why she believes the medical field is at a turning point in its ability to diagnose, treat and even prevent neurodegenerative diseases.</p>
 
 
 
@@ -540,7 +812,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeSbM85yjvXy0" title="Inside new efforts at Mayo Clinic to decode and repair the brain using data" width="500" height="281" src="https://www.youtube.com/embed/SbM85yjvXy0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeSbM85yjvXy0"  title="Inside new efforts at Mayo Clinic to decode and repair the brain using data" width="500" height="281" src="https://www.youtube.com/embed/SbM85yjvXy0?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -663,27 +935,27 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Zadeh_Gelareh_lab_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gelareh Zadeh]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Gelareh Zadeh]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mammograms may help identify heart disease risk (VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mammograms-may-help-identify-heart-disease-risk-video/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mammograms-may-help-identify-heart-disease-risk-video/</link>
 		
-		<dc:creator><!--[CDATA[Carey Stanton]]--></dc:creator>
-		<pubdate>Wed, 17 Jun 2026 20:12:38 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Imon Banerjee]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416024</guid>
+		<dc:creator><![CDATA[Carey Stanton]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 20:12:38 +0000</pubDate>
+				<category><![CDATA[AI and Digital Health]]></category>
+		<category><![CDATA[Cardiovascular]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Imon Banerjee]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416024</guid>
 
-					<description><!--[CDATA[<p-->A routine mammogram may do more than detect breast cancer, it also could help identify early signs of heart disease. Heart disease is the leading cause of death among women, responsible for 1 in 3 deaths. It often develops without symptoms until a major event occurs. Despite this, there is not a standard for annual […]<p></p>
+					<description><![CDATA[<p>A routine mammogram may do more than detect breast cancer, it also could help identify early signs of heart disease. Heart disease is the leading cause of death among women, responsible for 1 in 3 deaths. It often develops without symptoms until a major event occurs. Despite this, there is not a standard for annual [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mammograms-may-help-identify-heart-disease-risk-video/">Mammograms may help identify heart disease risk (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="960" height="465" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram.png" alt="" class="wp-image-416034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram.png 960w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram-300x145.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram-768x372.png 768w" sizes="auto, (max-width: 960px) 100vw, 960px"><figcaption class="wp-element-caption">The BAC on routine screening mammograms is shown in red. AI was used to help clinicians measure and quantify it, creating an opportunity to assess heart disease risk during a test many women already receive without additional radiation or testing. </figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="960" height="465" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram.png" alt="" class="wp-image-416034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram.png 960w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram-300x145.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram-768x372.png 768w" sizes="auto, (max-width: 960px) 100vw, 960px" /><figcaption class="wp-element-caption">The BAC on routine screening mammograms is shown in red. AI was used to help clinicians measure and quantify it, creating an opportunity to assess heart disease risk during a test many women already receive without additional radiation or testing. </figcaption></figure>
 
 
 
@@ -691,11 +963,11 @@
 
 
 
-<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-disease/art-20046167?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Heart disease</a> is the leading cause of death among women, responsible for <a href="https://www.goredforwomen.org/en/about-heart-disease-in-women/facts#:~:text=Fact%3A%20Cardiovascular%20disease%20is%20the,friends%2C%20neighbors%2C%20coworkers%20and%20more." target="_blank" rel="noreferrer noopener">1 in 3 deaths</a>. It often develops without symptoms until a major event occurs. Despite this, there is not a standard for annual heart disease screening, a critical gap in early detection for women.</p>
+<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-disease/art-20046167?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Heart disease</a> is the leading cause of death among women, responsible for <a href="https://www.goredforwomen.org/en/about-heart-disease-in-women/facts#:~:text=Fact%3A%20Cardiovascular%20disease%20is%20the,friends%2C%20neighbors%2C%20coworkers%20and%20more." target="_blank" rel="noreferrer noopener">1 in 3 deaths</a>. It often develops without symptoms until a major event occurs. Despite this, there is not a standard for annual heart disease screening, a critical gap in early detection for women.</p>
 
 
 
-<p class="wp-block-paragraph">Doctors typically assess heart disease risk using factors like cholesterol, blood pressure and body weight. These tools don't fully account for how heart disease develops <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-disease/art-20046167?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">differently in women</a> or what's happening inside the blood vessels themselves.</p>
+<p class="wp-block-paragraph">Doctors typically assess heart disease risk using factors like cholesterol, blood pressure and body weight. These tools don't fully account for how heart disease develops <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-disease/art-20046167?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">differently in women</a> or what's happening inside the blood vessels themselves.</p>
 
 
 
@@ -703,7 +975,7 @@
 
 
 
-<p class="wp-block-paragraph">Mayo Clinic recommends women at average risk begin <a href="https://www.mayoclinic.org/tests-procedures/mammogram/about/pac-20384806?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">annual mammogram</a> screening at age 40, and most women do. Researchers say this creates an opportunity to assess heart disease risk during a test many women already receive without additional radiation or testing.</p>
+<p class="wp-block-paragraph">Mayo Clinic recommends women at average risk begin <a href="https://www.mayoclinic.org/tests-procedures/mammogram/about/pac-20384806?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">annual mammogram</a> screening at age 40, and most women do. Researchers say this creates an opportunity to assess heart disease risk during a test many women already receive without additional radiation or testing.</p>
 
 
 
@@ -711,7 +983,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-300x300.jpg" alt="Portrait of Dr. Imon Banerjee" class="wp-image-415921" style="width:234px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2.jpg 1080w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Imon Banerjee, Ph.D.</figcaption></figure>
+<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-300x300.jpg" alt="Portrait of Dr. Imon Banerjee" class="wp-image-415921" style="width:234px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2.jpg 1080w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">Imon Banerjee, Ph.D.</figcaption></figure>
 </div>
 
 
@@ -744,12 +1016,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidyo1HpRZ8yE" title="Dr. Imon Banerjee - AI can accurately measure heart disease risk" width="500" height="281" src="https://www.youtube.com/embed/y_o1HpRZ8yE?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidyo1HpRZ8yE"  title="Dr. Imon Banerjee - AI can accurately measure heart disease risk" width="500" height="281" src="https://www.youtube.com/embed/y_o1HpRZ8yE?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p class="wp-block-paragraph"><strong>&nbsp;Journalists: Broadcast-quality sound bites are available in the downloads at the end of the post. Please courtesy: "Mayo Clinic News Network." Name super/CG: <strong>Imon Banerjee, Ph.D.</strong>/ Radiology /Mayo Clinic.</strong></p>
+<p class="wp-block-paragraph"><strong>&amp;nbsp;Journalists: Broadcast-quality sound bites are available in the downloads at the end of the post. Please courtesy: "Mayo Clinic News Network." Name super/CG: <strong>Imon Banerjee, Ph.D.</strong>/ Radiology /Mayo Clinic.</strong></p>
 
 
 
@@ -773,7 +1045,7 @@
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity">
+<hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
 
@@ -781,7 +1053,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>Related article:</strong> <a href="https://newsnetwork.mayoclinic.org/discussion/how-researchers-are-using-ai-to-accelerate-the-path-to-cures-video/" target="_blank" rel="noreferrer noopener">How&nbsp;researchers are using&nbsp;AI&nbsp;to accelerate the path to cures (VIDEO)</a></p>
+<p class="wp-block-paragraph"><strong>Related article:</strong> <a href="https://newsnetwork.mayoclinic.org/discussion/how-researchers-are-using-ai-to-accelerate-the-path-to-cures-video/" target="_blank" rel="noreferrer noopener">How&amp;nbsp;researchers are using&amp;nbsp;AI&amp;nbsp;to accelerate the path to cures (VIDEO)</a></p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mammograms-may-help-identify-heart-disease-risk-video/">Mammograms may help identify heart disease risk (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -789,42 +1061,42 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-16-x-9-2.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Imon Banerjee]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Imon Banerjee]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Researchers identify new kidney pathway with help from 1940s-era drug, may improve polycystic kidney disease treatment (VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/researchers-identify-new-kidney-pathway-with-help-from-1940s-era-drug-may-improve-polycystic-kidney-disease-treatment/
+		<link>https://newsnetwork.mayoclinic.org/discussion/researchers-identify-new-kidney-pathway-with-help-from-1940s-era-drug-may-improve-polycystic-kidney-disease-treatment/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Tue, 16 Jun 2026 04:02:00 +0000</pubdate>
-				<category><!--[CDATA[Discovery Science]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[dialysis]]--></category>
-		<category><!--[CDATA[Dr. Fouad Chebib]]--></category>
-		<category><!--[CDATA[kidney disease]]--></category>
-		<category><!--[CDATA[Kidney Transplant]]--></category>
-		<category><!--[CDATA[Polycystic Kidney Disease]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=413549</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2026 04:02:00 +0000</pubDate>
+				<category><![CDATA[Discovery Science]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Medical Innovation]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[dialysis]]></category>
+		<category><![CDATA[Dr. Fouad Chebib]]></category>
+		<category><![CDATA[kidney disease]]></category>
+		<category><![CDATA[Kidney Transplant]]></category>
+		<category><![CDATA[Polycystic Kidney Disease]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=413549</guid>
 
-					<description><!--[CDATA[<p-->Mayo Clinic researchers have identified a previously unrecognized way the kidneys regulate water balance — an advance that could lead to improved treatments for polycystic kidney disease (PKD) and other disorders.<p></p>
+					<description><![CDATA[<p>Mayo Clinic researchers have identified a previously unrecognized way the kidneys regulate water balance — an advance that could lead to improved treatments for polycystic kidney disease (PKD) and other disorders.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-identify-new-kidney-pathway-with-help-from-1940s-era-drug-may-improve-polycystic-kidney-disease-treatment/">Researchers identify new kidney pathway with help from 1940s-era drug, may improve polycystic kidney disease treatment (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-1024x576.jpg" alt="" class="wp-image-415866" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Dr. Fouad Chebib</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-1024x576.jpg" alt="" class="wp-image-415866" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Dr. Fouad Chebib</figcaption></figure>
 
 
 
-<p class="wp-block-paragraph">JACKSONVILLE, Fla. — <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have identified a previously unrecognized way the kidneys regulate water balance — an advance that could lead to improved treatments for <a href="https://www.mayoclinic.org/diseases-conditions/polycystic-kidney-disease/symptoms-causes/syc-20352820?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">polycystic kidney disease (PKD)</a> and other disorders. The <a href="https://www.jci.org/articles/view/197021" id="https://www.jci.org/articles/view/197021" target="_blank" rel="noreferrer noopener">study</a>, led by <a href="https://www.mayo.edu/research/faculty/chebib-fouad-t-m-d/bio-20434759?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Fouad Chebib, M.D.</a>, a nephrologist at Mayo Clinic, is published in the Journal of Clinical Investigation.</p>
+<p class="wp-block-paragraph">JACKSONVILLE, Fla. — <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have identified a previously unrecognized way the kidneys regulate water balance — an advance that could lead to improved treatments for <a href="https://www.mayoclinic.org/diseases-conditions/polycystic-kidney-disease/symptoms-causes/syc-20352820?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">polycystic kidney disease (PKD)</a> and other disorders. The <a href="https://www.jci.org/articles/view/197021" id="https://www.jci.org/articles/view/197021" target="_blank" rel="noreferrer noopener">study</a>, led by <a href="https://www.mayo.edu/research/faculty/chebib-fouad-t-m-d/bio-20434759?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Fouad Chebib, M.D.</a>, a nephrologist at Mayo Clinic, is published in the Journal of Clinical Investigation.</p>
 
 
 
-<p class="wp-block-paragraph">The findings build on decades of scientific understanding by revealing an additional pathway the kidney uses to control water balance. Until now, the body's ability to concentrate urine — and prevent dehydration — has been thought to depend primarily on the hormone <a href="https://www.mayoclinic.org/drugs-supplements/vasopressin-injection-route/description/drg-20066681?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" id="https://www.mayoclinic.org/drugs-supplements/vasopressin-injection-route/description/drg-20066681?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">vasopressin</a>. Dr. Chebib's team discovered an alternative mechanism that operates independently of that system.</p>
+<p class="wp-block-paragraph">The findings build on decades of scientific understanding by revealing an additional pathway the kidney uses to control water balance. Until now, the body's ability to concentrate urine — and prevent dehydration — has been thought to depend primarily on the hormone <a href="https://www.mayoclinic.org/drugs-supplements/vasopressin-injection-route/description/drg-20066681?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" id="https://www.mayoclinic.org/drugs-supplements/vasopressin-injection-route/description/drg-20066681?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">vasopressin</a>. Dr. Chebib's team discovered an alternative mechanism that operates independently of that system.</p>
 
 
 
@@ -832,7 +1104,7 @@
 
 
 
-<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/diseases-conditions/polycystic-kidney-disease/diagnosis-treatment/drc-20352825?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Polycystic kidney disease</a> is a common inherited condition that causes fluid-filled cysts to grow in the kidneys over time, gradually reducing kidney function and often leading to kidney failure. It affects millions of people worldwide, including an estimated 140,000 people in the U.S. with the most common form, autosomal dominant PKD (ADPKD). Many patients eventually require dialysis or a <a href="https://www.mayoclinic.org/tests-procedures/kidney-transplant/about/pac-20384777?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" id="https://www.mayoclinic.org/tests-procedures/kidney-transplant/about/pac-20384777?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">kidney transplant</a>.</p>
+<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/diseases-conditions/polycystic-kidney-disease/diagnosis-treatment/drc-20352825?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Polycystic kidney disease</a> is a common inherited condition that causes fluid-filled cysts to grow in the kidneys over time, gradually reducing kidney function and often leading to kidney failure. It affects millions of people worldwide, including an estimated 140,000 people in the U.S. with the most common form, autosomal dominant PKD (ADPKD). Many patients eventually require dialysis or a <a href="https://www.mayoclinic.org/tests-procedures/kidney-transplant/about/pac-20384777?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" id="https://www.mayoclinic.org/tests-procedures/kidney-transplant/about/pac-20384777?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">kidney transplant</a>.</p>
 
 
 
@@ -841,12 +1113,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidqEIROryfRHA" title="1940s-era drug shows new promise for kidney disease" width="500" height="281" src="https://www.youtube.com/embed/qEIROryfRHA?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidqEIROryfRHA"  title="1940s-era drug shows new promise for kidney disease" width="500" height="281" src="https://www.youtube.com/embed/qEIROryfRHA?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p class="wp-block-paragraph">Dr. Chebib's team studies how kidney cysts grow in PKD using lab-grown cell models. As part of that work, they tested compounds expected to worsen the disease process by increasing cellular signals linked to cyst growth. One of those compounds was <a href="https://www.mayoclinic.org/drugs-supplements/probenecid-oral-route/description/drg-20065625?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">probenecid</a>, a drug first used in the 1940s to conserve limited supplies of penicillin by reducing its urinary excretion.</p>
+<p class="wp-block-paragraph">Dr. Chebib's team studies how kidney cysts grow in PKD using lab-grown cell models. As part of that work, they tested compounds expected to worsen the disease process by increasing cellular signals linked to cyst growth. One of those compounds was <a href="https://www.mayoclinic.org/drugs-supplements/probenecid-oral-route/description/drg-20065625?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">probenecid</a>, a drug first used in the 1940s to conserve limited supplies of penicillin by reducing its urinary excretion.</p>
 
 
 
@@ -866,7 +1138,7 @@
 
 
 
-<p class="wp-block-paragraph">For patients with PKD, the discovery could address one of the biggest challenges of current treatment. The only approved therapy, <a href="https://mcpress.mayoclinic.org/polycystic-kidney-disease/understanding-tolvaptan-a-medication-for-polycystic-kidney-disease-pkd/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">tolvaptan</a>, works by blocking vasopressin, which slows cyst growth but causes patients to produce very large amounts of urine — often 6 to 7 liters a day. That side effect can be difficult to live with and leads some patients to stop treatment.</p>
+<p class="wp-block-paragraph">For patients with PKD, the discovery could address one of the biggest challenges of current treatment. The only approved therapy, <a href="https://mcpress.mayoclinic.org/polycystic-kidney-disease/understanding-tolvaptan-a-medication-for-polycystic-kidney-disease-pkd/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">tolvaptan</a>, works by blocking vasopressin, which slows cyst growth but causes patients to produce very large amounts of urine — often 6 to 7 liters a day. That side effect can be difficult to live with and leads some patients to stop treatment.</p>
 
 
 
@@ -890,7 +1162,7 @@
 
 
 
-<p class="wp-block-paragraph">For Dr. Chebib, the work is rooted in early inspiration. He was <a href="https://newsnetwork.mayoclinic.org/discussion/science-saturday-confronting-polycystic-kidney-disease-a-silent-killer/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">drawn to kidney research</a> after his father developed PKD.</p>
+<p class="wp-block-paragraph">For Dr. Chebib, the work is rooted in early inspiration. He was <a href="https://newsnetwork.mayoclinic.org/discussion/science-saturday-confronting-polycystic-kidney-disease-a-silent-killer/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">drawn to kidney research</a> after his father developed PKD.</p>
 
 
 
@@ -910,7 +1182,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.</p>
 
 
 
@@ -919,7 +1191,7 @@
 
 
 <ul class="wp-block-list">
-<li>Sharon Theimer, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
+<li>Sharon Theimer, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-identify-new-kidney-pathway-with-help-from-1940s-era-drug-may-improve-polycystic-kidney-disease-treatment/">Researchers identify new kidney pathway with help from 1940s-era drug, may improve polycystic kidney disease treatment (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -928,34 +1200,34 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/1x1-Dr-Fouad-Chebib_WF9784150_0006.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/16x9-Dr-Fouad-Chebib_WF9784150_0006.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[dialysis]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Fouad Chebib]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[kidney disease]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Kidney Transplant]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Polycystic Kidney Disease]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[dialysis]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Fouad Chebib]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[kidney disease]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Kidney Transplant]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Polycystic Kidney Disease]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic maps hidden biology of common brain tumors</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-maps-hidden-biology-of-common-brain-tumors/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-maps-hidden-biology-of-common-brain-tumors/</link>
 		
-		<dc:creator><!--[CDATA[mbroadfoot]]--></dc:creator>
-		<pubdate>Tue, 09 Jun 2026 21:06:51 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Gelareh Zadeh]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=415616</guid>
+		<dc:creator><![CDATA[mbroadfoot]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2026 21:06:51 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Gelareh Zadeh]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=415616</guid>
 
-					<description><!--[CDATA[<p-->One of the most detailed maps to date of meningioma — the most common brain tumor in adults — reveals how the tumor's surrounding environment helps drive disease behavior and patient outcomes, according to new research from Mayo Clinic.<p></p>
+					<description><![CDATA[<p>One of the most detailed maps to date of meningioma — the most common brain tumor in adults — reveals how the tumor's surrounding environment helps drive disease behavior and patient outcomes, according to new research from Mayo Clinic.</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-maps-hidden-biology-of-common-brain-tumors/">Mayo Clinic maps hidden biology of common brain tumors</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-1024x576.jpg" alt="" class="wp-image-415624" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-1024x576.jpg" alt="" class="wp-image-415624" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — One of the most detailed maps to date of <a href="https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">meningioma</a> — the most common brain tumor in adults — reveals how the tumor's surrounding environment helps drive disease behavior and patient outcomes, according to new research from <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — One of the most detailed maps to date of <a href="https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">meningioma</a> — the most common brain tumor in adults — reveals how the tumor's surrounding environment helps drive disease behavior and patient outcomes, according to new research from <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>.</p>
 
 
 
@@ -971,7 +1243,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="684" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-684x1024.jpeg" alt="portrait of Dr. Gelareh Zadeh" class="wp-image-388800" style="aspect-ratio:0.6679778015772564;width:302px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-684x1024.jpeg 684w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-201x300.jpeg 201w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-768x1149.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-1027x1536.jpeg 1027w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746.jpeg 1290w" sizes="auto, (max-width: 684px) 100vw, 684px"><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="684" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-684x1024.jpeg" alt="portrait of Dr. Gelareh Zadeh" class="wp-image-388800" style="aspect-ratio:0.6679778015772564;width:302px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-684x1024.jpeg 684w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-201x300.jpeg 201w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-768x1149.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746-1027x1536.jpeg 1027w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2024/05/Dr.-Gelareh-Zadeh_IMG_4746.jpeg 1290w" sizes="auto, (max-width: 684px) 100vw, 684px" /><figcaption class="wp-element-caption">Gelareh Zadeh, M.D., Ph.D.</figcaption></figure>
 </div>
 
 
@@ -979,7 +1251,7 @@
 
 
 
-<p class="wp-block-paragraph">An estimated 30,000 to 40,000 people in the U.S. are diagnosed with meningioma each year. While many <a href="https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">tumors</a> are benign, others can recur or become life-threatening, and predicting that risk has remained a major challenge.</p>
+<p class="wp-block-paragraph">An estimated 30,000 to 40,000 people in the U.S. are diagnosed with meningioma each year. While many <a href="https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">tumors</a> are benign, others can recur or become life-threatening, and predicting that risk has remained a major challenge.</p>
 
 
 
@@ -1031,7 +1303,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&nbsp;for additional Mayo Clinic news.&nbsp;</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>&amp;nbsp;is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the&amp;nbsp;<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a>&amp;nbsp;for additional Mayo Clinic news.&amp;nbsp;</p>
 
 
 
@@ -1040,7 +1312,7 @@
 
 
 <ul class="wp-block-list">
-<li>Tia Ford, Mayo Clinic Communications,&nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+<li>Tia Ford, Mayo Clinic Communications,&amp;nbsp;<a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
 </ul>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-maps-hidden-biology-of-common-brain-tumors/">Mayo Clinic maps hidden biology of common brain tumors</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
@@ -1049,234 +1321,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/05/GettyImages-2198730504_brain-map_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gelareh Zadeh]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mayo Clinic study shows AI can help clinicians identify brain tumor risks</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-shows-ai-can-help-clinicians-identify-brain-tumor-risks/
-		
-		<dc:creator><!--[CDATA[katelinshaft]]--></dc:creator>
-		<pubdate>Mon, 08 Jun 2026 12:39:50 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Gelareh Zadeh]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=415769</guid>
-
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers and collaborators have shown that an artificial intelligence (AI) tool can analyze routine pathology slides to help clinicians classify meningiomas, the most common primary brain tumor in adults, and better understand a patient’s risk of tumor recurrence. The study, published in The Lancet Digital Health, demonstrates that deep learning […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-shows-ai-can-help-clinicians-identify-brain-tumor-risks/">Mayo Clinic study shows AI can help clinicians identify brain tumor risks</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/futuristic-medical-monitor-image-representing-technology-artificial-intelligence_1089540233-1024x576-1.jpg" alt="futuristic medical monitor image representing technology, artificial intelligence" class="wp-image-316769" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/futuristic-medical-monitor-image-representing-technology-artificial-intelligence_1089540233-1024x576-1.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/futuristic-medical-monitor-image-representing-technology-artificial-intelligence_1089540233-1024x576-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/futuristic-medical-monitor-image-representing-technology-artificial-intelligence_1089540233-1024x576-1-768x432.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
-
-
-
-<p class="wp-block-paragraph">ROCHESTER, Minn. — <a href="https://mayoclinic.org?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers and collaborators have shown that an artificial intelligence (AI) tool can analyze routine pathology slides to help clinicians classify <a href="https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">meningiomas</a>, the most common primary <a href="https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">brain tumor</a> in adults, and better understand a patient’s risk of tumor recurrence.</p>
-
-
-
-<p class="wp-block-paragraph">The <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00009-9/fulltext">study</a>, published in The Lancet Digital Health, demonstrates that deep learning models can support the extraction of molecular and prognostic information from standard hematoxylin and eosin, or H&amp;E, slides — the same type of tissue images already used in routine clinical care. These insights are typically obtained through DNA methylation profiling, an advanced genetic test which provides valuable diagnostic and prognostic information but can be costly, time-consuming and is unavailable in many hospitals.</p>
-
-
-
-<p class="wp-block-paragraph">"This is one of the many studies where we can harness the strength of digital pathology by capturing the last two decades of genomic and molecular knowledge into AI algorithms," says <a href="https://www.mayoclinic.org/biographies/zadeh-gelareh-m-d-ph-d/bio-20574659?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Gelareh Zadeh, M.D., Ph.D.</a>, chair of the Department of Neurologic Surgery at Mayo Clinic in Rochester and the David C. and Flora C. Pratt Distinguished Chief Medical Officer for <a href="https://www.mayoclinicplatform.org/">Mayo Clinic Platform</a>.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Making advanced tumor insights more accessible</strong></h2>
-
-
-
-<p class="wp-block-paragraph">Meningiomas can vary widely in behavior. Some grow slowly and may never return after treatment, while others are more aggressive and more likely to recur. Understanding that risk is critical for patients and care teams deciding whether additional treatment, such as <a href="https://www.mayoclinic.org/tests-procedures/radiation-therapy/about/pac-20385162?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">radiation therapy</a>, may be needed after <a href="https://www.mayoclinic.org/tests-procedures/brain-tumor-surgery/about/pac-20584295?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">surgery</a>.</p>
-
-
-
-<p class="wp-block-paragraph">Molecular testing can help identify which tumors are more likely to recur and which may respond differently to treatment. But these tests require specialized technology and expertise, limiting access for many patients.</p>
-
-
-
-<p class="wp-block-paragraph">Using tissue samples, pathology images and clinical data from 672 patients, researchers developed and tested AI models designed to help identify patterns linked to a tumor's biology. Drawing on multiple de-identified datasets, including data resources from Mayo Clinic Platform, the models supported classification of meningioma subtypes and recurrence risk prediction using standard pathology slides that are already part of routine patient care.</p>
-
-
-
-<p class="wp-block-paragraph">The findings suggest that, with further validation, AI-based tools could one day help clinicians obtain more detailed tumor information to inform patient care, without requiring every patient to undergo advanced genetic testing.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Helping guide treatment decisions</strong></h2>
-
-
-
-<p class="wp-block-paragraph">For patients with meningiomas, recurrence risk can influence follow-up care, imaging frequency and whether radiation therapy should be considered. The study found that AI-based predictions remained useful even after accounting for traditional clinical factors such as tumor grade, the extent to which surgery was able to remove the tumor and patient age.</p>
-
-
-
-<p class="wp-block-paragraph">Researchers also found that the AI models could identify patterns of tumor heterogeneity — differences within the same tumor — that may help explain why some tumors behave more aggressively or respond differently to treatment.</p>
-
-
-
-<p class="wp-block-paragraph">The researchers note that additional prospective studies are needed before the AI models can be used routinely in clinical care. Still, they say the findings lay the groundwork for more accessible, personalized care for patients with meningiomas — and potentially for similar AI approaches in other cancers.</p>
-
-
-
-<p class="wp-block-paragraph">As with any clinical decision-support tool, the researchers emphasize that these models would require rigorous evaluation, validation and ongoing physician oversight before being considered for routine care. "The aim is to make these algorithms readily and simply accessible for use globally, improving patient care across many healthcare settings," says Dr. Zadeh.</p>
-
-
-
-<p class="wp-block-paragraph">For a complete list of authors, disclosures and funding, review the <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00009-9/fulltext" target="_blank" rel="noreferrer noopener">publication</a>. </p>
-
-
-
-<p class="wp-block-paragraph">###</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic Platform</strong> <br>Founded on Mayo Clinic's dedication to patient-centered care, <a href="https://www.mayoclinicplatform.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic Platform</a> enables new knowledge, new solutions, and new technologies through collaborations with health technology innovators to create a healthier world. To learn more, visit Mayo Clinic Platform at <a href="https://www.mayoclinicplatform.org/" target="_blank" rel="noreferrer noopener">www.mayoclinicplatform.org</a>.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Media contact:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Tia Ford, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-
-
-
-<p class="wp-block-paragraph"><a id="_msocom_1"></a></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-shows-ai-can-help-clinicians-identify-brain-tumor-risks/">Mayo Clinic study shows AI can help clinicians identify brain tumor risks</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/futuristic-medical-monitor-image-representing-technology-artificial-intelligence-1x1-1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2021/08/futuristic-medical-monitor-image-representing-technology-artificial-intelligence-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gelareh Zadeh]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mayo Clinic study finds new post-liver transplant protocol results in 0% heavy alcohol relapse rate</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-new-post-liver-transplant-protocol-results-in-0-heavy-alcohol-relapse-rate/
-		
-		<dc:creator><!--[CDATA[briannadipilato]]--></dc:creator>
-		<pubdate>Wed, 03 Jun 2026 14:34:47 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Channa Jayasekera]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=415735</guid>
-
-					<description><!--[CDATA[<p-->PHOENIX — In a study published in the Liver Transplantation journal by the American Association for the Study of Liver Diseases, Mayo Clinic researchers found that a new proactive treatment protocol for alcohol use disorder after liver transplant resulted in a 0% heavy alcohol relapse rate among patients who followed the protocol, compared with a […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-new-post-liver-transplant-protocol-results-in-0-heavy-alcohol-relapse-rate/">Mayo Clinic study finds new post-liver transplant protocol results in 0% heavy alcohol relapse rate</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-16-x-9-1024x576.jpg" alt="" class="wp-image-415657" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-16-x-9-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-16-x-9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-16-x-9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-16-x-9-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-16-x-9.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
-
-
-
-<p class="wp-block-paragraph">PHOENIX — In a <a href="https://journals.lww.com/lt/fulltext/9900/preemptive_anticraving_therapies_reduce_alcohol.866.aspx" target="_blank" rel="noreferrer noopener">study</a> published in the Liver Transplantation journal by the American Association for the Study of Liver Diseases, <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers found that a new proactive treatment protocol for alcohol use disorder after <a href="https://www.mayoclinic.org/departments-centers/liver-transplant/home/orc-20211818?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">liver transplant</a> resulted in a 0% heavy alcohol relapse rate among patients who followed the protocol, compared with a historical relapse rate of approximately 25%.</p>
-
-
-
-<p class="wp-block-paragraph">"The results were greater than we expected," says <a href="https://www.mayoclinic.org/biographies/jayasekera-channa-r-m-d/bio-20514268?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Channa Jayasekera, M.D.</a>, Mayo Clinic transplant hepatologist and senior author of the study. "Among the 21 patients in the study, none relapsed to heavy alcohol use within one year. Although this was a small cohort, having no relapses is incredibly encouraging that we have found an effective intervention."</p>
-
-
-
-<p class="wp-block-paragraph">Researchers defined heavy alcohol use as binge drinking — five or more drinks for men or four or more drinks for women on a single occasion — or drinking alcohol more than four days per week. This standard definition reflects a level of alcohol consumption associated with damage to the transplanted liver and other negative health outcomes.</p>
-
-
-
-<h2 class="wp-block-heading">New protocol aims to prevent alcohol relapse after liver transplant</h2>
-
-
-
-<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Alcohol-associated liver disease</a> is now the leading indication for liver transplantation in the U.S., and many patients requiring urgent transplantation do not have time to complete traditional alcohol treatment programs before surgery. Historically, transplant care has often focused on monitoring patients after transplant and intervening only after relapse occurs.</p>
-
-
-
-<p class="wp-block-paragraph">Patients who relapse after transplant face a higher risk of serious health complications and may not be eligible for another liver transplant, making relapse prevention a critical part of long-term care.</p>
-
-
-
-<p class="wp-block-paragraph">Researchers at Mayo Clinic in Arizona developed and studied preventing alcohol-related complications after transplantation, or PACT, a first-of-its-kind multidisciplinary protocol designed to proactively prevent alcohol relapse after transplant. The protocol combines anticraving medication, frequent patient follow-up, alcohol metabolite testing, and coordinated care from transplant hepatologists, surgeons, addiction counselors, psychiatrists and pharmacists.</p>
-
-
-
-<p class="wp-block-paragraph"><strong><a href="https://www.youtube.com/watch?v=anVJsR3PAEs" target="_blank" rel="noreferrer noopener">Watch: Dr. Channa Jayasekera discusses Mayo Clinic PACT study</a></strong></p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidanVJsR3PAEs" title="Dr. Channa Jayasekera - Proactive treatment protocol for alcohol use disorder after liver transplant" width="500" height="281" src="https://www.youtube.com/embed/anVJsR3PAEs?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-</div></figure>
-
-
-
-<p class="wp-block-paragraph"><strong>Journalists: Broadcast-quality sound bites with Dr. Channa Jayasekera are in the downloads at the end of the post. Please courtesy: "Mayo Clinic News Network." Name super/CG: Channa Jayasekera, M.D./Transplant Hepatology/Mayo Clinic.</strong></p>
-
-
-
-<p class="wp-block-paragraph">"While a liver transplant can cure alcohol-related liver disease, it does not treat alcohol use disorder," says Dr. Jayasekera. "We increasingly understand alcohol use disorder as a chronic medical condition that deserves proactive treatment, just like other chronic diseases. Our goal is to give patients every possible tool to protect their health and preserve the gift of transplantation."</p>
-
-
-
-<p class="wp-block-paragraph">Researchers say the findings could help reshape how transplant centers nationwide approach addiction treatment after liver transplant and help reduce stigma surrounding alcohol use disorder.</p>
-
-
-
-<p class="wp-block-paragraph">"These patients are often young and have a long future ahead of them after transplant," says Dr. Jayasekera. "If these findings are replicated at other centers, this approach could become a game changer in transplant medicine."</p>
-
-
-
-<p class="wp-block-paragraph">Dr. Jayasekera notes that larger studies and replication at additional transplant centers will be important next steps.</p>
-
-
-
-<p class="wp-block-paragraph">For a complete list of authors and disclosures, review the <a href="https://journals.lww.com/lt/fulltext/9900/preemptive_anticraving_therapies_reduce_alcohol.866.aspx" target="_blank" rel="noreferrer noopener">study</a>.</p>
-
-
-
-<p class="wp-block-paragraph">###</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic Transplant Center<br></strong><a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Transplant Center</a> is one of the largest and most comprehensive transplant programs in the world. With programs in Arizona, Florida and Minnesota, Mayo Clinic provides seamless, coordinated care across adult heart, lung, liver, kidney and pancreas transplantation. Guided by a commitment to innovation, research and education, Mayo Clinic Transplant Center delivers world-leading outcomes, compassionate patient care and advances that shape the future of transplantation worldwide.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Media contact:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Kelley Luckstein, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-new-post-liver-transplant-protocol-results-in-0-heavy-alcohol-relapse-rate/">Mayo Clinic study finds new post-liver transplant protocol results in 0% heavy alcohol relapse rate</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-1-x-1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/Liver-Transplant-Team-16-x-9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Channa Jayasekera]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Gelareh Zadeh]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss>
