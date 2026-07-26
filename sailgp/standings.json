@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source_url": "https://sailgp.com/results/all-seasons/",
-  "retrieved_at": "2026-07-26T04:34:01Z",
+  "retrieved_at": "2026-07-26T16:34:02Z",
   "season": "2026",
   "season_id": 6,
   "leaderboard_type": "championship",
@@ -14,39 +14,39 @@
       "team": "Australia",
       "team_name": "BONDS Flying Roos",
       "driver": "Tom Slingsby",
-      "points": 65,
+      "points": 66,
       "points_adjustment": 0,
       "rank_delta": 0
     },
     {
       "position": 2,
-      "team_code": "USA",
-      "team": "United States",
-      "team_name": "U.S. SailGP Team",
-      "driver": "Taylor Canfield",
-      "points": 49,
-      "points_adjustment": 0,
-      "rank_delta": 2
-    },
-    {
-      "position": 3,
       "team_code": "ESP",
       "team": "Spain",
       "team_name": "Los Gallos",
       "driver": "Diego Botin",
-      "points": 49,
+      "points": 52,
       "points_adjustment": 0,
-      "rank_delta": -1
+      "rank_delta": 0
     },
     {
-      "position": 4,
+      "position": 3,
       "team_code": "SWE",
       "team": "Sweden",
       "team_name": "Artemis",
       "driver": "Nathan Outteridge",
       "points": 48,
       "points_adjustment": 0,
-      "rank_delta": 1
+      "rank_delta": 2
+    },
+    {
+      "position": 4,
+      "team_code": "USA",
+      "team": "United States",
+      "team_name": "U.S. SailGP Team",
+      "driver": "Taylor Canfield",
+      "points": 46,
+      "points_adjustment": 0,
+      "rank_delta": 0
     },
     {
       "position": 5,
@@ -54,7 +54,7 @@
       "team": "Great Britain",
       "team_name": "Emirates GBR",
       "driver": "Dylan Fletcher",
-      "points": 48,
+      "points": 44,
       "points_adjustment": 0,
       "rank_delta": -2
     },
@@ -64,7 +64,7 @@
       "team": "France",
       "team_name": "DS Automobiles FRA",
       "driver": "Quentin Delapierre",
-      "points": 34,
+      "points": 36,
       "points_adjustment": 5,
       "rank_delta": 0
     },
@@ -74,7 +74,7 @@
       "team": "Canada",
       "team_name": "NorthStar",
       "driver": "Giles Scott",
-      "points": 30,
+      "points": 32,
       "points_adjustment": 0,
       "rank_delta": 1
     },
@@ -84,7 +84,7 @@
       "team": "Germany",
       "team_name": "Germany by Deutsche Bank",
       "driver": "Erik Heil",
-      "points": 27,
+      "points": 28,
       "points_adjustment": 0,
       "rank_delta": -1
     },
@@ -94,29 +94,29 @@
       "team": "Switzerland",
       "team_name": "Explora Journeys Swiss",
       "driver": "Sébastien Schneiter",
-      "points": 24,
+      "points": 25,
       "points_adjustment": 0,
       "rank_delta": 2
     },
     {
       "position": 10,
-      "team_code": "ITA",
-      "team": "Italy",
-      "team_name": "Red Bull Italy",
-      "driver": "Phil Robertson",
-      "points": 24,
-      "points_adjustment": 0,
-      "rank_delta": -1
-    },
-    {
-      "position": 11,
       "team_code": "DEN",
       "team": "Denmark",
       "team_name": "ROCKWOOL Racing",
       "driver": "Nicolai Sehested",
+      "points": 24,
+      "points_adjustment": 0,
+      "rank_delta": 0
+    },
+    {
+      "position": 11,
+      "team_code": "ITA",
+      "team": "Italy",
+      "team_name": "Red Bull Italy",
+      "driver": "Phil Robertson",
       "points": 22,
       "points_adjustment": 0,
-      "rank_delta": -1
+      "rank_delta": -2
     },
     {
       "position": 12,
@@ -124,7 +124,7 @@
       "team": "New Zealand",
       "team_name": "Black Foils",
       "driver": "Peter Burling",
-      "points": 17,
+      "points": 14,
       "points_adjustment": 0,
       "rank_delta": 0
     },
