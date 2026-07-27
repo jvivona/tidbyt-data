@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "source_url": "https://sailgp.com/results/all-seasons/",
-  "retrieved_at": "2026-07-26T16:34:02Z",
+  "retrieved_at": "2026-07-27T04:34:01Z",
   "season": "2026",
   "season_id": 6,
   "leaderboard_type": "championship",
-  "status": "Active",
+  "status": "Official",
   "latest_regatta_id": 74,
   "standings": [
     {
@@ -24,7 +24,7 @@
       "team": "Spain",
       "team_name": "Los Gallos",
       "driver": "Diego Botin",
-      "points": 52,
+      "points": 54,
       "points_adjustment": 0,
       "rank_delta": 0
     },
@@ -34,7 +34,7 @@
       "team": "Sweden",
       "team_name": "Artemis",
       "driver": "Nathan Outteridge",
-      "points": 48,
+      "points": 47,
       "points_adjustment": 0,
       "rank_delta": 2
     },
@@ -74,7 +74,7 @@
       "team": "Canada",
       "team_name": "NorthStar",
       "driver": "Giles Scott",
-      "points": 32,
+      "points": 31,
       "points_adjustment": 0,
       "rank_delta": 1
     },
