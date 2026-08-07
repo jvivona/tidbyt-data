@@ -1,44 +1,52 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:mayoclinic="http://mayoclinic.org">
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:mayoclinic="http://mayoclinic.org"
+>
 
 <channel>
 	<title>Research - Mayo Clinic News Network</title>
-	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
-	<link>https://newsnetwork.mayoclinic.org/category/research/
+	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsnetwork.mayoclinic.org/category/research/</link>
 	<description>News Resources</description>
-	<lastbuilddate>Thu, 06 Aug 2026 17:55:26 +0000</lastbuilddate>
+	<lastBuildDate>Thu, 06 Aug 2026 17:55:26 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0.3</generator>
 	<item>
 		<title>International study identifies promising therapy to prevent relapses in rare neurological disease</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/international-study-identifies-promising-therapy-to-prevent-relapses-in-rare-neurological-disease/
+		<link>https://newsnetwork.mayoclinic.org/discussion/international-study-identifies-promising-therapy-to-prevent-relapses-in-rare-neurological-disease/</link>
 		
-		<dc:creator><!--[CDATA[justingottlieb]]--></dc:creator>
-		<pubdate>Thu, 06 Aug 2026 15:10:47 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[International]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Eoin Flanagan]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417251</guid>
+		<dc:creator><![CDATA[justingottlieb]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 15:10:47 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Eoin Flanagan]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=417251</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — An international study led by Mayo Clinic researchers has identified interleukin-6 (IL-6) receptor blockers as a promising option for preventing relapses in myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). MOGAD is a rare autoimmune neurological disorder that can cause vision loss, paralysis and other serious neurological complications. The study, published in JAMA Neurology, […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — An international study led by Mayo Clinic researchers has identified interleukin-6 (IL-6) receptor blockers as a promising option for preventing relapses in myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). MOGAD is a rare autoimmune neurological disorder that can cause vision loss, paralysis and other serious neurological complications. The study, published in JAMA Neurology, [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/international-study-identifies-promising-therapy-to-prevent-relapses-in-rare-neurological-disease/">International study identifies promising therapy to prevent relapses in rare neurological disease</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-1024x575.jpg" alt="testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab" class="wp-image-417258" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-1024x575.jpg" alt="testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab" class="wp-image-417258" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — An international study led by <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers has identified interleukin-6 (IL-6) receptor blockers as a promising option for preventing relapses in <a href="https://www.mayoclinic.org/diseases-conditions/mogad/symptoms-causes/syc-20560476?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD)</a>. MOGAD is a rare autoimmune neurological disorder that can cause vision loss, paralysis and other serious neurological complications.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — An international study led by <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers has identified interleukin-6 (IL-6) receptor blockers as a promising option for preventing relapses in <a href="https://www.mayoclinic.org/diseases-conditions/mogad/symptoms-causes/syc-20560476?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD)</a>. MOGAD is a rare autoimmune neurological disorder that can cause vision loss, paralysis and other serious neurological complications.</p>
 
 
 
@@ -54,11 +62,11 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320-683x1024.jpg" alt="Portrait of Dr. Eoin Flanagan" class="wp-image-417254" style="aspect-ratio:0.6670059865726266;width:427px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320.jpg 750w" sizes="(max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Eoin Flanagan, M.B., B.Ch.</figcaption></figure>
+<figure class="alignright size-large is-resized"><img decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320-683x1024.jpg" alt="Portrait of Dr. Eoin Flanagan" class="wp-image-417254" style="aspect-ratio:0.6670059865726266;width:427px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF5917048_0320.jpg 750w" sizes="(max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Eoin Flanagan, M.B., B.Ch.</figcaption></figure>
 </div>
 
 
-<p class="wp-block-paragraph">"Interleukin-6 receptor blockers appear to be a promising treatment option for people living with MOGAD," says <a href="https://www.mayoclinic.org/biographies/flanagan-eoin-p-m-b-b-ch/bio-20149754?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Eoin Flanagan, M.B., B.Ch.</a>, a neurologist at Mayo Clinic and senior author of the study. "While we await results from randomized clinical trials, these findings provide additional evidence that these medications may help limit the neurological disability that can accumulate with repeated attacks.”</p>
+<p class="wp-block-paragraph">"Interleukin-6 receptor blockers appear to be a promising treatment option for people living with MOGAD," says <a href="https://www.mayoclinic.org/biographies/flanagan-eoin-p-m-b-b-ch/bio-20149754?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Eoin Flanagan, M.B., B.Ch.</a>, a neurologist at Mayo Clinic and senior author of the study. "While we await results from randomized clinical trials, these findings provide additional evidence that these medications may help limit the neurological disability that can accumulate with repeated attacks.”</p>
 
 
 
@@ -70,7 +78,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-819x1024.jpg" alt="Portrait of Dr. Andreu Vilaseca Jolonch" class="wp-image-417255" style="aspect-ratio:0.799813996744943;width:425px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120.jpg 900w" sizes="(max-width: 819px) 100vw, 819px"><figcaption class="wp-element-caption">Andreu Vilaseca Jolonch, M.D.</figcaption></figure>
+<figure class="alignleft size-large is-resized"><img decoding="async" width="819" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-819x1024.jpg" alt="Portrait of Dr. Andreu Vilaseca Jolonch" class="wp-image-417255" style="aspect-ratio:0.799813996744943;width:425px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-819x1024.jpg 819w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-240x300.jpg 240w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120-768x960.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Vilaseca-Jolonch-Andreu_30411271_20250120.jpg 900w" sizes="(max-width: 819px) 100vw, 819px" /><figcaption class="wp-element-caption">Andreu Vilaseca Jolonch, M.D.</figcaption></figure>
 </div>
 
 
@@ -90,7 +98,7 @@
 
 
 
-<p class="wp-block-paragraph">&nbsp;For a complete list of authors, disclosures and funding, review the <a href="https://jamanetwork.com/journals/jamaneurology/fullarticle/2851426?resultClick=24" target="_blank" rel="noreferrer noopener">JAMA Neurology article</a>.</p>
+<p class="wp-block-paragraph">&amp;nbsp;For a complete list of authors, disclosures and funding, review the <a href="https://jamanetwork.com/journals/jamaneurology/fullarticle/2851426?resultClick=24" target="_blank" rel="noreferrer noopener">JAMA Neurology article</a>.</p>
 
 
 
@@ -98,7 +106,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -116,32 +124,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/testing-serum-specimens-for-neutralizing-antibodies-Neuroimmunology-Lab-1689960_3972391_0038_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Eoin Flanagan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Eoin Flanagan]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>How scientists hope to retrain the immune system after an organ transplant</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/how-scientists-hope-to-retrain-the-immune-system-after-an-organ-transplant/
+		<link>https://newsnetwork.mayoclinic.org/discussion/how-scientists-hope-to-retrain-the-immune-system-after-an-organ-transplant/</link>
 		
-		<dc:creator><!--[CDATA[jftmayo]]--></dc:creator>
-		<pubdate>Wed, 05 Aug 2026 15:36:04 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Podcast]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[Transplant]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[podcast]]--></category>
-		<category><!--[CDATA[Tomorrow's Cure]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417212</guid>
+		<dc:creator><![CDATA[jftmayo]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 15:36:04 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Transplant]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Tomorrow's Cure]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=417212</guid>
 
-					<description><!--[CDATA[<p-->Organ transplantation has transformed countless lives, offering hope to people with end-stage organ failure. But for many patients, the journey doesn't end with surgery. Lifelong anti-rejection medications protect transplanted organs, but they also can increase the risk of infection, cancer and other serious health complications. On the latest episode of "Tomorrow's Cure," host Lindsay Sievert […]<p></p>
+					<description><![CDATA[<p>Organ transplantation has transformed countless lives, offering hope to people with end-stage organ failure. But for many patients, the journey doesn't end with surgery. Lifelong anti-rejection medications protect transplanted organs, but they also can increase the risk of infection, cancer and other serious health complications. On the latest episode of "Tomorrow's Cure," host Lindsay Sievert [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/how-scientists-hope-to-retrain-the-immune-system-after-an-organ-transplant/">How scientists hope to retrain the immune system after an organ transplant</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-1024x576.png" alt="" class="wp-image-417213" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long.png 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-1024x576.png" alt="" class="wp-image-417213" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long.png 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Organ transplantation</a> has transformed countless lives, offering hope to people with end-stage organ failure. But for many patients, the journey doesn't end with surgery. Lifelong anti-rejection medications protect transplanted organs, but they also can increase the risk of infection, cancer and other serious health complications.</p>
+<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/departments-centers/transplant-center/home/orc-20203891?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Organ transplantation</a> has transformed countless lives, offering hope to people with end-stage organ failure. But for many patients, the journey doesn't end with surgery. Lifelong anti-rejection medications protect transplanted organs, but they also can increase the risk of infection, cancer and other serious health complications.</p>
 
 
 
@@ -150,12 +158,12 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidATaOE3IZz58" title="The Science of Immune Tolerance in Transplants | Tomorrow&amp;apos;s Cure Season 5 Episode 7" width="500" height="281" src="https://www.youtube.com/embed/ATaOE3IZz58?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidATaOE3IZz58"  title="The Science of Immune Tolerance in Transplants | Tomorrow&amp;amp;apos;s Cure Season 5 Episode 7" width="500" height="281" src="https://www.youtube.com/embed/ATaOE3IZz58?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p class="wp-block-paragraph">Joining the conversation are <a href="https://www.mayoclinic.org/biographies/taner-timucin-m-d-ph-d/bio-20055648?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Timucin Taner, M.D., Ph.D.</a>, a transplant surgeon at <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, and <a href="https://www.surgery.pitt.edu/people/angus-w-thomson-phd-dsc" target="_blank" rel="noreferrer noopener">Angus Thomson, Ph.D., DSc.</a>, a transplant immunologist at the University of Pittsburgh Medical Center. Together, they discuss how advances in <a href="https://www.mayo.edu/research/centers-programs/transplant-immunology-program/research/antibody-barriers-project" target="_blank" rel="noreferrer noopener">immune tolerance</a> and cell therapy are bringing researchers closer to that goal.</p>
+<p class="wp-block-paragraph">Joining the conversation are <a href="https://www.mayoclinic.org/biographies/taner-timucin-m-d-ph-d/bio-20055648?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Timucin Taner, M.D., Ph.D.</a>, a transplant surgeon at <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>, and <a href="https://www.surgery.pitt.edu/people/angus-w-thomson-phd-dsc" target="_blank" rel="noreferrer noopener">Angus Thomson, Ph.D., DSc.</a>, a transplant immunologist at the University of Pittsburgh Medical Center. Together, they discuss how advances in <a href="https://www.mayo.edu/research/centers-programs/transplant-immunology-program/research/antibody-barriers-project" target="_blank" rel="noreferrer noopener">immune tolerance</a> and cell therapy are bringing researchers closer to that goal.</p>
 
 
 
@@ -179,32 +187,32 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_Episode-Art-Card.png</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/TC_S5EP07_Immunosuppression_YT-Thumbnail_Long.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[podcast]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Tomorrow's Cure]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[podcast]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Tomorrow's Cure]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>First-in-class small molecule inhibitor designed with AI support shows promise against pancreatic cancer in preclinical studies</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/first-in-class-small-molecule-inhibitor-designed-with-ai-support-shows-promise-against-pancreatic-cancer-in-preclinical-studies/
+		<link>https://newsnetwork.mayoclinic.org/discussion/first-in-class-small-molecule-inhibitor-designed-with-ai-support-shows-promise-against-pancreatic-cancer-in-preclinical-studies/</link>
 		
-		<dc:creator><!--[CDATA[rebeccabromelkamp]]--></dc:creator>
-		<pubdate>Wed, 05 Aug 2026 13:41:08 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Florida]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Florida News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417235</guid>
+		<dc:creator><![CDATA[rebeccabromelkamp]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 13:41:08 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Florida News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=417235</guid>
 
-					<description><!--[CDATA[<p-->JACKSONVILLE, Fla. — Mayo Clinic researchers have developed an experimental drug with the help of artificial intelligence (AI) to target the "undruggable" PDZ-domain of GIPC1 protein that helps different types of cancer, including pancreatic cancer, to grow and resist treatment. In laboratory studies, the drug slowed tumor growth, improved survival and enhanced the effects of […]<p></p>
+					<description><![CDATA[<p>JACKSONVILLE, Fla. — Mayo Clinic researchers have developed an experimental drug with the help of artificial intelligence (AI) to target the "undruggable" PDZ-domain of GIPC1 protein that helps different types of cancer, including pancreatic cancer, to grow and resist treatment. In laboratory studies, the drug slowed tumor growth, improved survival and enhanced the effects of [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/first-in-class-small-molecule-inhibitor-designed-with-ai-support-shows-promise-against-pancreatic-cancer-in-preclinical-studies/">First-in-class small molecule inhibitor designed with AI support shows promise against pancreatic cancer in preclinical studies</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-1024x575.jpg" alt="Researchers work in a laboratory. One woman pipettes a sample at the bench while another woman stands next to her with a clipboard." class="wp-image-417240" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-1024x575.jpg" alt="Researchers work in a laboratory. One woman pipettes a sample at the bench while another woman stands next to her with a clipboard." class="wp-image-417240" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty</figcaption></figure>
 
 
 
-<p class="wp-block-paragraph">JACKSONVILLE, Fla. — <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have developed an experimental drug with the help of artificial intelligence (AI) to target the "undruggable" PDZ-domain of GIPC1 protein that helps different types of cancer, including <a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cancer/symptoms-causes/syc-20355421?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">pancreatic cancer</a>, to grow and resist treatment. In laboratory studies, the drug slowed tumor growth, improved survival and enhanced the effects of the chemotherapy drug gemcitabine.</p>
+<p class="wp-block-paragraph">JACKSONVILLE, Fla. — <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have developed an experimental drug with the help of artificial intelligence (AI) to target the "undruggable" PDZ-domain of GIPC1 protein that helps different types of cancer, including <a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cancer/symptoms-causes/syc-20355421?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">pancreatic cancer</a>, to grow and resist treatment. In laboratory studies, the drug slowed tumor growth, improved survival and enhanced the effects of the chemotherapy drug gemcitabine.</p>
 
 
 
@@ -236,7 +244,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -254,38 +262,38 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/Researchers-working-in-laboratory-GettyImages-1216362515_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Florida News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Florida News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Researchers discover immune ‘off switch’ used by cancer cells&nbsp;</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/researchers-discover-immune-off-switch-used-by-cancer-cells/
+		<title>Researchers discover immune &amp;#8216;off switch&amp;#8217; used by cancer cells&nbsp;</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/researchers-discover-immune-off-switch-used-by-cancer-cells/</link>
 		
-		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
-		<pubdate>Mon, 03 Aug 2026 16:18:53 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Andrew Badley]]--></category>
-		<category><!--[CDATA[Dr. Saad Kenderian]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417184</guid>
+		<dc:creator><![CDATA[brittanycordeiro]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 16:18:53 +0000</pubDate>
+				<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Andrew Badley]]></category>
+		<category><![CDATA[Dr. Saad Kenderian]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=417184</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have identified a protein that cancer cells use to shut down the body's immune response, a discovery that could help scientists develop new treatments that make cancer immunotherapies more effective. Published in the Journal of Clinical Investigation, the study identifies a previously unknown role for a protein called TRAILshort, […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-discover-immune-off-switch-used-by-cancer-cells/">Researchers discover immune ‘off switch’ used by cancer cells&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Mayo Clinic researchers have identified a protein that cancer cells use to shut down the body's immune response, a discovery that could help scientists develop new treatments that make cancer immunotherapies more effective. Published in the Journal of Clinical Investigation, the study identifies a previously unknown role for a protein called TRAILshort, [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-discover-immune-off-switch-used-by-cancer-cells/">Researchers discover immune &amp;#8216;off switch&amp;#8217; used by cancer cells&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-1024x682.jpg" alt="Dr. Andrew Badley's Human Immunodeficiency Virus Lab in Rochester, Minnesota." class="wp-image-417188" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-1024x682.jpg" alt="Dr. Andrew Badley&amp;apos;s Human Immunodeficiency Virus Lab in Rochester, Minnesota." class="wp-image-417188" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have identified a protein that cancer cells use to shut down the body's immune response, a discovery that could help scientists develop new treatments that make cancer immunotherapies more effective.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have identified a protein that cancer cells use to shut down the body's immune response, a discovery that could help scientists develop new treatments that make cancer immunotherapies more effective.</p>
 
 
 
-<p class="wp-block-paragraph"><a href="https://www.jci.org/articles/view/194449" target="_blank" rel="noreferrer noopener">Published</a> in the Journal of Clinical Investigation, the study identifies a previously unknown role for a protein called TRAILshort, which acts like an immune "off switch." The researchers found that TRAILshort prevents T cells — the immune system's primary cancer-fighting cells — from recognizing and destroying cancer and virus-infected cells. In preclinical models, blocking the protein restored T-cell activity and improved immune response.&nbsp;</p>
+<p class="wp-block-paragraph"><a href="https://www.jci.org/articles/view/194449" target="_blank" rel="noreferrer noopener">Published</a> in the Journal of Clinical Investigation, the study identifies a previously unknown role for a protein called TRAILshort, which acts like an immune "off switch." The researchers found that TRAILshort prevents T cells — the immune system's primary cancer-fighting cells — from recognizing and destroying cancer and virus-infected cells. In preclinical models, blocking the protein restored T-cell activity and improved immune response.&amp;nbsp;</p>
 
 
 
@@ -297,15 +305,15 @@
 
 
 
-<h2 class="wp-block-heading"><strong>How cancer disrupts the immune response&nbsp;</strong></h2>
+<h2 class="wp-block-heading"><strong>How cancer disrupts the immune response&amp;nbsp;</strong></h2>
 
 
 
-<p class="wp-block-paragraph">Mayo Clinic researchers first <a href="https://pubmed.ncbi.nlm.nih.gov/21859711/" target="_blank" rel="noreferrer noopener">discovered</a> TRAILshort while studying <a href="https://www.mayoclinic.org/diseases-conditions/hiv-aids/symptoms-causes/syc-20373524?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">HIV</a> nearly 15 years ago. In 2020, they found that cancer cells also produce the protein, but how it suppressed T-cell activity remained unknown. This new study reveals the mechanism for the first time.</p>
+<p class="wp-block-paragraph">Mayo Clinic researchers first <a href="https://pubmed.ncbi.nlm.nih.gov/21859711/" target="_blank" rel="noreferrer noopener">discovered</a> TRAILshort while studying <a href="https://www.mayoclinic.org/diseases-conditions/hiv-aids/symptoms-causes/syc-20373524?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">HIV</a> nearly 15 years ago. In 2020, they found that cancer cells also produce the protein, but how it suppressed T-cell activity remained unknown. This new study reveals the mechanism for the first time.</p>
 
 
 
-<p class="wp-block-paragraph">Researchers found elevated levels of TRAILshort in&nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">melanoma</a>, <a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">lung</a>, <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">breast</a>, <a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cancer/symptoms-causes/syc-20355421?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">pancreatic</a> and <a href="https://www.mayoclinic.org/diseases-conditions/ovarian-cancer/symptoms-causes/syc-20375941?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">ovarian</a> cancers, as well as <a href="https://www.mayoclinic.org/diseases-conditions/hodgkins-lymphoma/symptoms-causes/syc-20352646?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Hodgkin lymphoma</a>. Elevated levels also were found in infectious diseases, including COVID-19, <a href="https://www.mayoclinic.org/diseases-conditions/tuberculosis/symptoms-causes/syc-20351250?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">tuberculosis</a> and <a href="https://www.mayoclinic.org/diseases-conditions/hepatitis-c/symptoms-causes/syc-20354278?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">hepatitis C</a>.</p>
+<p class="wp-block-paragraph">Researchers found elevated levels of TRAILshort in&amp;nbsp;<a href="https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">melanoma</a>, <a href="https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">lung</a>, <a href="https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">breast</a>, <a href="https://www.mayoclinic.org/diseases-conditions/pancreatic-cancer/symptoms-causes/syc-20355421?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">pancreatic</a> and <a href="https://www.mayoclinic.org/diseases-conditions/ovarian-cancer/symptoms-causes/syc-20375941?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">ovarian</a> cancers, as well as <a href="https://www.mayoclinic.org/diseases-conditions/hodgkins-lymphoma/symptoms-causes/syc-20352646?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Hodgkin lymphoma</a>. Elevated levels also were found in infectious diseases, including COVID-19, <a href="https://www.mayoclinic.org/diseases-conditions/tuberculosis/symptoms-causes/syc-20351250?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">tuberculosis</a> and <a href="https://www.mayoclinic.org/diseases-conditions/hepatitis-c/symptoms-causes/syc-20354278?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">hepatitis C</a>.</p>
 
 
 
@@ -329,11 +337,11 @@
 
 
 
-<p class="wp-block-paragraph">"Discovering the role of TRAILshort and how it inhibits CAR-T cells opens the door for a new therapeutic strategy to improve their activity," says <a href="https://www.mayoclinic.org/biographies/kenderian-saad-j-m-b-ch-b/bio-20202734?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Saad Kenderian, M.B. Ch.B.</a>, an oncologist at Mayo Clinic Comprehensive Cancer Center and study co-author. "This is an important step as we work to make CAR-T therapy more effective for patients with cancer."</p>
+<p class="wp-block-paragraph">"Discovering the role of TRAILshort and how it inhibits CAR-T cells opens the door for a new therapeutic strategy to improve their activity," says <a href="https://www.mayoclinic.org/biographies/kenderian-saad-j-m-b-ch-b/bio-20202734?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Saad Kenderian, M.B. Ch.B.</a>, an oncologist at Mayo Clinic Comprehensive Cancer Center and study co-author. "This is an important step as we work to make CAR-T therapy more effective for patients with cancer."</p>
 
 
 
-<p class="wp-block-paragraph">Beyond cancer, researchers say TRAILshort&nbsp; may eventually provide a way to selectively reduce harmful immune activity in autoimmune diseases or transplantation without broadly suppressing the immune system.</p>
+<p class="wp-block-paragraph">Beyond cancer, researchers say TRAILshort&amp;nbsp; may eventually provide a way to selectively reduce harmful immune activity in autoimmune diseases or transplantation without broadly suppressing the immune system.</p>
 
 
 
@@ -361,11 +369,11 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic Comprehensive Cancer Center<br></strong>Designated as a comprehensive cancer center by the National Cancer Institute, <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic Comprehensive Cancer Center<br></strong>Designated as a comprehensive cancer center by the National Cancer Institute, <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -380,40 +388,40 @@
 
 
 <p class="wp-block-paragraph"><a id="_msocom_1"></a></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-discover-immune-off-switch-used-by-cancer-cells/">Researchers discover immune ‘off switch’ used by cancer cells&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/researchers-discover-immune-off-switch-used-by-cancer-cells/">Researchers discover immune &amp;#8216;off switch&amp;#8217; used by cancer cells&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Andrew-Badley-1646355_3903900_0009_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Andrew Badley]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Saad Kenderian]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Andrew Badley]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Saad Kenderian]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation&nbsp;(VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-highlights-benefits-of-animal-assisted-treatment-in-stroke-rehabilitation/
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-highlights-benefits-of-animal-assisted-treatment-in-stroke-rehabilitation/</link>
 		
-		<dc:creator><!--[CDATA[rebeccabromelkamp]]--></dc:creator>
-		<pubdate>Mon, 03 Aug 2026 13:08:03 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Brent Bauer]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416772</guid>
+		<dc:creator><![CDATA[rebeccabromelkamp]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 13:08:03 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Brent Bauer]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416772</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A visit from a therapy animal may do more than lift spirits. A new study in Mayo Clinic Proceedings highlights how animal-assisted treatment can support inpatient stroke rehabilitation. Patients who interacted with therapy animals showed greater engagement in their treatment, increased physical activity and longer mobility compared with those who did not. […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A visit from a therapy animal may do more than lift spirits. A new study in Mayo Clinic Proceedings highlights how animal-assisted treatment can support inpatient stroke rehabilitation. Patients who interacted with therapy animals showed greater engagement in their treatment, increased physical activity and longer mobility compared with those who did not. [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-highlights-benefits-of-animal-assisted-treatment-in-stroke-rehabilitation/">Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation&nbsp;(VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-1024x768.jpg" alt="Brown and white therapy dog wearing a blue &quot;Caring Canines&quot; bandana and Mayo Clinic volunteer badge, lying on the floor of a hospital lobby while looking attentively up at someone nearby." class="wp-image-417179" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-2048x1536.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-1024x768.jpg" alt="Brown and white therapy dog wearing a blue &amp;quot;Caring Canines&amp;quot; bandana and Mayo Clinic volunteer badge, lying on the floor of a hospital lobby while looking attentively up at someone nearby." class="wp-image-417179" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-1024x768.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-300x225.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-768x576.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-1536x1152.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815-2048x1536.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — A visit from a therapy animal may do more than lift spirits. A new <a href="https://doi.org/10.1016/j.mayocp.2026.04.012" target="_blank" rel="noreferrer noopener">study</a> in <a href="https://www.mayoclinicproceedings.org/?__cf_chl_tk=vQzBMBOTdu3fEWjaFE_WMsVVlKZ5g70Tn6utIh4WEc4-1776864545-1.0.1.1-DqeSOyG48AN3yTTYhKBINjmBM8GeqS.Gw2ZmhVIN4iQ" target="_blank" rel="noreferrer noopener">Mayo Clinic Proceedings</a> highlights how animal-assisted treatment can support inpatient <a href="https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">stroke</a> rehabilitation. Patients who interacted with therapy animals showed greater engagement in their treatment, increased physical activity and longer mobility compared with those who did not.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — A visit from a therapy animal may do more than lift spirits. A new <a href="https://doi.org/10.1016/j.mayocp.2026.04.012" target="_blank" rel="noreferrer noopener">study</a> in <a href="https://www.mayoclinicproceedings.org/?__cf_chl_tk=vQzBMBOTdu3fEWjaFE_WMsVVlKZ5g70Tn6utIh4WEc4-1776864545-1.0.1.1-DqeSOyG48AN3yTTYhKBINjmBM8GeqS.Gw2ZmhVIN4iQ" target="_blank" rel="noreferrer noopener">Mayo Clinic Proceedings</a> highlights how animal-assisted treatment can support inpatient <a href="https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">stroke</a> rehabilitation. Patients who interacted with therapy animals showed greater engagement in their treatment, increased physical activity and longer mobility compared with those who did not.</p>
 
 
 
@@ -421,7 +429,7 @@
 
 
 
-<p class="wp-block-paragraph">"The presence of a therapy dog can change the entire dynamic of a rehabilitation session," says Whitney Romine, manager of animal-assisted services at <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>. "Patients often share that they feel more grounded, safe and empowered to engage in therapy activities, which can make a meaningful difference in their recovery experience."</p>
+<p class="wp-block-paragraph">"The presence of a therapy dog can change the entire dynamic of a rehabilitation session," says Whitney Romine, manager of animal-assisted services at <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>. "Patients often share that they feel more grounded, safe and empowered to engage in therapy activities, which can make a meaningful difference in their recovery experience."</p>
 
 
 
@@ -438,7 +446,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeMETpkRFkh2E" title="Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation" width="500" height="281" src="https://www.youtube.com/embed/METpkRFkh2E?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeMETpkRFkh2E"  title="Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation" width="500" height="281" src="https://www.youtube.com/embed/METpkRFkh2E?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
@@ -459,7 +467,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -477,28 +485,28 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Therapy-Dog-Gunner-IMG_4815_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Brent Bauer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Brent Bauer]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
-		<title>Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-advances-understanding-of-senescent-zombie-cells-healthy-aging/
+		<title>Mayo Clinic research advances understanding of senescent &amp;#8216;zombie&amp;#8217; cells, healthy aging</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-advances-understanding-of-senescent-zombie-cells-healthy-aging/</link>
 		
-		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
-		<pubdate>Wed, 29 Jul 2026 15:39:25 +0000</pubdate>
-				<category><!--[CDATA[Aging]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417096</guid>
+		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 15:39:25 +0000</pubDate>
+				<category><![CDATA[Aging]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=417096</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A series of Mayo Clinic studies is helping reshape scientists' understanding of senescent, or "zombie," cells — aging cells that no longer divide but remain metabolically active and release inflammatory molecules that contribute to age-related diseases. Published across Nature journals, the studies authored by scientists within the Robert and Arlene Kogod Center […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-advances-understanding-of-senescent-zombie-cells-healthy-aging/">Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — A series of Mayo Clinic studies is helping reshape scientists' understanding of senescent, or "zombie," cells — aging cells that no longer divide but remain metabolically active and release inflammatory molecules that contribute to age-related diseases. Published across Nature journals, the studies authored by scientists within the Robert and Arlene Kogod Center [&amp;#8230;]</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-advances-understanding-of-senescent-zombie-cells-healthy-aging/">Mayo Clinic research advances understanding of senescent &amp;#8216;zombie&amp;#8217; cells, healthy aging</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-1024x682.jpg" alt="Two senior friends drink coffee at an outdoor café." class="wp-image-417109" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-1024x682.jpg" alt="Two senior friends drink coffee at an outdoor café." class="wp-image-417109" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Getty Images</figcaption></figure>
 
 
 
@@ -506,11 +514,11 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Marissa-Schafer-Ph.D.-WF6872127_0163.jpg" alt="portrait of Dr. Marissa Schafer" class="wp-image-417100" style="aspect-ratio:0.6675094816687737;width:424px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Marissa-Schafer-Ph.D.-WF6872127_0163.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Marissa-Schafer-Ph.D.-WF6872127_0163-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px"><figcaption class="wp-element-caption">Marissa Schafer, Ph.D.</figcaption></figure>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Marissa-Schafer-Ph.D.-WF6872127_0163.jpg" alt="portrait of Dr. Marissa Schafer" class="wp-image-417100" style="aspect-ratio:0.6675094816687737;width:424px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Marissa-Schafer-Ph.D.-WF6872127_0163.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Marissa-Schafer-Ph.D.-WF6872127_0163-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px" /><figcaption class="wp-element-caption">Marissa Schafer, Ph.D.</figcaption></figure>
 </div>
 
 
-<p class="wp-block-paragraph">Published across <a href="https://www.nature.com/immersive/s43587-026-01198-9/index.html" target="_blank" rel="noreferrer noopener">Nature journals</a>, the studies authored by scientists within the <a href="https://www.mayo.edu/research/centers-programs/robert-arlene-kogod-center-aging" target="_blank" rel="noreferrer noopener">Robert and Arlene Kogod Center on Aging</a> move the field beyond recognizing that senescent cells contribute to aging. Together, they provide new tools to identify these cells, uncover mechanisms that drive inflammation and explore strategies to reduce their effects in preclinical models. In collaboration with researchers across the U.S., they are part of an ambitious project to map senescent cells across different tissues. The project is called the Cellular Senescence Network (<a href="https://sennetconsortium.org/involvement/" target="_blank" rel="noreferrer noopener">SenNet</a>) Consortium and is funded by the National Institutes of Health Common Fund. Its primary objective is to compile comprehensive atlases of senescent cells within the human body over a lifetime. &nbsp;</p>
+<p class="wp-block-paragraph">Published across <a href="https://www.nature.com/immersive/s43587-026-01198-9/index.html" target="_blank" rel="noreferrer noopener">Nature journals</a>, the studies authored by scientists within the <a href="https://www.mayo.edu/research/centers-programs/robert-arlene-kogod-center-aging" target="_blank" rel="noreferrer noopener">Robert and Arlene Kogod Center on Aging</a> move the field beyond recognizing that senescent cells contribute to aging. Together, they provide new tools to identify these cells, uncover mechanisms that drive inflammation and explore strategies to reduce their effects in preclinical models. In collaboration with researchers across the U.S., they are part of an ambitious project to map senescent cells across different tissues. The project is called the Cellular Senescence Network (<a href="https://sennetconsortium.org/involvement/" target="_blank" rel="noreferrer noopener">SenNet</a>) Consortium and is funded by the National Institutes of Health Common Fund. Its primary objective is to compile comprehensive atlases of senescent cells within the human body over a lifetime. &amp;nbsp;</p>
 
 
 
@@ -556,7 +564,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-683x1024.jpg" alt="" class="wp-image-417138" style="aspect-ratio:0.6669972838526567;width:394px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1366x2048.jpg 1366w" sizes="auto, (max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption"><a href="https://www.mayo.edu/research/faculty/passos-joao-ph-d/bio-20454365" target="_blank" rel="noreferrer noopener">João Passos, Ph.D.</a>,&nbsp;</figcaption></figure>
+<figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-683x1024.jpg" alt="" class="wp-image-417138" style="aspect-ratio:0.6669972838526567;width:394px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1366x2048.jpg 1366w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption"><a href="https://www.mayo.edu/research/faculty/passos-joao-ph-d/bio-20454365" target="_blank" rel="noreferrer noopener">João Passos, Ph.D.</a>,&amp;nbsp;</figcaption></figure>
 </div>
 
 
@@ -572,7 +580,7 @@
 
 
 
-<p class="wp-block-paragraph"><a href="https://www.mayo.edu/research/faculty/passos-joao-ph-d/bio-20454365" target="_blank" rel="noreferrer noopener">João Passos, Ph.D.</a>,&nbsp;is the senior author of the following papers:</p>
+<p class="wp-block-paragraph"><a href="https://www.mayo.edu/research/faculty/passos-joao-ph-d/bio-20454365" target="_blank" rel="noreferrer noopener">João Passos, Ph.D.</a>,&amp;nbsp;is the senior author of the following papers:</p>
 
 
 
@@ -598,7 +606,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Darren-Baker-Ph.D.-WF8661816_0086.jpg" alt="Portrait of Dr. Darren Baker" class="wp-image-417099" style="aspect-ratio:0.6675088264826872;width:428px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Darren-Baker-Ph.D.-WF8661816_0086.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Darren-Baker-Ph.D.-WF8661816_0086-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px"><figcaption class="wp-element-caption">Darren Baker, Ph.D.</figcaption></figure>
+<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="534" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Darren-Baker-Ph.D.-WF8661816_0086.jpg" alt="Portrait of Dr. Darren Baker" class="wp-image-417099" style="aspect-ratio:0.6675088264826872;width:428px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Darren-Baker-Ph.D.-WF8661816_0086.jpg 534w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Darren-Baker-Ph.D.-WF8661816_0086-200x300.jpg 200w" sizes="auto, (max-width: 534px) 100vw, 534px" /><figcaption class="wp-element-caption">Darren Baker, Ph.D.</figcaption></figure>
 </div>
 
 
@@ -622,7 +630,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -633,37 +641,37 @@
 <ul class="wp-block-list">
 <li>Julie Ferris-Tillman, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a><a id="_msocom_1"></a></li>
 </ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-advances-understanding-of-senescent-zombie-cells-healthy-aging/">Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-advances-understanding-of-senescent-zombie-cells-healthy-aging/">Mayo Clinic research advances understanding of senescent &amp;#8216;zombie&amp;#8217; cells, healthy aging</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Friends-drinking-coffee-at-a-cafe-GettyImages-2148331768_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Scientists identify new mitochondrial pathway linked to harmful inflammation in aging</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/scientists-identify-new-mitochondrial-pathway-linked-to-harmful-inflammation-in-aging/
+		<link>https://newsnetwork.mayoclinic.org/discussion/scientists-identify-new-mitochondrial-pathway-linked-to-harmful-inflammation-in-aging/</link>
 		
-		<dc:creator><!--[CDATA[Alison Satake]]--></dc:creator>
-		<pubdate>Wed, 29 Jul 2026 15:26:23 +0000</pubdate>
-				<category><!--[CDATA[Aging]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Helene Martini]]--></category>
-		<category><!--[CDATA[Dr. Joao Passos]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417123</guid>
+		<dc:creator><![CDATA[Alison Satake]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 15:26:23 +0000</pubDate>
+				<category><![CDATA[Aging]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Helene Martini]]></category>
+		<category><![CDATA[Dr. Joao Passos]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=417123</guid>
 
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Researchers have uncovered a previously unknown mechanism that helps aging cells drive the chronic inflammation linked to many age-related diseases. The findings reveal how dysfunctional mitochondria — the cell's energy-producing structures — work with the cell's epigenetic machinery to switch on inflammatory genes, opening the door to a new therapeutic approach for […]<p></p>
+					<description><![CDATA[<p>ROCHESTER, Minn. — Researchers have uncovered a previously unknown mechanism that helps aging cells drive the chronic inflammation linked to many age-related diseases. The findings reveal how dysfunctional mitochondria — the cell's energy-producing structures — work with the cell's epigenetic machinery to switch on inflammatory genes, opening the door to a new therapeutic approach for [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/scientists-identify-new-mitochondrial-pathway-linked-to-harmful-inflammation-in-aging/">Scientists identify new mitochondrial pathway linked to harmful inflammation in aging</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-1024x577.jpg" alt="Microscopy image of the mitochondria network and staining of the histone acetylation." class="wp-image-417127" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-768x433.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-1536x866.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-2048x1155.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Microscopy image of the mitochondria network and staining of the histone acetylation.</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-1024x577.jpg" alt="Microscopy image of the mitochondria network and staining of the histone acetylation." class="wp-image-417127" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-1024x577.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-768x433.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-1536x866.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper-2048x1155.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Microscopy image of the mitochondria network and staining of the histone acetylation.</figcaption></figure>
 
 
 
@@ -675,7 +683,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="5464" height="8192" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2.jpg" alt="" class="wp-image-417138" style="aspect-ratio:0.6669878540456932;width:385px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2.jpg 5464w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1366x2048.jpg 1366w" sizes="auto, (max-width: 5464px) 100vw, 5464px"><figcaption class="wp-element-caption">João Passos, Ph.D.</figcaption></figure>
+<figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" width="5464" height="8192" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2.jpg" alt="" class="wp-image-417138" style="aspect-ratio:0.6669878540456932;width:385px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2.jpg 5464w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/WF7368400_0253-2-1366x2048.jpg 1366w" sizes="auto, (max-width: 5464px) 100vw, 5464px" /><figcaption class="wp-element-caption">João Passos, Ph.D.</figcaption></figure>
 </div>
 
 
@@ -691,7 +699,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-683x1024.jpg" alt="Portrait of Dr. Helene Martini" class="wp-image-417126" style="aspect-ratio:0.6670059865726266;width:381px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Helene Martini, Pharm.D., Ph.D.</figcaption></figure>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-683x1024.jpg" alt="Portrait of Dr. Helene Martini" class="wp-image-417126" style="aspect-ratio:0.6670059865726266;width:381px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Martini-Helene-DSC_00714-1365x2048.jpg 1365w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Helene Martini, Pharm.D., Ph.D.</figcaption></figure>
 </div>
 
 
@@ -727,7 +735,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -749,33 +757,33 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Picture-Metabolic-Paper.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Helene Martini]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Joao Passos]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Helene Martini]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Joao Passos]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/experimental-immunotherapy-may-help-patients-with-high-risk-bladder-cancer-avoid-bladder-removal-surgery/
+		<link>https://newsnetwork.mayoclinic.org/discussion/experimental-immunotherapy-may-help-patients-with-high-risk-bladder-cancer-avoid-bladder-removal-surgery/</link>
 		
-		<dc:creator><!--[CDATA[rebeccabromelkamp]]--></dc:creator>
-		<pubdate>Tue, 28 Jul 2026 13:36:24 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[Arizona News Releases]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Mark Tyson]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417079</guid>
+		<dc:creator><![CDATA[rebeccabromelkamp]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 13:36:24 +0000</pubDate>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[Arizona News Releases]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Mark Tyson]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=417079</guid>
 
-					<description><!--[CDATA[<p-->PHOENIX — An international phase 3 study performed at all three Mayo Clinic destination medical centers found that a new immunotherapy helped many patients with an aggressive form of bladder cancer keep their bladder instead of having it surgically removed. The treatment also kept many patients cancer-free for more than two years and caused mostly […]<p></p>
+					<description><![CDATA[<p>PHOENIX — An international phase 3 study performed at all three Mayo Clinic destination medical centers found that a new immunotherapy helped many patients with an aggressive form of bladder cancer keep their bladder instead of having it surgically removed. The treatment also kept many patients cancer-free for more than two years and caused mostly [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/experimental-immunotherapy-may-help-patients-with-high-risk-bladder-cancer-avoid-bladder-removal-surgery/">Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg" alt="An older male patient sits in through in a casual seating area by a large window." class="wp-image-411155" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg" alt="An older male patient sits in through in a casual seating area by a large window." class="wp-image-411155" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p class="wp-block-paragraph">PHOENIX — An international phase 3 study performed at all three <a href="https://www.mayoclinic.org?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> destination medical centers found that a new immunotherapy helped many patients with an aggressive form of <a href="https://www.mayoclinic.org/diseases-conditions/bladder-cancer/symptoms-causes/syc-20356104?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">bladder cancer</a> keep their bladder instead of having it surgically removed. The treatment also kept many patients cancer-free for more than two years and caused mostly mild side effects. The findings were published in <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00194-4/fulltext" target="_blank" rel="noreferrer noopener">The Lancet Oncology</a>.</p>
+<p class="wp-block-paragraph">PHOENIX — An international phase 3 study performed at all three <a href="https://www.mayoclinic.org?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> destination medical centers found that a new immunotherapy helped many patients with an aggressive form of <a href="https://www.mayoclinic.org/diseases-conditions/bladder-cancer/symptoms-causes/syc-20356104?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">bladder cancer</a> keep their bladder instead of having it surgically removed. The treatment also kept many patients cancer-free for more than two years and caused mostly mild side effects. The findings were published in <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00194-4/fulltext" target="_blank" rel="noreferrer noopener">The Lancet Oncology</a>.</p>
 
 
 
@@ -783,7 +791,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-1024x682.jpg" alt="Portrait of Dr. Mark Tyson" class="wp-image-417083" style="width:425px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Mark Tyson II, M.D.</figcaption></figure>
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-1024x682.jpg" alt="Portrait of Dr. Mark Tyson" class="wp-image-417083" style="width:425px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Mark-Tyson-1506860_3742198_0012.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Mark Tyson II, M.D.</figcaption></figure>
 </div>
 
 
@@ -811,7 +819,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
@@ -829,43 +837,43 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/02/Male-patient-seated-waiting-area-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Mark Tyson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Arizona News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Mark Tyson]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>How noninvasive brain stimulation could transform epilepsy care (VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/how-noninvasive-brain-stimulation-could-transform-epilepsy-care-video/
+		<link>https://newsnetwork.mayoclinic.org/discussion/how-noninvasive-brain-stimulation-could-transform-epilepsy-care-video/</link>
 		
-		<dc:creator><!--[CDATA[katelinshaft]]--></dc:creator>
-		<pubdate>Wed, 22 Jul 2026 16:53:50 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Neurosciences]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[AI]]--></category>
-		<category><!--[CDATA[BIONIC]]--></category>
-		<category><!--[CDATA[brain stimulation]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Brian Lundstrom]]--></category>
-		<category><!--[CDATA[Epilepsy]]--></category>
-		<category><!--[CDATA[noninvasive brain stimulation]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416822</guid>
+		<dc:creator><![CDATA[katelinshaft]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2026 16:53:50 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Neurosciences]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[BIONIC]]></category>
+		<category><![CDATA[brain stimulation]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Brian Lundstrom]]></category>
+		<category><![CDATA[Epilepsy]]></category>
+		<category><![CDATA[noninvasive brain stimulation]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416822</guid>
 
-					<description><!--[CDATA[<p-->The brain relies on carefully coordinated electrical signals to control everything from movement and memory to thought and emotion. When those signals become too active or poorly regulated, they can contribute to neurological disorders such as epilepsy. Researchers are working to better understand these abnormal patterns of brain activity and develop new ways to measure […]<p></p>
+					<description><![CDATA[<p>The brain relies on carefully coordinated electrical signals to control everything from movement and memory to thought and emotion. When those signals become too active or poorly regulated, they can contribute to neurological disorders such as epilepsy. Researchers are working to better understand these abnormal patterns of brain activity and develop new ways to measure [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/how-noninvasive-brain-stimulation-could-transform-epilepsy-care-video/">How noninvasive brain stimulation could transform epilepsy care (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-1024x575.jpg" alt="" class="wp-image-416904" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-2048x1150.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Brian Lundstrom, M.D., Ph.D., neurologist and physician-scientist at Mayo Clinic in Rochester, Minnesota</figcaption>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-1024x575.jpg" alt="" class="wp-image-416904" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-768x431.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1-2048x1150.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Brian Lundstrom, M.D., Ph.D., neurologist and physician-scientist at Mayo Clinic in Rochester, Minnesota</figcaption></figure>
 
 
 
-<p class="wp-block-paragraph">The brain relies on carefully coordinated electrical signals to control everything from movement and memory to thought and emotion. When those signals become too active or poorly regulated, they can contribute to neurological disorders such as <a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">epilepsy</a>. Researchers are working to better understand these abnormal patterns of brain activity and develop new ways to measure and safely influence them without surgery.&nbsp;</p>
+<p class="wp-block-paragraph">The brain relies on carefully coordinated electrical signals to control everything from movement and memory to thought and emotion. When those signals become too active or poorly regulated, they can contribute to neurological disorders such as <a href="https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">epilepsy</a>. Researchers are working to better understand these abnormal patterns of brain activity and develop new ways to measure and safely influence them without surgery.&nbsp;</p>
 
 
 
-<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/biographies/lundstrom-brian-n-m-d-ph-d/bio-20420547?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Brian Lundstrom, M.D., Ph.D.</a>, is a <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> neurologist and physician-scientist whose research focuses on cortical excitability — how active or responsive the brain is — and how noninvasive brain stimulation may help improve the diagnosis and treatment of epilepsy and related neurological disorders.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/biographies/lundstrom-brian-n-m-d-ph-d/bio-20420547?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Brian Lundstrom, M.D., Ph.D.</a>, is a <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> neurologist and physician-scientist whose research focuses on cortical excitability — how active or responsive the brain is — and how noninvasive brain stimulation may help improve the diagnosis and treatment of epilepsy and related neurological disorders.&nbsp;&nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">As a member of Mayo Clinic's <a href="https://youtu.be/-zDus_gRFMU?si=zTJbLmCXv7W18qcF" target="_blank" rel="noreferrer noopener">BIONIC (Bioelectronic Neuromodulation with Innovation to Cure)</a> initiative, Dr. Lundstrom shares how advances in bioelectronic medicine are shaping the future of personalized neurological care.&nbsp;</p>
+<p class="wp-block-paragraph">As a member of Mayo Clinic's <a href="https://youtu.be/-zDus_gRFMU?si=zTJbLmCXv7W18qcF" target="_blank" rel="noreferrer noopener">BIONIC (Bioelectronic Neuromodulation with Innovation to Cure)</a> initiative, Dr. Lundstrom shares how advances in bioelectronic medicine are shaping the future of personalized neurological care.&amp;nbsp;</p>
 
 
 
@@ -874,120 +882,120 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeF6baIaXU9FI" title="BIONIC: AI, Brain Stimulation, and the Future of Neurotechnology" width="500" height="281" src="https://www.youtube.com/embed/F6baIaXU9FI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeF6baIaXU9FI"  title="BIONIC: AI, Brain Stimulation, and the Future of Neurotechnology" width="500" height="281" src="https://www.youtube.com/embed/F6baIaXU9FI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 
 
 
-<p class="wp-block-paragraph"><strong>Journalists:&nbsp;Sound bites and with Dr. Brian Lundstrom are in the downloads&nbsp;at the end of the post. Please courtesy: "Brian Lundstrom, M.D., Ph.D./Neurology/Mayo Clinic."</strong></p>
+<p class="wp-block-paragraph"><strong>Journalists:&amp;nbsp;Sound bites and with Dr. Brian Lundstrom are in the downloads&amp;nbsp;at the end of the post. Please courtesy: "Brian Lundstrom, M.D., Ph.D./Neurology/Mayo Clinic."</strong></p>
 
 
 
-<h3 class="wp-block-heading"><strong>Q: What does it mean when the brain is "hyperexcitable" or has abnormal cortical excitability?</strong>&nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Q: What does it mean when the brain is "hyperexcitable" or has abnormal cortical excitability?</strong>&amp;nbsp;</h3>
 
 
 
-<p class="wp-block-paragraph">A: Cortical excitability is one way to describe how responsive the brain is to activity. The cortex is the outer layer of the brain, and neurons — the brain's fundamental cells — communicate with each other through electrical signals.&nbsp;</p>
+<p class="wp-block-paragraph">A: Cortical excitability is one way to describe how responsive the brain is to activity. The cortex is the outer layer of the brain, and neurons — the brain's fundamental cells — communicate with each other through electrical signals.&amp;nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">In some neurological diseases, the brain can become too excitable. Epilepsy is one example. During a <a href="https://www.mayoclinic.org/diseases-conditions/seizure/symptoms-causes/syc-20365711?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">seizure</a>, the brain's electrical activity becomes abnormally high. Many neurological conditions may involve brain activity that is either too high, too low or not properly regulated.&nbsp;</p>
+<p class="wp-block-paragraph">In some neurological diseases, the brain can become too excitable. Epilepsy is one example. During a <a href="https://www.mayoclinic.org/diseases-conditions/seizure/symptoms-causes/syc-20365711?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">seizure</a>, the brain's electrical activity becomes abnormally high. Many neurological conditions may involve brain activity that is either too high, too low or not properly regulated.&nbsp;</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Q: Your research explores ways to stimulate the brain without surgery. How do these technologies work, and how could they help people with conditions like epilepsy?</strong>&nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Q: Your research explores ways to stimulate the brain without surgery. How do these technologies work, and how could they help people with conditions like epilepsy?</strong>&amp;nbsp;</h3>
 
 
 
-<p class="wp-block-paragraph">A: Because the brain communicates through electricity, we can also use electrical or magnetic stimulation to try to better understand brain activity. One way is through <a href="https://www.mayoclinic.org/tests-procedures/transcranial-magnetic-stimulation/about/pac-20384625?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">transcranial magnetic stimulation (TMS)</a>. TMS uses magnetic pulses delivered outside the head to stimulate targeted brain regions.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">A: Because the brain communicates through electricity, we can also use electrical or magnetic stimulation to try to better understand brain activity. One way is through <a href="https://www.mayoclinic.org/tests-procedures/transcranial-magnetic-stimulation/about/pac-20384625?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">transcranial magnetic stimulation (TMS)</a>. TMS uses magnetic pulses delivered outside the head to stimulate targeted brain regions.&nbsp;&nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">Another method is transcranial direct current stimulation (tDCS), which uses low levels of electrical current applied through the scalp. These approaches are considered noninvasive because they do not require surgery or implanted devices.&nbsp;</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="1000" height="500" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS.png" alt="" class="wp-image-416899" style="width:638px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS.png 1000w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS-300x150.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS-768x384.png 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px"></figure>
-</div>
-
-
-<p class="wp-block-paragraph">The goal is to use these targeted, noninvasive stimulations to influence brain activity, helping us better understand brain activity and, ultimately, correct abnormal patterns that contribute to conditions like epilepsy.&nbsp;</p>
-
-
-
-<h3 class="wp-block-heading"><strong>Q: What makes noninvasive stimulation especially appealing compared with traditional approaches for epilepsy, such as medication, surgery or implanted devices?</strong>&nbsp;</h3>
-
-
-
-<p class="wp-block-paragraph">A: While medications are highly effective for many people, they don't work for everyone, and some patients experience side effects that affect their daily lives. Our goal is to move beyond that trial-and-error approach by using measurable changes in brain activity to guide treatment decisions earlier and more precisely.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">Surgery and implanted devices can also be very effective, but they're not the right option for every patient.&nbsp;&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">That's where noninvasive brain stimulation, like TMS or tDCS, is especially promising. Because these approaches target specific areas of the brain without surgery, they generally don't produce the same whole-body side effects that medications can.&nbsp;&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">While additional research is needed, I've also seen patients whose seizures were significantly reduced or eliminated entirely through noninvasive brain stimulation after other treatments hadn't worked. Our hope is to continue refining these approaches so more patients can benefit from safe, personalized therapies.&nbsp;</p>
+<p class="wp-block-paragraph">Another method is transcranial direct current stimulation (tDCS), which uses low levels of electrical current applied through the scalp. These approaches are considered noninvasive because they do not require surgery or implanted devices.&amp;nbsp;</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-1024x683.jpg" alt="" class="wp-image-416902" style="aspect-ratio:1.4992888417882142;width:693px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">A patient receives transcranial magnetic stimulation (TMS) therapy at Mayo Clinic in Jacksonville, Florida</figcaption></figure>
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="1000" height="500" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS.png" alt="" class="wp-image-416899" style="width:638px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS.png 1000w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS-300x150.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/TMS-TDCS-768x384.png 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
 </div>
 
 
-<h3 class="wp-block-heading"><strong>Q: What are biomarkers, and why are they important in understanding the brain?</strong>&nbsp;</h3>
+<p class="wp-block-paragraph">The goal is to use these targeted, noninvasive stimulations to influence brain activity, helping us better understand brain activity and, ultimately, correct abnormal patterns that contribute to conditions like epilepsy.&amp;nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">A: One of the biggest modern challenges in using brain stimulation therapies is that we still don't have simple, precise ways to measure how the brain is working in real time. Before treatments like TMS or tDCS can be used most effectively, we first need to understand how the brain is functioning.&nbsp;</p>
+<h3 class="wp-block-heading"><strong>Q: What makes noninvasive stimulation especially appealing compared with traditional approaches for epilepsy, such as medication, surgery or implanted devices?</strong>&amp;nbsp;</h3>
 
 
 
-<p class="wp-block-paragraph">Biomarkers are measurements that help us understand what's happening inside the brain and help us identify abnormalities. We gather this information using tools such as <a href="https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">electroencephalography (EEG)</a>, which records the brain's electrical activity, and magnetoencephalography (MEG), which measures the magnetic fields produced by that activity.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">A: While medications are highly effective for many people, they don't work for everyone, and some patients experience side effects that affect their daily lives. Our goal is to move beyond that trial-and-error approach by using measurable changes in brain activity to guide treatment decisions earlier and more precisely.&amp;nbsp;</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Q: Why is Mayo Clinic the right environment for this kind of research?</strong>&nbsp;</h3>
+<p class="wp-block-paragraph">Surgery and implanted devices can also be very effective, but they're not the right option for every patient.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">A: Understanding how the brain works is incredibly complex, and solving these challenges requires expertise from many different fields. Neurologists, engineers, imaging specialists, computational neuroscientists, data scientists and many others all play an important role in developing new ways to diagnose and treat neurological disorders.&nbsp;</p>
+<p class="wp-block-paragraph">That's where noninvasive brain stimulation, like TMS or tDCS, is especially promising. Because these approaches target specific areas of the brain without surgery, they generally don't produce the same whole-body side effects that medications can.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">One of Mayo Clinic's greatest strengths is that this kind of collaboration is part of how we work every day. Researchers and clinicians from different specialties work side by side, combining discoveries about how the brain functions with technologies that can measure and influence brain activity.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">While additional research is needed, I've also seen patients whose seizures were significantly reduced or eliminated entirely through noninvasive brain stimulation after other treatments hadn't worked. Our hope is to continue refining these approaches so more patients can benefit from safe, personalized therapies.&amp;nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-1024x683.jpg" alt="" class="wp-image-416902" style="aspect-ratio:1.4992888417882142;width:693px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/1665648_3925099_0002-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A patient receives transcranial magnetic stimulation (TMS) therapy at Mayo Clinic in Jacksonville, Florida</figcaption></figure>
+</div>
+
+
+<h3 class="wp-block-heading"><strong>Q: What are biomarkers, and why are they important in understanding the brain?</strong>&amp;nbsp;</h3>
 
 
 
-<p class="wp-block-paragraph">Many institutions recognize the value of multidisciplinary research, but Mayo Clinic's integrated model makes collaboration especially seamless. Rather than working in separate silos, experts across departments are united by a shared goal of improving patient care.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">A: One of the biggest modern challenges in using brain stimulation therapies is that we still don't have simple, precise ways to measure how the brain is working in real time. Before treatments like TMS or tDCS can be used most effectively, we first need to understand how the brain is functioning.&amp;nbsp;</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-1024x683.jpg" alt="" class="wp-image-416900" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Alejandra Vasquez Avila, M.D., and Brian Lundstrom, M.D., Ph.D., review brain activity data at Mayo Clinic</figcaption></figure>
+<p class="wp-block-paragraph">Biomarkers are measurements that help us understand what's happening inside the brain and help us identify abnormalities. We gather this information using tools such as <a href="https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">electroencephalography (EEG)</a>, which records the brain's electrical activity, and magnetoencephalography (MEG), which measures the magnetic fields produced by that activity.&nbsp;&nbsp;</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Q: How are new technologies, including noninvasive stimulation, advanced monitoring or computational modeling, being used or envisioned within BIONIC research?</strong>&nbsp;</h3>
+<h3 class="wp-block-heading"><strong>Q: Why is Mayo Clinic the right environment for this kind of research?</strong>&amp;nbsp;</h3>
 
 
 
-<p class="wp-block-paragraph">The BIONIC initiative is centered on advancing bioelectronic medicine, which uses technology to better understand, diagnose and treat disease. Traditionally, medicine has relied on medications and surgery, but bioelectronic medicine offers another way to care for patients by measuring and influencing the brain's electrical activity.&nbsp;</p>
+<p class="wp-block-paragraph">A: Understanding how the brain works is incredibly complex, and solving these challenges requires expertise from many different fields. Neurologists, engineers, imaging specialists, computational neuroscientists, data scientists and many others all play an important role in developing new ways to diagnose and treat neurological disorders.&amp;nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">In my research, we're using advanced brain monitoring tools, noninvasive brain stimulation and computational approaches with the goal of combining these technologies so we can develop more personalized treatments and, ultimately, help more patients become seizure-free with fewer side effects.&nbsp;</p>
+<p class="wp-block-paragraph">One of Mayo Clinic's greatest strengths is that this kind of collaboration is part of how we work every day. Researchers and clinicians from different specialties work side by side, combining discoveries about how the brain functions with technologies that can measure and influence brain activity.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">Looking ahead, I'm especially excited about the role artificial intelligence (AI) can play. AI can help us bring together information from many different sources to better understand brain activity and guide more precise treatments.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">Many institutions recognize the value of multidisciplinary research, but Mayo Clinic's integrated model makes collaboration especially seamless. Rather than working in separate silos, experts across departments are united by a shared goal of improving patient care.&amp;nbsp;&amp;nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">There are certainly challenges ahead, but I think the potential is extraordinary. By combining these new technologies with the collaborative environment fostered by BIONIC, we have an important opportunity to improve how we diagnose, monitor, and treat epilepsy and many other neurological disorders.&nbsp;</p>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-1024x683.jpg" alt="" class="wp-image-416900" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/20206-05-12-Lundstrom_0007-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Alejandra Vasquez Avila, M.D., and Brian Lundstrom, M.D., Ph.D., review brain activity data at Mayo Clinic</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading"><strong>Q: How are new technologies, including noninvasive stimulation, advanced monitoring or computational modeling, being used or envisioned within BIONIC research?</strong>&amp;nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">The BIONIC initiative is centered on advancing bioelectronic medicine, which uses technology to better understand, diagnose and treat disease. Traditionally, medicine has relied on medications and surgery, but bioelectronic medicine offers another way to care for patients by measuring and influencing the brain's electrical activity.&amp;nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In my research, we're using advanced brain monitoring tools, noninvasive brain stimulation and computational approaches with the goal of combining these technologies so we can develop more personalized treatments and, ultimately, help more patients become seizure-free with fewer side effects.&amp;nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Looking ahead, I'm especially excited about the role artificial intelligence (AI) can play. AI can help us bring together information from many different sources to better understand brain activity and guide more precise treatments.&amp;nbsp;&amp;nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">There are certainly challenges ahead, but I think the potential is extraordinary. By combining these new technologies with the collaborative environment fostered by BIONIC, we have an important opportunity to improve how we diagnose, monitor, and treat epilepsy and many other neurological disorders.&amp;nbsp;</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/how-noninvasive-brain-stimulation-could-transform-epilepsy-care-video/">How noninvasive brain stimulation could transform epilepsy care (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></content:encoded>
 					
@@ -995,29 +1003,29 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/BIONIC-16x9-1.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[AI]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[BIONIC]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[brain stimulation]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Brian Lundstrom]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Epilepsy]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[noninvasive brain stimulation]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[AI]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[BIONIC]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[brain stimulation]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Brian Lundstrom]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Epilepsy]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[noninvasive brain stimulation]]></mayoclinic:mctag>	</item>
 		<item>
 		<title>Study finds bringing clinical trials closer to patients expands access to research</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/study-finds-bringing-clinical-trials-closer-to-patients-expands-access-to-research/
+		<link>https://newsnetwork.mayoclinic.org/discussion/study-finds-bringing-clinical-trials-closer-to-patients-expands-access-to-research/</link>
 		
-		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
-		<pubdate>Mon, 20 Jul 2026 13:30:17 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Cheryl Willman]]--></category>
-		<category><!--[CDATA[Dr. Tufia Haddad]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416731</guid>
+		<dc:creator><![CDATA[brittanycordeiro]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 13:30:17 +0000</pubDate>
+				<category><![CDATA[Featured News]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[#Newsapp]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[Dr. Cheryl Willman]]></category>
+		<category><![CDATA[Dr. Tufia Haddad]]></category>
+		<category><![CDATA[Minnesota News Releases]]></category>
+		<guid isPermaLink="false">https://newsnetwork.mayoclinic.org/?p=416731</guid>
 
-					<description><!--[CDATA[<p-->Decentralized approach increases participation among rural and underserved populations ROCHESTER, Minn. — A Mayo Clinic study published in JAMA Network Open found that bringing some or all clinical trial-related activities directly to patients can help overcome barriers that prevent many people from participating. Increased participation and expanded access to research was observed for people in […]<p></p>
+					<description><![CDATA[<p>Decentralized approach increases participation among rural and underserved populations ROCHESTER, Minn. — A Mayo Clinic study published in JAMA Network Open found that bringing some or all clinical trial-related activities directly to patients can help overcome barriers that prevent many people from participating. Increased participation and expanded access to research was observed for people in [&amp;#8230;]</p>
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/study-finds-bringing-clinical-trials-closer-to-patients-expands-access-to-research/">Study finds bringing clinical trials closer to patients expands access to research</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-1024x682.jpg" alt="A woman holds up a smart screen where she is talking to a healthcare professional, with a Mayo Clinic logo visible on the screen." class="wp-image-416768" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-1024x682.jpg" alt="A woman holds up a smart screen where she is talking to a healthcare professional, with a Mayo Clinic logo visible on the screen." class="wp-image-416768" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1025,7 +1033,7 @@
 
 
 
-<p class="wp-block-paragraph">ROCHESTER, Minn. — A <a href="https://www.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> study published in <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849940?resultClick=1" target="_blank" rel="noreferrer noopener">JAMA Network Open</a> found that bringing some or all clinical trial-related activities directly to patients can help overcome barriers that prevent many people from participating. Increased participation and expanded access to research was observed for people in rural communities and underserved populations.</p>
+<p class="wp-block-paragraph">ROCHESTER, Minn. — A <a href="https://www.mayoclinic.org/?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> study published in <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849940?resultClick=1" target="_blank" rel="noreferrer noopener">JAMA Network Open</a> found that bringing some or all clinical trial-related activities directly to patients can help overcome barriers that prevent many people from participating. Increased participation and expanded access to research was observed for people in rural communities and underserved populations.</p>
 
 
 
@@ -1037,7 +1045,7 @@
 
 
 
-<p class="wp-block-paragraph">"Clinical trials shape the future of medicine," says <a href="https://www.mayoclinic.org/biographies/haddad-tufia-c-m-d/bio-20055534?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Tufia Haddad, M.D.</a>, a medical oncologist at Mayo Clinic Comprehensive Cancer Center in Rochester and the study's first author. "When we put those trial results into clinical practice, we need to make sure they're representative of all the patients we see."</p>
+<p class="wp-block-paragraph">"Clinical trials shape the future of medicine," says <a href="https://www.mayoclinic.org/biographies/haddad-tufia-c-m-d/bio-20055534?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Tufia Haddad, M.D.</a>, a medical oncologist at Mayo Clinic Comprehensive Cancer Center in Rochester and the study's first author. "When we put those trial results into clinical practice, we need to make sure they're representative of all the patients we see."</p>
 
 
 
@@ -1069,7 +1077,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center is-image-fill-element has-background" style="background-color:#c9c9c9;grid-template-columns:27% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Haddad_Tufia2.jpg" alt="Portrait of Dr. Tufia Haddad" class="wp-image-416748 size-full" style="object-position:53% 30%" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Haddad_Tufia2.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Haddad_Tufia2-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px"></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center is-image-fill-element has-background" style="background-color:#c9c9c9;grid-template-columns:27% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="533" height="800" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Haddad_Tufia2.jpg" alt="Portrait of Dr. Tufia Haddad" class="wp-image-416748 size-full" style="object-position:53% 30%" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Haddad_Tufia2.jpg 533w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Haddad_Tufia2-200x300.jpg 200w" sizes="auto, (max-width: 533px) 100vw, 533px" /></figure><div class="wp-block-media-text__content">
 <p class="wp-block-paragraph">"Clinical trials shape the future of medicine. When we put those trial results into clinical practice, we need to make sure they're representative of all the patients we see." - Dr. Tufia Haddad.</p>
 </div></div>
 
@@ -1103,7 +1111,7 @@
 
 
 
-<p class="wp-block-paragraph">"Think of what this means for patients who are going through a cancer diagnosis," says <a href="https://www.mayoclinic.org/biographies/willman-cheryl-l-m-d/bio-20521784?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Cheryl Willman, M.D.</a>, co-author of the study and the Stephen and Barbara Slaggie Executive Director, Mayo Clinic Cancer Programs, and director, Mayo Clinic Comprehensive Cancer Center. Cancer clinical trials are the most common trials at Mayo Clinic that are leveraging decentralized capabilities — 58% of the trials in the study were cancer-related. "Patients are getting access to cutting-edge therapies from the most trusted name in healthcare, all in the healing environment of their home."</p>
+<p class="wp-block-paragraph">"Think of what this means for patients who are going through a cancer diagnosis," says <a href="https://www.mayoclinic.org/biographies/willman-cheryl-l-m-d/bio-20521784?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Cheryl Willman, M.D.</a>, co-author of the study and the Stephen and Barbara Slaggie Executive Director, Mayo Clinic Cancer Programs, and director, Mayo Clinic Comprehensive Cancer Center. Cancer clinical trials are the most common trials at Mayo Clinic that are leveraging decentralized capabilities — 58% of the trials in the study were cancer-related. "Patients are getting access to cutting-edge therapies from the most trusted name in healthcare, all in the healing environment of their home."</p>
 
 
 
@@ -1131,11 +1139,11 @@
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
 
 
 
-<p class="wp-block-paragraph"><strong>About Mayo Clinic Comprehensive Cancer Center</strong><br>Designated as a comprehensive cancer center by the <a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>, <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
+<p class="wp-block-paragraph"><strong>About Mayo Clinic Comprehensive Cancer Center</strong><br>Designated as a comprehensive cancer center by the <a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a>, <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center?mc_id=us&amp;amp;utm_source=newsnetwork&amp;amp;utm_medium=l&amp;amp;utm_campaign=mayoclinic&amp;amp;geo=national&amp;amp;placementsite=enterprise&amp;amp;invsrc=other&amp;amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
 
 
 
@@ -1153,6 +1161,6 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Virtual-health-visit-from-home-GettyImages-1290620434_BOT_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Cheryl Willman]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Tufia Haddad]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-	</atom:link></channel>
+<mayoclinic:mctag><![CDATA[#Newsapp]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[daily]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Cheryl Willman]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Dr. Tufia Haddad]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[Minnesota News Releases]]></mayoclinic:mctag><mayoclinic:mctag><![CDATA[News Releases]]></mayoclinic:mctag>	</item>
+	</channel>
 </rss>
