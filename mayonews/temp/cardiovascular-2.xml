@@ -5,7 +5,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/cardiovascular-2/feed/" rel="self" type="application/rss+xml">
 	<link>https://newsnetwork.mayoclinic.org/category/cardiovascular-2/
 	<description>News Resources</description>
-	<lastbuilddate>Mon, 17 Aug 2026 19:42:17 +0000</lastbuilddate>
+	<lastbuilddate>Wed, 19 Aug 2026 16:27:08 +0000</lastbuilddate>
 	<language>en-US</language>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
@@ -13,6 +13,96 @@
 	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=7.0.4</generator>
 	<item>
+		<title>Mayo Clinic AI model helps clinicians detect heart obstruction using routine ultrasound images</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-model-helps-clinicians-detect-heart-obstruction-using-routine-ultrasound-images/
+		
+		<dc:creator><!--[CDATA[Terri Malloy]]--></dc:creator>
+		<pubdate>Wed, 19 Aug 2026 16:27:07 +0000</pubdate>
+				<category><!--[CDATA[AI and Digital Health]]--></category>
+		<category><!--[CDATA[Arizona]]--></category>
+		<category><!--[CDATA[Cardiovascular]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[Arizona News Release]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Imon Banerjee]]--></category>
+		<category><!--[CDATA[News release]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417409</guid>
+
+					<description><!--[CDATA[<p-->PHOENIX — Mayo Clinic researchers have developed and externally validated an artificial intelligence (AI) model that can identify a potentially significant heart obstruction from routine ultrasound videos without relying on specialized Doppler imaging. The technology could help clinicians flag patients with hypertrophic cardiomyopathy (HCM) who may need additional testing, particularly in settings where specialized echocardiography […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-model-helps-clinicians-detect-heart-obstruction-using-routine-ultrasound-images/">Mayo Clinic AI model helps clinicians detect heart obstruction using routine ultrasound images</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4150556_0070-1024x683.jpg" alt="Jwan Naser, MBBS, is a Fellow in Cardiovascular Diseases, an Assistant Professor of Medicine, and recipient of the Donald C. Balfour Award for Meritorious Research. She is studying the application of artificial intelligence (AI) to traditional echocardiography (ECG) methodology." class="wp-image-417411" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4150556_0070-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4150556_0070-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4150556_0070-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4150556_0070-1536x1025.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4150556_0070-2048x1366.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
+
+
+
+<p class="wp-block-paragraph">PHOENIX — <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have developed and externally validated an artificial intelligence (AI) model that can identify a potentially significant heart obstruction from routine ultrasound videos without relying on specialized <a href="https://www.mayoclinic.org/tests-procedures/ultrasound/expert-answers/doppler-ultrasound/faq-20058452" target="_blank" rel="noreferrer noopener">Doppler imaging</a>. The technology could help clinicians flag patients with <a href="https://www.mayoclinic.org/diseases-conditions/hypertrophic-cardiomyopathy/symptoms-causes/syc-20350198" target="_blank" rel="noreferrer noopener">hypertrophic cardiomyopathy (HCM)</a> who may need additional testing, particularly in settings where specialized echocardiography expertise is limited. <a href="https://www.ahajournals.org/doi/full/10.1161/CIRCIMAGING.126.019956" target="_blank" rel="noreferrer noopener">Study findings</a> are published in Circulation: Cardiovascular Imaging.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">HCM is a genetic condition that causes the heart muscle to become abnormally thick. About two-thirds of these patients develop <a href="https://www.mayoclinic.org/vid-20367992" target="_blank" rel="noreferrer noopener">left ventricular outflow tract (LVOT) obstruction</a>, which restricts blood leaving the heart, causing symptoms such as chest pain and shortness of breath with exertion or when lying flat. Knowing which patients develop LVOT obstruction is important because it influences treatment decisions and long-term management for patients with HCM.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">"Measuring LVOT obstruction typically requires Doppler echocardiography, which depends on precise ultrasound-beam alignment and operator expertise," says <a href="https://www.mayo.edu/research/faculty/banerjee-imon-ph-d/bio-20555791" target="_blank" rel="noreferrer noopener">Imon Banerjee, Ph.D.</a>, an AI researcher at Mayo Clinic in Phoenix and senior author of the study. "We wanted to determine whether AI could recognize subtle patterns that are imperceptible to the human eye in routinely acquired B-mode ultrasound videos and identify patients with LVOT obstruction earlier, enabling timely confirmatory Doppler evaluation and referral when appropriate."&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The study included 1,833 patients in the Mayo Clinic cohort. The model was tested in 275 patients and externally validated in 46 patients from a hospital in South Korea. The AI model used only resting, non-Doppler ultrasound videos to predict whether a patient had a potentially significant obstruction to blood leaving the heart. Researchers found that combining information from three standard ultrasound views improved the model's ability to distinguish patients with elevated LVOT gradients. The model also helped identify obstruction that may only appear when the heart is under stress.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The model maintained strong performance in the South Korean group despite substantial differences between that population and the patients used to develop the model, supporting further study of the technology across different patient populations and clinical settings.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In a subset of cases, the AI model identified obstruction more accurately than two expert echocardiographers who reviewed the same non-Doppler images. The findings highlight how difficult it can be to recognize LVOT obstruction from routine two-dimensional images without Doppler measurements.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">"This technology is intended to complement, not replace, Doppler echocardiography," Dr. Banerjee says. "By enabling earlier identification of patients with potential LVOT obstruction, it could escalate timely detection and prompt confirmatory Doppler measurements, stress testing, or referral to an HCM specialty center. It also could support evaluation using portable ultrasound or in settings where comprehensive Doppler assessment may not be readily available, helping expand access to earlier screening and risk assessment."&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Dr. Banerjee notes that the next steps include additional prospective validation across broader clinical settings, ultrasound platforms and patient populations.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The list of authors and disclosures may be found in the article, <a href="https://www.ahajournals.org/doi/full/10.1161/CIRCIMAGING.126.019956" target="_blank" rel="noreferrer noopener">Beyond Doppler: Scalable AI Detection of LVOT Obstruction in HCM</a>. This study received no external funding.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">###&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Media contacts:</strong>&nbsp;<br>&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Terri Malloy, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noreferrer noopener">newsbureau@mayo.edu</a>&nbsp;</li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-model-helps-clinicians-detect-heart-obstruction-using-routine-ultrasound-images/">Mayo Clinic AI model helps clinicians detect heart obstruction using routine ultrasound images</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/1x1-WF4150556_0070_edited.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-WF4150556_0070_edited.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Arizona News Release]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Imon Banerjee]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News release]]--></mayoclinic:mctag>	</item>
+		<item>
 		<title>Mayo Clinic remembers visionary cardiologist Dr. Robert L. Frye&nbsp;</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-visionary-cardiologist-dr-robert-l-frye/
 		
@@ -29,7 +119,7 @@
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-remembers-visionary-cardiologist-dr-robert-l-frye/">Mayo Clinic remembers visionary cardiologist Dr. Robert L. Frye&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img fetchpriority="high" decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-1024x575.jpg" alt="" class="wp-image-417381" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">From left are Robert L. Frye, M.D., and his son, Mark Frye, M.D., Psychiatry and Psychology, Mayo Clinic.</figcaption>
+<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="575" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-1024x575.jpg" alt="" class="wp-image-417381" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-1024x575.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/16x9-Drs-Robert-and-Mark-Frye_edited.jpg 1687w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">From left are Robert L. Frye, M.D., and his son, Mark Frye, M.D., Psychiatry and Psychology, Mayo Clinic.</figcaption>
 
 
 
@@ -306,7 +396,7 @@
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-heartburn-or-heart-attack-how-to-tell-the-difference/">Mayo Clinic Q&amp;A: Heartburn or heart attack? How to tell the difference</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-1024x576.jpg" alt="Woman having pain in the heart and chest, places hand on chest. Heart Attack. Painful Chest." class="wp-image-417162" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-2048x1151.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-1024x576.jpg" alt="Woman having pain in the heart and chest, places hand on chest. Heart Attack. Painful Chest." class="wp-image-417162" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-1536x863.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/shutterstock_1131953909_edited.jpg-16x9-1-2048x1151.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
 
 
 
@@ -1346,131 +1436,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Endurance-Athlete-1x1-1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Endurance-Athlete-16x9-1.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Coronary Calcium Scan]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[coronary calcium score]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Gupreet Singh]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mammograms may help identify heart disease risk (VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mammograms-may-help-identify-heart-disease-risk-video/
-		
-		<dc:creator><!--[CDATA[Carey Stanton]]--></dc:creator>
-		<pubdate>Wed, 17 Jun 2026 20:12:38 +0000</pubdate>
-				<category><!--[CDATA[AI and Digital Health]]--></category>
-		<category><!--[CDATA[Cardiovascular]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Imon Banerjee]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416024</guid>
-
-					<description><!--[CDATA[<p-->A routine mammogram may do more than detect breast cancer, it also could help identify early signs of heart disease. Heart disease is the leading cause of death among women, responsible for 1 in 3 deaths. It often develops without symptoms until a major event occurs. Despite this, there is not a standard for annual […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mammograms-may-help-identify-heart-disease-risk-video/">Mammograms may help identify heart disease risk (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="960" height="465" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram.png" alt="" class="wp-image-416034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram.png 960w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram-300x145.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/BAC-Mammogram-768x372.png 768w" sizes="auto, (max-width: 960px) 100vw, 960px"><figcaption class="wp-element-caption">The BAC on routine screening mammograms is shown in red. AI was used to help clinicians measure and quantify it, creating an opportunity to assess heart disease risk during a test many women already receive without additional radiation or testing. </figcaption>
-
-
-
-<p class="wp-block-paragraph">A routine mammogram may do more than detect breast cancer, it also could help identify early signs of heart disease.</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-disease/art-20046167?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Heart disease</a> is the leading cause of death among women, responsible for <a href="https://www.goredforwomen.org/en/about-heart-disease-in-women/facts#:~:text=Fact%3A%20Cardiovascular%20disease%20is%20the,friends%2C%20neighbors%2C%20coworkers%20and%20more." target="_blank" rel="noreferrer noopener">1 in 3 deaths</a>. It often develops without symptoms until a major event occurs. Despite this, there is not a standard for annual heart disease screening, a critical gap in early detection for women.</p>
-
-
-
-<p class="wp-block-paragraph">Doctors typically assess heart disease risk using factors like cholesterol, blood pressure and body weight. These tools don't fully account for how heart disease develops <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-disease/art-20046167?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">differently in women</a> or what's happening inside the blood vessels themselves.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>A missed opportunity in routine mammograms</strong></h2>
-
-
-
-<p class="wp-block-paragraph">Mayo Clinic recommends women at average risk begin <a href="https://www.mayoclinic.org/tests-procedures/mammogram/about/pac-20384806?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">annual mammogram</a> screening at age 40, and most women do. Researchers say this creates an opportunity to assess heart disease risk during a test many women already receive without additional radiation or testing.</p>
-
-
-
-<p class="wp-block-paragraph">Breast arterial calcification (BAC) is captured during a mammogram. For two decades, studies have demonstrated that it can be used to help identify patients at risk for heart disease. However, the challenge has been measuring it accurately and consistently, and assigning a value to it.</p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-medium is-resized"><img loading="lazy" decoding="async" width="300" height="300" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-300x300.jpg" alt="Portrait of Dr. Imon Banerjee" class="wp-image-415921" style="width:234px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-300x300.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-1024x1024.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-150x150.jpg 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2-768x768.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2.jpg 1080w" sizes="auto, (max-width: 300px) 100vw, 300px"><figcaption class="wp-element-caption">Imon Banerjee, Ph.D.</figcaption></figure>
-</div>
-
-
-<p class="wp-block-paragraph">"BAC is difficult to measure because it appears as a very subtle finding on standard 2D mammograms and cannot be consistently quantified by eye, even by experts. As a result, it typically requires specialized computational methods to reliably detect and measure it," explains Dr. Imon Banerjee, scientific director of the Arizona Advanced AI and Innovation Hub at Mayo Clinic. "AI allows us to measure these calcium deposits quickly and more accurately than before."</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Large study shows strong link to risk</strong></h2>
-
-
-
-<p class="wp-block-paragraph">A retrospective cohort study published in the <a href="https://academic.oup.com/eurheartj/article/47/18/2206/8501420?guestAccessKey=" target="_blank" rel="noreferrer noopener">European Heart Journal</a> included more than 120,000 women who had screening mammograms at two healthcare systems. They evaluated whether AI-derived BAC measurements could help clinicians predict a woman's risk of cardiovascular disease and death, independent of traditional risk factors. Researchers note the study was observational and evaluated associations between BAC and future cardiovascular outcomes.</p>
-
-
-
-<p class="wp-block-paragraph">"Breast arterial calcification occurs when calcium builds up in the walls of the arteries within breast tissue," says Dr. Banerjee. "Calcium seen on mammograms correlates with calcification in other parts of the body. This type of calcium in the breast is different from calcium in the heart. Instead of blocking blood flow, it makes the blood vessels stiffer and less flexible, signaling a higher risk of heart problems because it affects how blood moves."</p>
-
-
-
-<p class="wp-block-paragraph">Using a deep learning model, the team developed a tool that identifies calcium deposits, measures their extent and classifies severity. Researchers then tracked whether higher levels were associated with cardiovascular events or death over time.</p>
-
-
-
-<p class="wp-block-paragraph">The findings were significant. Women with severe BAC had more than 10 times the risk of developing a cardiovascular event within five years compared to those with no or mild BAC. The model was validated across 12 institutions, comparing AI-generated measurements with radiologist assessments. The AI model is now undergoing Food and Drug Administration review.</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://www.youtube.com/watch?v=y_o1HpRZ8yE" target="_blank" rel="noreferrer noopener"><strong>WATCH: Dr. Imon Banerjee - AI can accurately measure heart disease risk</strong></a></p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidyo1HpRZ8yE" title="Dr. Imon Banerjee - AI can accurately measure heart disease risk" width="500" height="281" src="https://www.youtube.com/embed/y_o1HpRZ8yE?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-</div></figure>
-
-
-
-<p class="wp-block-paragraph"><strong>&nbsp;Journalists: Broadcast-quality sound bites are available in the downloads at the end of the post. Please courtesy: "Mayo Clinic News Network." Name super/CG: <strong>Imon Banerjee, Ph.D.</strong>/ Radiology /Mayo Clinic.</strong></p>
-
-
-
-<h2 class="wp-block-heading"><strong>Moving towards clinical use</strong></h2>
-
-
-
-<p class="wp-block-paragraph">"We created an AI algorithm that allows us, with a single click, to measure BAC. It can now easily be added to the radiologist's report," Dr. Banerjee says. "That measurement becomes a new input for the prediction models. This could completely change the screening workflow for women and improve early detection of heart disease."</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Adoption remains the next challenge</strong></h2>
-
-
-
-<p class="wp-block-paragraph">"The challenge with BAC is that we have the algorithm, we have the validation, we know that it works. Now, how do the institutions adopt it?" acknowledges Dr. Banerjee. "There are currently no clinical regulations of BAC. Mayo Clinic physicians are translating this research into practice."</p>
-
-
-
-<p class="wp-block-paragraph">Teams across Cardiovascular Medicine, Primary Care, Women's Health and Radiology at Mayo Clinic's Arizona and Florida campuses are working to integrate the technology into clinical practice and develop a framework for broader use before expanding to all Mayo Clinic sites.</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity">
-
-
-
-<p class="wp-block-paragraph"></p>
-
-
-
-<p class="wp-block-paragraph"><strong>Related article:</strong> <a href="https://newsnetwork.mayoclinic.org/discussion/how-researchers-are-using-ai-to-accelerate-the-path-to-cures-video/" target="_blank" rel="noreferrer noopener">How&nbsp;researchers are using&nbsp;AI&nbsp;to accelerate the path to cures (VIDEO)</a></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mammograms-may-help-identify-heart-disease-risk-video/">Mammograms may help identify heart disease risk (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-1-x-1-2.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/06/IMON-BANERJEE-Ph.D.-16-x-9-2.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Imon Banerjee]]--></mayoclinic:mctag>	</item>
 	</atom:link></channel>
 </rss>
