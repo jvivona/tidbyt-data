@@ -1,268 +1,424 @@
 {
     "events": [
         {
-            "text": "كوريا الشمالية تجري سادس اختبار نووي لها.",
+            "text": "Nordkorea utför kärnvapenprov.",
             "year": 2017
         },
         {
-            "text": "افتتاح مكتبة برمنجهام، أكبر مكتبة عامة بلدية في المملكة المتحدة.",
-            "year": 2013
+            "text": "Kajakrekord Äventyraren Lasse Schmidt avslutar den första solopaddlingen i kajak mellan Sverige och Estland. Paddlingen tog 50 timmar att genomföra utan sömn.Dokumentation",
+            "year": 2006
         },
         {
-            "text": "رئيس الجزائر عبد العزيز بوتفليقة يعين عبد المالك سلال وزيرًا أول خلفًا لأحمد أويحي.",
-            "year": 2012
+            "text": "Svensk premiär av den Oskarsbelönade filmen Jurassic Park.",
+            "year": 1993
         },
         {
-            "text": "الإعلان عن فوز علي بونغو أونديمبا نجل الزعيم الراحل عمر بونجو بالانتخابات الرئاسية في الغابون بعد حصولة على 42% من الأصوات وسط احتجاجات من المعارضة التي تقول إن الانتخابات زورت لضمان توريث الحكم.",
-            "year": 2009
+            "text": "Marianne Berglund vinner VM i cykel på landsväg i Schweiz.",
+            "year": 1983
         },
         {
-            "text": "مقتل 200 من الرهائن المحتجزين في مدرسة بجنوب روسيا إثر محاولة الاقتحام.",
-            "year": 2004
-        },
-        {
-            "text": "الزعيم الليبي معمر القذافي يوافق على دفع مبلغ 35 مليون دولار كتعويض لضحايا الملهى الليلي الألماني الذي تم تفجيره عام 1986.",
-            "year": 2004
-        },
-        {
-            "text": "تحطم طائرة ركاب برازيلية تؤدي إلى مقتل 54 شخص.",
-            "year": 1989
-        },
-        {
-            "text": "انفجار قنبلة بمحطة سكة حديد في كندا يؤدي إلى مقتل وجرح 33 شخص.",
-            "year": 1984
-        },
-        {
-            "text": "تفجير سيارة مفخخة في دمشق أمام مقر قيادة القوى الجوية يؤدي إلى مقتل 20 وجرح 50 آخرين على الأقل. اتهمت السلطات السورية العراق بالمسؤولية، ويعتقد أن تنظيم الطليعة المقاتلة للإخوان المسلمين كان وراء التفجير.",
+            "text": "Anwar Sadat tvingar Shenouda III, påve och patriark av Alexandria, överhuvud för koptisk-ortodoxa kyrkan, att gå i exil, och ersätter kyrkans hierarkiska patriarkat med en biskopskommitté.",
             "year": 1981
         },
         {
-            "text": "الإعلان عن استقلال قطر من المملكة المتحدة.",
+            "text": "Kvinnokonventionen träder i kraft.",
+            "year": 1981
+        },
+        {
+            "text": "Storbritanniens protektorat över Qatar upphör.",
             "year": 1971
         },
         {
-            "text": "السويد تعتمد قيادة السيارات على الجانب الأيمن من الشارع.",
+            "text": "Högertrafikomläggningen genomförs i Sverige klockan 5.00 denna söndag.",
             "year": 1967
         },
         {
-            "text": "القوات اليابانية في الفلبين تستسلم للحلفاء وذلك مع نهاية الحرب العالمية الثانية.",
-            "year": 1945
-        },
-        {
-            "text": "قوات الحلفاء يغزون إيطاليا وذلك في الحرب العالمية الثانية.",
+            "text": "Italienska fastlandet invaderas av allierade trupper.",
             "year": 1943
         },
         {
-            "text": "المملكة المتحدة تعلن الحرب على ألمانيا في الحرب العالمية الثانية.",
+            "text": "Svenska Norgehjälpen bildas.",
+            "year": 1942
+        },
+        {
+            "text": "Efter Tysklands anfall mot Polen den 1 september och uteblivet tyskt svar på ultimatumet från Frankrike och Storbritannien om omedelbart tillbakadragande förklarar Frankrike och Storbritannien krig mot Tyskland.",
             "year": 1939
         },
         {
-            "text": "اغتيال الحاخام المتطرف «غونشتاين» في البلدة القديمة من القدس الشرقية.",
-            "year": 1937
+            "text": "Sedan Pius X har avlidit den 20 augusti väljs Giacomo Paolo Giovanni Battista della Chiesa till påve och tar namnet Benedictus XV.",
+            "year": 1914
         },
         {
-            "text": "اندلاع معركة بلعة بين المجاهدين العرب والجيش البريطاني وذلك ضمن معارك الثورة الفلسطينية.",
-            "year": 1936
-        },
-        {
-            "text": "إقامة أول مباراة دولية في كرة اليد.",
-            "year": 1925
-        },
-        {
-            "text": "سلطات الانتداب الفرنسي تعلن إقامة «دولة دمشق» وتعهد برئاستها إلى حقي العظم.",
-            "year": 1920
-        },
-        {
-            "text": "اليابان وروسيا توقعان «معاهدة بورتسموث» التي أنهت الحرب الروسية اليابانية.",
-            "year": 1905
-        },
-        {
-            "text": "الولايات المتحدة والمملكة المتحدة توقعان اتفاقية باريس التي مثلت نهاية حرب الاستقلال الأمريكية وذلك باعتراف المملكة المتحدة باستقلال المستعمرات الأمريكية الثلاث عشر.",
+            "text": "USA blir erkänd självständig stat.",
             "year": 1783
         },
         {
-            "text": "القوات العثمانية تحقق انتصار كبير في «معركة فيينا» وذلك عندما تمكنت من فتح ثغرة في الدفاع عن المدينة التي كانت واحدة من أهم العواصم الأوروبية.",
-            "year": 1683
+            "text": "Vid Oliver Cromwells död efterträds han som lordprotektor över det engelska samväldet av sin son Richard Cromwell.",
+            "year": 1658
         },
         {
-            "text": "زواج ملك مملكة أراجون فرناندو الثاني من ملكة مملكة قشتالة إيزابيلا.",
-            "year": 1497
+            "text": "England och Irland står utan regent sedan två år tillbaka, medan Skottland sedan Karl I:s avrättning 1649 har erkänt hans son Karl II som skotsk kung. Nu tvingas dock denne gå i exil och Oliver Cromwell inordnar även Skottland i det engelska samväldet, som han två år senare utropar sig till lordprotektor över.",
+            "year": 1651
         },
         {
-            "text": "وقوع معركة عين جالوت بين المماليك والمغول.",
-            "year": 1260
-        },
-        {
-            "text": "تتويج الملك ريتشارد الأول ملكًا على إنجلترا في ويستمنستر.",
+            "text": "Sedan Henrik II har avlidit den 6 juli efterträds han som kung av England av sin son Rikard I Lejonhjärta.",
             "year": 1189
         },
         {
-            "text": "تكريس البابا غريغوريوس الأول",
+            "text": "Njál, centralgestalten i Njáls saga, omkommer i en mordbrand.",
+            "year": 1011
+        },
+        {
+            "text": "Sedan Pelagius II har avlidit den 7 februari väljs Gregorius I till påve.",
             "year": 590
+        },
+        {
+            "text": "San Marino, en av världens minsta nationer och den äldsta ännu existerande republiken grundas av Sankt Marinus.",
+            "year": 301
         }
     ],
     "births": [
         {
-            "text": "جوليو سيزار، لاعب كرة قدم برازيلي.",
-            "year": 1979
+            "text": "Jérôme Boateng, tysk professionell fotbollsspelare",
+            "year": 1988
         },
         {
-            "text": "أولوف ميلبيرغ، لاعب كرة قدم سويدي.",
+            "text": "Shaun White, amerikanskt snowboard- och skateboardproffs",
+            "year": 1987
+        },
+        {
+            "text": "Shomari Figures, amerikansk demokratisk politiker",
+            "year": 1985
+        },
+        {
+            "text": "Garrett Hedlund, amerikansk skådespelare",
+            "year": 1984
+        },
+        {
+            "text": "Andreas Chenardière, svensk skådespelare",
+            "year": 1980
+        },
+        {
+            "text": "Olof Mellberg, svensk fotbollsspelare",
             "year": 1977
         },
         {
-            "text": "روي ماركيز، لاعب كرة قدم أنغولي.",
-            "year": 1977
+            "text": "Ashley Jones, amerikansk skådespelare",
+            "year": 1976
         },
         {
-            "text": "زينة ظروف، ممثلة سورية.",
+            "text": "Redfoo, amerikansk sångare",
+            "year": 1975
+        },
+        {
+            "text": "Martin Gerber, schweizisk ishockeyspelare",
             "year": 1974
         },
         {
-            "text": "شيرويت عادل، مخرجة مصرية.",
+            "text": "Magnus Silfvenius, svensk programledare",
+            "year": 1974
+        },
+        {
+            "text": "Jakob Piil, dansk cyklist",
+            "year": 1973
+        },
+        {
+            "text": "Jennifer Paige, amerikansk singer/songwriter",
+            "year": 1973
+        },
+        {
+            "text": "Jimmy Endeley, svensk skådespelare",
             "year": 1971
         },
         {
-            "text": "كيران ديساي، كاتبة هندية.",
+            "text": "Martin Sundbom, svensk skådespelare",
             "year": 1971
         },
         {
-            "text": "تشارلي شين، ممثل أمريكي.",
+            "text": "Robert Karlsson, svensk golfspelare",
+            "year": 1969
+        },
+        {
+            "text": "Hidehiko Yoshida, japansk judoutövare",
+            "year": 1969
+        },
+        {
+            "text": "Felix Engström, svensk skådespelare",
+            "year": 1968
+        },
+        {
+            "text": "Charlie Sheen, amerikansk skådespelare",
             "year": 1965
         },
         {
-            "text": "هولت مكالاني، ممثل أمريكي.",
-            "year": 1964
+            "text": "Cocoa Tea, jamaicansk reggaeartist",
+            "year": 1959
         },
         {
-            "text": "مايتريبالا سيريسينا، رئيس سيريلانكا السابع.",
-            "year": 1951
+            "text": "Helén Söderqvist-Henriksson, svensk skådespelare",
+            "year": 1958
         },
         {
-            "text": "قاسم جداين، صحفي مغربي.",
-            "year": 1939
+            "text": "Jean-Pierre Jeunet, fransk regissör",
+            "year": 1953
         },
         {
-            "text": "طلحت حمدي، ممثل سوري.",
+            "text": "Thomas M. Reynolds, amerikansk republikansk politiker",
+            "year": 1950
+        },
+        {
+            "text": "Patriark Petrus VII av Alexandria, grekisk-ortodox patriark av Alexandria",
+            "year": 1949
+        },
+        {
+            "text": "Kjell Magne Bondevik, norsk politiker, statsminister",
+            "year": 1947
+        },
+        {
+            "text": "Michael Connarty, brittisk parlamentsledamot för Labour Party",
+            "year": 1947
+        },
+        {
+            "text": "Al Jardine, amerikansk popmusiker (The Beach Boys)",
+            "year": 1942
+        },
+        {
+            "text": "Jenny Maxwell, amerikansk skådespelare",
+            "year": 1941
+        },
+        {
+            "text": "Pauline Collins, brittisk skådespelare",
+            "year": 1940
+        },
+        {
+            "text": "Eduardo Galeano, uruguayansk författare",
+            "year": 1940
+        },
+        {
+            "text": "Ryoji Noyori, japansk kemist, mottagare av Nobelpriset i kemi",
             "year": 1938
         },
         {
-            "text": "ريوجي نويوري، عالم كيمياء ياباني حاصل على جائزة نوبل في الكيمياء عام 2001.",
-            "year": 1938
-        },
-        {
-            "text": "زين العابدين بن علي، رئيس تونس.",
+            "text": "John Olver, amerikansk demokratisk politiker, kongressledamot",
             "year": 1936
         },
         {
-            "text": "إيرين باباس، ممثلة ومغنية يونانية.",
-            "year": 1926
+            "text": "Assar Rönnlund, skidåkare, sportradiokommentator, OS-guld i stafett och OS-silver 1964, mottagare av Svenska Dagbladets guldmedalj 1962",
+            "year": 1935
         },
         {
-            "text": "كارل ديفيد أندرسون، عالم فيزياء أمريكي حاصل على جائزة نوبل في الفيزياء لعام 1936.",
+            "text": "Tompall Glaser, amerikansk countrymusiker",
+            "year": 1933
+        },
+        {
+            "text": "Ingmar Lindmarker, svensk utrikeskorrespondent",
+            "year": 1931
+        },
+        {
+            "text": "Catherine Baker Knoll, amerikansk demokratisk politiker",
+            "year": 1930
+        },
+        {
+            "text": "Alan Ladd, amerikansk skådespelare",
+            "year": 1913
+        },
+        {
+            "text": "Maurice Papon, fransk ämbetsman, dömd krigsförbrytare",
+            "year": 1910
+        },
+        {
+            "text": "Carl D. Anderson, amerikansk experimentalfysiker, mottagare av Nobelpriset i fysik 1936",
             "year": 1905
         },
         {
-            "text": "أورهو ككونن، رئيس فنلندا.",
+            "text": "Bullan Weijden, svensk skådespelare och sångare",
+            "year": 1901
+        },
+        {
+            "text": "Urho Kekkonen, finländsk politiker, president",
             "year": 1900
         },
         {
-            "text": "فرانك ماكفارلين بورنيت، طبيب أسترالي حاصل على جائزة نوبل في الطب عام 1960.",
+            "text": "Frank Macfarlane Burnet, australisk virolog,  mottagare av Nobelpriset i fysiologi eller medicin 1960",
             "year": 1899
         },
         {
-            "text": "علي الجشي، فقيه وقاضي شرعي وشاعر سعودي.",
-            "year": 1879
+            "text": "Karl Kinch, svensk skådespelare, teaterledare, regissör och operettsångare (tenor)",
+            "year": 1892
         },
         {
-            "text": "ميخائيل زالسكي، إحاثي روسي.",
-            "year": 1877
+            "text": "Eric Malmlöf, svensk skådespelare",
+            "year": 1888
         },
         {
-            "text": "فارديناند بورشيه، مخترع ألماني وأحد مؤسسي صناعة السيارات في ألمانيا.",
+            "text": "Ferdinand Porsche, österrikisk bilkonstruktör",
             "year": 1875
         },
         {
-            "text": "فريتز بريغل، عالم كيمياء نمساوي حاصل على جائزة نوبل في الكيمياء عام 1923.",
+            "text": "Fritz Pregl, österrikisk kemist, mottagare av Nobelpriset i kemi 1923",
             "year": 1869
         },
         {
-            "text": "لويس سوليفان، مهندس معماري أمريكي.",
+            "text": "Hugh Ike Shott, amerikansk republikansk politiker och publicist, senator (West Virginia)",
+            "year": 1866
+        },
+        {
+            "text": "Hans Aanrud, norsk författare",
+            "year": 1863
+        },
+        {
+            "text": "James Hartness, amerikansk republikansk politiker och uppfinnare, guvernör i Vermont",
+            "year": 1861
+        },
+        {
+            "text": "Selma Ek, svensk operasångerska",
             "year": 1856
         },
         {
-            "text": "يوجين دو بوارنيه، نبيل فرنسي وابن الإمبراطورة جوزفين.",
+            "text": "Henry L. Mitchell, amerikansk demokratisk politiker och jurist, guvernör i Florida",
+            "year": 1831
+        },
+        {
+            "text": "James Joseph Sylvester, brittisk matematiker",
+            "year": 1814
+        },
+        {
+            "text": "Mathilda Gelhaar, svensk skådespelare och operasångare",
+            "year": 1814
+        },
+        {
+            "text": "Elias Wilhelm Ruda, svensk skald och litteraturkritiker",
+            "year": 1807
+        },
+        {
+            "text": "Isaac S. Pennybacker, amerikansk demokratisk politiker och jurist, senator (Virginia)",
+            "year": 1805
+        },
+        {
+            "text": "Gustaf Erik Pasch, svensk kemist, Uppfinnare av säkerhetständstickan",
+            "year": 1788
+        },
+        {
+            "text": "Eugène de Beauharnais, styvson till Napoleon I",
             "year": 1781
         },
         {
-            "text": "جاك فرانسوا مينو، جنرال فرنسي.",
-            "year": 1750
+            "text": "Matthew Boulton, brittisk fabrikant och ingenjör",
+            "year": 1728
+        },
+        {
+            "text": "Carl Carlskiöld, svenskt krigsråd och landshövding i Västmanlands län",
+            "year": 1699
+        },
+        {
+            "text": "Diane de Poitiers, fransk hovdam, älskarinna till Henrik II av Frankrike.",
+            "year": 1499
         }
     ],
     "deaths": [
         {
-            "text": "فتح الله المغاري، مُغني ومُلحن مغربي.",
-            "year": 2022
-        },
-        {
-            "text": "محمد سعيد الحكيم، مرجع شيعي عراقي.",
-            "year": 2021
-        },
-        {
-            "text": "خليل القارئ، عالم مسلم وشيخ أئمة الحرمين الشريفين.",
-            "year": 2018
-        },
-        {
-            "text": "جلال الدين حقاني، قائد عسكري ومجاهد وعالم مسلم أفغاني.",
-            "year": 2018
-        },
-        {
-            "text": "أبو العز الحريري، سياسي مصري.",
+            "text": "Niki Nordenskjöld, 38, svensk skådespelare",
             "year": 2014
         },
         {
-            "text": "محمود الجوهري، لاعب ومدرب كرة قدم مصري.",
+            "text": "Michael Clarke Duncan, amerikansk skådespelare, mest känd för sin roll som John Coffey i Den gröna milen",
             "year": 2012
         },
         {
-            "text": "مايكل كلارك دنكان، ممثل أمريكي.",
+            "text": "Sun Myung Moon, sydkoreansk religiös ledare, grundare av Enighetskyrkan, även kallad Familjefederationen för Världsfred och Enighet",
             "year": 2012
         },
         {
-            "text": "أحمد قدور دوغان، شاعر سوري.",
-            "year": 2009
+            "text": "Sándor Képíró, ungersk misstänkt nazistförbrytare",
+            "year": 2011
         },
         {
-            "text": "عبد الله المطوع، داعية إسلامي كويتي.",
-            "year": 2006
+            "text": "William Rehnquist, amerikansk jurist, chefsdomare i USA:s högsta domstol",
+            "year": 2005
         },
         {
-            "text": "بيلي رايت، لاعب ومدرب كرة قدم إنجليزي.",
+            "text": "Billy Wright, engelsk fotbollsspelare och tränare",
             "year": 1994
         },
         {
-            "text": "عبد اللطيف الملوحي، شاعر سوري.",
-            "year": 1984
+            "text": "Fylgia Zadig, svensk skådespelare.",
+            "year": 1994
         },
         {
-            "text": "عبد الكريم الماشطة، عالم دين وناشط عراقي ولد في الحلة عام 1881 وتوفي في بغداد عام 1959.",
-            "year": 1959
+            "text": "Frank Capra, amerikansk filmregissör",
+            "year": 1991
         },
         {
-            "text": "إدوارد بينش، رئيس تشيكوسلوفاكيا.",
+            "text": "Peter Ivarsson, svensk musiker",
+            "year": 1983
+        },
+        {
+            "text": "Frederic Dannay, amerikansk författare, ena halvan av Ellery Queen",
+            "year": 1982
+        },
+        {
+            "text": "Dirch Passer, dansk skådespelare och manusförfattare",
+            "year": 1980
+        },
+        {
+            "text": "Karin Molander, svensk skådespelare",
+            "year": 1978
+        },
+        {
+            "text": "Vilhelm Ekelund, 68, svensk författare",
+            "year": 1949
+        },
+        {
+            "text": "Edvard Beneš, 64, tjeckoslovakisk politiker, president",
             "year": 1948
         },
         {
-            "text": "أوليفر كرومويل، قائد عسكري وسياسي إنجليزي.",
+            "text": "Frans Enwall, 64, svensk skådespelare",
+            "year": 1923
+        },
+        {
+            "text": "Albin Lavén, 56, svensk skådespelare",
+            "year": 1917
+        },
+        {
+            "text": "Henrik Menander, 63, sångdiktare, (Arbetets söner och svenska texten av Internationalen)",
+            "year": 1917
+        },
+        {
+            "text": "John Martin, 79, amerikansk demokratisk politiker, senator (Kansas)",
+            "year": 1913
+        },
+        {
+            "text": "Louis Cavagnari, 38, anglo-indisk militär och diplomat",
+            "year": 1897
+        },
+        {
+            "text": "Ivan Turgenjev, 64, rysk författare",
+            "year": 1883
+        },
+        {
+            "text": "Adolphe Thiers, 80, fransk historiker, statsman och politiker, chef för verkställande makten i Frankrike (Frankrikes statschef) 1871 och Frankrikes president",
+            "year": 1877
+        },
+        {
+            "text": "Immanuel Nobel den yngre, 71, svensk ingenjör, arkitekt, uppfinnare och industriman",
+            "year": 1872
+        },
+        {
+            "text": "James A. McDougall, 49, amerikansk demokratisk politiker, senator (Kalifornien)",
+            "year": 1867
+        },
+        {
+            "text": "George Tyler Wood, 63, amerikansk demokratisk politiker och militär, guvernör i Texas",
+            "year": 1858
+        },
+        {
+            "text": "Maria Teresa Luisa av Savojen, 42, fransk prinsessa, hovdam åt Marie-Antoinette",
+            "year": 1792
+        },
+        {
+            "text": "Oliver Cromwell, 59, lordprotektor över England, Skottland och Irland",
             "year": 1658
-        },
-        {
-            "text": "السلطانة كوسم، زوجة السلطان أحمد الأول وحاملة لقب السلطانة الأم.",
-            "year": 1651
-        },
-        {
-            "text": "جان غالياتسو فيسكونتي، دوق دوقية ميلانو.",
-            "year": 1402
         }
     ],
     "metadata": {
@@ -278,54 +434,48 @@
         },
         "events": [
             1,
-            20,
-            23,
-            12,
-            7,
             11,
-            24,
-            14,
-            19,
-            0,
-            15,
             8,
-            16,
+            3,
+            4,
+            15,
+            13,
             5,
+            17,
+            12,
+            10,
+            9,
+            16,
             2,
             6,
-            4,
-            21,
-            10,
-            22,
-            13,
-            17,
+            0,
             18,
-            3,
-            9
+            14,
+            7
         ],
         "births": [
-            7,
-            5,
-            1,
-            23,
-            4,
-            3,
-            17,
-            14,
-            10,
+            27,
+            34,
+            8,
+            13,
+            11,
+            38,
+            40,
+            20,
+            2,
             21
         ],
         "deaths": [
-            9,
-            3,
-            6,
-            13,
-            4,
-            5,
+            16,
             12,
-            11,
-            15,
-            1
+            0,
+            13,
+            2,
+            5,
+            3,
+            1,
+            25,
+            15
         ]
     }
 }
