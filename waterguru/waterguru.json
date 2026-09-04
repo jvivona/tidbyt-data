@@ -1,16 +1,16 @@
 {
   "station_name": "Vivona Pool (402c unit) Springs",
-  "measure_time": "2026-09-03T10:37:31.944Z",
+  "measure_time": "2026-09-04T10:37:31.000Z",
   "water_temp": 83,
   "free_chlorine": {
-    "value": 5.8,
-    "color": "#FAC504"
-  },
-  "ph": {
-    "value": 7.4,
+    "value": 4.9,
     "color": "#23B8DC"
   },
-  "fc_text": "C: DECR CL",
+  "ph": {
+    "value": 7.5,
+    "color": "#23B8DC"
+  },
+  "fc_text": "C: No Action",
   "ph_text": "P: No Action",
-  "updated_utc": "2026-09-04T10:10:08Z"
+  "updated_utc": "2026-09-04T12:10:07Z"
 }
