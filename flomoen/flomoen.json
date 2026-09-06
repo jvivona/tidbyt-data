@@ -1,26 +1,26 @@
 {
-  "retrieved_at": "2026-09-06T14:40:02Z",
+  "retrieved_at": "2026-09-06T16:40:02Z",
   "timezone": "America/New_York",
   "unit": "gallons",
   "data_since": "2026-07-12",
   "usage": {
-    "as_of": "2026-09-06T14:40:02Z",
+    "as_of": "2026-09-06T16:40:02Z",
     "local_date": "2026-09-06",
-    "today": 10.878,
+    "today": 51.997,
     "yesterday": 142.604,
-    "this_week": 10.878,
+    "this_week": 51.997,
     "last_week": 1390.044,
-    "this_month": 1000.531,
+    "this_month": 1041.65,
     "last_month": 6992.198,
-    "year_to_date": 12594.452,
+    "year_to_date": 12635.571,
     "last_year": null
   },
   "device": {
-    "as_of": "2026-09-06T14:40:02Z",
+    "as_of": "2026-09-06T16:40:02Z",
     "pressure_psi": 44.6
   },
   "last_health_test": {
-    "as_of": "2026-09-06T14:40:02Z",
+    "as_of": "2026-09-06T16:40:02Z",
     "at_utc": "2026-09-06T02:01:01Z",
     "at_local": "2026-09-05 10:01 PM",
     "status": "Auto MicroLeak Test Successful"
