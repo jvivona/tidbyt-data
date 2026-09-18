@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
   "source_url": "https://sailgp.com/results/all-seasons/",
-  "retrieved_at": "2026-09-18T14:34:01Z",
+  "retrieved_at": "2026-09-18T15:34:01Z",
   "season": "2026",
   "season_id": 6,
   "leaderboard_type": "championship",
-  "status": "Active",
-  "latest_regatta_id": 77,
+  "status": "Official",
+  "latest_regatta_id": 76,
   "standings": [
     {
       "position": 1,
@@ -36,7 +36,7 @@
       "driver": "Taylor Canfield",
       "points": 56,
       "points_adjustment": 0,
-      "rank_delta": 1
+      "rank_delta": 2
     },
     {
       "position": 4,
@@ -56,7 +56,7 @@
       "driver": "Dylan Fletcher",
       "points": 51,
       "points_adjustment": 0,
-      "rank_delta": 0
+      "rank_delta": -1
     },
     {
       "position": 6,
@@ -84,7 +84,7 @@
       "team": "Germany",
       "team_name": "Germany by Deutsche Bank",
       "driver": "Erik Heil",
-      "points": 36,
+      "points": 35,
       "points_adjustment": 0,
       "rank_delta": 0
     },
