@@ -5,7 +5,7 @@
 	<atom:link href="https://newsnetwork.mayoclinic.org/category/research/feed/" rel="self" type="application/rss+xml">
 	<link>https://newsnetwork.mayoclinic.org/category/research/
 	<description>News Resources</description>
-	<lastbuilddate>Tue, 06 Oct 2026 15:17:22 +0000</lastbuilddate>
+	<lastbuilddate>Thu, 15 Oct 2026 20:47:40 +0000</lastbuilddate>
 	<language>en-US</language>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
@@ -13,6 +13,917 @@
 	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=7.1.3</generator>
 	<item>
+		<title>Large-scale study advances detection of DNA mutations across the human genome&nbsp;</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/large-scale-study-advances-detection-of-dna-mutations-across-the-human-genome/
+		
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Thu, 15 Oct 2026 14:15:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Alexej Abyzov]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418735</guid>
+
+					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Researchers in a Mayo Clinic-led study have shown how to detect a broad range of DNA mutations in noncancerous human tissues and across the genome. The analysis, drawing on more than 90 trillion DNA letters of sequencing data, could help scientists study when these changes arise — from early development through aging […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/large-scale-study-advances-detection-of-dna-mutations-across-the-human-genome/">Large-scale study advances detection of DNA mutations across the human genome&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-video"--><video height="360" style="aspect-ratio: 640 / 360;" width="640" autoplay="" controls="" loop="" muted="" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/GettyImages-2204220340.mp4" playsinline=""></video>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph">ROCHESTER, Minn. — Researchers in a <a href="https://www.mayoclinic.org/" target="_blank" rel="noopener">Mayo Clinic</a>-led study have shown how to detect a broad range of DNA mutations in noncancerous human tissues and across the genome. The analysis, drawing on more than 90 trillion DNA letters of sequencing data, could help scientists study when these changes arise — from early development through aging — and how they contribute to cancer and other diseases.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.cell.com/cell/fulltext/S0092-8674(26)01135-9" target="_blank" rel="noreferrer noopener">Published</a> in Cell, the study is the flagship paper in a package of roughly a dozen publications from the <a href="https://commonfund.nih.gov/smaht" target="_blank" rel="noopener">National Institutes of Health (NIH) Common Fund's Somatic Mosaicism across Human Tissues, or SMaHT, Network</a>. The network includes more than 300 members from more than two dozen U.S. universities and hospitals. Researchers evaluated approaches for detecting somatic mutations ranging from single-letter DNA changes to large deletions, insertions and rearrangements.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.mayo.edu/research/faculty/abyzov-alexej-ph-d/bio-20089449" target="_blank" rel="noopener">Alexej Abyzov, Ph.D.</a>, a Mayo Clinic professor of biomedical informatics who leads the <a href="https://www.mayo.edu/research/labs/somatic-mutations-development-aging/overview" target="_blank" rel="noopener">Somatic Mutations in Development and Aging Laboratory</a>, is the corresponding author of the Cell study.&nbsp;</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-pullquote" style="padding-top:0;padding-bottom:0"><blockquote><p>"We often think of the human genome as a single, fixed sequence, but every person is a mosaic of cells that acquire genetic changes over time," Dr. Abyzov says. "As we have increasingly recognized in recent years, these mutations are relevant not only to cancer but also to a broad range of age-related diseases."&nbsp;</p></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Reading the cellular mosaic</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Unlike inherited genetic changes, somatic mutations arise after conception and accumulate over a lifetime. As cells divide, they can pass those changes to new cells, creating genetic differences within the same person, known as somatic mosaicism. Some somatic mutations can alter how cells behave and contribute to cancer, aging, and neurodevelopmental, cardiovascular and autoimmune diseases.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">These mutations can be difficult to detect when they are rare or occur in complex, repetitive regions of the genome. The SMaHT Network compared short- and long-read whole-genome sequencing, duplex sequencing, single-cell sequencing, and computational approaches.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="626" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/GettyImages-1385626333-1024x626.jpg" alt="This illustration shows examples of DNA mutations." class="wp-image-418805" style="aspect-ratio:1.635752320097368;width:518px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/GettyImages-1385626333-1024x626.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/GettyImages-1385626333-300x183.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/GettyImages-1385626333-767x469.jpg 767w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/GettyImages-1385626333-1536x939.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/GettyImages-1385626333-2048x1252.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">This illustration shows examples of DNA mutations.</figcaption></figure>
+</div>
+
+
+<p class="wp-block-paragraph">One of the clearest findings came from long-read sequencing, which reads longer stretches of DNA at a time. Much like reading a full sentence instead of a few scattered words, the added context made large genetic changes easier to find. Long-read sequencing detected about twice as many large DNA changes as short-read sequencing. It also found insertions that shorter reads often missed.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Researchers improved detection in other hard-to-read parts of the genome too. In one benchmark, a more complete genome reference raised precision from 79% to 89%. Single-cell sequencing of 102 lung and colon cells <a href="https://www.nature.com/articles/d41586-025-03768-0" target="_blank" rel="noopener">revealed</a> differences from cell to cell and helped trace their history back to early development.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Companion study maps rare mutations across tissues</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Dr. Abyzov also co-led a companion SMaHT paper <a href="https://www.cell.com/ajhg/fulltext/S0002-9297(26)00350-2" target="_blank" rel="noreferrer noopener">published</a> in The American Journal of Human Genetics. Deep whole-genome sequencing accurately detected rare, single-letter DNA changes present at levels below 1% in a tissue sample.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-large is-resized"><img decoding="async" width="683" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1644883_3895354_0003-683x1024.jpg" alt="Alexej Abyzov, Ph.D." class="wp-image-418743" style="aspect-ratio:0.6669972838526567;width:345px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1644883_3895354_0003-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1644883_3895354_0003-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1644883_3895354_0003-768x1152.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1644883_3895354_0003-1024x1536.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1644883_3895354_0003-1365x2048.jpg 1365w" sizes="(max-width: 683px) 100vw, 683px"><figcaption class="wp-element-caption">Alexej Abyzov, Ph.D.</figcaption></figure>
+</div>
+
+
+<p class="wp-block-paragraph">Analyzing DNA from different organs also helped detect mutations that arose early in development and spread to multiple tissues. Combining lung and colon data uncovered 13 additional shared mutations, improving detection by 145% for these very rare mutations compared with analyzing either tissue alone.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">SMaHT aims to catalog somatic mutations across 10 to 15 tissue types from 150 donors while improving the tools used to detect them. NIH is planning a second stage focused on understanding how these mutations influence biological processes and disease.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Dr. Abyzov says the research could eventually help identify people at higher cancer risk and track precancerous changes in tissues before developing symptoms. &nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The studies were supported by the NIH Common Fund through the Office of Strategic Coordination in the NIH Office of the Director. The companion study received additional NIH support for work conducted at Mayo Clinic. For complete author lists, disclosures and funding information, review the Cell <a href="https://www.cell.com/cell/fulltext/S0092-8674(26)01135-9" target="_blank" rel="noreferrer noopener">study</a> and the companion The American Journal of Human Genetics <a href="https://www.cell.com/ajhg/fulltext/S0002-9297(26)00350-2" target="_blank" rel="noreferrer noopener">study</a>.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">###&nbsp; &nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong>&nbsp; &nbsp;<br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.&nbsp; &nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Media contact:</strong> &nbsp;&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu" target="_blank" rel="noopener">newsbureau@mayo.edu</a>&nbsp;</li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/large-scale-study-advances-detection-of-dna-mutations-across-the-human-genome/">Large-scale study advances detection of DNA mutations across the human genome&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1x1-cell-division.png</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-Cell-division.png</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Alexej Abyzov]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+		<item>
+		<title>A shattered leg, a blood sample and a discovery that may have saved a family (VIDEO)</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/a-shattered-leg-a-blood-sample-and-a-discovery-that-may-have-saved-a-family-video/
+		
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Wed, 14 Oct 2026 14:51:07 +0000</pubdate>
+				<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[MC Video pkg]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Research Patient Stories]]--></category>
+		<category><!--[CDATA[Sharing Mayo Clinic]]--></category>
+		<category><!--[CDATA[Video]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[biobank]]--></category>
+		<category><!--[CDATA[Chad Rockow]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Janet Olson]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<category><!--[CDATA[paraganglioma]]--></category>
+		<category><!--[CDATA[paraganglioma-pheochromocytoma syndrome]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=416968</guid>
+
+					<description><!--[CDATA[<p-->On a cold December night more than a decade ago, a snowmobile crash on a rural Iowa road left Chad Rockow with a shattered lower leg — and months of surgeries, setbacks and pain so severe he considered amputation. Nearly 13 years later, he learned the accident had set something else in motion: a Mayo […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/a-shattered-leg-a-blood-sample-and-a-discovery-that-may-have-saved-a-family-video/">A shattered leg, a blood sample and a discovery that may have saved a family (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/16x9-CHADROCKOW-8-1024x576.png" alt="From left: Elwyn Rockow and Barbara Rockow, parents of Chad Rockow; Angie Stranberg, Chad's sister; Chad Rockow; and Shane Rockow, Chad's brother. Photo courtesy of the Rockow family." class="wp-image-416969" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/16x9-CHADROCKOW-8-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/16x9-CHADROCKOW-8-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/16x9-CHADROCKOW-8-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/16x9-CHADROCKOW-8-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/16x9-CHADROCKOW-8.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">From left: Elwyn Rockow and Barbara Rockow, parents of Chad Rockow; Angie Stranberg, Chad's sister; Chad Rockow; and Shane Rockow, Chad's brother. Photo courtesy of the Rockow family.</figcaption>
+
+
+
+<p class="wp-block-paragraph">On a cold December night more than a decade ago, a snowmobile crash on a rural Iowa road left Chad Rockow with a shattered lower leg — and months of surgeries, setbacks and pain so severe he considered amputation.</p>
+
+
+
+<p class="wp-block-paragraph">Nearly 13 years later, he learned the accident had set something else in motion: a Mayo Clinic discovery of a hidden, inherited disease affecting his entire family.</p>
+
+
+
+<p class="wp-block-paragraph">"At the time, the accident felt like the worst thing that could happen," Chad says. "My career, my life, everything turned upside down. But now I see it as the best thing because it may have saved my life, my sister's life, my brother's life and my dad's."</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://youtu.be/SZeKSum1fXI" target="_blank" rel="noreferrer noopener">Watch: Chad's story</a> |</strong> <strong>Videography by Kevin Sullivan, Mayo Clinic</strong></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeSZeKSum1fXI" title="A shattered leg, a blood sample and a discovery that may have saved a family" width="500" height="281" src="https://www.youtube.com/embed/SZeKSum1fXI?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+</div></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Journalists: Broadcast-quality video (3:37) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the&nbsp;<a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/Script-Chad-Story.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity">
+
+
+
+<p class="wp-block-paragraph">The reason for the phone call traces back to Chad's recovery. When his leg failed to heal properly, Chad came to Mayo Clinic for specialized care. During treatment, he enrolled in the <a href="https://www.mayo.edu/research/centers-programs/mayo-clinic-biobank/overview" target="_blank" rel="noreferrer noopener">Mayo Clinic Biobank</a>, donating a blood sample and joining tens of thousands of volunteers helping researchers unlock the genetic roots of disease.</p>
+
+
+
+<p class="wp-block-paragraph">His leg eventually healed, and Chad returned to life on his Iowa farm, rarely thinking about the blood sample he had left behind.</p>
+
+
+
+<div class="wp-block-columns has-background is-layout-flex wp-container-core-columns-is-layout-7387b849 wp-block-columns-is-layout-flex" style="background-color:#efedfa">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64f9800d&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64f9800d" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="480" height="640" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/2-CHAD.jpg" alt="Chad Rockow stands on a combine at his farm in Iowa. Photo courtesy of Chad Rockow." class="wp-image-416981" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/2-CHAD.jpg 480w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/2-CHAD-225x300.jpg 225w" sizes="auto, (max-width: 480px) 100vw, 480px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">Chad Rockow stands on a combine at his farm in Iowa. <em>Photo courtesy of Chad Rockow.</em></figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64f988ad&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64f988ad" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="480" height="640" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/11-CHAD-BROKENLEG-e1784907911449.jpg" alt="An X-ray shows the severe leg fracture Chad sustained in a 2012 snowmobile accident. Image courtesy of Chad Rockow." class="wp-image-416975" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/11-CHAD-BROKENLEG-e1784907911449.jpg 480w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/11-CHAD-BROKENLEG-e1784907911449-225x300.jpg 225w" sizes="auto, (max-width: 480px) 100vw, 480px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">An X-ray shows the severe leg fracture Chad sustained in a 2012 snowmobile accident. <em>Image courtesy of Chad Rockow.</em></figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64f98d6e&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64f98d6e" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="480" height="640" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/5-CHAD.jpg" alt="Chad works on planting equipment at his farm. Photo courtesy of Chad Rockow." class="wp-image-416980" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/5-CHAD.jpg 480w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/5-CHAD-225x300.jpg 225w" sizes="auto, (max-width: 480px) 100vw, 480px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">Chad works on planting equipment at his farm. <em>Photo courtesy of Chad Rockow.</em></figcaption></figure>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading"><strong>A life-changing phone call</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Nearly 13 years later, his phone rang.</p>
+
+
+
+<p class="wp-block-paragraph">On the line was a Mayo Clinic <a href="https://www.mayoclinic.org/departments-centers/clinical-genomics/sections/overview/ovc-20567367" target="_blank" rel="noreferrer noopener">genetic counselor</a>. Researchers had identified a rare inherited mutation in a gene called SDHD<strong>.</strong> The mutation is linked to <a href="https://www.mayoclinic.org/diseases-conditions/paraganglioma/symptoms-causes/syc-20575682" target="_blank" rel="noreferrer noopener">paraganglioma-pheochromocytoma syndrome</a>, a condition that can cause tumors to form, often without symptoms.</p>
+
+
+
+<p class="wp-block-paragraph">Some remain slow-growing for years. Others can become life-threatening if not caught early.</p>
+
+
+
+<p class="wp-block-paragraph">"I remember thinking, 'This can't be me,'" Chad says. "I had zero symptoms."</p>
+
+
+
+<p class="wp-block-paragraph">But as the counselor explained how the mutation is passed down, pieces of his family's history began falling into place.</p>
+
+
+
+<p class="wp-block-paragraph">Years earlier, his father had undergone surgery to remove tumors from his neck. Other relatives had faced similar diagnoses. One had suffered a devastating stroke after a tumor wrapped around a carotid artery.</p>
+
+
+
+<p class="wp-block-paragraph">Chad added his father to the call and gave permission to review decades-old medical records. There it was, buried in surgical notes: <a href="https://www.mayoclinic.org/diseases-conditions/paraganglioma/symptoms-causes/syc-20575682" target="_blank" rel="noreferrer noopener">paraganglioma</a> tumors.</p>
+
+
+
+<p class="wp-block-paragraph">"That's when the hair stood up on the back of my neck," Chad says. "Everything connected."</p>
+
+
+
+<p class="wp-block-paragraph">Follow-up clinical genetic testing confirmed the mutation across the family. His father tested positive first. Then Chad. Then his brother and sister — none of whom had any symptoms.</p>
+
+
+
+<p class="wp-block-paragraph">Targeted imaging revealed that the mutation had already left its mark on all four of them. Chad had three tumors in his neck, including one wrapped around a carotid artery.</p>
+
+
+
+<p class="wp-block-paragraph">His father's tumors have returned decades after his original surgeries. His sister has two tumors in her neck. His brother faces the most advanced disease, with multiple tumors, including a cancerous tumor near the skull and spine.</p>
+
+
+
+<p class="wp-block-paragraph">Chad and his brother have since undergone surgery at Mayo Clinic, with additional surgery planned for his brother. His father continues treatment there, and all four family members remain under specialized surveillance.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>From biospecimens to breakthroughs</strong></h2>
+
+
+
+<p class="wp-block-paragraph">When the Mayo Clinic Biobank began enrolling volunteers in 2009, the sequencing technologies that would one day reveal Chad's mutation didn't yet exist.</p>
+
+
+
+<p class="wp-block-paragraph">"We never would have dreamed this was possible at that time to do the kind of research that we can do now," says <a href="https://www.mayo.edu/research/faculty/olson-janet-e-ph-d/bio-00027660" target="_blank" rel="noreferrer noopener">Dr. Janet Olson,</a> an epidemiologist who helped build the Mayo Clinic Biobank and now serves as its principal investigator.</p>
+
+
+
+<div class="wp-block-columns has-background is-layout-flex wp-container-core-columns-is-layout-7387b849 wp-block-columns-is-layout-flex" style="background-color:#efedfa">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="has-text-align-center has-medium-font-size wp-block-paragraph">"It took years to recruit the patients, collect the samples, extract the DNA and build the infrastructure," Dr. Olson says. Now we're getting back those gold nuggets, and Chad's story is a great example of one of those gold nuggets.”</p>
+</blockquote>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64f9955e&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64f9955e" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="683" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4005756_0046-1024x683.jpg" alt="Dr. Janet Olson, an epidemiologist who helped build the Mayo Clinic Biobank and now serves as its principal investigator." class="wp-image-416987" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4005756_0046-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4005756_0046-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4005756_0046-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4005756_0046-1536x1025.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/08/WF4005756_0046-2048x1366.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button></figure>
+</div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph">What started as a research resource — linking blood samples, DNA and health data from thousands of volunteers — has become a powerful engine for discovery, supporting more than 500 studies.</p>
+
+
+
+<p class="wp-block-paragraph">Each sample contains layers of information such as DNA, serum, plasma and white blood cells, offering different windows into human health. Over time, when linked with medical records, these samples evolve into a powerful resource, enabling deeper understanding of disease, identifying risk and accelerating discovery.</p>
+
+
+
+<p class="wp-block-paragraph">One of the Biobank's most ambitious efforts focused on the DNA contained within those samples. Mayo Clinic Biobank Project Generation analyzed genetic data from more than 52,000 participants, searching for variants tied to 78 medically actionable conditions, including cancers and cardiovascular diseases where early detection can change outcomes.</p>
+
+
+
+<p class="wp-block-paragraph">The project ultimately identified Chad's mutation and has offered results to nearly 1,000 participants whose findings could directly affect their health.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>A gold mine of discovery</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Dr. Olson describes the Biobank as a "gold mine" built through years of scientific investment — and patient trust.</p>
+
+
+
+<p class="wp-block-paragraph">"It took years to recruit the patients, collect the samples, extract the DNA and build the infrastructure," Dr. Olson says. "Now we're getting back those gold nuggets, and Chad's story is a great example of one of those gold nuggets.”</p>
+
+
+
+<p class="wp-block-paragraph">Chad's story illustrates the vision behind <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-leaps-into-medicines-next-era-with-precure-research/" target="_blank" rel="noreferrer noopener">Precure Research</a>, Mayo Clinic's initiative to identify disease before symptoms appear and intervene earlier, when treatment has the greatest chance to change outcomes.</p>
+
+
+
+<p class="wp-block-paragraph">For Chad, the mutation may always be part of his family's story, but he hopes it will no longer define their future. For the first time in generations, his family can see it coming.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/a-shattered-leg-a-blood-sample-and-a-discovery-that-may-have-saved-a-family-video/">A shattered leg, a blood sample and a discovery that may have saved a family (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1x1-ChadsStory.png</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/07/16x9-CHADROCKOW-8.png</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[biobank]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Chad Rockow]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Janet Olson]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[paraganglioma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[paraganglioma-pheochromocytoma syndrome]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+		<item>
+		<title>Mayo Clinic Minute: Unlocking how the liver regenerates after surgery (VIDEO)</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-unlocking-how-the-liver-regenerates-after-surgery-video/
+		
+		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
+		<pubdate>Wed, 14 Oct 2026 14:32:29 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[MC Video pkg]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Rochester]]--></category>
+		<category><!--[CDATA[Surgery]]--></category>
+		<category><!--[CDATA[Video]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Liver Cancer]]--></category>
+		<category><!--[CDATA[liver regeneration]]--></category>
+		<category><!--[CDATA[RDG]]--></category>
+		<category><!--[CDATA[RDGhepatobiliary]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418597</guid>
+
+					<description><!--[CDATA[<p-->The liver is the body's largest internal organ, helping to digest food, remove waste and make proteins. It's essential for life.&nbsp;&nbsp;&nbsp; When part of the liver is removed to treat cancer or other conditions, the remaining tissue must regenerate to restore liver function.&nbsp;&nbsp; In this Mayo Clinic Minute, Dr. Patrick Starlinger, a hepatobiliary and pancreas […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-unlocking-how-the-liver-regenerates-after-surgery-video/">Mayo Clinic Minute: Unlocking how the liver regenerates after surgery (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<p class="wp-block-paragraph"-->The liver is the body's largest internal organ, helping to digest food, remove waste and make proteins. It's essential for life.&nbsp;&nbsp;&nbsp;<p></p>
+
+
+
+<p class="wp-block-paragraph">When part of the liver is removed to treat <a href="https://www.mayoclinic.org/diseases-conditions/liver-cancer/symptoms-causes/syc-20353659?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=hpblivercomms&amp;utm_campaign=mayoclinic&amp;geo=midwest&amp;placementsite=minnesota&amp;invsrc=deptsurgery&amp;cauid=198252" target="_blank" rel="noreferrer noopener">cancer</a> or other conditions, the remaining tissue must regenerate to restore liver function.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In this Mayo Clinic Minute, <a href="https://www.mayoclinic.org/biographies/starlinger-patrick-p-m-d-ph-d/bio-20533712?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=hpblivercomms&amp;utm_campaign=mayoclinic&amp;geo=midwest&amp;placementsite=minnesota&amp;invsrc=deptsurgery&amp;cauid=198252" target="_blank" rel="noreferrer noopener">Dr. Patrick Starlinger</a>, a hepatobiliary and pancreas surgeon at Mayo Clinic Comprehensive Cancer Center, discusses research to help the liver regenerate after surgery.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://youtu.be/3los67XnuEQ" target="_blank" rel="noreferrer noopener">Watch: The Mayo Clinic Minute</a></strong></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutube3los67XnuEQ" title="Mayo Clinic Minute: Unlocking how the liver regenerates after surgery" width="500" height="281" src="https://www.youtube.com/embed/3los67XnuEQ?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+</div></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Journalists: Broadcast-quality video (1:07) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the <a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/Video-Script-NN-Mayo-Clinic-Minute-Liver-Regeneration-Starlinger-DRAFT-100526.pdf" target="_blank" rel="noreferrer noopener">script</a></strong>.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>How does the liver regenerate after surgery?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">"The liver can regenerate quite dramatically, probably the most potential to regenerate in the entire human body, and we leverage this in liver surgery," says Dr. Starlinger.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Before <a href="https://www.mayoclinic.org/departments-centers/hepatobiliary-pancreas-surgery-minnesota/sections/overview/ovc-20530441?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=hpblivercomms&amp;utm_campaign=mayoclinic&amp;geo=midwest&amp;placementsite=minnesota&amp;invsrc=deptsurgery&amp;cauid=198252" target="_blank" rel="noreferrer noopener">surgery</a>, the team measures liver volume and assesses liver function to determine how much can be safely removed to take out the tumor while leaving enough healthy liver to regenerate.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">But in some patients, that regeneration does not happen, which can lead to liver failure and limit which tumors can be removed.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">"Our area of research is so important to understand the mechanism of liver regeneration in humans, particularly because as we understand the mechanism, we can move forward with interventions to promote regeneration in these patients," says Dr. Starlinger.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>What role does blood clotting play in liver regeneration?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Mayo Clinic researchers have analyzed liver samples from patients with healthy livers and those with underlying liver conditions to better understand what drives regeneration.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">"We were able to discover that the blood coagulation system is crucially important to allow these mechanisms of liver regeneration to actually occur," says Dr. Starlinger.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">More research is needed, but researchers hope these findings could eventually lead to treatments that promote liver regeneration and expand the limits of liver surgery.</p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-unlocking-how-the-liver-regenerates-after-surgery-video/">Mayo Clinic Minute: Unlocking how the liver regenerates after surgery (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1x1-GettyImages-2225051990_edited.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-GettyImages-2225051990_edited.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Liver Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[liver regeneration]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[RDG]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[RDGhepatobiliary]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+		<item>
+		<title>One patient at a time, Mayo Clinic takes on the world’s rarest diseases&nbsp;</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/one-patient-at-a-time-mayo-clinic-takes-on-the-worlds-rarest-diseases/
+		
+		<dc:creator><!--[CDATA[Susan Murphy]]--></dc:creator>
+		<pubdate>Tue, 13 Oct 2026 13:45:16 +0000</pubdate>
+				<category><!--[CDATA[Beyond the Breakthrough]]--></category>
+		<category><!--[CDATA[Discovery Science]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Individualized Medicine]]--></category>
+		<category><!--[CDATA[Minnesota]]--></category>
+		<category><!--[CDATA[Neurosciences]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Translational Science]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Margot Cousin]]--></category>
+		<category><!--[CDATA[Mayo Clinic]]--></category>
+		<category><!--[CDATA[Social Sensations]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418020</guid>
+
+					<description><!--[CDATA[<p-->Mayo Clinic scientists are pushing medicine beyond diagnosis, developing treatments for ultrarare genetic diseases while building a model that could accelerate the path to treatment for many more.&nbsp; Behind the glass walls of her Mayo Clinic neuroscience laboratory, Margot Cousin, Ph.D., watches tiny clusters of living neurons flicker across her computer screen. Magnified hundreds of […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/one-patient-at-a-time-mayo-clinic-takes-on-the-worlds-rarest-diseases/">One patient at a time, Mayo Clinic takes on the world’s rarest diseases&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc2896&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc2896" class="wp-block-image size-large wp-lightbox-container"--><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-11-1024x576.png" alt="Margot Cousin, Ph.D., works at a cell-culture microscope as Kaitlyn Dirks, a first-year graduate student in the Virology and Gene Therapy track, looks on in Dr. Cousin’s laboratory at Mayo Clinic." class="wp-image-418027" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-11-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-11-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-11-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-11-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-11.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">Margot Cousin, Ph.D., works at a cell-culture microscope as Kaitlyn Dirks, a first-year graduate student in the Virology and Gene Therapy track, looks on in Dr. Cousin’s laboratory at Mayo Clinic.</figcaption>
+
+
+
+<h2 class="wp-block-heading"><strong>Mayo Clinic scientists are pushing medicine beyond diagnosis, developing treatments for ultrarare genetic diseases while building a model that could accelerate the path to treatment for many more.</strong>&nbsp;</h2>
+
+
+
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph">Behind the glass walls of her <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> neuroscience laboratory, <a href="https://www.mayo.edu/research/faculty/cousin-margot-a-ph-d/bio-20503541" target="_blank" rel="noreferrer noopener">Margot Cousin, Ph.D.</a>, watches tiny clusters of living neurons flicker across her computer screen. Magnified hundreds of times, the cells carry the genetic variant responsible for <a href="https://rarediseases.org/rare-diseases/kcnk9-imprinting-syndrome/" target="_blank" rel="noreferrer noopener">KCNK9 imprinting syndrome</a>, one of the rarest neurological diseases in the world.</p>
+
+
+
+<p class="wp-block-paragraph">Dr. Cousin directs Mayo Clinic's N-of-1 Therapeutics Program, where scientists develop treatment strategies for diseases so rare they may affect only a single person. Each advance can help shorten the path for the next ultrarare disease, and the one after that.</p>
+
+
+
+<p class="wp-block-paragraph">"For decades, the greatest success we could offer many patients was finally putting a name to their disease," says Dr. Cousin, a clinical and translational scientist in <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank" rel="noreferrer noopener">Mayo Clinic's Center for Individualized Medicine</a>. "A diagnosis is an extraordinary achievement, but it's no longer the end of the journey. The future of medicine is turning that diagnosis into a path toward treatment."</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://youtu.be/zsQXpa2o63E" target="_blank" rel="noreferrer noopener">Watch: One patient at a time, Mayo Clinic takes on the world's rarest diseases</a></strong></p>
+
+
+
+<p class="wp-block-paragraph">Videography by Kevin Sullivan, Mayo Clinic</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubezsQXpa2o63E" title="One patient at a time, Mayo Clinic takes on the world&amp;apos;s rarest diseases" width="500" height="281" src="https://www.youtube.com/embed/zsQXpa2o63E?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+</div></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Journalists: Broadcast-quality video (2:28) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read the</strong> <strong><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/SCRIPT-Dr.-Margot-Cousin-Lab.pdf" target="_blank" rel="noreferrer noopener">script</a>.</strong></p>
+
+
+
+<p class="wp-block-paragraph">The neurons glowing on Dr. Cousin’s screen came from a small skin sample donated by Summer Nagele, a 21-year-old from Illinois living with KCNK9 imprinting syndrome. Low muscle tone affects her movement, speech and eating. She has reduced lung function, tires easily, sometimes uses a wheelchair for longer distances, and underwent spinal fusion for severe scoliosis at 13.</p>
+
+
+
+<figure data-wp-context="{&quot;galleryId&quot;:&quot;6ad4e64fc2b9b&quot;}" data-wp-interactive="core/gallery" class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc2fb6&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc2fb6" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="768" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="418029" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4988-1-768x1024.jpg" alt="Summer Negele with Margot Cousin, Ph.D., during a Mayo Clinic visit when Summer donated a skin sample for KCNK9 imprinting syndrome research." class="wp-image-418029" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4988-1-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4988-1-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4988-1-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4988-1-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button></figure>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc348a&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc348a" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="768" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="418030" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4958-2-768x1024.jpg" alt="Summer Negele with Margot Cousin, Ph.D., during a Mayo Clinic visit when Summer donated a skin sample for KCNK9 imprinting syndrome research." class="wp-image-418030" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4958-2-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4958-2-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4958-2-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/IMG_4958-2-1536x2048.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button></figure>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc3922&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc3922" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="768" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="418032" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Summer-3-768x1024-1.jpeg" alt="Summer Negele with Margot Cousin, Ph.D., during a Mayo Clinic visit when Summer donated a skin sample for KCNK9 imprinting syndrome research." class="wp-image-418032" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Summer-3-768x1024-1.jpeg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Summer-3-225x300.jpeg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Summer-3-1152x1536.jpeg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Summer-3-1536x2048.jpeg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button></figure>
+<figcaption class="blocks-gallery-caption wp-element-caption">Summer Negele with Margot Cousin, Ph.D., during a Mayo Clinic visit when Summer donated a skin sample for KCNK9 imprinting syndrome research. Photo courtesy of the Nagele family.</figcaption></figure>
+
+
+
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<style>
+    .carousel-caption p {color: #fff;}
+    .carousel-indicators li{*display: inline;zoom: 1;}
+    .carousel-indicators{*text-align:right; *width:auto; *margin-left:6.5%;}
+    .carousel-indicators .active{*margin:0 2px;}
+    .carousel-control .icon-next, .carousel-control .glyphicon-chevron-right{*cursor:pointer;}
+    .carousel-control .icon-next, .carousel-control .glyphicon-chevron-left{*cursor:pointer;}
+    .carousel-inner>.item>img, .carousel-inner>.item>a>img{ width: 100%; }
+    </style><div id="carousel-5b7068fbb3faa1a144f6ba0de5b8b57e" class="carousel slide  "><ol class="carousel-indicators"></ol><div class="carousel-inner"></div><!-- Controls -->
+      <a class="left carousel-control" href="#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+    <script>
+        jQuery(document).ready(function() {
+            for (var i=0; i < jQuery("#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e .item").length; i++) {
+                html = "<li data-target=\"#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e\" data-slide-to=\"" + i +"\"></li>";
+                jQuery("#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e .carousel-indicators").append(html);
+            }
+            jQuery("#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e .carousel-indicators li").first().addClass("active");
+            jQuery("#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e .carousel-inner .item").first().addClass("active");
+
+            jQuery("#carousel-5b7068fbb3faa1a144f6ba0de5b8b57e").carousel();})
+    </script>
+
+
+<p class="wp-block-paragraph">Yet Summer has built her life around the very things the disease makes difficult. She sings the national anthem before cheering crowds, performs in musical theater, competes in eight Special Olympics sports — gymnastics is her favorite — and advocates for people with disabilities.</p>
+
+
+
+<p class="wp-block-paragraph">Another part of Summer's story is unfolding somewhere far quieter — under Dr. Cousin's microscope.</p>
+
+
+
+<p class="wp-block-paragraph">Fewer than 100 people worldwide are known to have KCNK9 imprinting syndrome. Many are children.</p>
+
+
+
+<p class="wp-block-paragraph">Dr. Cousin knows them by name.</p>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc44df&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc44df" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-CHILDREN-1024x576.png" alt="Margot Cousin, Ph.D., top left, with children with KCNK9 imprinting syndrome during a July symposium in Dallas. Pictured are Cole McCarthy, Inara Abel, Preston Kelley, Acadia Jenkins, Summer Nagele, Gracie Keeter and Mason Thomas." class="wp-image-418033" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-CHILDREN-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-CHILDREN-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-CHILDREN-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-CHILDREN-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-CHILDREN.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">Margot Cousin, Ph.D., top left, with children with KCNK9 imprinting syndrome during a July symposium in Dallas. Pictured are Cole McCarthy, Inara Abel, Preston Kelley, Acadia Jenkins, Summer Nagele, Gracie Keeter and Mason Thomas. Photo courtesy of the Kelley family.</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>A path beyond diagnosis</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">For ultrarare diseases, the path to treatment is especially difficult. There may be only a handful of patients to study, little clinical evidence to guide trials and almost no commercial incentive to develop a therapy.</p>
+
+
+
+<p class="wp-block-paragraph">Dr. Cousin and her collaborators are using advances in genetics, disease modeling, molecular therapeutics and artificial intelligence to find another way.</p>
+
+
+
+<p class="wp-block-paragraph">Every potential treatment begins with a small sample of cells donated by the people Dr. Cousin and her team hope to help.</p>
+
+
+
+<p class="wp-block-paragraph">In the laboratory, researchers coax skin cells backward into stem cells and forward into the types of neurons affected by the disease. As the neurons begin communicating, the effects of the mutation come into view — a gene that is too active or a protein that doesn't function as it should.</p>
+
+
+
+<p class="wp-block-paragraph">Those living cultures also become a testing ground. Along the lab bench, Dr. Cousin and her team use precision pipettes to introduce potential therapies into tiny wells of neurons, then watch how the cells respond. Some are existing FDA-approved drugs being tested for a new purpose. Others are experimental genetic therapies developed specifically for the disease.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Turning discovery into a treatment strategy</strong>&nbsp;</h2>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc4aa7&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc4aa7" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/MARGOT-COUSIN-10-1024x576.jpg" alt="Margot Cousin, Ph.D., left, works in her laboratory with Kaitlyn Dirks, center, a first-year graduate student in the Virology and Gene Therapy track, and Han Lee, right, a technologist in Dr. Cousin’s lab." class="wp-image-418034" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/MARGOT-COUSIN-10-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/MARGOT-COUSIN-10-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/MARGOT-COUSIN-10-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/MARGOT-COUSIN-10-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/MARGOT-COUSIN-10.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">Margot Cousin, Ph.D., left, works in her laboratory with graduate student Kaitlyn Dirks, center, and technologist Han Lee, right.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">What began as an effort to understand KCNK9 imprinting syndrome is now evolving into an international push to develop the disorder's first treatment.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In 2022, Dr. Cousin and her team <a href="https://newsnetwork.mayoclinic.org/discussion/scientists-unravel-genetic-mystery-of-rare-neurodevelopmental-disorder-provide-definitive-diagnoses-to-21-families-worldwide/" target="_blank" rel="noopener">identified</a> 15 previously unknown genetic changes that cause the disease. Those discoveries provided definitive diagnoses for 21 families and established a stronger scientific foundation for understanding the condition.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Earlier this year, the team launched a natural history study to follow people with KCNK9 imprinting syndrome over time and better understand how the disease progresses. That information could help researchers identify measures for future clinical trials and determine whether a potential treatment is making a difference.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In the laboratory, the team is investigating <a href="https://newsnetwork.mayoclinic.org/discussion/addressing-the-root-cause-of-rare-diseases-the-promise-of-antisense-oligonucleotides/" target="_blank" rel="noreferrer noopener">antisense oligonucleotides</a> as one possible treatment strategy. The molecules can be designed to alter how genetic instructions are carried out inside cells. Researchers are still working to better understand the mechanisms driving KCNK9 imprinting syndrome and developing cell models needed to test potential therapies.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/JHOW0028.00_05_06_28.Still007-1024x576.jpg" alt="" class="wp-image-418617" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/JHOW0028.00_05_06_28.Still007-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/JHOW0028.00_05_06_28.Still007-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/JHOW0028.00_05_06_28.Still007-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/JHOW0028.00_05_06_28.Still007-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/JHOW0028.00_05_06_28.Still007.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Han Lee loads samples into an automated droplet generator, part of the process researchers use to understand diseased cells and test potential treatments.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Families are helping drive that momentum. Among them are Melissa and Sean Kelley, whose 12-year-old son, Preston, has one of the most severe forms of KCNK9 imprinting syndrome. He communicates through an eye-gaze device and relies on a wheelchair. The Kelleys founded the <a href="https://www.kcnk9imprinting.org/" target="_blank" rel="noopener">KCNK9 Foundation</a>, helping transform a small group of isolated families into a global research community.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">"We share a special bond that no one else really understands," Melissa says. "For all of us with kids who are affected, our hope is to see a therapy in our lifetime."&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">That community recently came together in Dallas, where Dr. Cousin joined families, clinicians and researchers from around the world for the third Global KCNK9 Imprinting Syndrome Symposium. For one of the world's rarest disorders, bringing so many families into one room was a milestone in itself.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Sean says those face-to-face encounters give researchers "a much more nuanced view" of the disease and the many ways it can affect patients.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Summer and her parents were part of the group that traveled to Dallas. "We trust Dr. Cousin," says her mother, Autumn Nagele. "When Summer was invited to be a part of the research, we knew her participation would be meaningful." Her father, Michael Nagele, puts their relationship with Dr. Cousin more simply: "She's family now."&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Summer's thoughts are on the younger children with KCNK9 imprinting syndrome.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">"I want the younger kids to be able not to go through the stuff that I do," Summer says.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Scaling hope for ultrarare diseases</strong></h2>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc50e7&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc50e7" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/DR.COUSIN-LAB7-1024x576.png" alt="Margot Cousin, Ph.D., and Han Lee, a technologist in Dr. Cousin’s lab, work at a laboratory bench in Mayo Clinic’s N-of-1 Therapeutics Program." class="wp-image-418035" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/DR.COUSIN-LAB7-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/DR.COUSIN-LAB7-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/DR.COUSIN-LAB7-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/DR.COUSIN-LAB7-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/DR.COUSIN-LAB7.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">Margot Cousin, Ph.D., and Han Lee work at a laboratory bench in Mayo Clinic’s N-of-1 Therapeutics Program.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">The search for a KCNK9 treatment is one part of a much larger effort. Across other ultrarare diseases, Dr. Cousin and her collaborators are applying the same approach, and in some cases, have already carried it from laboratory research to <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-report-early-results-from-therapy-designed-for-a-single-patient-with-rare-genetic-form-of-als/" target="_blank" rel="noreferrer noopener">experimental treatment</a>.</p>
+
+
+
+<p class="wp-block-paragraph">In 2025, they helped deliver the first custom experimental genetic treatments for <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-launches-landmark-study-on-rare-neurological-disease/" target="_blank" rel="noreferrer noopener">Autosomal Dominant Leukodystrophy (ADLD)</a> to a Mayo Clinic patient. The rare, fatal neurological disease slowly destroys the brain's white matter, disrupting the pathways that allow different regions of the brain to communicate.</p>
+
+
+
+<p class="wp-block-paragraph">Dr. Cousin and her collaborators have since built a comprehensive ADLD program, bringing together an international disease study and a dedicated ADLD Clinical Care Center to better understand the disorder, expand access to expert care and prepare for future treatment trials.</p>
+
+
+
+<figure class="wp-block-pullquote" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><blockquote><p>"We're already seeing early signs of benefit in some of our neurodegenerative disease programs," Dr. Cousin says. "We're seeing encouraging biological signals that suggest these therapies are working as intended. That gives us confidence we're building on a strong scientific foundation and that we can continue expanding this approach to more diseases."</p></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>One by one</strong>&nbsp;</h2>
+
+
+<div class="wp-block-image">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fc5662&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fc5662" class="alignleft size-large is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="768" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Dr.-Cousin-Summer-1-768x1024.jpg" alt="Margot Cousin, Ph.D., left, with Summer Negele at a KCNK9 symposium in Dallas." class="wp-image-418038" style="aspect-ratio:0.750007629627369;width:420px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Dr.-Cousin-Summer-1-768x1024.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Dr.-Cousin-Summer-1-225x300.jpg 225w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Dr.-Cousin-Summer-1-1152x1536.jpg 1152w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Dr.-Cousin-Summer-1-1536x2048.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Dr.-Cousin-Summer-1.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
+			</svg>
+		</button><figcaption class="wp-element-caption">Margot Cousin, Ph.D., left, with Summer Negele at a KCNK9 symposium in Dallas.Photo courtesy of the Nagele family.</figcaption></figure>
+</div>
+
+
+<p class="wp-block-paragraph">For Dr. Cousin, the significance of the work is measured in much more than data points on a screen.</p>
+
+
+
+<p class="wp-block-paragraph">That became especially clear during Summer's skin biopsy.</p>
+
+
+
+<p class="wp-block-paragraph">With Dr. Cousin beside her, Summer began naming all the other children she had met through the KCNK9 community. One by one, she called them out, as if bringing them into the room with her.</p>
+
+
+
+<p class="wp-block-paragraph">"I thought of all the kids that I'm helping," Summer says.</p>
+
+
+
+<p class="wp-block-paragraph">Some breakthroughs are measured in millions of lives. In Dr. Cousin's laboratory, they begin with one.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>The Bigger Picture</strong></h3>
+
+
+
+<p class="wp-block-paragraph"><em>The work aligns with Mayo Clinic Research's Clinical Impact initiative, which is accelerating the path from scientific discovery to clinical trials and patient care. For ultrarare diseases, that means creating a more direct route from understanding the biology of a disorder to developing and testing potential therapies</em>.<br></p>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><a href="https://newsnetwork.mayoclinic.org/beyond-the-breakthrough/"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/Beyond-The-Breakthrough-Graphic-Banner-v2_248x248-1024x1024.png" alt="" class="wp-image-418547 size-full" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/Beyond-The-Breakthrough-Graphic-Banner-v2_248x248-1024x1024.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/Beyond-The-Breakthrough-Graphic-Banner-v2_248x248-300x300.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/Beyond-The-Breakthrough-Graphic-Banner-v2_248x248-150x150.png 150w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/Beyond-The-Breakthrough-Graphic-Banner-v2_248x248-768x768.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/Beyond-The-Breakthrough-Graphic-Banner-v2_248x248.png 1034w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></a></figure><div class="wp-block-media-text__content">
+<p class="wp-block-paragraph">The Beyond the Breakthrough special series goes inside Mayo Clinic research to meet the people advancing medicine and cures for patients. <br><br><strong>For more stories like this, visit <a href="https://newsnetwork.mayoclinic.org/beyond-the-breakthrough/" target="_blank" rel="noreferrer noopener">Beyond the Breakthrough</a>.&nbsp;</strong></p>
+</div></div>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/one-patient-at-a-time-mayo-clinic-takes-on-the-worlds-rarest-diseases/">One patient at a time, Mayo Clinic takes on the world’s rarest diseases&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1x1-DR.COUSIN-11_edited.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-DR.COUSIN-11.png</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Beyond the Breakthrough]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Margot Cousin]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+		<item>
+		<title>FDA approves immunotherapy regimen studied by Mayo Clinic for stage 3 colon cancer</title>
+		<link>https://newsnetwork.mayoclinic.org/discussion/fda-approves-immunotherapy-regimen-studied-by-mayo-clinic-for-stage-3-colon-cancer/
+		
+		<dc:creator><!--[CDATA[jftmayo]]--></dc:creator>
+		<pubdate>Fri, 09 Oct 2026 11:45:00 +0000</pubdate>
+				<category><!--[CDATA[Cancer]]--></category>
+		<category><!--[CDATA[Featured News]]--></category>
+		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[#Newsapp]]--></category>
+		<category><!--[CDATA[daily]]--></category>
+		<category><!--[CDATA[Dr. Frank Sinicrope]]--></category>
+		<category><!--[CDATA[Minnesota News Releases]]--></category>
+		<category><!--[CDATA[News Releases]]--></category>
+		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418504</guid>
+
+					<description><!--[CDATA[<p-->Landmark ATOMIC trial brings immunotherapy to patients being treated with the goal of cure ROCHESTER, Minn. — The Food and Drug Administration (FDA) has approved the immunotherapy drug atezolizumab in combination with chemotherapy for some patients with stage 3 colon cancer following surgery. The treatment is for patients whose tumors have deficient DNA mismatch repair, […]<p></p>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/fda-approves-immunotherapy-regimen-studied-by-mayo-clinic-for-stage-3-colon-cancer/">FDA approves immunotherapy regimen studied by Mayo Clinic for stage 3 colon cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></description>
+										<content:encoded><!--[CDATA[
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062-1024x682.jpg" alt="chemotherapy drug being administered intravenously by a nurse" class="wp-image-418513" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
+
+
+
+<p class="wp-block-paragraph"><em>Landmark ATOMIC trial brings immunotherapy to patients being treated with the goal of cure</em></p>
+
+
+
+<p class="wp-block-paragraph">ROCHESTER, Minn. — The Food and Drug Administration (FDA) has approved the immunotherapy drug atezolizumab in combination with chemotherapy for some patients with stage 3 <a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669" target="_blank" rel="noreferrer noopener">colon cancer</a> following surgery. The treatment is for patients whose tumors have deficient DNA mismatch repair, or dMMR.</p>
+
+
+
+<p class="wp-block-paragraph">The approval is based on results from the <a href="https://newsnetwork.mayoclinic.org/discussion/immunotherapy-boosts-chemotherapy-in-combating-stage-3-colon-cancer/" target="_blank" rel="noreferrer noopener">ATOMIC</a> clinical trial led by <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic</a>. The study found that adding atezolizumab to standard chemotherapy reduced the risk of cancer recurrence or death by 50% compared with chemotherapy alone. FDA approval further establishes the addition of immunotherapy to chemotherapy as a standard treatment option in the curative setting and helps to make it more readily accessible to patients who may benefit.</p>
+
+
+
+<p class="wp-block-paragraph">"This approval represents a major advance for patients with a subset of stage 3 colon cancer," says <a href="https://www.mayoclinic.org/biographies/sinicrope-frank-a-m-d/bio-20054019" target="_blank" rel="noreferrer noopener">Frank Sinicrope, M.D.</a>, a Mayo Clinic oncologist and leader of the ATOMIC study. "ATOMIC is the first study to show the benefit of immunotherapy after surgical resection in patients with locally advanced colon cancer with dMMR. The goal after surgery is to eliminate remaining microscopic cancer cells responsible for recurrence and thereby increase the number of patients who are cured of their disease."</p>
+
+
+
+<p class="wp-block-paragraph">The phase 3 ATOMIC trial enrolled 712 patients with stage 3 dMMR colon cancer that had been surgically removed and spread to regional lymph nodes. Patients were randomly assigned to receive standard chemotherapy alone or chemotherapy combined with atezolizumab, an immune checkpoint inhibitor, followed by additional atezolizumab.</p>
+
+
+
+<p class="wp-block-paragraph">At three years, 86.3% of patients who received immunotherapy plus chemotherapy were alive and free of disease, compared with 76.2% of patients who received chemotherapy alone. The findings were published this year in <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2507874" target="_blank" rel="noreferrer noopener">The New England Journal of Medicine</a>.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Moving immunotherapy earlier in treatment</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Immune checkpoint inhibitors have transformed the treatment for several advanced cancers. In colon cancer, they have been particularly effective against tumors with dMMR. These tumors have a defect in their ability to properly repair errors in their DNA during cell division, leading to the accumulation of multiple mutations that can make the cells more recognizable to the immune system.</p>
+
+
+
+<p class="wp-block-paragraph">Before the ATOMIC trial, immunotherapy was used primarily for advanced or metastatic dMMR colorectal cancer. ATOMIC examined whether activating the immune system after surgery that is intended to cure the patient could prevent cancer from returning.</p>
+
+
+
+<p class="wp-block-paragraph">"Instead of waiting until a patient's colon cancer has returned or spread, we can now use immunotherapy earlier when patients have undergone surgery and are able to prevent or markedly reduce the chance of recurrence," Dr. Sinicrope says.</p>
+
+
+
+<p class="wp-block-paragraph">Approximately 15% of colon cancers have dMMR. Testing a patient's tumor can identify dMMR and help determine the optimal treatment.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>An important advance for younger patients</strong></h2>
+
+
+
+<p class="wp-block-paragraph">The approval also comes as <a href="https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669" target="_blank" rel="noreferrer noopener">colorectal cancer</a> rates among younger adults continue to rise. More than one-quarter of patients enrolled in ATOMIC were younger than 50.</p>
+
+
+
+<p class="wp-block-paragraph">The trial included patients with <a href="https://www.mayoclinic.org/diseases-conditions/lynch-syndrome/symptoms-causes/syc-20374714" target="_blank" rel="noreferrer noopener">Lynch syndrome</a>, the most common inherited cause of colorectal cancer and the most common hereditary cancer syndrome. People with Lynch syndrome have an increased risk of developing several cancers, particularly colorectal cancer, and frequently develop cancer at younger ages. Colon cancers associated with Lynch syndrome generally have dMMR.</p>
+
+
+
+<p class="wp-block-paragraph">"For patients who develop colon cancer at a young age, preventing recurrence can translate into decades of life gained," Dr. Sinicrope says. "Being able to offer an effective treatment such as immunotherapy to improve the survival of these patients is especially meaningful for them and their families."</p>
+
+
+
+<h2 class="wp-block-heading"><strong>From scientific insight to a new treatment</strong></h2>
+
+
+
+<p class="wp-block-paragraph">ATOMIC grew from years of research into the biology of dMMR colon cancer. Dr. Sinicrope and colleagues previously observed that these tumors contain large numbers of inflammatory and immune cells, including those cells targeted by immune checkpoint inhibitors. Those findings provided the scientific rationale for testing whether immunotherapy could strengthen the body's immune response against cancer cells that can remain after surgery.</p>
+
+
+
+<p class="wp-block-paragraph">Dr. Sinicrope developed the study, which was conducted through the <a href="https://www.allianceforclinicaltrialsinoncology.org/main/" target="_blank" rel="noreferrer noopener">Alliance for Clinical Trials in Oncology</a>, part of the National Cancer Institute-supported National Clinical Trials Network. Patients from the U.S. and Germany participated.</p>
+
+
+
+<p class="wp-block-paragraph">"The patients who participated in ATOMIC made this advance possible, and their contribution will change how we treat patients with dMMR colon cancer here and around the world," says Dr. Sinicrope.</p>
+
+
+
+<p class="wp-block-paragraph">The <a href="https://www.nccn.org/" target="_blank" rel="noreferrer noopener">National Comprehensive Cancer Network</a> previously updated its guidelines to include atezolizumab plus chemotherapy as a treatment option based on the ATOMIC findings. FDA approval establishes the regimen as an approved treatment for eligible patients in the U.S.</p>
+
+
+
+<p class="wp-block-paragraph">The <a href="https://www.cancer.gov/" target="_blank" rel="noreferrer noopener">National Cancer Institute</a> of the <a href="https://www.nih.gov/" target="_blank" rel="noreferrer noopener">National Institutes of Health</a> and Genentech funded the ATOMIC study. See the study in <a href="https://www.nejm.org/doi/abs/10.1056/NEJMoa2507874" target="_blank" rel="noreferrer noopener">The New England Journal of Medicine</a> for a complete list of authors, disclosures and funding.</p>
+
+
+
+<p class="wp-block-paragraph">###</p>
+
+
+
+<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Media contact: </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
+</ul>
+<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/fda-approves-immunotherapy-regimen-studied-by-mayo-clinic-for-stage-3-colon-cancer/">FDA approves immunotherapy regimen studied by Mayo Clinic for stage 3 colon cancer</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062_1x1.jpg</mayoclinic:mcimg1x1>
+<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/chemotherapy-drug-being-administered-intravenously-by-a-nurse-1552843_3779313_0062_16x9.jpg</mayoclinic:mcimg16x9>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Frank Sinicrope]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
+		<item>
 		<title>Mayo Clinic Minute: Seeing glioblastoma more clearly could improve how it’s treated</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-seeing-glioblastoma-more-clearly-could-improve-how-its-treated/
 		
@@ -21,14 +932,19 @@
 				<category><!--[CDATA[Cancer]]--></category>
 		<category><!--[CDATA[Featured News]]--></category>
 		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
+		<category><!--[CDATA[MC Video pkg]]--></category>
 		<category><!--[CDATA[Neurosciences]]--></category>
 		<category><!--[CDATA[Research]]--></category>
+		<category><!--[CDATA[Rochester]]--></category>
+		<category><!--[CDATA[Video]]--></category>
 		<category><!--[CDATA[#Newsapp]]--></category>
 		<category><!--[CDATA[brain cancer]]--></category>
 		<category><!--[CDATA[daily]]--></category>
 		<category><!--[CDATA[Dr. William Breen]]--></category>
 		<category><!--[CDATA[glioblastoma]]--></category>
 		<category><!--[CDATA[Glioblastoma imaging]]--></category>
+		<category><!--[CDATA[RDG]]--></category>
+		<category><!--[CDATA[RDGbraincns]]--></category>
 		<category><!--[CDATA[Social Sensations]]--></category>
 		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418253</guid>
 
@@ -57,7 +973,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe id="videoidhttpsyoutubehZRxBkr1Ds" title="Mayo Clinic Minute: Seeing glioblastoma more clearly could improve how it&amp;apos;s treated" width="500" height="281" src="https://www.youtube.com/embed/h-ZRxBkr1Ds?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubehZRxBkr1Ds" title="Mayo Clinic Minute: Seeing glioblastoma more clearly could improve how it&amp;apos;s treated" width="500" height="281" src="https://www.youtube.com/embed/h-ZRxBkr1Ds?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 </div></figure>
 
 
@@ -134,7 +1050,7 @@
 		
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/1x1-glioblastoma-imaging-Figure-Combined_edited.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-glioblastoma-imaging-Figure-Combined_edited.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[brain cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. William Breen]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[glioblastoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Glioblastoma imaging]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
+<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[brain cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Cancer]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. William Breen]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[glioblastoma]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Glioblastoma imaging]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[RDG]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[RDGbraincns]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
 		<item>
 		<title>High school student’s AI-powered cancer research leads to discovery at Mayo Clinic&nbsp;</title>
 		<link>https://newsnetwork.mayoclinic.org/discussion/high-school-students-ai-powered-cancer-research-leads-to-discovery-at-mayo-clinic/
@@ -160,7 +1076,7 @@
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/high-school-students-ai-powered-cancer-research-leads-to-discovery-at-mayo-clinic/">High school student’s AI-powered cancer research leads to discovery at Mayo Clinic&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-full"--><img fetchpriority="high" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited.jpg" alt="High school student Alan Alwakeel works alongside a Mayo Clinic researcher in a laboratory." class="wp-image-418355" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"><figcaption class="wp-element-caption">"Alan Alwakeel (left), SPARK scholar, works on research in the lab with a Mayo Clinic research scientist.</figcaption>
+<figure class="wp-block-image size-full"--><img loading="lazy" decoding="async" width="800" height="450" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited.jpg" alt="High school student Alan Alwakeel works alongside a Mayo Clinic researcher in a laboratory." class="wp-image-418355" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited.jpg 800w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/10/16x9-SPARK-NN-article-WF5474301_0007_edited-768x432.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"><figcaption class="wp-element-caption">"Alan Alwakeel (left), SPARK scholar, works on research in the lab with a Mayo Clinic research scientist.</figcaption>
 
 
 
@@ -295,7 +1211,7 @@
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-researchers-report-early-results-from-therapy-designed-for-a-single-patient-with-rare-genetic-form-of-als/">Mayo Clinic researchers report early results from therapy designed for a single patient with rare genetic form of ALS&nbsp;</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-1024x576.png" alt="Neuron cells system disease - 3d rendered image of Neuron cell network Hologram view on black background. Interconnected neurons cells with electrical pulses. Conceptual medical image. &nbsp;Glowing synapse." class="wp-image-417878" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1.png 1672w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
+<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-1024x576.png" alt="Neuron cells system disease - 3d rendered image of Neuron cell network Hologram view on black background. Interconnected neurons cells with electrical pulses. Conceptual medical image. &nbsp;Glowing synapse." class="wp-image-417878" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Oskarsson-Getty-Neuron-image-16x9-1.png 1672w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
 
 
 
@@ -426,7 +1342,7 @@
 <p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/distinct-gut-microbiome-patterns-found-in-5-cancer-groups-and-in-early-onset-cancers/">Distinct gut microbiome patterns found in 5 cancer groups and in early-onset cancers</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
 ]]></description>
 										<content:encoded><!--[CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f383b3&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f383b3" class="wp-block-image size-large wp-lightbox-container"--><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-1024x576.png" alt="Ruben Mars, Ph.D., works within an anaerobic chamber in the Microbiomics Program laboratory at Mayo Clinic." class="wp-image-417912" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd5525&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd5525" class="wp-block-image size-large wp-lightbox-container"--><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-1024x576.png" alt="Ruben Mars, Ph.D., works within an anaerobic chamber in the Microbiomics Program laboratory at Mayo Clinic." class="wp-image-417912" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/16x9-Oncobiome.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -450,8 +1366,8 @@
 
 
 
-<figure data-wp-context="{&quot;galleryId&quot;:&quot;6ac5377f3856a&quot;}" data-wp-interactive="core/gallery" class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f3888a&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f3888a" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="640" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417925" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-1024x640.jpg" alt="" class="wp-image-417925" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-1024x640.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-300x188.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-768x480.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-1536x960.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-2048x1280.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;galleryId&quot;:&quot;6ad4e64fd56d4&quot;}" data-wp-interactive="core/gallery" class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd5afb&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd5afb" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="640" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417925" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-1024x640.jpg" alt="" class="wp-image-417925" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-1024x640.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-300x188.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-768x480.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-1536x960.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-956351802-2048x1280.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -459,7 +1375,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f38c38&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f38c38" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="578" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417922" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-1024x578.jpg" alt="" class="wp-image-417922" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-1024x578.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-768x434.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-1536x867.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-2048x1157.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd5fd5&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd5fd5" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="578" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417922" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-1024x578.jpg" alt="" class="wp-image-417922" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-1024x578.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-768x434.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-1536x867.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2196575261-2048x1157.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -467,7 +1383,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f38fbd&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f38fbd" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417923" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-1024x576.jpg" alt="" class="wp-image-417923" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd645a&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd645a" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417923" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-1024x576.jpg" alt="" class="wp-image-417923" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1415123793-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -475,7 +1391,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f39350&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f39350" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417928" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-1024x576.jpg" alt="" class="wp-image-417928" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd689b&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd689b" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417928" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-1024x576.jpg" alt="" class="wp-image-417928" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-1296293867-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -483,7 +1399,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f396c1&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f396c1" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="667" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417930" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-1024x667.jpg" alt="" class="wp-image-417930" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-1024x667.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-300x195.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-768x500.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-1536x1000.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-2048x1333.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd6d60&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd6d60" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="667" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417930" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-1024x667.jpg" alt="" class="wp-image-417930" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-1024x667.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-300x195.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-768x500.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-1536x1000.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2251130095-2048x1333.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -491,7 +1407,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f39a23&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f39a23" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417931" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-1024x576.jpg" alt="" class="wp-image-417931" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd7196&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd7196" class="wp-block-image size-large wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="576" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" data-id="417931" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-1024x576.jpg" alt="" class="wp-image-417931" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-1024x576.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-300x169.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-768x432.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-1536x864.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/GettyImages-2152093042-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -548,7 +1464,7 @@
 
 
 <div class="wp-block-image is-style-left-align-caption">
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac5377f3a8f7&quot;}" data-wp-interactive="core/image" data-wp-key="6ac5377f3a8f7" class="alignleft size-large is-resized has-custom-border wp-lightbox-container"><img loading="lazy" decoding="async" width="683" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-683x1024.jpg" alt="Portrait of Dr. Purna Kashyap" class="wp-image-417915" style="border-style:none;border-width:0px;aspect-ratio:0.6669972838526567;width:336px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-1366x2048.jpg 1366w" sizes="auto, (max-width: 683px) 100vw, 683px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ad4e64fd7dfa&quot;}" data-wp-interactive="core/image" data-wp-key="6ad4e64fd7dfa" class="alignleft size-large is-resized has-custom-border wp-lightbox-container"><img loading="lazy" decoding="async" width="683" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-683x1024.jpg" alt="Portrait of Dr. Purna Kashyap" class="wp-image-417915" style="border-style:none;border-width:0px;aspect-ratio:0.6669972838526567;width:336px;height:auto" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-683x1024.jpg 683w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-200x300.jpg 200w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-768x1151.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-1025x1536.jpg 1025w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF4998388_0313-1-1366x2048.jpg 1366w" sizes="auto, (max-width: 683px) 100vw, 683px"><button class="lightbox-trigger" type="button" aria-haspopup="dialog" data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.thisImage.buttonRight" data-wp-style--top="state.thisImage.buttonTop">
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z"></path>
 			</svg>
@@ -568,7 +1484,7 @@
 
 
 
-<p class="wp-block-paragraph">"The microbiome is not the sole driver of cancer or treatment outcomes, but it is an underappreciated component that has not traditionally been considered in therapeutic approaches," says senior author <a href="https://www.mayo.edu/research/faculty/kashyap-purna-c-m-b-b-s/bio-00092735" target="_blank" rel="noreferrer noopener">Purna Kashyap, M.B.B.S.</a>, a <a href="https://www.mayoclinic.org/departments-centers/gastroenterology-hepatology-digestive-care/home/orc-20348202" data-type="link" data-id="https://www.mayoclinic.org/departments-centers/gastroenterology-hepatology-digestive-care/home/orc-20348202">gastroenterologist</a>, director of the Mayo Clinic Microbiome Program and Bernard and Edith Waterman Director, Microbiomics Program, <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine">Mayo Clinic Center for Individualized Medicine</a>.. "This gives us a proof of concept that we can begin to understand why some patients experience a particular side effect and identify a target that could potentially be acted upon."</p>
+<p class="wp-block-paragraph">"The microbiome is not the sole driver of cancer or treatment outcomes, but it is an underappreciated component that has not traditionally been considered in therapeutic approaches," says senior author <a href="https://www.mayo.edu/research/faculty/kashyap-purna-c-m-b-b-s/bio-00092735" target="_blank" rel="noreferrer noopener">Purna Kashyap, M.B.B.S.</a>, a <a href="https://www.mayoclinic.org/departments-centers/gastroenterology-hepatology-digestive-care/home/orc-20348202" data-type="link" data-id="https://www.mayoclinic.org/departments-centers/gastroenterology-hepatology-digestive-care/home/orc-20348202">gastroenterologist</a>, director of the Mayo Clinic Microbiome Program and Bernard and Edith Waterman Director, Microbiomics Program, <a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine">Mayo Clinic Center for Individualized Medicine</a>. "This gives us a proof of concept that we can begin to understand why some patients experience a particular side effect and identify a target that could potentially be acted upon."</p>
 
 
 
@@ -740,512 +1656,5 @@
 		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/1428448_3641186_0001_1x1.jpg</mayoclinic:mcimg1x1>
 <mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/1428448_3641186_0001_16x9.jpg</mayoclinic:mcimg16x9>
 <mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Paul Brown]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Robert Mutter]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mayo Clinic experts present radiation oncology research at ASTRO 2026</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-present-radiation-oncology-research-at-astro-2026/
-		
-		<dc:creator><!--[CDATA[brittanycordeiro]]--></dc:creator>
-		<pubdate>Fri, 25 Sep 2026 21:00:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418166</guid>
-
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers will present findings on emerging technologies, precision treatments and new radiation therapy techniques at the 2026 American Society for Radiation Oncology (ASTRO) Annual Meeting, Sept. 26–30 in Boston. Mayo Clinic experts will participate in nearly 65 poster, education, quick-pitch, scientific, oral, plenary and presidential sessions and present 45 abstracts. […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-present-radiation-oncology-research-at-astro-2026/">Mayo Clinic experts present radiation oncology research at ASTRO 2026</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714-1024x683.jpg" alt="A woman lies down while receiving radiation therapy for cancer treatment." class="wp-image-418202" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
-
-
-
-<p class="wp-block-paragraph">ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers will present findings on emerging technologies, precision treatments and new radiation therapy techniques at the <a href="https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting" target="_blank" rel="noreferrer noopener">2026 American Society for Radiation Oncology (ASTRO) Annual Meeting</a>, Sept. 26–30 in Boston.</p>
-
-
-
-<p class="wp-block-paragraph">Mayo Clinic experts will participate in nearly 65 poster, education, quick-pitch, scientific, oral, plenary and presidential sessions and present 45 abstracts. Their presentations will cover topics ranging from artificial intelligence (AI) and advanced technologies in radiation therapy to clinical outcomes of precision treatments and novel techniques.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Meeting highlights include:</strong></p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/ps-02-22678" target="_blank" rel="noreferrer noopener"><strong>Presidential Symposium</strong></a><strong>:</strong> Data to Dialogue: Communicating Radiotherapy's Value to Advance Care - Session II: Challenges and Opportunities in Scientific Knowledge Creation and Dissemination<br><strong>Presentation time</strong>: Sunday, Sept. 27, 9:49–9:53 a.m. EDT<br><strong>Description:</strong> This session will explore how today's science and healthcare information will be disseminated tomorrow, and look at the roles of journals, websites, online platforms and AI-powered content.<br><strong>Panelist:</strong> <a href="https://www.mayo.edu/research/faculty/halamka-john-d-m-d-m-s/bio-20542748" target="_blank" rel="noreferrer noopener">John D. Halamka, M.D.</a>, Dwight and Dian Diercks president, Mayo Clinic Platform</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/ct-01-22948/stereotactic-body-radiation-therapy-sbrt-and-comprehensive-metastasis-directed-therapy-for-ew-113323" target="_blank" rel="noreferrer noopener"><strong>Scientific Session</strong></a><strong>:</strong> Clinical Trials Session<br><strong>Presentation time:</strong> Sunday, Sept. 27, 2:10–2:20 p.m. EDT<br><strong>Presentation title:</strong> Stereotactic Body Radiation Therapy (SBRT) and Comprehensive Metastasis-Directed Therapy for Ewing Sarcoma Patients Enrolled on AEWS1221: A Report from the Children's Oncology Group (COG)<br><strong>Description:</strong> The study examines the feasibility and safety of SBRT and comprehensive metastasis-directed therapy for patients with metastatic Ewing sarcoma. Researchers report the highest event-free survival to date in cooperative-group trials of metastatic Ewing sarcoma.<br><strong>Presenter:</strong> <a href="https://www.mayoclinic.org/biographies/laack-nadia-n-m-d/bio-20054933?mc_id=us&amp;geo=national&amp;placementsite=enterprise&amp;cauid=102834" target="_blank" rel="noreferrer noopener">Nadia Laack, M.D.</a>, radiation oncologist, <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> in Rochester</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/edu-01-22759/ai-driven-automation-in-pelvic-radiation-therapy-from-contouring-to-plan-optimization-110331" target="_blank" rel="noreferrer noopener"><strong>Education Session</strong></a><strong>:</strong> Artificial Intelligence, Robotics and Emerging Technologies in Gynecologic Radiation Oncology: From Automation to Precision Delivery<br><strong>Presentation time:</strong> Sunday, Sept. 27, 3:02–3:17 p.m. EDT<br><strong>Presentation title:</strong> AI-Driven Automation in Pelvic Radiation Therapy: From Contouring to Plan Optimization<br><strong>Description:</strong> The presentation explores prediction-guided care, including the use of artificial intelligence to identify each patient's risk of side effects and help physicians make more personalized treatment decisions.<br><strong>Presenter:</strong> <a href="https://amportal.astro.org/andres-portocarrero-bonifaz-phd-ms-135268440" target="_blank" rel="noreferrer noopener">Andres Portocarrero Bonifaz, Ph.D.</a>, radiation oncology medical physicist, Mayo Clinic in Florida</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/qp-06-22843/patterns-of-failure-after-18f-dopa-pet-and-mri-guided-hypofractionated-proton-therapy-in-olde-110897" target="_blank" rel="noreferrer noopener"><strong>Quick Pitch</strong></a><strong>:</strong> Neurocognition and Novel Therapies in Glioma<br><strong>Presentation time:</strong> Monday, Sept. 28, 8:25–8:30 a.m. EDT<br><strong>Presentation title:</strong> Patterns of Failure After 18F-DOPA PET and MRI–Guided Hypofractionated Proton Therapy in Older Adults with Glioblastoma<br><strong>Description:</strong> Researchers will present patterns of radiographic failure at the first progression of glioblastoma in older adults treated with hypofractionated proton therapy guided by 18F-DOPA PET and MRI.<br><strong>Presenter:</strong> <a href="https://www.mayoclinic.org/biographies/santos-toesca-diego-m-d/bio-20608242" target="_blank" rel="noreferrer noopener">Diego Santos Toesca, M.D.</a>, radiation oncologist, Mayo Clinic in Arizona</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/edu-17-22768/delivering-minibeam-radiotherapy-clinical-workflow-and-translational-insights-110387" target="_blank" rel="noreferrer noopener"><strong>Education Session</strong></a><strong>:</strong> Spatially Fractionated Radiation Therapy (SFRT): Biological Mechanisms and Clinical Translation<br><strong>Presentation time:</strong> Monday, Sept. 28, 8:32–8:47 a.m. EDT<br><strong>Presentation title:</strong> Delivering Minibeam Radiotherapy: Clinical Workflow and Translational Insights<br><strong>Description:</strong> The presentation will share results from Mayo Clinic's first-in-human clinical translation of minibeam radiotherapy. <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-first-to-study-minibeam-radiotherapy-in-patients-with-difficult-to-treat-cancers/" target="_blank" rel="noreferrer noopener">Read the news release</a>.<br><strong>Presenter:</strong> <a href="https://www.mayoclinic.org/biographies/grams-michael-p-ph-d/bio-20232430" target="_blank" rel="noreferrer noopener">Michael Grams, Ph.D.</a>,&nbsp; radiation oncology medical physicist, Mayo Clinic Comprehensive Cancer Center in Rochester</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/ss-18-22867/comparative-prognostic-value-of-disease-specific-patient-reported-outcomes-in-prostate-cancer-111079" target="_blank" rel="noreferrer noopener"><strong>Oral Session</strong></a><strong>:</strong> Patient Reported Outcomes/QoL/Survivorship<br><strong>Presentation time:</strong> Monday, Sept. 28, 8:32–8:47 a.m. EDT<br><strong>Presentation title:</strong> Comparative Prognostic Value of Disease Specific Patient Reported Outcomes in Prostate Cancer<br><strong>Description:</strong> The study compares how well patient-reported outcome measures predict overall survival, with the goal of informing evidence-based selection of these measures in prostate cancer.<br><strong>Presenter:</strong> <a href="https://www.mayo.edu/research/faculty/lee-minji-k-ph-d-m-s/bio-20522953" target="_blank" rel="noreferrer noopener">Minji Lee, Ph.D.</a>, scientist in radiation oncology, Mayo Clinic in Rochester</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/ss-22-22854/safety-of-maintenance-pembrolizumab-pembro-and-concurrent-radiotherapy-rt-in-pediatric-partic-110987" target="_blank" rel="noreferrer noopener"><strong>Scientific Session</strong></a><strong>:</strong> Some crHEME with Your Coffee? A Winning Blend of Radiation and Systemic Therapy in Hematologic Malignancies<br><strong>Presentation time:</strong> Monday, Sept. 28, 11:15–11:25 a.m. EDT<br><strong>Presentation title:</strong> Safety of Maintenance Pembrolizumab (Pembro) and Concurrent Radiotherapy (RT) in Pediatric Participants with Classic Hodgkin Lymphoma (cHL) and Slow Early Response (SER) to Front-Line Chemotherapy (Chemo): Post Hoc Analysis of the KEYNOTE-667 Study<br><strong>Description:</strong> Researchers evaluated the safety of concurrent immunotherapy and radiation therapy in pediatric patients with Hodgkin lymphoma who were treated as part of a chemo-immunotherapy study.<br><strong>Presenter:</strong> <a href="https://www.mayoclinic.org/biographies/hoppe-brad-s-m-d-m-p-h/bio-20471601" target="_blank" rel="noreferrer noopener">Brad Hoppe, M.D.</a>, radiation oncologist, Mayo Clinic Comprehensive Cancer Center in Florida</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/pl-01-22946/alliance-a071801-phase-iii-trial-postoperative-single-fraction-stereotactic-radiosurgery-srs-114060" target="_blank" rel="noreferrer noopener"><strong>Plenary Session</strong></a><br><strong>Presentation time:</strong> Monday, Sept. 28, 2:04–2:13 p.m. EDT<br><strong>Presentation title:</strong> Alliance A071801 Phase III Trial Postoperative Single Fraction Stereotactic Radiosurgery (SRS) vs. Fractionated SRS (fSRS) for Resected Brain Metastasis<br><strong>Description:</strong> Researchers report findings from a randomized trial comparing fSRS with single-fraction SRS for resected brain metastases.<br><strong>Principal investigator:</strong> <a href="https://www.mayoclinic.org/biographies/brown-paul-d-m-d/bio-20235678" target="_blank" rel="noreferrer noopener">Paul D. Brown, M.D.</a>, radiation oncologist, Mayo Clinic Comprehensive Cancer Center in Rochester</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/ss-30-22896/first-report-from-the-headlight-trials-postoperative-hypofractionated-proton-therapy-for-head-112355" target="_blank" rel="noreferrer noopener"><strong>Scientific Session</strong></a><strong>:</strong> Optimizing Therapy, Toxicity, and Supportive Care in Head and Neck Cancers<br><strong>Presentation time:</strong> Tuesday, Sept. 29, 12:57–1:06 p.m. EDT<br><strong>Presentation title:</strong> First Report from the Headlight Trials: Postoperative Hypofractionated Proton Therapy for Head and Neck Cancers Unrelated to HPV<br><strong>Description:</strong> Researchers will report results from clinical trials evaluating a shorter course of proton therapy for head and neck cancer.<br><strong>Presenter:</strong> <a href="https://www.mayoclinic.org/biographies/lester-scott-c-m-d/bio-20473427" target="_blank" rel="noreferrer noopener">Scott Lester, M.D.</a>, radiation oncologist, Mayo Clinic Comprehensive Cancer Center in Rochester</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://amportal.astro.org/sessions/ss-34-22925/personalizing-psa-follow-up-after-prostate-radiation-therapy-developing-a-patient-specific-ai-113005" target="_blank" rel="noreferrer noopener"><strong>Scientific Session</strong></a><strong>:</strong> The Automated Clinic: AI-Powered Contouring, Monitoring, and Data Extraction<br><strong>Presentation time:</strong> Tuesday, Sept. 29, 2:25–3:35 p.m. EDT<br><strong>Presentation title:</strong> Personalizing PSA Follow-Up after Prostate Radiation Therapy: Developing a Patient-Specific AI-Powered Predictive Model for Clinically Meaningful Recurrence<br><strong>Description:</strong> Researchers developed a machine-learning model that uses patient-specific clinical data and prostate-specific antigen kinetics to predict prostate cancer recurrence after definitive radiation therapy.<br><strong>Presenter:</strong> <a href="https://amportal.astro.org/mariana-borras-osorio-md-135369053" target="_blank" rel="noreferrer noopener">Mariana Borras-Osorio, M.D.</a>, research fellow in radiation oncology, Mayo Clinic in Rochester</p>
-
-
-
-<p class="wp-block-paragraph">Learn more about <a href="https://amportal.astro.org/" target="_blank" rel="noreferrer noopener">ASTRO 2026</a>.</p>
-
-
-
-<p class="wp-block-paragraph">###</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_content=content&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic Comprehensive Cancer Center</strong><br>Designated as a comprehensive cancer center by the National Cancer Institute, <a href="https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center?mc_id=us&amp;utm_source=newsnetwork&amp;utm_medium=l&amp;utm_campaign=mayoclinic&amp;geo=national&amp;placementsite=enterprise&amp;invsrc=other&amp;cauid=100721" target="_blank" rel="noreferrer noopener">Mayo Clinic Comprehensive Cancer Center</a> is defining the cancer center of the future, focused on delivering the world's most exceptional patient-centered cancer care for everyone. At Mayo Clinic Comprehensive Cancer Center, a culture of innovation and collaboration is driving research breakthroughs in cancer detection, prevention and treatment to change lives.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Media contact</strong>: </p>
-
-
-
-<ul class="wp-block-list">
-<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-experts-present-radiation-oncology-research-at-astro-2026/">Mayo Clinic experts present radiation oncology research at ASTRO 2026</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714_1x1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/A-woman-lies-down-while-receiving-radiation-therapy-for-cancer-treatment-GettyImages-613327714_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Mayo Clinic Minute: Leukemia isn’t like other cancers (VIDEO)</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-leukemia-isnt-like-other-cancers-video/
-		
-		<dc:creator><!--[CDATA[allisonduran]]--></dc:creator>
-		<pubdate>Wed, 23 Sep 2026 16:02:29 +0000</pubdate>
-				<category><!--[CDATA[Arizona]]--></category>
-		<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Mayo Clinic Minute]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Video]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. CECILIA ARANA YI]]--></category>
-		<category><!--[CDATA[leukemia]]--></category>
-		<category><!--[CDATA[Social Sensations]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418074</guid>
-
-					<description><!--[CDATA[<p-->September is Blood Cancer Awareness Month. This year alone, nearly 68,000 people in the U.S. will be diagnosed with leukemia. Mayo Clinic hematologist and oncologist Dr. Cecilia Arana Yi says treatment is changing, and it's giving patients more options. Watch: the Mayo Clinic Minute Journalists: Broadcast-quality video (1:09) is in the downloads at the end […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-leukemia-isnt-like-other-cancers-video/">Mayo Clinic Minute: Leukemia isn’t like other cancers (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<p class="wp-block-paragraph"-->September is Blood Cancer Awareness Month. This year alone, nearly 68,000 people in the U.S. will be diagnosed with <a href="https://www.mayoclinic.org/diseases-conditions/leukemia/symptoms-causes/syc-20374373" target="_blank" rel="noreferrer noopener">leukemia</a>. Mayo Clinic hematologist and oncologist <a href="https://www.mayoclinic.org/biographies/arana-yi-cecilia-y-m-d/bio-20492154" target="_blank" rel="noreferrer noopener">Dr. Cecilia Arana Yi</a> says treatment is changing, and it's giving patients more options.<p></p>
-
-
-
-<p class="wp-block-paragraph"><strong><a href="https://youtu.be/TOZ2bplBhbc" target="_blank" rel="noreferrer noopener">Watch: the Mayo Clinic Minute</a></strong></p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="fluidEmbed"><iframe loading="lazy" id="videoidhttpsyoutubeTOZ2bplBhbc" title="Mayo Clinic Minute - Leukemia isn&amp;apos;t like other cancers" width="500" height="281" src="https://www.youtube.com/embed/TOZ2bplBhbc?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-</div></figure>
-
-
-
-<p class="wp-block-paragraph"><strong>Journalists: Broadcast-quality video (1:09) is in the downloads at the end of this post. Please courtesy: "Mayo Clinic News Network." Read th</strong>e <strong><a href="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/MCM-Leukemia-Script.pdf" target="_blank" rel="noreferrer noopener">script</a></strong>.</p>
-
-
-
-<p class="wp-block-paragraph">Unlike many cancers that form solid tumors, leukemia is a cancer of the blood-forming cells in the bone marrow.</p>
-
-
-
-<p class="wp-block-paragraph">Dr. Arana Yi says, "Leukemia affects the production of the blood cells and can circulate through all the body from the beginning."&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">Leukemia isn't a single disease. There are several <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-why-leukemia-type-matters-for-treatment-decisions/" target="_blank" rel="noopener">types</a> that can behave differently. According to Dr. Arana Yi, "It is a group of cancers with different subtypes. Some develop very quickly, while others progress slowly."&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/12/16x9-blood3-1024x576.png" alt="" class="wp-image-414796" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/12/16x9-blood3-1024x576.png 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/12/16x9-blood3-300x169.png 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/12/16x9-blood3-768x432.png 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/12/16x9-blood3-1536x864.png 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/12/16x9-blood3.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
-
-
-
-<p class="wp-block-paragraph">Leukemia can affect people of all ages. Symptoms can include persistent fatigue, unusual bruising or bleeding, frequent infections, fever, night sweats, unexplained weight loss and shortness of breath.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">"If those are persistent, it is important to review and be evaluated by a doctor for a possibility of a blood count checkup," Dr. Arana Yi mentions.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">Research is helping doctors identify genetic changes that may be driving a patient's leukemia. That information can help guide <a href="https://www.mayoclinic.org/diseases-conditions/leukemia/care-at-mayo-clinic/mac-20374384" target="_blank" rel="noopener">treatment</a>.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">Dr. Arana Yi says, "This allows us to use targeted medicines, immune-based therapies, sometimes with less traditional chemotherapy or chemo-free regimen."&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">Recognizing possible symptoms and seeking medical evaluation can help doctors diagnose leukemia and determine appropriate treatment.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">"Recognizing symptoms since the beginning, and early evaluation with the doctors is key to diagnose the acute leukemia as soon as possible," Dr. Arana Yi concludes.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph"></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-leukemia-isnt-like-other-cancers-video/">Mayo Clinic Minute: Leukemia isn’t like other cancers (VIDEO)</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/1x1-leukemia.png</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2025/06/16x9leukemia.png</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. CECILIA ARANA YI]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[leukemia]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Mayo Clinic Minute]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Social Sensations]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Multicancer blood test detects 17 cancer types in large prospective study</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/multicancer-blood-test-detects-17-cancer-types-in-large-prospective-study/
-		
-		<dc:creator><!--[CDATA[jftmayo]]--></dc:creator>
-		<pubdate>Tue, 22 Sep 2026 21:30:56 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Karthik Giridhar]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=418111</guid>
-
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — A large prospective study published today in Nature Medicine found that a blood test designed to detect multiple cancers identified cancer signals across 17 broad cancer types, such as ovarian, lung, breast and colorectal cancers, and many which do not have recommended screening tests. Mayo Clinic was among the institutions participating in […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/multicancer-blood-test-detects-17-cancer-types-in-large-prospective-study/">Multicancer blood test detects 17 cancer types in large prospective study</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="690" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728-1024x690.jpg" alt="laboratory worker holding a tube with blood samples for testing" class="wp-image-418113" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728-1024x690.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728-300x202.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728-768x517.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728-1536x1035.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728.jpg 1670w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Getty Images</figcaption>
-
-
-
-<p class="wp-block-paragraph">ROCHESTER, Minn. — A large prospective study <a href="https://www.nature.com/articles/s41591-026-04618-w" target="_blank" rel="noreferrer noopener">published</a> today in Nature Medicine found that a blood test designed to detect multiple cancers identified cancer signals across 17 broad cancer types, such as ovarian, lung, breast and colorectal cancers, and many which do not have recommended screening tests.</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> was among the institutions participating in the prospective, interventional study, which enrolled 35,878 adults age 50 and older. <a href="https://www.mayoclinic.org/biographies/giridhar-karthik-v-m-d/bio-20453451" target="_blank" rel="noreferrer noopener">Karthik Giridhar, M.D.</a>, a Mayo Clinic medical oncologist, was a study investigator and senior author.</p>
-
-
-
-<p class="wp-block-paragraph">The multicancer early detection (MCED) test analyzes small fragments of DNA that cells release into the bloodstream. Researchers use patterns in these fragments to detect signals associated with cancer. When a cancer signal is detected, the test also predicts the likely location of the cancer to help physicians determine appropriate follow-up testing.</p>
-
-
-
-<p class="wp-block-paragraph">Among 32,007 participants included in the study's performance analysis, 287 had a positive MCED test result. Cancer was diagnosed in 173 of those participants. The test had a positive predictive value of 60.3% and specificity of 99.64%. Among participants with a true-positive result, the test correctly predicted one of the two most likely cancer signal origins in 91.3% of cases.</p>
-
-
-
-<p class="wp-block-paragraph">"One of the challenges in cancer screening is that most cancers do not have an established screening test," says Dr. Giridhar. "This study helps us better understand how a multicancer blood test might complement existing screening approaches by identifying cancer signals that otherwise may not be detected through routine screening."</p>
-
-
-
-<p class="wp-block-paragraph">Researchers found that 72.8% of cancers detected by the MCED test were cancer types without U.S. Preventive Services Task Force grade A or B screening recommendations. Among the 151 participants with at least one newly diagnosed primary cancer detected by the test, 53% had stage 1 or 2 disease and 70.9% had stage 1, 2 or 3 disease.</p>
-
-
-
-<p class="wp-block-paragraph">Giridhar also notes that these tests are not yet a substitute for established cancer screenings. Instead, they may supplement existing screening approaches and help expand understanding of cancer detection.</p>
-
-
-
-<p class="wp-block-paragraph">PATHFINDER 2 was a single-arm study, and its endpoints were descriptive, with no comparator group or formal hypothesis testing. The authors say randomized trials and further follow-up are needed to determine the clinical utility of MCED testing in routine clinical practice. The study also used an earlier version of the test that has since been replaced by a commercially available version.</p>
-
-
-
-<p class="wp-block-paragraph">The study was designed and funded by GRAIL Inc., which also participated in data analysis and interpretation and preparation of the manuscript. Dr. Giridhar reports consulting and advisory relationships with GRAIL and other organizations and travel expenses from GRAIL. A complete list of author disclosures is included in the published <a href="https://www.nature.com/articles/s41591-026-04618-w" target="_blank" rel="noreferrer noopener">study</a>.</p>
-
-
-
-<p class="wp-block-paragraph">###</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Media contact:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/multicancer-blood-test-detects-17-cancer-types-in-large-prospective-study/">Multicancer blood test detects 17 cancer types in large prospective study</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728_1x1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/laboratory-worker-holding-a-tube-with-blood-samples-for-testing-GettyImages-1458016728_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Karthik Giridhar]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Precure, LLC selects Helix as multi-omics lab and AI tools provider</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/precure-llc-selects-helix-as-multi-omics-lab-and-ai-tools-provider/
-		
-		<dc:creator><!--[CDATA[Tom Millikin]]--></dc:creator>
-		<pubdate>Mon, 21 Sep 2026 13:15:00 +0000</pubdate>
-				<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Individualized Medicine]]--></category>
-		<category><!--[CDATA[Medical Innovation]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417944</guid>
-
-					<description><!--[CDATA[<p-->Helix to generate clinical whole genome sequencing and multi-omics data from one million biospecimens, advancing precision medicine as the standard of care ROCHESTER, Minn. and SAN MATEO, Calif. — Precure, LLC today announced the selection of Helix as its multi-omic laboratory and AI tools provider supporting plans to generate comprehensive molecular data from approximately one […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/precure-llc-selects-helix-as-multi-omics-lab-and-ai-tools-provider/">Precure, LLC selects Helix as multi-omics lab and AI tools provider</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="682" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049-1024x682.jpg" alt="Research Technologist preparing samples for genome sequencing" class="wp-image-417948" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049-1024x682.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049.jpg 1688w" sizes="auto, (max-width: 1024px) 100vw, 1024px">
-
-
-
-<p class="wp-block-paragraph"><em>Helix to generate clinical whole genome sequencing and multi-omics data from one million biospecimens, advancing precision medicine as the standard of care</em></p>
-
-
-
-<p class="wp-block-paragraph">ROCHESTER, Minn. and SAN MATEO, Calif. — Precure, LLC today announced the selection of Helix as its multi-omic laboratory and AI tools provider supporting plans to generate comprehensive molecular data from approximately one million biospecimens and accelerate the integration of molecular insights into routine clinical care at Mayo Clinic and across health systems more broadly.</p>
-
-
-
-<p class="wp-block-paragraph">Less than a week ago, Mayo Clinic announced the launch of Precure, LLC, with founding partner Thermo Fisher Scientific, to help transform how the life sciences community understands the biological changes that occur as disease develops before symptoms occur. Precure, LLC brings together clinical expertise, de-identified longitudinal health information and population-scale molecular data to accelerate the development of new approaches to care.</p>
-
-
-
-<p class="wp-block-paragraph">Helix will provide both advanced AI tools for delivery of genomics into the clinic and biomarker driven research, and population scale multi-omic capability that encompasses clinical whole genome sequencing (WGS) and research grade proteome sequencing. Linked with longitudinal clinical information and high performance compute infrastructure, the objective is to create new opportunities for prevention, diagnosis and treatment.</p>
-
-
-
-<p class="wp-block-paragraph">“Our goal is to generate genomic information that can help inform patient care while creating a powerful resource for discovery,” said Aaron Mangold, M.D., chief medical officer, Precure, LLC. “We are working to make clinical whole genome sequencing and multi-omics a foundation of care, helping us detect disease sooner and act earlier.”</p>
-
-
-
-<p class="wp-block-paragraph">Building on prior work which utilized Helix’s Exome+ <sup>®</sup> sequencing technology, Precure, LLC extends that collaboration by leveraging Helix's experience providing workflow orchestration, (CLIA/CAP) genomic sequencing, data infrastructure, and AI tools to its health system partners. Precure, LLC and Helix have selected Ultima Genomics’ UG200™ Ultra Sequencing Platform as part of the program’s large-scale multi-omics initiative. Helix will use a fleet of Ultima’s next-generation platforms to generate high-quality genomic data for WGS and read-out for proteomics at scale.</p>
-
-
-
-<p class="wp-block-paragraph">“The genome is becoming an enduring patient resource, providing a precision baseline for a lifetime of care,” said James Lu, M.D., Ph.D., CEO of Helix. “Helix brings together the laboratory and data capabilities to make this possible at scale.”</p>
-
-
-
-<p class="wp-block-paragraph">Mayo Clinic's involvement in Precure, LLC is intended to advance its nonprofit mission. Any financial returns to Mayo Clinic would be reinvested in its mission of patient care, research and education. Visit <a href="https://www.mayo.edu/research/precure" target="_blank" rel="noreferrer noopener">mayo.edu/research/precure</a> for more information.</p>
-
-
-
-<p class="wp-block-paragraph">###</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Precure, LLC</strong> <br>Precure, LLC is a Mayo Clinic-controlled company established to generate and responsibly integrate population-scale molecular data with longitudinal clinical information. Precure, LLC creates the infrastructure and scale needed to enable external collaborations, disease-focused discovery and the development of new diagnostics, therapeutics and other healthcare solutions. It complements Mayo Clinic’s investigator-led research and clinical translation activities.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong> <br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the<a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">&nbsp;Mayo Clinic News Network</a>&nbsp;for&nbsp;additional&nbsp;Mayo Clinic news.&nbsp;&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Helix</strong> <br>Helix is an enterprise genomics company connecting clinical care and discovery. Its platform brings together clinical sequencing, integration of genomic information into healthcare, and research tools built on linked genomic and longitudinal clinical data. Through its health system partnerships, the Helix Research Network and GenoSphere, Helix helps healthcare and life sciences organizations apply genomics to patient care and the development of new diagnostics and treatments. Learn more at <a href="http://www.helix.com" target="_blank" rel="noreferrer noopener">www.helix.com</a>.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Media contacts</strong>:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Tom Millikin, Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-
-
-
-<li>Caty Reid, Helix, <a href="mailto:helix@highwirepr.com">helix@highwirepr.com</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/precure-llc-selects-helix-as-multi-omics-lab-and-ai-tools-provider/">Precure, LLC selects Helix as multi-omics lab and AI tools provider</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049_1x1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/Research-Technologist-preparing-samples-for-genome-sequencing-WF3079730_0049_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
-		<item>
-		<title>Study shows reprogramming thyroid tumors may improve CAR-T cell therapy</title>
-		<link>https://newsnetwork.mayoclinic.org/discussion/study-shows-reprogramming-thyroid-tumors-may-improve-car-t-cell-therapy/
-		
-		<dc:creator><!--[CDATA[jftmayo]]--></dc:creator>
-		<pubdate>Fri, 18 Sep 2026 10:32:00 +0000</pubdate>
-				<category><!--[CDATA[Cancer]]--></category>
-		<category><!--[CDATA[Featured News]]--></category>
-		<category><!--[CDATA[Minnesota]]--></category>
-		<category><!--[CDATA[News Releases]]--></category>
-		<category><!--[CDATA[Research]]--></category>
-		<category><!--[CDATA[#Newsapp]]--></category>
-		<category><!--[CDATA[daily]]--></category>
-		<category><!--[CDATA[Dr. Claudia Manriquez Roman]]--></category>
-		<category><!--[CDATA[Dr. John Copland]]--></category>
-		<category><!--[CDATA[Dr. Saad Kenderian]]--></category>
-		<category><!--[CDATA[Minnesota News Releases]]--></category>
-		<guid ispermalink="false">https://newsnetwork.mayoclinic.org/?p=417896</guid>
-
-					<description><!--[CDATA[<p-->ROCHESTER, Minn. — Mayo Clinic researchers have identified a strategy that could help chimeric antigen receptor-T cell therapy, or CAR-T cell therapy, overcome a major barrier to treating solid tumors: Cancer cells can change in ways that allow them to hide from immune cells designed to attack them. In a preclinical study published in Molecular […]<p></p>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/study-shows-reprogramming-thyroid-tumors-may-improve-car-t-cell-therapy/">Study shows reprogramming thyroid tumors may improve CAR-T cell therapy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></description>
-										<content:encoded><!--[CDATA[
-<figure class="wp-block-image size-large"--><img loading="lazy" decoding="async" width="1024" height="683" src="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003-1024x683.jpg" alt="Saad Kenderian, M.B., Ch.B., uses a multi-channel pipette in the Chimeric Antigen Receptor (CAR) T Cell Engineering Laboratory." class="wp-image-417900" srcset="https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003-1024x683.jpg 1024w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003-300x200.jpg 300w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003-768x512.jpg 768w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003-1536x1024.jpg 1536w, https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003.jpg 1687w" sizes="auto, (max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Saad Kenderian, M.B., Ch.B., uses a multi-channel pipette in the CAR-T Cell Engineering Laboratory.</figcaption>
-
-
-
-<p class="wp-block-paragraph">ROCHESTER, Minn. — <a href="https://www.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> researchers have identified a strategy that could help chimeric antigen receptor-T cell therapy, or <a href="https://www.mayoclinic.org/tests-procedures/car-t-cell-therapy/about/pac-20585020" target="_blank" rel="noreferrer noopener">CAR-T cell therapy</a>, overcome a major barrier to treating solid tumors: Cancer cells can change in ways that allow them to hide from immune cells designed to attack them.</p>
-
-
-
-<p class="wp-block-paragraph">In a preclinical study <a href="https://link.springer.com/article/10.1186/s12943-026-02744-0" target="_blank" rel="noreferrer noopener">published</a> in Molecular Cancer, researchers found that drugs used to treat advanced <a href="https://www.mayoclinic.org/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161" target="_blank" rel="noreferrer noopener">thyroid cancer</a> can restore a marker on aggressive thyroid cancer cells, making the cancer visible again to specially engineered CAR-T cells. Combining the drugs with CAR-T cell therapy resulted in better tumor control and survival in preclinical models than either approach alone.</p>
-
-
-
-<p class="wp-block-paragraph">Rather than further modifying CAR-T cells to recognize cancers that have lost their targets, researchers sought to change the tumor so the target reappears.</p>
-
-
-
-<p class="wp-block-paragraph">"We often think about engineering the immune cell to overcome resistance," says co-senior author <a href="https://www.mayo.edu/research/faculty/kenderian-saad-j-m-b-ch-b/bio-20206512" target="_blank" rel="noreferrer noopener">Saad Kenderian, M.B., Ch.B.</a>, a hematologist and oncologist at Mayo Clinic in Minnesota. "This work shows another possibility."</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Making an aggressive cancer visible again</strong></h2>
-
-
-
-<p class="wp-block-paragraph">CAR-T cell therapy engineers T cells — immune cells that help protect the body from disease — to recognize a specific target, or antigen, on cancer cells. The approach has transformed treatment for some <a href="https://mcpress.mayoclinic.org/cancer/understanding-car-t-cell-therapy-for-cancer-a-promising-less-arduous-cancer-treatment/" target="_blank" rel="noreferrer noopener">blood cancers</a> but has been less successful against solid tumors.</p>
-
-
-
-<p class="wp-block-paragraph">One reason is that solid tumors can lose or reduce the antigens CAR-T cells are designed to recognize, making it more difficult for the engineered cells to identify and destroy the cancer.</p>
-
-
-
-<p class="wp-block-paragraph">The Mayo Clinic team focused on the thyroid-stimulating hormone receptor (TSHR), a protein found primarily on thyroid cells. CAR-T cells targeting this receptor showed strong antitumor activity against thyroid cancers with high TSHR levels. Their effectiveness was more limited against anaplastic thyroid cancer, the most aggressive form of the disease with low or no TSHR expression.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Turning the target back on</strong></h2>
-
-
-
-<p class="wp-block-paragraph">Researchers investigated whether they could restore TSHR through a process known as redifferentiation, in which aggressive cancer cells regain some of the biological features they had lost.</p>
-
-
-
-<p class="wp-block-paragraph">They used drugs that inhibit the mitogen activated protein kinase (MAPK) signaling pathway, including trametinib and dabrafenib, which are approved to treat advanced thyroid cancer.</p>
-
-
-
-<p class="wp-block-paragraph">In patient-derived models of anaplastic thyroid cancer, MAPK inhibition increased TSHR expression on tumor cells. When researchers combined the drugs with TSHR-targeted CAR-T cells, the combination produced stronger tumor control and survival than either treatment alone.</p>
-
-
-
-<p class="wp-block-paragraph">"One of the key discoveries from our work is that antigen density matters. We showed that restoring TSHR expression with combination therapy can sensitize aggressive thyroid tumors to CAR-T cell attack, effectively turning a suboptimal target into a more vulnerable one. This approach may provide a new framework for enhancing CAR-T therapies across solid tumors where target expression is limited," says co-first author <a href="https://mayomagazine.mayoclinic.org/2024/02/researcher-spotlight-claudia-manriquez-roman-ph-d-m-s/" target="_blank" rel="noreferrer noopener">Claudia Manriquez Roman, Ph.D.</a>, process development engineer at Mayo Clinic in Minnesota.</p>
-
-
-
-<p class="wp-block-paragraph">Researchers also found that the MAPK inhibitors did not appear to interfere with the CAR-T cells' ability to multiply or attack cancer cells. Instead, the drugs created a temporary window in which &nbsp;the CAR-T cells could target cancer cells that had previously escaped detection.</p>
-
-
-
-<p class="wp-block-paragraph">TSHR expression declined after MAPK inhibitor treatment stopped, but two weeks of concurrent treatment was sufficient to improve CAR-T cell activity in the preclinical models.</p>
-
-
-
-<p class="wp-block-paragraph">"What’s exciting about this approach is that we're taking advantage of the cancer cell's own biology to restore TSHR expression by blocking MAPK signaling with molecular targeted drugs," says co-senior author <a href="https://www.mayo.edu/research/faculty/copland-john-a-iii-ph-d/bio-00028205" target="_blank" rel="noreferrer noopener">John Copland III, Ph.D.</a>, cancer biologist and translational researcher at Mayo Clinic in Florida. Dr. Copland noted that approximately 2,500 Americans die per year from metastatic thyroid cancer disease.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading"><strong>A potential strategy beyond thyroid cancer</strong></h2>
-
-
-
-<p class="wp-block-paragraph">Although the study focused on thyroid cancer, the concept could have implications for other solid tumors where treatments use immune therapy that targets similar surface markers.</p>
-
-
-
-<p class="wp-block-paragraph">Researchers are completing studies needed to support phase 1 clinical trial testing of TSHR-targeted CAR-T cells. The therapy could be studied alone in patients whose tumors continue to express TSHR or in combination with MAPK inhibitors in patients whose tumors have lost TSHR expression.</p>
-
-
-
-<p class="wp-block-paragraph">The researchers hope the approach ultimately could lead to another treatment option for patients with cancers that no longer respond to available therapies. &nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">For a complete list of authors, disclosures and funding, read the <a href="https://link.springer.com/article/10.1186/s12943-026-02744-0" target="_blank" rel="noreferrer noopener">study</a>.</p>
-
-
-
-<p class="wp-block-paragraph">###</p>
-
-
-
-<p class="wp-block-paragraph"><strong>About Mayo Clinic</strong><br><a href="https://www.mayoclinic.org/about-mayo-clinic" target="_blank" rel="noreferrer noopener">Mayo Clinic</a> is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the <a href="https://newsnetwork.mayoclinic.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic News Network</a> for additional Mayo Clinic news.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Media contact:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Julie Ferris-Tillman, Ph.D., Mayo Clinic Communications, <a href="mailto:newsbureau@mayo.edu">newsbureau@mayo.edu</a></li>
-</ul>
-<p>The post <a href="https://newsnetwork.mayoclinic.org/discussion/study-shows-reprogramming-thyroid-tumors-may-improve-car-t-cell-therapy/">Study shows reprogramming thyroid tumors may improve CAR-T cell therapy</a> appeared first on <a href="https://newsnetwork.mayoclinic.org">Mayo Clinic News Network</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<mayoclinic:mcimg1x1>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003_1x1.jpg</mayoclinic:mcimg1x1>
-<mayoclinic:mcimg16x9>https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/09/WF5259875_0003_16x9.jpg</mayoclinic:mcimg16x9>
-<mayoclinic:mctag><!--[CDATA[#Newsapp]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[daily]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Claudia Manriquez Roman]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. John Copland]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Dr. Saad Kenderian]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[Minnesota News Releases]]--></mayoclinic:mctag><mayoclinic:mctag><!--[CDATA[News Releases]]--></mayoclinic:mctag>	</item>
 	</atom:link></channel>
 </rss>
