@@ -1129,18 +1129,74 @@
       "title": "Multi-Colored Sparkle",
       "description": "In Celebration of New Year's Eve",
       "colors": [
-        "#ffffff"
+        "#ff0000",
+        "#ffd700",
+        "#0000ff",
+        "#00ff00"
       ],
       "color_names": [
-        "white"
+        "red",
+        "gold",
+        "blue",
+        "green"
       ],
-      "frames": null,
-      "frame_names": null,
-      "pattern": "sparkle",
+      "frames": [
+        [
+          "#ff0000",
+          "#ffd700",
+          "#0000ff",
+          "#00ff00"
+        ],
+        [
+          "#ff00ff",
+          "#00ffff",
+          "#ffd700",
+          "#ff0000"
+        ],
+        [
+          "#0000ff",
+          "#ffffff",
+          "#ff00ff",
+          "#ffa500"
+        ],
+        [
+          "#ffbf00",
+          "#dc143c",
+          "#b57edc",
+          "#ff00bb"
+        ]
+      ],
+      "frame_names": [
+        [
+          "red",
+          "gold",
+          "blue",
+          "green"
+        ],
+        [
+          "magenta",
+          "cyan",
+          "gold",
+          "red"
+        ],
+        [
+          "blue",
+          "white",
+          "magenta",
+          "orange"
+        ],
+        [
+          "amber",
+          "crimson",
+          "lavender",
+          "pink"
+        ]
+      ],
+      "pattern": "rotating-sparkle",
       "signature": false,
       "celebrity_visit": false,
       "image": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/tlbg-4a631add39dea125-1793827981.jpg",
-      "needs_review": true
+      "needs_review": false
     }
   ]
 }
