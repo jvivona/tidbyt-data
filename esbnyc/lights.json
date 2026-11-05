@@ -118,21 +118,21 @@
     },
     {
       "date": "2026-11-10",
-      "title": "Signature White",
-      "description": "A crisp white illumination that highlights the tower’s iconic silhouette with timeless elegance",
+      "title": "Hot Pink",
+      "description": "In Celebration of the Release of Trisha Paytas’ Memoir “Crying on the Kitchen Floor” in Partnership with Grand Central Publishing of Hachette Book Group",
       "colors": [
-        "#ffffff"
+        "#ff00bb"
       ],
       "color_names": [
-        "white"
+        "pink"
       ],
       "frames": null,
       "frame_names": null,
       "pattern": "static",
-      "signature": true,
-      "celebrity_visit": false,
-      "image": null,
-      "needs_review": false
+      "signature": false,
+      "celebrity_visit": true,
+      "image": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/tlbg-971f4a4a0c42e4fc-1793900929.jpg",
+      "needs_review": true
     },
     {
       "date": "2026-11-11",
@@ -284,16 +284,14 @@
     },
     {
       "date": "2026-11-19",
-      "title": "Pink, Teal, Brown, and Gold",
+      "title": "Teal, Brown, and Gold",
       "description": "In Celebration of the Premiere of Hershey in Partnership with the Milton Hershey School",
       "colors": [
-        "#ff00bb",
         "#008888",
         "#a52a2a",
         "#ffd700"
       ],
       "color_names": [
-        "pink",
         "teal",
         "brown",
         "gold"
