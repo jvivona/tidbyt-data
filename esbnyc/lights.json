@@ -44,17 +44,23 @@
     },
     {
       "date": "2026-11-12",
-      "title": "Pink",
+      "title": "Rotation of Red, Yellow, Green and Blue",
       "description": "In Celebration of the 30th Anniversary of Lil' Kim’s Debut Album HARD CORE",
       "colors": [
-        "#ff00bb"
+        "#ff0000",
+        "#ffff00",
+        "#00ff00",
+        "#0000ff"
       ],
       "color_names": [
-        "pink"
+        "red",
+        "yellow",
+        "green",
+        "blue"
       ],
       "frames": null,
       "frame_names": null,
-      "pattern": "static",
+      "pattern": "rotating",
       "signature": false,
       "celebrity_visit": true,
       "image": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/2026-11/IMG_9710-3580331202-O%20%281%29.jpg",
