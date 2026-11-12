@@ -104,38 +104,38 @@
     },
     {
       "date": "2026-11-16",
-      "title": "Signature White",
-      "description": "A crisp white illumination that highlights the tower’s iconic silhouette with timeless elegance",
+      "title": "Red",
+      "description": "In Celebration of the New York Post's 225th Anniversary",
       "colors": [
-        "#ffffff"
+        "#ff0000"
       ],
       "color_names": [
-        "white"
+        "red"
       ],
       "frames": null,
       "frame_names": null,
       "pattern": "static",
-      "signature": true,
-      "celebrity_visit": false,
-      "image": null,
+      "signature": false,
+      "celebrity_visit": true,
+      "image": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/tlbg-aaa107b5d2cd5034-1794499262.jpg",
       "needs_review": false
     },
     {
       "date": "2026-11-17",
-      "title": "Signature White",
-      "description": "A crisp white illumination that highlights the tower’s iconic silhouette with timeless elegance",
+      "title": "Gold",
+      "description": "In Honor of Voyager’s Light Day in Partnership with NASA",
       "colors": [
-        "#ffffff"
+        "#ffd700"
       ],
       "color_names": [
-        "white"
+        "gold"
       ],
       "frames": null,
       "frame_names": null,
       "pattern": "static",
-      "signature": true,
-      "celebrity_visit": false,
-      "image": null,
+      "signature": false,
+      "celebrity_visit": true,
+      "image": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/tlbg-b79c379368866f53-1794498434.jpg",
       "needs_review": false
     },
     {
